@@ -9,11 +9,11 @@ If you've found this list, there's a great chance that it's meant for you. This 
 
 This list is not meant to be read in any particular order, but you can of course do so if you wish. I suggest you :eyes: watch, :star: star, and use your browser's find function (Ctrl+F or ⌘-F) as necessary for best results.
 
-### About the currator
+### About the curator
 
 My name is Paul Bradish. I first encountered digital marketing by way of search engine optimization (SEO) after learning HTML in the mid 90's. Years later it would become my career, and I've now been in the industry for over 15 years. I've been around long enough to see numererous influencers, resources, and services come and go. I've notched a few wins and I've made even more mistakes. This puts me in a position where I feel confident to share my findings with the community. A community that has enjoyed a reputation of being very open, sharing, and collaborative since the very beginning.
 
-### Ground Rules
+### Ground rules
 
 1. Personal and contributor recommendations only.
 2. Do your due dilligence.
@@ -31,11 +31,14 @@ If you have any questions, concerns, or are in need of guidance contact me at: _
 Now that that's out of the way... on to the list!
 
 
-## Contents (Alphabetical Order)
+## Contents (alphabetical order)
 
-  * Affiliates
-  * Chat Bots
+  * Affiliate Management
+  * [Customer Support](https://github.com/paulbradish/awesome-digital-marketing/edit/main/README.md#customer-support)
+     * [Chat bots](https://github.com/paulbradish/awesome-digital-marketing/edit/main/README.md#chat-bots)
+     * [Live chat](https://github.com/paulbradish/awesome-digital-marketing/edit/main/README.md#live-chat) 
   * [Data Analytics](https://github.com/paulbradish/awesome-digital-marketing/edit/main/README.md#data-analytics)
+     * [Data Analytics Services](https://github.com/paulbradish/awesome-digital-marketing/edit/main/README.md#services) 
   * Email Marketing
   * Lead Generation
   * Search Engine Optimization
@@ -44,35 +47,42 @@ Now that that's out of the way... on to the list!
   * Tag Management
   * Web Design & Development
 
-## Affiliates
+## Affiliate management
 
-## Chat Bots
+## Data analytics
 
-## Data Analytics
+__Data Analytics__ is the process of examining datasets to draw conclusions about the information they contain. Such analysis is often used by digital marketers to tell a story of the customer journey and to push data-driven marketing decisions surrounding content, features, and campaign efficacy.
 
-Data Analytics is the process of examining datasets to draw conclusions about the information they contain. Such analysis is often used by digital marketers to tell a story of the customer journey and to push data-driven marketing decisions surrounding content, features, and campaign efficacy.
-
-### Tools
-* Adobe Analytics
-* __[Google Analytics](https://analytics.google.com)__ - A web analytics service offered by Google that tracks and reports website traffic, currently as a platform inside the Google Marketing Platform brand. Google launched the service in November 2005 after acquiring Urchin.
-** UTM Tagging
-* Power BI
-* Tableau
+### Services
+* [Adobe Analytics](https://business.adobe.com/products/analytics/adobe-analytics.html) - Adobe Analytics lets you mix, match, and analyze data from any digital point in the customer journey. With in-depth analysis, versatile reporting, and predictive intelligence, you get the insightful foundation you need to build better customer experiences.
+* [Google Analytics](https://analytics.google.com) - A web analytics service offered by Google that tracks and reports website traffic, currently as a platform inside the Google Marketing Platform brand. Google launched the service in November 2005 after acquiring Urchin.
+   * [Campaign URL Builder](https://ga-dev-tools.web.app/campaign-url-builder/) - This tool allows you to easily add campaign parameters to URLs so you can measure Custom Campaigns in Google Analytics.
+* [Microsoft Power BI](https://powerbi.microsoft.com/en-us/) - Power BI is an interactive data visualization software product developed by Microsoft with a primary focus on business intelligence.
+* [Tableau](https://www.tableau.com/) - Helps users visualize and understand their data, transforming the way they use data to solve problems.
 
 ### Articles
 ### Certifications
 ### Resources
 
-## Email Marketing
+## Email marketing
 
-## Lead Generation
+## Lead generation
 
-## Search Engine Marketing (SEM)
+## Customer support
 
-## Search Engine Optimization (SEO)
+### Chat bots
+__Chat Bots__ are a type of software (typically SaaS) that can help customers by automating conversations and interact with them through messaging platforms. Platforms are based on workflows and may contain machine learning.
 
-## Social Media Management
+### Live chat
+__Live Chat__ is a form of web-based customer messaging that allows customers to speak directly with a company's representative.
+* [Live Chat](https://www.livechat.com/) - An online customer service software with online chat, help desk software, and web analytics capabilities.
 
-## Tag Management
+## Search engine marketing (SEM)
 
-## Web Design & Development
+## Search engine optimization (SEO)
+
+## Social media management
+
+## Tag management
+
+## Web design & development
