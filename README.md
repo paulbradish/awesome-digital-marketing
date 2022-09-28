@@ -1,5 +1,5 @@
-# Awesome Digital Marketing [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-__awesome-digital-marketing__ is an awesome list that curates best in class digital marketing blogs, guides, resources, scripts, services, software and more for today's digital marketing professional. This is not a fixed list. The intention is for it to be expanded upon and pruned often.
+![Awesome Digital Marketing](AwesomeDigitalMarketing-Hero.png)
+💎  __awesome-digital-marketing__ is an [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) list that curates best in class digital marketing blogs, guides, resources, scripts, services, software and more for today's digital marketing professional. This is not a fixed list. The intention is for it to be expanded upon and pruned often.
 
 ### Who is this list for?
 
@@ -31,7 +31,7 @@ If you have any questions, concerns, or are in need of guidance contact me at: _
 Now that that's out of the way... on to the list!
 
 
-## Contents (alphabetical order)
+## 📚 Table of Contents
 
   * Affiliate Management
   * [Customer Support](https://github.com/paulbradish/awesome-digital-marketing/edit/main/README.md#customer-support)
@@ -46,6 +46,8 @@ Now that that's out of the way... on to the list!
   * Social Media Management
   * Tag Management
   * Web Design & Development
+
+
 
 ## Affiliate management
 
