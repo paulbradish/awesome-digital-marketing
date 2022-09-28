@@ -1,4 +1,5 @@
-![Awesome Digital Marketing](/assets/AwesomeDigitalMarketing-Hero.png)
+![Awesome Digital Marketing](/assets/AwesomeDigitalMarketing-HeaderImage.png)
+  
 💎  __awesome-digital-marketing__ is an [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) list that curates best in class digital marketing blogs, guides, resources, scripts, services, software and more for today's digital marketing professional. This is not a fixed list. The intention is for it to be expanded upon and pruned often.
 
 ### Who is this list for?
