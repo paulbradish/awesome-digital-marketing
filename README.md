@@ -36,6 +36,7 @@ Now that that's out of the way... on to the list!
 # 📚 Table of Contents
 
   * Affiliate Management
+  * [Content Marketing](https://github.com/paulbradish/awesome-digital-marketing/edit/main/README.md#content-marketing)
   * [Customer Support](https://github.com/paulbradish/awesome-digital-marketing/edit/main/README.md#customer-support)
      * [Chat bots](https://github.com/paulbradish/awesome-digital-marketing/edit/main/README.md#chat-bots)
      * [Live chat](https://github.com/paulbradish/awesome-digital-marketing/edit/main/README.md#live-chat) 
@@ -64,6 +65,9 @@ Now that that's out of the way... on to the list!
 - - - -
   
 ## Affiliate management
+
+## Content Marketing
+* [Answer The Public](https://answerthepublic.com/) - Extracts autocomplete data from search engines like Google then quickly cranks out every useful phrase and question people are asking.
 
 ## Customer support
 
