@@ -44,13 +44,24 @@ Now that that's out of the way... on to the list!
   * Lead Generation
   * Search Engine Optimization
   * Search Engine Marketing
+  * [Skills Training](https://github.com/paulbradish/awesome-digital-marketing/edit/main/README.md#skills-training)
+     * [Online Courses](https://github.com/paulbradish/awesome-digital-marketing/edit/main/README.md#online-courses)
   * Social Media Management
-  * Tag Management
+  * [Tag Management](https://github.com/paulbradish/awesome-digital-marketing/edit/main/README.md#tag-management)
   * Web Design & Development
 
 
 
 ## Affiliate management
+
+## Customer support
+
+### Chat bots
+__Chat Bots__ are a type of software (typically SaaS) that can help customers by automating conversations and interact with them through messaging platforms. Platforms are based on workflows and may contain machine learning.
+
+### Live chat
+__Live Chat__ is a form of web-based customer messaging that allows customers to speak directly with a company's representative.
+* [Live Chat](https://www.livechat.com/) - An online customer service software with online chat, help desk software, and web analytics capabilities.
 
 ## Data analytics
 
@@ -63,29 +74,25 @@ __Data Analytics__ is the process of examining datasets to draw conclusions abou
 * [Microsoft Power BI](https://powerbi.microsoft.com/en-us/) - Power BI is an interactive data visualization software product developed by Microsoft with a primary focus on business intelligence.
 * [Tableau](https://www.tableau.com/) - Helps users visualize and understand their data, transforming the way they use data to solve problems.
 
-### Articles
-### Certifications
-### Resources
-
 ## Email marketing
-
 ## Lead generation
-
-## Customer support
-
-### Chat bots
-__Chat Bots__ are a type of software (typically SaaS) that can help customers by automating conversations and interact with them through messaging platforms. Platforms are based on workflows and may contain machine learning.
-
-### Live chat
-__Live Chat__ is a form of web-based customer messaging that allows customers to speak directly with a company's representative.
-* [Live Chat](https://www.livechat.com/) - An online customer service software with online chat, help desk software, and web analytics capabilities.
-
 ## Search engine marketing (SEM)
-
 ## Search engine optimization (SEO)
-
+## Skills training
+### Online courses
+* [Coursera](https://www.coursera.org/) - Learn in-demand skills like SEO, SEM, email, content marketing, product promotion and more. Build in-demand marketing skills & get job-ready for entry-level roles in 6 months or less. 🧂
+* [Skillshare](https://www.skillshare.com/) - Skillshare is an online learning platform with thousands of creative courses and classes taught by experts to help you learn new skills.
+* [Udemy](https://www.udemy.com/) - A leading destination for online courses that empowers you to grow professionally and personally.
 ## Social media management
-
 ## Tag management
-
+__Tag Management Systems__ help to manage the lifecycle of digital marketing tags, used to track activity on digital properties, such as websites and web applications. These are especially useful because they allow you do bypass having pull in developers and agencies when you want to add or modify a 3rd party snippet or tag.
+* [Adobe Experience Platform Launch](https://business.adobe.com/products/experience-platform/launch.html) - A next-generation tag management system that unifies your marketing ecosystem. It breaks down silos and bottlenecks by connecting disparate technologies so you can deliver standout digital experiences.
+* [Google Tag Manager](https://tagmanager.google.com/) - Allows you to quickly and easily update measurement codes and related code fragments collectively known as tags on your website or mobile app.
+* [Tealium](https://tealium.com/) - Tealium iQ enables you to manage tags across all digital touch points, including web sites, mobile apps and online videos all from the same intuitive user interface.
 ## Web design & development
+  
+### Finally...
+
+I hope this list helps point you in the right direction, but I cannot stress this enough: ___don't take it (or anything you read online) verbatim.___ Use it as a resource only and do your own research. When vetting services and software especially, using an [evaluation matrix](https://www.google.com/search?q=evaluation+matrix) is an effective way verify that you're making the right choice.
+
+If you do find this awesome list useful, please share it with others! ☮️
