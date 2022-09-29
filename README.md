@@ -35,7 +35,8 @@ Now that that's out of the way... on to the list!
   
 # 📚 Table of Contents
 
-  * Affiliate Management
+  * [Affiliate Management](https://github.com/paulbradish/awesome-digital-marketing/edit/main/README.md#affiliate-management)
+     * [Affiliate Management Services](https://github.com/paulbradish/awesome-digital-marketing/edit/main/README.md#affiliate-management-services) 
   * [Content Marketing](https://github.com/paulbradish/awesome-digital-marketing/edit/main/README.md#content-marketing)
   * [Customer Support](https://github.com/paulbradish/awesome-digital-marketing/edit/main/README.md#customer-support)
      * [Chat bots](https://github.com/paulbradish/awesome-digital-marketing/edit/main/README.md#chat-bots)
@@ -65,8 +66,10 @@ Now that that's out of the way... on to the list!
 - - - -
   
 ## Affiliate management
-
-## Content Marketing
+__Affiliate Management__ is the act of recruiting new affiliates (or partners) into your program, manage the onboarding process, and ensuring that their audiences are aligned with your target market.
+### Affiliate management services
+* [PartnerStack](https://partnerstack.com/) - Helps you recruit, engage, and scale your entire ecosystem of partners — from affiliates to referral and reseller partners.
+## Content marketing
 * [Answer The Public](https://answerthepublic.com/) - Extracts autocomplete data from search engines like Google then quickly cranks out every useful phrase and question people are asking.
 
 ## Customer support
