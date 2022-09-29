@@ -30,18 +30,21 @@ If you have any questions, concerns, or are in need of guidance contact me at: _
 > Want to retain my digital marketing services? Reach out to my employer at [Emergent Software](https://www.emergentsoftware.net/contact/).
 
 Now that that's out of the way... on to the list!
-
-
-## 📚 Table of Contents
+  
+- - - -
+  
+# 📚 Table of Contents
 
   * Affiliate Management
   * [Customer Support](https://github.com/paulbradish/awesome-digital-marketing/edit/main/README.md#customer-support)
      * [Chat bots](https://github.com/paulbradish/awesome-digital-marketing/edit/main/README.md#chat-bots)
      * [Live chat](https://github.com/paulbradish/awesome-digital-marketing/edit/main/README.md#live-chat) 
   * [Data Analytics](https://github.com/paulbradish/awesome-digital-marketing/edit/main/README.md#data-analytics)
-     * [Data Analytics Services](https://github.com/paulbradish/awesome-digital-marketing/edit/main/README.md#services) 
+     * [Data Analytics Resources](https://github.com/paulbradish/awesome-digital-marketing/edit/main/README.md#data-analytics-resources) 
+     * [Data Analytics Services](https://github.com/paulbradish/awesome-digital-marketing/edit/main/README.md#data-analytics-services) 
   * Email Marketing
   * Lead Generation
+  * [Market Research](https://github.com/paulbradish/awesome-digital-marketing/edit/main/README.md#market-research)
   * Search Engine Optimization
   * Search Engine Marketing
   * [Skills Training](https://github.com/paulbradish/awesome-digital-marketing/edit/main/README.md#skills-training)
@@ -50,8 +53,16 @@ Now that that's out of the way... on to the list!
   * [Tag Management](https://github.com/paulbradish/awesome-digital-marketing/edit/main/README.md#tag-management)
   * Web Design & Development
 
-
-
+### Planned Additions
+  * A/B Testing
+  * Conversion Rate Optimization (CRO)
+  * Customer Relationship Management (CRM)
+  * QR Codes
+  * Stock Photography
+  * Task Managers
+  
+- - - -
+  
 ## Affiliate management
 
 ## Customer support
@@ -66,8 +77,9 @@ __Live Chat__ is a form of web-based customer messaging that allows customers to
 ## Data analytics
 
 __Data Analytics__ is the process of examining datasets to draw conclusions about the information they contain. Such analysis is often used by digital marketers to tell a story of the customer journey and to push data-driven marketing decisions surrounding content, features, and campaign efficacy.
-
-### Services
+### Data analytics resources
+* [Occam's Razor](https://www.kaushik.net/avinash/) - Web analytics blog authored by longtime digital marketing evangelist @google, Avinash Kaushik.
+### Data analytics services
 * [Adobe Analytics](https://business.adobe.com/products/analytics/adobe-analytics.html) - Adobe Analytics lets you mix, match, and analyze data from any digital point in the customer journey. With in-depth analysis, versatile reporting, and predictive intelligence, you get the insightful foundation you need to build better customer experiences.
 * [Google Analytics](https://analytics.google.com) - A web analytics service offered by Google that tracks and reports website traffic, currently as a platform inside the Google Marketing Platform brand. Google launched the service in November 2005 after acquiring Urchin.
    * [Campaign URL Builder](https://ga-dev-tools.web.app/campaign-url-builder/) - This tool allows you to easily add campaign parameters to URLs so you can measure Custom Campaigns in Google Analytics.
@@ -76,6 +88,9 @@ __Data Analytics__ is the process of examining datasets to draw conclusions abou
 
 ## Email marketing
 ## Lead generation
+## Market research
+* [Google Trends](https://trends.google.com/trends/) - A free service that analyzes the popularity of top search queries in Google Search across various regions and languages.
+* [Similarweb](https://www.similarweb.com/) - All in one Website analytics competitive traffic intelligence platform. Often used to compare website traffic and performance, analyze strategies & market share acquisition.
 ## Search engine marketing (SEM)
 ## Search engine optimization (SEO)
 ## Skills training
@@ -90,6 +105,8 @@ __Tag Management Systems__ help to manage the lifecycle of digital marketing tag
 * [Google Tag Manager](https://tagmanager.google.com/) - Allows you to quickly and easily update measurement codes and related code fragments collectively known as tags on your website or mobile app.
 * [Tealium](https://tealium.com/) - Tealium iQ enables you to manage tags across all digital touch points, including web sites, mobile apps and online videos all from the same intuitive user interface.
 ## Web design & development
+  
+- - - -
   
 ### Finally...
 
