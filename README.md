@@ -42,12 +42,14 @@ Now that that's out of the way... on to the list!
      * [Chat bots](https://github.com/paulbradish/awesome-digital-marketing/#chat-bots)
      * [Live chat](https://github.com/paulbradish/awesome-digital-marketing/#live-chat) 
   * [Data Analytics](https://github.com/paulbradish/awesome-digital-marketing/#data-analytics)
-     * [Data Analytics Resources](https://github.com/paulbradish/awesome-digital-marketing/#data-analytics-resources) 
-     * [Data Analytics Services](https://github.com/paulbradish/awesome-digital-marketing/#data-analytics-services) 
+     * [Analytics Resources](https://github.com/paulbradish/awesome-digital-marketing/#analytics-resources) 
+     * [Analytics Services](https://github.com/paulbradish/awesome-digital-marketing/#analytics-services)
+     * [Custom Dashboards](https://github.com/paulbradish/awesome-digital-marketing/#custom-dashboards)
   * Email Marketing
   * Lead Generation
   * [Market Research](https://github.com/paulbradish/awesome-digital-marketing/#market-research)
-  * Search Engine Optimization
+  * Search Engine Optimization(https://github.com/paulbradish/awesome-digital-marketing/#search-engine-optimization-seo)
+    * SEO Tools(https://github.com/paulbradish/awesome-digital-marketing/#seo-tools) 
   * Search Engine Marketing
   * [Skills Training](https://github.com/paulbradish/awesome-digital-marketing/#skills-training)
      * [Online Courses](https://github.com/paulbradish/awesome-digital-marketing/#online-courses)
@@ -84,15 +86,22 @@ __Live Chat__ is a form of web-based customer messaging that allows customers to
 ## Data analytics
 
 __Data Analytics__ is the process of examining datasets to draw conclusions about the information they contain. Such analysis is often used by digital marketers to tell a story of the customer journey and to push data-driven marketing decisions surrounding content, features, and campaign efficacy.
-### Data analytics resources
+### Analytics resources
 * [Occam's Razor](https://www.kaushik.net/avinash/) - Web analytics blog authored by longtime digital marketing evangelist @google, Avinash Kaushik.
-### Data analytics services
+### Analytics services
 * [Adobe Analytics](https://business.adobe.com/products/analytics/adobe-analytics.html) - Adobe Analytics lets you mix, match, and analyze data from any digital point in the customer journey. With in-depth analysis, versatile reporting, and predictive intelligence, you get the insightful foundation you need to build better customer experiences.
 * [Google Analytics](https://analytics.google.com) - A web analytics service offered by Google that tracks and reports website traffic, currently as a platform inside the Google Marketing Platform brand. Google launched the service in November 2005 after acquiring Urchin.
    * [Campaign URL Builder](https://ga-dev-tools.web.app/campaign-url-builder/) - This tool allows you to easily add campaign parameters to URLs so you can measure Custom Campaigns in Google Analytics.
 * [Microsoft Power BI](https://powerbi.microsoft.com/en-us/) - Power BI is an interactive data visualization software product developed by Microsoft with a primary focus on business intelligence.
 * [Tableau](https://www.tableau.com/) - Helps users visualize and understand their data, transforming the way they use data to solve problems.
-
+### Custom dashboards
+It can take hours to pull together manual reports when collecting data from a multitude of sources such as Google Analytics, Facebook Insights, and custom CSV files 😱. This is where custom dashboards come into play. These dashboards (usually SaaS with a monthly/yearly sub) help eliminate the manual work by integrating most or all of your data connections together, allowing you to create and automate beautiful looking, KPI tailored dashboards and reports with minimal effort.
+* [Agency Analytics](https://agencyanalytics.com/) - Monitor all of your client's marketing channels in one seamless dashboard. All fully branded for your agency. Give clients access to the interface or app as if you built the platform in-house.
+* [Dash This](https://dashthis.com/) - An automated marketing reporting tool created to help marketers save hours of manual work by integrating numerous APIs into one customized web analytics dashboard.
+* [Databox](https://databox.com/) - Connect all of your data in one place, visualize performance trends, monitor progress toward your goals, make more informed decisions, collaborate and report as you go with custom views and deep-dives for each function in your organization. 
+* [Geckoboard](https://www.geckoboard.com/) - No hassle professional KPI dashboards. Features over 80 integrations that you can build into a real-time dashboard.
+* [Google Data Studio](https://datastudio.withgoogle.com/) - Unlock the power of your data with interactive dashboards and automated reports that inspire smarter business decisions.
+* [Klipfolio](https://www.klipfolio.com/) - From custom dashboards and reports to self-serve exploration and analysis, this SaaS helps you centralize data and gives you the power to make decisions with confidence.
 ## Email marketing
 ## Lead generation
 ## Market research
@@ -100,6 +109,8 @@ __Data Analytics__ is the process of examining datasets to draw conclusions abou
 * [Similarweb](https://www.similarweb.com/) - All in one Website analytics competitive traffic intelligence platform. Often used to compare website traffic and performance, analyze strategies & market share acquisition.
 ## Search engine marketing (SEM)
 ## Search engine optimization (SEO)
+### SEO tools
+* [ScrapeBox](https://www.scrapebox.com/) - Described by many users as the Swiss Army Knife of SEO. Don't let the dated UI fool you, people are still finding innovative new uses for ScrapeBox to help with their SEO efforts.
 ## Skills training
 ### Online courses
 * [Coursera](https://www.coursera.org/) - Learn in-demand skills like SEO, SEM, email, content marketing, product promotion and more. Build in-demand marketing skills & get job-ready for entry-level roles in 6 months or less. 🧂
