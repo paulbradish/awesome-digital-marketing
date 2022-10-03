@@ -35,24 +35,24 @@ Now that that's out of the way... on to the list!
   
 # 📚 Table of Contents
 
-  * [Affiliate Management](https://github.com/paulbradish/awesome-digital-marketing/edit/main/README.md#affiliate-management)
-     * [Affiliate Management Services](https://github.com/paulbradish/awesome-digital-marketing/edit/main/README.md#affiliate-management-services) 
-  * [Content Marketing](https://github.com/paulbradish/awesome-digital-marketing/edit/main/README.md#content-marketing)
-  * [Customer Support](https://github.com/paulbradish/awesome-digital-marketing/edit/main/README.md#customer-support)
-     * [Chat bots](https://github.com/paulbradish/awesome-digital-marketing/edit/main/README.md#chat-bots)
-     * [Live chat](https://github.com/paulbradish/awesome-digital-marketing/edit/main/README.md#live-chat) 
-  * [Data Analytics](https://github.com/paulbradish/awesome-digital-marketing/edit/main/README.md#data-analytics)
-     * [Data Analytics Resources](https://github.com/paulbradish/awesome-digital-marketing/edit/main/README.md#data-analytics-resources) 
-     * [Data Analytics Services](https://github.com/paulbradish/awesome-digital-marketing/edit/main/README.md#data-analytics-services) 
+  * [Affiliate Management](https://github.com/paulbradish/awesome-digital-marketing/#affiliate-management)
+     * [Affiliate Management Services](https://github.com/paulbradish/awesome-digital-marketing/#affiliate-management-services) 
+  * [Content Marketing](https://github.com/paulbradish/awesome-digital-marketing/#content-marketing)
+  * [Customer Support](https://github.com/paulbradish/awesome-digital-marketing/#customer-support)
+     * [Chat bots](https://github.com/paulbradish/awesome-digital-marketing/#chat-bots)
+     * [Live chat](https://github.com/paulbradish/awesome-digital-marketing/#live-chat) 
+  * [Data Analytics](https://github.com/paulbradish/awesome-digital-marketing/#data-analytics)
+     * [Data Analytics Resources](https://github.com/paulbradish/awesome-digital-marketing/#data-analytics-resources) 
+     * [Data Analytics Services](https://github.com/paulbradish/awesome-digital-marketing/#data-analytics-services) 
   * Email Marketing
   * Lead Generation
-  * [Market Research](https://github.com/paulbradish/awesome-digital-marketing/edit/main/README.md#market-research)
+  * [Market Research](https://github.com/paulbradish/awesome-digital-marketing/#market-research)
   * Search Engine Optimization
   * Search Engine Marketing
-  * [Skills Training](https://github.com/paulbradish/awesome-digital-marketing/edit/main/README.md#skills-training)
-     * [Online Courses](https://github.com/paulbradish/awesome-digital-marketing/edit/main/README.md#online-courses)
+  * [Skills Training](https://github.com/paulbradish/awesome-digital-marketing/#skills-training)
+     * [Online Courses](https://github.com/paulbradish/awesome-digital-marketing/#online-courses)
   * Social Media Management
-  * [Tag Management](https://github.com/paulbradish/awesome-digital-marketing/edit/main/README.md#tag-management)
+  * [Tag Management](https://github.com/paulbradish/awesome-digital-marketing/#tag-management)
   * Web Design & Development
 
 ### Planned Additions
