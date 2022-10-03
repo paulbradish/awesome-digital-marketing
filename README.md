@@ -48,8 +48,9 @@ Now that that's out of the way... on to the list!
   * Email Marketing
   * Lead Generation
   * [Market Research](https://github.com/paulbradish/awesome-digital-marketing/#market-research)
-  * Search Engine Optimization(https://github.com/paulbradish/awesome-digital-marketing/#search-engine-optimization-seo)
-    * SEO Tools(https://github.com/paulbradish/awesome-digital-marketing/#seo-tools) 
+  * [Search Engine Optimization](https://github.com/paulbradish/awesome-digital-marketing/#search-engine-optimization-seo)
+      * [SEO Software Desktop](https://github.com/paulbradish/awesome-digital-marketing/#seo-software-desktop)
+      * [SEO Software SaaS](https://github.com/paulbradish/awesome-digital-marketing/#seo-software-saas)    
   * Search Engine Marketing
   * [Skills Training](https://github.com/paulbradish/awesome-digital-marketing/#skills-training)
      * [Online Courses](https://github.com/paulbradish/awesome-digital-marketing/#online-courses)
@@ -109,8 +110,12 @@ It can take hours to pull together manual reports when collecting data from a mu
 * [Similarweb](https://www.similarweb.com/) - All in one Website analytics competitive traffic intelligence platform. Often used to compare website traffic and performance, analyze strategies & market share acquisition.
 ## Search engine marketing (SEM)
 ## Search engine optimization (SEO)
-### SEO tools
+__Search Engine Optimization__ is the process of improving the quality and quantity of organic traffic to a website or page from search engines such as Google & Bing. SEO specifically targets "unpaid" traffic from SERPs (search engine result pages) rather than direct, paid, social or referral sources.
+### SEO software (Desktop)
+* [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) - A website crawler that helps you improve onsite SEO, by extracting data & auditing for common SEO issues.
 * [ScrapeBox](https://www.scrapebox.com/) - Described by many users as the Swiss Army Knife of SEO. Don't let the dated UI fool you, people are still finding innovative new uses for ScrapeBox to help with their SEO efforts.
+### SEO software (SaaS)
+* [Moz](https://moz.com/) - Best-in-class SEO software for nearly every situation, from all-in-one SEO platform to tools for local SEO, enterprise SERP analytics, and a powerful API.
 ## Skills training
 ### Online courses
 * [Coursera](https://www.coursera.org/) - Learn in-demand skills like SEO, SEM, email, content marketing, product promotion and more. Build in-demand marketing skills & get job-ready for entry-level roles in 6 months or less. 🧂
