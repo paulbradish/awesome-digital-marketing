@@ -1,4 +1,8 @@
+
 ![Awesome Digital Marketing](/assets/AwesomeDigitalMarketing-HeaderImage.png)
+<p align="center">
+<sup>Curated by Paul Bradish <a href="https://www.linkedin.com/in/paulbradish/">LinkedIn</a> | <a href="https://twitter.com/paul_bradish">Twitter</a></sup>
+</p>
   
 💎  __awesome-digital-marketing__ is an [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) list that curates best in class digital marketing blogs, guides, resources, scripts, services, software and more for today's digital marketing professional. This is not a fixed list. The intention is for it to be expanded upon and pruned often.
 
