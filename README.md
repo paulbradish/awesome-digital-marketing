@@ -38,6 +38,8 @@ Now that that's out of the way... on to the list!
   * [Affiliate Management](https://github.com/paulbradish/awesome-digital-marketing/#affiliate-management)
      * [Affiliate Management Services](https://github.com/paulbradish/awesome-digital-marketing/#affiliate-management-services) 
   * [Content Marketing](https://github.com/paulbradish/awesome-digital-marketing/#content-marketing)
+     * [Content Research](https://github.com/paulbradish/awesome-digital-marketing/#research)  
+     * [Content Writing](https://github.com/paulbradish/awesome-digital-marketing/#writing)  
   * [Customer Support](https://github.com/paulbradish/awesome-digital-marketing/#customer-support)
      * [Chat bots](https://github.com/paulbradish/awesome-digital-marketing/#chat-bots)
      * [Live chat](https://github.com/paulbradish/awesome-digital-marketing/#live-chat) 
@@ -56,7 +58,8 @@ Now that that's out of the way... on to the list!
   * Search Engine Marketing
   * [Skills Training](https://github.com/paulbradish/awesome-digital-marketing/#skills-training)
      * [Online Courses](https://github.com/paulbradish/awesome-digital-marketing/#online-courses)
-  * Social Media Management
+  * [Social Media Marketing (SMM)](https://github.com/paulbradish/awesome-digital-marketing/#social-media-marketing-smm)
+     * [Social Networks & Communities](https://github.com/paulbradish/awesome-digital-marketing/#networks--communities)
   * [Tag Management](https://github.com/paulbradish/awesome-digital-marketing/#tag-management)
   * Web Design & Development
 
@@ -64,9 +67,11 @@ Now that that's out of the way... on to the list!
   * A/B Testing
   * Conversion Rate Optimization (CRO)
   * Customer Relationship Management (CRM)
+  * Domain Name Valuation
   * QR Codes
   * Stock Photography
   * Task Managers
+  * URL Shorteners
   
 - - - -
   
@@ -75,7 +80,11 @@ __Affiliate Management__ is the act of recruiting new affiliates (or partners) i
 ### Affiliate management services
 * [PartnerStack](https://partnerstack.com/) - Helps you recruit, engage, and scale your entire ecosystem of partners — from affiliates to referral and reseller partners.
 ## Content marketing
+### Research
+* [Also Asked](https://alsoasked.com/) - A great tool for getting to grips with the breadth of topical research. It unearths troves of data, in an effective and easy to use way.
 * [Answer The Public](https://answerthepublic.com/) - Extracts autocomplete data from search engines like Google then quickly cranks out every useful phrase and question people are asking.
+### Writing
+* [Capitalize My Title](https://capitalizemytitle.com/) - Makes title capitalization easy. Automatically capitalize and case convert to Title Case (in AP, APA, Chicago, MLA, BB, AMA), sentence case, UPPERCASE, lowercase, and more.
 
 ## Customer support
 
@@ -90,7 +99,9 @@ __Live Chat__ is a form of web-based customer messaging that allows customers to
 
 __Data Analytics__ is the process of examining datasets to draw conclusions about the information they contain. Such analysis is often used by digital marketers to tell a story of the customer journey and to push data-driven marketing decisions surrounding content, features, and campaign efficacy.
 ### Analytics resources
+* [Cross Validated](https://stats.stackexchange.com/) - A question and answer site for people interested in statistics, machine learning, data analysis, data mining, and data visualization.
 * [Occam's Razor](https://www.kaushik.net/avinash/) - Web analytics blog authored by longtime digital marketing evangelist @google, Avinash Kaushik.
+* [r/Analytics](https://www.reddit.com/r/analytics/) - Dedicated to web analytics, data and business analytics. A great subreddit to discuss analysis of data, learning of skills and implementation of web analytics.
 ### Analytics services
 * [Adobe Analytics](https://business.adobe.com/products/analytics/adobe-analytics.html) - Adobe Analytics lets you mix, match, and analyze data from any digital point in the customer journey. With in-depth analysis, versatile reporting, and predictive intelligence, you get the insightful foundation you need to build better customer experiences.
 * [Google Analytics](https://analytics.google.com) - A web analytics service offered by Google that tracks and reports website traffic, currently as a platform inside the Google Marketing Platform brand. Google launched the service in November 2005 after acquiring Urchin.
@@ -133,7 +144,16 @@ Google has a long history of famous (an infamous) algorithm updates, search inde
 * [Coursera](https://www.coursera.org/) - Learn in-demand skills like SEO, SEM, email, content marketing, product promotion and more. Build in-demand marketing skills & get job-ready for entry-level roles in 6 months or less. 🧂
 * [Skillshare](https://www.skillshare.com/) - Skillshare is an online learning platform with thousands of creative courses and classes taught by experts to help you learn new skills.
 * [Udemy](https://www.udemy.com/) - A leading destination for online courses that empowers you to grow professionally and personally.
-## Social media management
+
+## Social media marketing (SMM)
+### Networks & communities
+__Social Media Networks & Communities__ geared towards the digital marketer. I'm leaving a number of them off as there are communities everywhere (even on Facebook), in favor of those that are more consistent.
+* [LinkedIn](https://www.linkedin.com/) - Manage your professional identity. Build and engage with your professional network. Access knowledge, insights and opportunities.
+* [Quora](https://www.quora.com/) - A place to gain and share knowledge. It's a platform to ask questions and connect with people who contribute unique insights and quality answers.
+* [Reddit](https://www.reddit.com/) - A network of communities where people can dive into their interests, hobbies and passions. There&#x27;s a community for whatever you're interested in on Reddit.
+* [Stack Overflow](https://stackoverflow.com/) - The largest, most trusted online community for developers. This can be a great resource for technical digital marketing and SEO questions. I know that I've ended up here more than a few times.
+* [Twitter](https://twitter.com/) - The (un)official digital marketing community hangout.
+
 ## Tag management
 __Tag Management Systems__ help to manage the lifecycle of digital marketing tags, used to track activity on digital properties, such as websites and web applications. These are especially useful because they allow you do bypass having pull in developers and agencies when you want to add or modify a 3rd party snippet or tag.
 * [Adobe Experience Platform Launch](https://business.adobe.com/products/experience-platform/launch.html) - A next-generation tag management system that unifies your marketing ecosystem. It breaks down silos and bottlenecks by connecting disparate technologies so you can deliver standout digital experiences.
