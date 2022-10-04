@@ -2,19 +2,19 @@
   
 💎  __awesome-digital-marketing__ is an [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) list that curates best in class digital marketing blogs, guides, resources, scripts, services, software and more for today's digital marketing professional. This is not a fixed list. The intention is for it to be expanded upon and pruned often.
 
-### Who is this list for?
+### Who Is This List For?
 
 If you've found this list, there's a great chance that it's meant for you. This list was created as a means to cut through the noise (and hype) that we marketers often face when vetting new resources and services. I use the term "marketers" loosely, as I believe that we should all be striving to market ourselves at the very least, regardless of profession.
 
-### How to use this list
+### How To Use This List
 
 This list is not meant to be read in any particular order, but you can of course do so if you wish. I suggest you :eyes: watch, :star: star, and use your browser's find function (Ctrl+F or ⌘-F) as necessary for best results.
 
-### About the curator
+### About the Curator
 
 My name is Paul Bradish. I first encountered digital marketing by way of search engine optimization (SEO) after learning HTML in the mid 90's. Years later it would become my career, and I've now been in the industry for over 15 years. I've been around long enough to see numererous influencers, resources, and services come and go. I've notched a few wins and I've made even more mistakes. This puts me in a position where I feel confident to share my findings with the community. A community that has enjoyed a reputation of being very open, sharing, and collaborative since the very beginning.
 
-### Ground rules
+### Ground Rules
 
 1. Personal and contributor recommendations only.
 2. Do your due dilligence.
@@ -36,73 +36,77 @@ Now that that's out of the way... on to the list!
 # 📚 Table of Contents
 
   * [Affiliate Management](https://github.com/paulbradish/awesome-digital-marketing/#affiliate-management)
-     * [Affiliate Management Services](https://github.com/paulbradish/awesome-digital-marketing/#affiliate-management-services) 
+     * [Management Services](https://github.com/paulbradish/awesome-digital-marketing/#affiliate-management-services) 
   * [Content Marketing](https://github.com/paulbradish/awesome-digital-marketing/#content-marketing)
-     * [Content Research](https://github.com/paulbradish/awesome-digital-marketing/#research)  
-     * [Content Writing](https://github.com/paulbradish/awesome-digital-marketing/#writing)  
+     * [Content Research](https://github.com/paulbradish/awesome-digital-marketing/#content-research)  
+     * [Content Writing](https://github.com/paulbradish/awesome-digital-marketing/#content-writing)  
   * [Customer Support](https://github.com/paulbradish/awesome-digital-marketing/#customer-support)
-     * [Chat bots](https://github.com/paulbradish/awesome-digital-marketing/#chat-bots)
-     * [Live chat](https://github.com/paulbradish/awesome-digital-marketing/#live-chat) 
+     * [Chat Bots](https://github.com/paulbradish/awesome-digital-marketing/#chat-bots)
+     * [Live Chat](https://github.com/paulbradish/awesome-digital-marketing/#live-chat) 
   * [Data Analytics](https://github.com/paulbradish/awesome-digital-marketing/#data-analytics)
      * [Analytics Resources](https://github.com/paulbradish/awesome-digital-marketing/#analytics-resources) 
      * [Analytics Services](https://github.com/paulbradish/awesome-digital-marketing/#analytics-services)
      * [Custom Dashboards](https://github.com/paulbradish/awesome-digital-marketing/#custom-dashboards)
-  * Email Marketing
-  * Lead Generation
   * [Market Research](https://github.com/paulbradish/awesome-digital-marketing/#market-research)
-  * [Search Engine Optimization](https://github.com/paulbradish/awesome-digital-marketing/#search-engine-optimization-seo)
-      * [Resources](https://github.com/paulbradish/awesome-digital-marketing/#seo-resources)
+  * [Search Engine Optimization (SEO)](https://github.com/paulbradish/awesome-digital-marketing/#search-engine-optimization-seo)
+      * [SEO Resources](https://github.com/paulbradish/awesome-digital-marketing/#seo-resources)
          * [Algorithm History](https://github.com/paulbradish/awesome-digital-marketing/#algorithm-history) 
-      * [Software (Desktop)](https://github.com/paulbradish/awesome-digital-marketing/#seo-software-desktop)
-      * [Software (SaaS)](https://github.com/paulbradish/awesome-digital-marketing/#seo-software-saas)    
-  * Search Engine Marketing
+         * [SERP Volitility](https://github.com/paulbradish/awesome-digital-marketing/#serp-volitility) 
+      * [SEO Software (Desktop)](https://github.com/paulbradish/awesome-digital-marketing/#seo-software-desktop)
+      * [SEO Software (SaaS)](https://github.com/paulbradish/awesome-digital-marketing/#seo-software-saas)    
   * [Skills Training](https://github.com/paulbradish/awesome-digital-marketing/#skills-training)
      * [Online Courses](https://github.com/paulbradish/awesome-digital-marketing/#online-courses)
   * [Social Media Marketing (SMM)](https://github.com/paulbradish/awesome-digital-marketing/#social-media-marketing-smm)
      * [Social Networks & Communities](https://github.com/paulbradish/awesome-digital-marketing/#networks--communities)
   * [Tag Management](https://github.com/paulbradish/awesome-digital-marketing/#tag-management)
-  * Web Design & Development
 
 ### Planned Additions
   * A/B Testing
   * Conversion Rate Optimization (CRO)
   * Customer Relationship Management (CRM)
   * Domain Name Valuation
+  * Email Marketing
+  * Lead Generation
+  * Programming Languages
   * QR Codes
+  * Schema Markup
+  * Search Engine Marketing (SEM)
+  * Sitemaps
   * Stock Photography
   * Task Managers
   * URL Shorteners
+  * Web Design & Development
   
 - - - -
   
-## Affiliate management
+## Affiliate Management
 __Affiliate Management__ is the act of recruiting new affiliates (or partners) into your program, manage the onboarding process, and ensuring that their audiences are aligned with your target market.
-### Affiliate management services
+### Affiliate Management Services
 * [PartnerStack](https://partnerstack.com/) - Helps you recruit, engage, and scale your entire ecosystem of partners — from affiliates to referral and reseller partners.
-## Content marketing
-### Research
+## Content Marketing
+### Content Research
 * [Also Asked](https://alsoasked.com/) - A great tool for getting to grips with the breadth of topical research. It unearths troves of data, in an effective and easy to use way.
 * [Answer The Public](https://answerthepublic.com/) - Extracts autocomplete data from search engines like Google then quickly cranks out every useful phrase and question people are asking.
-### Writing
+### Content Writing
 * [Capitalize My Title](https://capitalizemytitle.com/) - Makes title capitalization easy. Automatically capitalize and case convert to Title Case (in AP, APA, Chicago, MLA, BB, AMA), sentence case, UPPERCASE, lowercase, and more.
 
-## Customer support
-
-### Chat bots
+## Customer Support
+Improve conversions and user experience with __Customer Support__ baked into your website.
+### Chat Bots
 __Chat Bots__ are a type of software (typically SaaS) that can help customers by automating conversations and interact with them through messaging platforms. Platforms are based on workflows and may contain machine learning.
 
-### Live chat
+### Live Chat
 __Live Chat__ is a form of web-based customer messaging that allows customers to speak directly with a company's representative.
 * [Live Chat](https://www.livechat.com/) - An online customer service software with online chat, help desk software, and web analytics capabilities.
 
-## Data analytics
+## Data Analytics
 
 __Data Analytics__ is the process of examining datasets to draw conclusions about the information they contain. Such analysis is often used by digital marketers to tell a story of the customer journey and to push data-driven marketing decisions surrounding content, features, and campaign efficacy.
-### Analytics resources
+### Analytics Resources
 * [Cross Validated](https://stats.stackexchange.com/) - A question and answer site for people interested in statistics, machine learning, data analysis, data mining, and data visualization.
 * [Occam's Razor](https://www.kaushik.net/avinash/) - Web analytics blog authored by longtime digital marketing evangelist @google, Avinash Kaushik.
 * [r/Analytics](https://www.reddit.com/r/analytics/) - Dedicated to web analytics, data and business analytics. A great subreddit to discuss analysis of data, learning of skills and implementation of web analytics.
-### Analytics services
+### Analytics Services
 * [Adobe Analytics](https://business.adobe.com/products/analytics/adobe-analytics.html) - Adobe Analytics lets you mix, match, and analyze data from any digital point in the customer journey. With in-depth analysis, versatile reporting, and predictive intelligence, you get the insightful foundation you need to build better customer experiences.
 * [Google Analytics](https://analytics.google.com) - A web analytics service offered by Google that tracks and reports website traffic, currently as a platform inside the Google Marketing Platform brand. Google launched the service in November 2005 after acquiring Urchin.
    * [Campaign URL Builder](https://ga-dev-tools.web.app/campaign-url-builder/) - This tool allows you to easily add campaign parameters to URLs so you can measure Custom Campaigns in Google Analytics.
@@ -111,7 +115,7 @@ __Data Analytics__ is the process of examining datasets to draw conclusions abou
 * [Tableau](https://www.tableau.com/) - Helps users visualize and understand their data, transforming the way they use data to solve problems.
    * [Web Data Connectors](https://www.tableau.com/developer/tools/web-data-connector) - Create custom connections to data on the web and make that data available in Tableau.
  
-### Custom dashboards
+### Custom Dashboards
 It can take hours to pull together manual reports when collecting data from a multitude of sources such as Google Analytics, Facebook Insights, and custom CSV files 😱. This is where custom dashboards come into play. These dashboards (usually SaaS with a monthly/yearly sub) help eliminate the manual work by integrating most or all of your data connections together, allowing you to create and automate beautiful looking, KPI tailored dashboards and reports with minimal effort.
 * [Agency Analytics](https://agencyanalytics.com/) - Monitor all of your client's marketing channels in one seamless dashboard. All fully branded for your agency. Give clients access to the interface or app as if you built the platform in-house.
 * [Dash This](https://dashthis.com/) - An automated marketing reporting tool created to help marketers save hours of manual work by integrating numerous APIs into one customized web analytics dashboard.
@@ -119,13 +123,13 @@ It can take hours to pull together manual reports when collecting data from a mu
 * [Geckoboard](https://www.geckoboard.com/) - No hassle professional KPI dashboards. Features over 80 integrations that you can build into a real-time dashboard.
 * [Google Data Studio](https://datastudio.withgoogle.com/) - Unlock the power of your data with interactive dashboards and automated reports that inspire smarter business decisions.
 * [Klipfolio](https://www.klipfolio.com/) - From custom dashboards and reports to self-serve exploration and analysis, this SaaS helps you centralize data and gives you the power to make decisions with confidence.
-## Email marketing
-## Lead generation
-## Market research
+## Email Marketing
+## Lead Generation
+## Market Research
 * [Google Trends](https://trends.google.com/trends/) - A free service that analyzes the popularity of top search queries in Google Search across various regions and languages.
 * [Similarweb](https://www.similarweb.com/) - All in one Website analytics competitive traffic intelligence platform. Often used to compare website traffic and performance, analyze strategies & market share acquisition.
-## Search engine marketing (SEM)
-## Search engine optimization (SEO)
+## Search Engine Marketing (SEM)
+## Search Engine Optimization (SEO)
 __Search Engine Optimization__ is the process of improving the quality and quantity of organic traffic to a website or page from search engines such as Google & Bing. SEO specifically targets "unpaid" traffic from SERPs (search engine result pages) rather than direct, paid, social or referral sources.
 ### SEO Resources
 ### Algorithm History
@@ -134,19 +138,25 @@ Google has a long history of famous (an infamous) algorithm updates, search inde
 * [Moz Google Algorithm Update History](https://moz.com/google-algorithm-change) - A History of Major Google Algorithm Updates from 2000–Present.
 * [SEJ History of Google Algorithm Updates](https://www.searchenginejournal.com/google-algorithm-history/) - Learn about the biggest and most important Google search algorithm launches, updates, and refreshes of all time – from 2003 to today.
 * [SEL Google Algorithm Updates](https://searchengineland.com/library/google/google-algorithm-updates) - A history of the major Google search algorithm updates.
-### SEO software (Desktop)
+### SERP Volitility
+Several pages exist which track daily __Search Engine Results Pages (SERPs) Volitility__. These reports are useful to correlate and explain sudden, but temporary, fluctuations in organic traffic when caused by minor Google tweaks and updates.
+* [MozCast](https://moz.com/mozcast) - A weather report showing turbulence in the Google algorithm over the previous day (or see the 90-day history below). The hotter and stormier the weather, the more Google's rankings changed.
+* [Rank Risk Index](https://www.rankranger.com/rank-risk-index) - SERP fluctuations for 10,000+ domains and keywords that RR monitors daily.
+* [Semrush Sensor](https://www.semrush.com/sensor/) - Measures volatility in search results, tracking down 20+ categories on mobile and desktop and highlighting possible Google Updates.
+### SEO Software (Desktop)
 * [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) - A website crawler that helps you improve onsite SEO, by extracting data & auditing for common SEO issues.
 * [ScrapeBox](https://www.scrapebox.com/) - Described by many users as the Swiss Army Knife of SEO. Don't let the dated UI fool you, people are still finding innovative new uses for ScrapeBox to help with their SEO efforts.
-### SEO software (SaaS)
+### SEO Software (SaaS)
 * [Moz](https://moz.com/) - Best-in-class SEO software for nearly every situation, from all-in-one SEO platform to tools for local SEO, enterprise SERP analytics, and a powerful API.
-## Skills training
-### Online courses
+## Skills Training
+The digital marketing landscape changes quickly which is why it's important to consistently focus on __Skills Training__ so you don't get left behind.
+### Online Courses
 * [Coursera](https://www.coursera.org/) - Learn in-demand skills like SEO, SEM, email, content marketing, product promotion and more. Build in-demand marketing skills & get job-ready for entry-level roles in 6 months or less. 🧂
 * [Skillshare](https://www.skillshare.com/) - Skillshare is an online learning platform with thousands of creative courses and classes taught by experts to help you learn new skills.
 * [Udemy](https://www.udemy.com/) - A leading destination for online courses that empowers you to grow professionally and personally.
 
-## Social media marketing (SMM)
-### Networks & communities
+## Social Media Marketing (SMM)
+### Networks & Communities
 __Social Media Networks & Communities__ geared towards the digital marketer. I'm leaving a number of them off as there are communities everywhere (even on Facebook), in favor of those that are more consistent.
 * [LinkedIn](https://www.linkedin.com/) - Manage your professional identity. Build and engage with your professional network. Access knowledge, insights and opportunities.
 * [Quora](https://www.quora.com/) - A place to gain and share knowledge. It's a platform to ask questions and connect with people who contribute unique insights and quality answers.
@@ -154,12 +164,12 @@ __Social Media Networks & Communities__ geared towards the digital marketer. I'm
 * [Stack Overflow](https://stackoverflow.com/) - The largest, most trusted online community for developers. This can be a great resource for technical digital marketing and SEO questions. I know that I've ended up here more than a few times.
 * [Twitter](https://twitter.com/) - The (un)official digital marketing community hangout.
 
-## Tag management
+## Tag Management
 __Tag Management Systems__ help to manage the lifecycle of digital marketing tags, used to track activity on digital properties, such as websites and web applications. These are especially useful because they allow you do bypass having pull in developers and agencies when you want to add or modify a 3rd party snippet or tag.
 * [Adobe Experience Platform Launch](https://business.adobe.com/products/experience-platform/launch.html) - A next-generation tag management system that unifies your marketing ecosystem. It breaks down silos and bottlenecks by connecting disparate technologies so you can deliver standout digital experiences.
 * [Google Tag Manager](https://tagmanager.google.com/) - Allows you to quickly and easily update measurement codes and related code fragments collectively known as tags on your website or mobile app.
 * [Tealium](https://tealium.com/) - Tealium iQ enables you to manage tags across all digital touch points, including web sites, mobile apps and online videos all from the same intuitive user interface.
-## Web design & development
+## Web Design & Development
   
 - - - -
   
