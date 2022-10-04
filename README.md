@@ -25,7 +25,7 @@ My name is Paul Bradish. I first encountered digital marketing by way of search 
 7. When in doubt, I leave it off the list. 
 8. Do your due dilligence.
 
-If you have any questions, concerns, or are in need of guidance contact me at: __hello @ paulbradish.com__.
+If you have any questions, concerns, or are in need of guidance contact me using [this](https://paulbradish.com/contact-me/) form.
 
 > Want to retain my digital marketing services? Reach out to my employer at [Emergent Software](https://www.emergentsoftware.net/contact/).
 
@@ -95,8 +95,11 @@ __Data Analytics__ is the process of examining datasets to draw conclusions abou
 * [Adobe Analytics](https://business.adobe.com/products/analytics/adobe-analytics.html) - Adobe Analytics lets you mix, match, and analyze data from any digital point in the customer journey. With in-depth analysis, versatile reporting, and predictive intelligence, you get the insightful foundation you need to build better customer experiences.
 * [Google Analytics](https://analytics.google.com) - A web analytics service offered by Google that tracks and reports website traffic, currently as a platform inside the Google Marketing Platform brand. Google launched the service in November 2005 after acquiring Urchin.
    * [Campaign URL Builder](https://ga-dev-tools.web.app/campaign-url-builder/) - This tool allows you to easily add campaign parameters to URLs so you can measure Custom Campaigns in Google Analytics.
+   * [URL Builder for GA](https://raventools.com/marketing-reports/google-analytics/url-builder/) - With the Google Analytics URL Builder, you can easily tag URLs with custom campaign variables and then use an automated reporting tool to keep track of progress and share with clients.
 * [Microsoft Power BI](https://powerbi.microsoft.com/en-us/) - Power BI is an interactive data visualization software product developed by Microsoft with a primary focus on business intelligence.
 * [Tableau](https://www.tableau.com/) - Helps users visualize and understand their data, transforming the way they use data to solve problems.
+   * [Web Data Connectors](https://www.tableau.com/developer/tools/web-data-connector) - Create custom connections to data on the web and make that data available in Tableau.
+ 
 ### Custom dashboards
 It can take hours to pull together manual reports when collecting data from a multitude of sources such as Google Analytics, Facebook Insights, and custom CSV files 😱. This is where custom dashboards come into play. These dashboards (usually SaaS with a monthly/yearly sub) help eliminate the manual work by integrating most or all of your data connections together, allowing you to create and automate beautiful looking, KPI tailored dashboards and reports with minimal effort.
 * [Agency Analytics](https://agencyanalytics.com/) - Monitor all of your client's marketing channels in one seamless dashboard. All fully branded for your agency. Give clients access to the interface or app as if you built the platform in-house.
