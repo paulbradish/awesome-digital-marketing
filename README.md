@@ -49,8 +49,10 @@ Now that that's out of the way... on to the list!
   * Lead Generation
   * [Market Research](https://github.com/paulbradish/awesome-digital-marketing/#market-research)
   * [Search Engine Optimization](https://github.com/paulbradish/awesome-digital-marketing/#search-engine-optimization-seo)
-      * [SEO Software Desktop](https://github.com/paulbradish/awesome-digital-marketing/#seo-software-desktop)
-      * [SEO Software SaaS](https://github.com/paulbradish/awesome-digital-marketing/#seo-software-saas)    
+      * [Resources](https://github.com/paulbradish/awesome-digital-marketing/#seo-resources)
+         * [Algorithm History](https://github.com/paulbradish/awesome-digital-marketing/#algorithm-history) 
+      * [Software (Desktop)](https://github.com/paulbradish/awesome-digital-marketing/#seo-software-desktop)
+      * [Software (SaaS)](https://github.com/paulbradish/awesome-digital-marketing/#seo-software-saas)    
   * Search Engine Marketing
   * [Skills Training](https://github.com/paulbradish/awesome-digital-marketing/#skills-training)
      * [Online Courses](https://github.com/paulbradish/awesome-digital-marketing/#online-courses)
@@ -111,6 +113,13 @@ It can take hours to pull together manual reports when collecting data from a mu
 ## Search engine marketing (SEM)
 ## Search engine optimization (SEO)
 __Search Engine Optimization__ is the process of improving the quality and quantity of organic traffic to a website or page from search engines such as Google & Bing. SEO specifically targets "unpaid" traffic from SERPs (search engine result pages) rather than direct, paid, social or referral sources.
+### SEO Resources
+### Algorithm History
+Google has a long history of famous (an infamous) algorithm updates, search index changes and refreshes. It's important to have a grasp on when new changes are occuring so that you can plan accordingly and relay that information to your team as it's likely you'll see fluctuation in SERPs.
+* [Google Search ranking updates](https://developers.google.com/search/updates/ranking) - The offical page from Google detailing the the latest ranking updates made to Google Search that are relevant to website owners.
+* [Moz Google Algorithm Update History](https://moz.com/google-algorithm-change) - A History of Major Google Algorithm Updates from 2000–Present.
+* [SEJ History of Google Algorithm Updates](https://www.searchenginejournal.com/google-algorithm-history/) - Learn about the biggest and most important Google search algorithm launches, updates, and refreshes of all time – from 2003 to today.
+* [SEL Google Algorithm Updates](https://searchengineland.com/library/google/google-algorithm-updates) - A history of the major Google search algorithm updates.
 ### SEO software (Desktop)
 * [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) - A website crawler that helps you improve onsite SEO, by extracting data & auditing for common SEO issues.
 * [ScrapeBox](https://www.scrapebox.com/) - Described by many users as the Swiss Army Knife of SEO. Don't let the dated UI fool you, people are still finding innovative new uses for ScrapeBox to help with their SEO efforts.
