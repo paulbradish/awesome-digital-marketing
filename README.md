@@ -64,6 +64,7 @@ Now that that's out of the way... on to the list!
      * [Social Networks & Communities](https://github.com/paulbradish/awesome-digital-marketing/#networks--communities)
   * [Tag Management](https://github.com/paulbradish/awesome-digital-marketing/#tag-management)
   * [URL Management](https://github.com/paulbradish/awesome-digital-marketing/#url-management)
+     * [Link in Bio](https://github.com/paulbradish/awesome-digital-marketing/#link-in-bio)
      * [QR Codes](https://github.com/paulbradish/awesome-digital-marketing/#qr-codes)
      * [URL Shorteners](https://github.com/paulbradish/awesome-digital-marketing/#url-shorteners) 
 
@@ -176,6 +177,8 @@ __Tag Management Systems__ help to manage the lifecycle of digital marketing tag
 * [Tealium](https://tealium.com/) - Tealium iQ enables you to manage tags across all digital touch points, including web sites, mobile apps and online videos all from the same intuitive user interface.
 
 ## URL Management
+### Link in Bio
+* [Linktree](https://linktr.ee/) - Link to everything you create, share and sell online. All from the one bio link.
 ### QR Codes
 __QR (Quick Response) Codes__ are two-dimensional code originally intended for the automotive industry. While the tech lay dormant for a number of years, due to solid error correction and the rise of mobile phones the use cases spiked and QR codes are now frequently utilized across numerous industries, including marketing.
 * [Adobe QR Code Generator](https://express.adobe.com/tools/qr-code-generator/) - Make a QR code for free that you can use in your branding, marketing, and more to easily direct customers to your website.
