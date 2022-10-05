@@ -63,6 +63,9 @@ Now that that's out of the way... on to the list!
   * [Social Media Marketing (SMM)](https://github.com/paulbradish/awesome-digital-marketing/#social-media-marketing-smm)
      * [Social Networks & Communities](https://github.com/paulbradish/awesome-digital-marketing/#networks--communities)
   * [Tag Management](https://github.com/paulbradish/awesome-digital-marketing/#tag-management)
+  * [URL Management](https://github.com/paulbradish/awesome-digital-marketing/#url-management)
+     * [QR Codes](https://github.com/paulbradish/awesome-digital-marketing/#qr-codes)
+     * [URL Shorteners](https://github.com/paulbradish/awesome-digital-marketing/#url-shorteners) 
 
 ### Planned Additions
   * A/B Testing
@@ -72,13 +75,11 @@ Now that that's out of the way... on to the list!
   * Email Marketing
   * Lead Generation
   * Programming Languages
-  * QR Codes
   * Schema Markup
   * Search Engine Marketing (SEM)
   * Sitemaps
   * Stock Photography
   * Task Managers
-  * URL Shorteners
   * Web Design & Development
   
 - - - -
@@ -173,6 +174,18 @@ __Tag Management Systems__ help to manage the lifecycle of digital marketing tag
 * [Adobe Experience Platform Launch](https://business.adobe.com/products/experience-platform/launch.html) - A next-generation tag management system that unifies your marketing ecosystem. It breaks down silos and bottlenecks by connecting disparate technologies so you can deliver standout digital experiences.
 * [Google Tag Manager](https://tagmanager.google.com/) - Allows you to quickly and easily update measurement codes and related code fragments collectively known as tags on your website or mobile app.
 * [Tealium](https://tealium.com/) - Tealium iQ enables you to manage tags across all digital touch points, including web sites, mobile apps and online videos all from the same intuitive user interface.
+
+## URL Management
+### QR Codes
+__QR (Quick Response) Codes__ are two-dimensional code originally intended for the automotive industry. While the tech lay dormant for a number of years, due to solid error correction and the rise of mobile phones the use cases spiked and QR codes are now frequently utilized across numerous industries, including marketing.
+* [Adobe QR Code Generator](https://express.adobe.com/tools/qr-code-generator/) - Make a QR code for free that you can use in your branding, marketing, and more to easily direct customers to your website.
+* [QR Code Generator](https://www.qr-code-generator.com/) - A QR code generator powered by Bitly. It contains all of the features you would expect.
+* [QR Code Monkey](https://www.qrcode-monkey.com/) - Create custom QR Codes with Logo, Color and Design for free. This QR Code Maker offers free vector formats for better print quality.
+### URL Shorteners
+__URL shorteners__, also known as a link shorteners, are services designed to turn long and complicated URLs into shorter, easier to type and more memorable URLs. These services are not to be underestimated and can have a dramatic impact on your marketing efforts- especially when branded and/or customized. (ex. example.to/short versus www.example.com/articles/howto/how-to-shorten-a-url/)
+* [Bitly](https://bitly.com/) - Build links that are more readable, trustworthy and likely to be clicked.
+* [TinyURL](https://tinyurl.com/) - The original URL shortener that shortens your unwieldly links into more manageable and useable URLs. 
+
 ## Web Design & Development
   
 - - - -
