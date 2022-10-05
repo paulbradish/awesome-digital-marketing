@@ -55,7 +55,7 @@ Now that that's out of the way... on to the list!
   * [Search Engine Optimization (SEO)](https://github.com/paulbradish/awesome-digital-marketing/#search-engine-optimization-seo)
       * [SEO Resources](https://github.com/paulbradish/awesome-digital-marketing/#seo-resources)
          * [Algorithm History](https://github.com/paulbradish/awesome-digital-marketing/#algorithm-history) 
-         * [SERP Volitility](https://github.com/paulbradish/awesome-digital-marketing/#serp-volitility) 
+         * [SERP Volatility](https://github.com/paulbradish/awesome-digital-marketing/#serp-volatility) 
       * [SEO Software (Desktop)](https://github.com/paulbradish/awesome-digital-marketing/#seo-software-desktop)
       * [SEO Software (SaaS)](https://github.com/paulbradish/awesome-digital-marketing/#seo-software-saas)    
   * [Skills Training](https://github.com/paulbradish/awesome-digital-marketing/#skills-training)
@@ -143,8 +143,8 @@ Google has a long history of famous (an infamous) algorithm updates, search inde
 * [Moz Google Algorithm Update History](https://moz.com/google-algorithm-change) - A History of Major Google Algorithm Updates from 2000–Present.
 * [SEJ History of Google Algorithm Updates](https://www.searchenginejournal.com/google-algorithm-history/) - Learn about the biggest and most important Google search algorithm launches, updates, and refreshes of all time – from 2003 to today.
 * [SEL Google Algorithm Updates](https://searchengineland.com/library/google/google-algorithm-updates) - A history of the major Google search algorithm updates.
-### SERP Volitility
-Several pages exist which track daily __Search Engine Results Pages (SERPs) Volitility__. These reports are useful to correlate and explain sudden, but temporary, fluctuations in organic traffic when caused by minor Google tweaks and updates.
+### SERP Volatility
+Several pages exist which track daily __Search Engine Results Pages (SERPs) Volatility__. These reports are useful to correlate and explain sudden, but temporary, fluctuations in organic traffic when caused by minor Google algorithm tweaks, tests, or other internal factors.
 * [MozCast](https://moz.com/mozcast) - A weather report showing turbulence in the Google algorithm over the previous day (or see the 90-day history below). The hotter and stormier the weather, the more Google's rankings changed.
 * [Rank Risk Index](https://www.rankranger.com/rank-risk-index) - SERP fluctuations for 10,000+ domains and keywords that RR monitors daily.
 * [Semrush Sensor](https://www.semrush.com/sensor/) - Measures volatility in search results, tracking down 20+ categories on mobile and desktop and highlighting possible Google Updates.
