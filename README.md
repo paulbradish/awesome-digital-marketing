@@ -43,7 +43,8 @@ Now that that's out of the way... on to the list!
      * [Management Services](https://github.com/paulbradish/awesome-digital-marketing/#affiliate-management-services) 
   * [Content Marketing](https://github.com/paulbradish/awesome-digital-marketing/#content-marketing)
      * [Content Research](https://github.com/paulbradish/awesome-digital-marketing/#content-research)  
-     * [Content Writing](https://github.com/paulbradish/awesome-digital-marketing/#content-writing)  
+     * [Content Writing](https://github.com/paulbradish/awesome-digital-marketing/#content-writing)
+     * [Publishing Platforms](https://github.com/paulbradish/awesome-digital-marketing/#publishing-platforms)
   * [Customer Support](https://github.com/paulbradish/awesome-digital-marketing/#customer-support)
      * [Chat Bots](https://github.com/paulbradish/awesome-digital-marketing/#chat-bots)
      * [Live Chat](https://github.com/paulbradish/awesome-digital-marketing/#live-chat) 
@@ -89,12 +90,18 @@ Now that that's out of the way... on to the list!
 __Affiliate Management__ is the act of recruiting new affiliates (or partners) into your program, manage the onboarding process, and ensuring that their audiences are aligned with your target market.
 ### Affiliate Management Services
 * [PartnerStack](https://partnerstack.com/) - Helps you recruit, engage, and scale your entire ecosystem of partners — from affiliates to referral and reseller partners.
+
 ## Content Marketing
 ### Content Research
 * [Also Asked](https://alsoasked.com/) - A great tool for getting to grips with the breadth of topical research. It unearths troves of data, in an effective and easy to use way.
 * [Answer The Public](https://answerthepublic.com/) - Extracts autocomplete data from search engines like Google then quickly cranks out every useful phrase and question people are asking.
 ### Content Writing
 * [Capitalize My Title](https://capitalizemytitle.com/) - Makes title capitalization easy. Automatically capitalize and case convert to Title Case (in AP, APA, Chicago, MLA, BB, AMA), sentence case, UPPERCASE, lowercase, and more.
+
+### Publishing Platforms
+__Publishing Platforms__ are nice because they can offer a readily available community of avid readers, server stability, and customer support. I tend to prefer them over a hosted solution in most situations because I know that whatever I post *will* be found.
+* [Medium](https://medium.com/) - An open platform where readers find dynamic thinking, and where expert and undiscovered voices can share their writing on any topic.
+* [Substack](https://substack.com/) - Start a publication that combines a personal website, blog, and email newsletter or podcast. It's fairly minimal in nature, so you don't have to be tech savvy.
 
 ## Customer Support
 Improve conversions and user experience with __Customer Support__ baked into your website.
