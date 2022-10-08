@@ -44,7 +44,8 @@ Now that that's out of the way... on to the list!
   * [Content Marketing](https://github.com/paulbradish/awesome-digital-marketing/#content-marketing)
      * [Content Research](https://github.com/paulbradish/awesome-digital-marketing/#content-research)  
      * [Content Writing](https://github.com/paulbradish/awesome-digital-marketing/#content-writing)
-     * [Publishing Platforms](https://github.com/paulbradish/awesome-digital-marketing/#publishing-platforms)
+     * [Publishing Platforms (Free/Subscription)](https://github.com/paulbradish/awesome-digital-marketing/#publishing-platforms-free--subscription)
+     * [Publishing Platforms (Hosted)](https://github.com/paulbradish/awesome-digital-marketing/#publishing-platforms-hosted)
   * [Customer Support](https://github.com/paulbradish/awesome-digital-marketing/#customer-support)
      * [Chat Bots](https://github.com/paulbradish/awesome-digital-marketing/#chat-bots)
      * [Live Chat](https://github.com/paulbradish/awesome-digital-marketing/#live-chat) 
@@ -98,11 +99,17 @@ __Affiliate Management__ is the act of recruiting new affiliates (or partners) i
 ### Content Writing
 * [Capitalize My Title](https://capitalizemytitle.com/) - Makes title capitalization easy. Automatically capitalize and case convert to Title Case (in AP, APA, Chicago, MLA, BB, AMA), sentence case, UPPERCASE, lowercase, and more.
 
-### Publishing Platforms
+### Publishing Platforms (Free / Subscription) 
 __Publishing Platforms__ are nice because they can offer a readily available community of avid readers, server stability, and customer support. I tend to prefer them over a hosted solution in most situations because I know that whatever I post *will* be found.
 * [Medium](https://medium.com/) - An open platform where readers find dynamic thinking, and where expert and undiscovered voices can share their writing on any topic.
 * [Substack](https://substack.com/) - Start a publication that combines a personal website, blog, and email newsletter or podcast. It's fairly minimal in nature, so you don't have to be tech savvy.
 
+### Publishing Platforms (Hosted)
+* [Wordpress](https://wordpress.org/) - Create a place for your business, your interests, or anything else—with the open source platform that powers the web.
+   * [Plugins](https://wordpress.org/plugins/) - Extend your Wordpress experience with thousands of plugins at your fingertips.
+      * [Yoast](https://yoast.com/wordpress/plugins/seo/) - Yoast helps you with your website's search engine optimization, with our internationally loved software and our online SEO courses.  
+    * [Themes](https://wordpress.org/themes/) - Find the perfect theme for your WordPress website. Choose from thousands of stunning designs with a wide variety of features and customization options.
+       * [Divi](https://www.elegantthemes.com/gallery/divi/) - Not just another Wordpress theme. This is a complete design framework that allows you to design and customize every part of your website from the ground up. If only It was the default WP install...
 ## Customer Support
 Improve conversions and user experience with __Customer Support__ baked into your website.
 ### Chat Bots
@@ -160,7 +167,14 @@ Several pages exist which track daily __Search Engine Results Pages (SERPs) Vola
 * [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) - A website crawler that helps you improve onsite SEO, by extracting data & auditing for common SEO issues.
 * [ScrapeBox](https://www.scrapebox.com/) - Described by many users as the Swiss Army Knife of SEO. Don't let the dated UI fool you, people are still finding innovative new uses for ScrapeBox to help with their SEO efforts.
 ### SEO Software (SaaS)
+* [Ahrefs](https://ahrefs.com/) - Everything you need to rank higher & get more traffic.
+* [BrightEdge](https://www.brightedge.com/) - A leading enterprise SEO solution and content performance marketing platform, helping customers (typically large corporations in my experience) generate more organic traffic.
+* [Google Search Console](https://search.google.com/search-console/about) - Search Console tools and reports help you measure your site's Search traffic and performance, fix issues, and make your site shine in Google Search results.
+* [Majestic](https://majestic.com/) - Develop backlink strategies with their link intelligence data, build the strong SEO backlink campaigns to drive organic traffic and boost your rankings.
 * [Moz](https://moz.com/) - Best-in-class SEO software for nearly every situation, from all-in-one SEO platform to tools for local SEO, enterprise SERP analytics, and a powerful API.
+* [Semrush](https://www.semrush.com/) - Do SEO, content marketing, competitor research, PPC and social media marketing from just one platform.
+* [SpyFu](https://www.spyfu.com/seo/overview) - Study competitors to help craft your plan by seeing what types of pages link to them. Also great for finding similar sites to keep on your radar and avoid any organic SERP flaws exposed by Google core updates to competition.
+* [Ubersuggest](https://neilpatel.com/ubersuggest/) - Allows you to get insight into the strategies that are working for others in your market so you can adopt them, improve them, and gain an edge.
 ## Skills Training
 The digital marketing landscape changes quickly which is why it's important to consistently focus on __Skills Training__ so you don't get left behind.
 ### Online Courses
