@@ -70,21 +70,24 @@ Now that that's out of the way... on to the list!
      * [Link in Bio](https://github.com/paulbradish/awesome-digital-marketing/#link-in-bio)
      * [QR Codes](https://github.com/paulbradish/awesome-digital-marketing/#qr-codes)
      * [URL Shorteners](https://github.com/paulbradish/awesome-digital-marketing/#url-shorteners) 
+  * [Video](https://github.com/paulbradish/awesome-digital-marketing/#video)
+     * [Video Sharing](https://github.com/paulbradish/awesome-digital-marketing/#video-sharing) 
+  * [Web Development](https://github.com/paulbradish/awesome-digital-marketing/#web-development)
+     * [Markup Languages](https://github.com/paulbradish/awesome-digital-marketing/#markup-languages)  
+     * [Programming Languages](https://github.com/paulbradish/awesome-digital-marketing/#programming-languages)  
 
 ### Planned Additions
   * A/B Testing
   * Conversion Rate Optimization (CRO)
   * Customer Relationship Management (CRM)
   * Domain Name Valuation
-  * Email Marketing
   * Lead Generation
-  * Programming Languages
   * Schema Markup
   * Search Engine Marketing (SEM)
+  * SMS Marketing
   * Sitemaps
   * Stock Photography
   * Task Managers
-  * Web Design & Development
   
 - - - -
   
@@ -112,6 +115,7 @@ __Publishing Platforms__ are nice because they can offer a readily available com
       * [Yoast](https://yoast.com/wordpress/plugins/seo/) - Yoast helps you with your website's search engine optimization, with our internationally loved software and our online SEO courses.  
     * [Themes](https://wordpress.org/themes/) - Find the perfect theme for your WordPress website. Choose from thousands of stunning designs with a wide variety of features and customization options.
        * [Divi](https://www.elegantthemes.com/gallery/divi/) - Not just another Wordpress theme. This is a complete design framework that allows you to design and customize every part of your website from the ground up. If only It was the default WP install...
+ 
 ## Customer Support
 Improve conversions and user experience with __Customer Support__ baked into your website.
 ### Chat Bots
@@ -214,8 +218,28 @@ __URL shorteners__, also known as a link shorteners, are services designed to tu
 * [Bitly](https://bitly.com/) - Build links that are more readable, trustworthy and likely to be clicked.
 * [TinyURL](https://tinyurl.com/) - The original URL shortener that shortens your unwieldly links into more manageable and useable URLs. 
 
-## Web Design & Development
-  
+## Video
+### Video Sharing
+* [YouTube](https://www.youtube.com/) - Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world.
+   * [TubeBuddy](https://www.tubebuddy.com/) - Helps you find high-performing, searchable video topics, and then craft the perfect titles and tags. 
+* [Vimeo](https://vimeo.com/) - An all-in-one video platform turns your ideas into action. Make, manage, and share videos and virtual events that move your audience.
+
+## Web Development
+### Markup Languages
+* CSS
+* HTML
+* XML
+### Programming Languages
+__Programming languages__ that are commonly used in front-end web design and back-end web development.
+* Javascript
+  * Angular
+  * jQuery
+  * React
+  * Vue 
+* Python
+* Ruby
+* TypeScript
+
 - - - -
   
 ### Finally...
