@@ -53,6 +53,7 @@ Now that that's out of the way... on to the list!
      * [Analytics Resources](https://github.com/paulbradish/awesome-digital-marketing/#analytics-resources) 
      * [Analytics Services](https://github.com/paulbradish/awesome-digital-marketing/#analytics-services)
      * [Custom Dashboards](https://github.com/paulbradish/awesome-digital-marketing/#custom-dashboards)
+  * [Email Marketing](https://github.com/paulbradish/awesome-digital-marketing/#email-marketing) 
   * [Market Research](https://github.com/paulbradish/awesome-digital-marketing/#market-research)
   * [Search Engine Optimization (SEO)](https://github.com/paulbradish/awesome-digital-marketing/#search-engine-optimization-seo)
       * [SEO Resources](https://github.com/paulbradish/awesome-digital-marketing/#seo-resources)
@@ -98,6 +99,7 @@ __Affiliate Management__ is the act of recruiting new affiliates (or partners) i
 * [Answer The Public](https://answerthepublic.com/) - Extracts autocomplete data from search engines like Google then quickly cranks out every useful phrase and question people are asking.
 ### Content Writing
 * [Capitalize My Title](https://capitalizemytitle.com/) - Makes title capitalization easy. Automatically capitalize and case convert to Title Case (in AP, APA, Chicago, MLA, BB, AMA), sentence case, UPPERCASE, lowercase, and more.
+* [Lorem Ipsum](https://loremipsum.io/) - A lorem ipsum generator. Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
 
 ### Publishing Platforms (Free / Subscription) 
 __Publishing Platforms__ are nice because they can offer a readily available community of avid readers, server stability, and customer support. I tend to prefer them over a hosted solution in most situations because I know that whatever I post *will* be found.
@@ -144,6 +146,8 @@ It can take hours to pull together manual reports when collecting data from a mu
 * [Google Data Studio](https://datastudio.withgoogle.com/) - Unlock the power of your data with interactive dashboards and automated reports that inspire smarter business decisions.
 * [Klipfolio](https://www.klipfolio.com/) - From custom dashboards and reports to self-serve exploration and analysis, this SaaS helps you centralize data and gives you the power to make decisions with confidence.
 ## Email Marketing
+* [Constant Contact](https://www.constantcontact.com/) - Deliver stunning emails and a whole lot more. Attract new customers and boost sales with their complete, easy-to-use digital marketing suite.
+* [Mailchimp](https://mailchimp.com/) - Grow your business on your terms with Mailchimp's All-In-One marketing, automation & email marketing platform.
 ## Lead Generation
 ## Market Research
 * [Google Trends](https://trends.google.com/trends/) - A free service that analyzes the popularity of top search queries in Google Search across various regions and languages.
