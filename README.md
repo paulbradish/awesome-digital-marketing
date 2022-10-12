@@ -59,8 +59,6 @@ Now that that's out of the way... on to the list!
       * [SEO Articles](https://github.com/paulbradish/awesome-digital-marketing/#seo-articles)
       * [SEO Guides](https://github.com/paulbradish/awesome-digital-marketing/#seo-guides)
       * [SEO Resources](https://github.com/paulbradish/awesome-digital-marketing/#seo-resources)
-         * [Algorithm History](https://github.com/paulbradish/awesome-digital-marketing/#algorithm-history) 
-         * [SERP Volatility](https://github.com/paulbradish/awesome-digital-marketing/#serp-volatility) 
       * [SEO Software (Desktop)](https://github.com/paulbradish/awesome-digital-marketing/#seo-software-desktop)
       * [SEO Software (SaaS)](https://github.com/paulbradish/awesome-digital-marketing/#seo-software-saas)    
   * [Skills Training](https://github.com/paulbradish/awesome-digital-marketing/#skills-training)
@@ -78,7 +76,7 @@ Now that that's out of the way... on to the list!
      * [Markup Languages](https://github.com/paulbradish/awesome-digital-marketing/#markup-languages)  
      * [Programming Languages](https://github.com/paulbradish/awesome-digital-marketing/#programming-languages)  
 
-### Planned Additions
+### 🛠️ Planned Additions
   * A/B Testing
   * Conversion Rate Optimization (CRO)
   * Customer Relationship Management (CRM)
