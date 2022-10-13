@@ -75,6 +75,7 @@ Now that that's out of the way... on to the list!
   * [Video](https://github.com/paulbradish/awesome-digital-marketing/#video)
      * [Video Sharing](https://github.com/paulbradish/awesome-digital-marketing/#video-sharing) 
   * [Web Development](https://github.com/paulbradish/awesome-digital-marketing/#web-development)
+     * [Code Editors](https://github.com/paulbradish/awesome-digital-marketing/#code-editors)  
      * [Markup Languages](https://github.com/paulbradish/awesome-digital-marketing/#markup-languages)  
      * [Programming Languages](https://github.com/paulbradish/awesome-digital-marketing/#programming-languages)  
 
@@ -244,6 +245,11 @@ __URL shorteners__, also known as a link shorteners, are services designed to tu
 * [Vimeo](https://vimeo.com/) - An all-in-one video platform turns your ideas into action. Make, manage, and share videos and virtual events that move your audience.
 
 ## Web Development
+### Code Editors
+* [Atom](https://atom.io/) - A hackable text editor for the 21st Century.
+* [Notepad++](https://notepad-plus-plus.org/) - A free (as in “free speech” and also as in “free beer”) source code editor and Notepad replacement that supports several languages.
+* [Sublime Text](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose. You'll love the slick user interface, extraordinary features and amazing performance.
+* [Visual Studio Code](https://code.visualstudio.com/) - A code editor redefined and optimized for building and debugging modern web and cloud applications.
 ### Markup Languages
 * CSS
 * HTML
