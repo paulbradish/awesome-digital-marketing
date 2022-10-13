@@ -55,6 +55,8 @@ Now that that's out of the way... on to the list!
      * [Custom Dashboards](https://github.com/paulbradish/awesome-digital-marketing/#custom-dashboards)
   * [Email Marketing](https://github.com/paulbradish/awesome-digital-marketing/#email-marketing) 
   * [Market Research](https://github.com/paulbradish/awesome-digital-marketing/#market-research)
+  * [Public Relations](https://github.com/paulbradish/awesome-digital-marketing/#public-relations)
+     * [Press Release Distribution](https://github.com/paulbradish/awesome-digital-marketing/#press-release-distribution)
   * [Search Engine Optimization (SEO)](https://github.com/paulbradish/awesome-digital-marketing/#search-engine-optimization-seo)
       * [SEO Articles](https://github.com/paulbradish/awesome-digital-marketing/#seo-articles)
       * [SEO Guides](https://github.com/paulbradish/awesome-digital-marketing/#seo-guides)
@@ -156,6 +158,13 @@ It can take hours to pull together manual reports when collecting data from a mu
 ## Market Research
 * [Google Trends](https://trends.google.com/trends/) - A free service that analyzes the popularity of top search queries in Google Search across various regions and languages.
 * [Similarweb](https://www.similarweb.com/) - All in one Website analytics competitive traffic intelligence platform. Often used to compare website traffic and performance, analyze strategies & market share acquisition.
+
+## Public Relations (PR)
+
+### Press Release Distribution
+You've written a killer __Press Release__ and now you need it to make a splash. Enter PR distribution services. For a *relatively* nominal fee, they will host and distribute your press release to their large networks of IRL journalists and news sites in an automated, scalable fashion.
+* [Cision PRWeb](https://service.prweb.com/) - Reach the right audiences and gain more media visibility with Cision PR Newswire, the industry's largest, most trusted press release distribution network. 
+* [Newswire](https://www.newswire.com/) - Delivers press release distribution and press release campaigns by leveraging earned media outreach, SEO traffic and email marketing through campaign automation to help businesses land impactful media coverage, drive website traffic, generate leads and grow brand awareness.
 ## Search Engine Marketing (SEM)
 
 ## Search Engine Optimization (SEO)
