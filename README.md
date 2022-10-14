@@ -40,6 +40,9 @@ Now that that's out of the way... on to the list!
   
 # 📚 Table of Contents
 
+  * [A/B Testing](https://github.com/paulbradish/awesome-digital-marketing/#ab-testing)
+     * [A/B Platforms](https://github.com/paulbradish/awesome-digital-marketing/#ab-testing-platforms)
+     * [A/B Tools](https://github.com/paulbradish/awesome-digital-marketing/#ab-testing-tools)
   * [Affiliate Management](https://github.com/paulbradish/awesome-digital-marketing/#affiliate-management)
      * [Management Services](https://github.com/paulbradish/awesome-digital-marketing/#affiliate-management-services) 
   * [Content Marketing](https://github.com/paulbradish/awesome-digital-marketing/#content-marketing)
@@ -82,7 +85,6 @@ Now that that's out of the way... on to the list!
      * [Version Control](https://github.com/paulbradish/awesome-digital-marketing/#version-control)
 
 ### 🛠️ Planned Additions
-  * A/B Testing
   * Conversion Rate Optimization (CRO)
   * Customer Relationship Management (CRM)
   * Domain Name Valuation
@@ -95,7 +97,11 @@ Now that that's out of the way... on to the list!
   * Task Managers
   
 - - - -
-  
+## A/B Testing
+### A/B Testing Platforms
+* [Optimizely](https://www.optimizely.com/) - Provides A/B testing and multivariate testing tools, website personalization, and feature toggle capabilities, as well as web content management and digital commerce.
+### A/B Testing Tools
+* [AB testing calculator](https://www.surveymonkey.com/mp/ab-testing-significance-calculator/) - Calculate statistical significance. In the context of AB testing experiments, statistical significance is how likely it is that the difference between your experiment’s control version and test version isn’t due to error or random chance. This is important to keep in mind any time you are measuring or testing.
 ## Affiliate Management
 __Affiliate Management__ is the act of recruiting new affiliates (or partners) into your program, manage the onboarding process, and ensuring that their audiences are aligned with your target market.
 ### Affiliate Management Services
@@ -178,6 +184,7 @@ __Search Engine Optimization__ is the process of improving the quality and quant
 * [We Analyzed 4M Google Search Results. Here's What We Learned About Organic CTR](https://backlinko.com/google-ctr-stats)
 
 ### SEO Guides
+* [How To Create the Right Meta Description](https://yoast.com/meta-descriptions/)
 * [What Is SEO / Search Engine Optimization?](https://searchengineland.com/guide/what-is-seo) - Get started learning all about SEO from one of the industry's most trusted sources, Search Engine Land. Review basics of search engine optimization, ranking factors & more.
 
 ### SEO Resources
