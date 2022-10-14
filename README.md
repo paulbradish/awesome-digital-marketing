@@ -208,6 +208,9 @@ __Search Engine Optimization__ is the process of improving the quality and quant
 ### SEO Software (Desktop)
 * [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) - A website crawler that helps you improve onsite SEO, by extracting data & auditing for common SEO issues.
 * [ScrapeBox](https://www.scrapebox.com/) - Described by many users as the Swiss Army Knife of SEO. Don't let the dated UI fool you, people are still finding innovative new uses for ScrapeBox to help with their SEO efforts.
+   * [Scrapebox Guides Tuts Loopline (YouTube)](https://www.youtube.com/user/looplinescrapebox) 
+   * [The Unofficial Scrapebox FAQ](https://scrapeboxfaq.com/)
+   * [Ultimate Guide to White Hat SEO using Scrapebox](https://www.onely.com/blog/guide-white-hat-seo-scrapebox/)
 ### SEO Software (SaaS)
 * [Ahrefs](https://ahrefs.com/) - Everything you need to rank higher & get more traffic.
 * [BrightEdge](https://www.brightedge.com/) - A leading enterprise SEO solution and content performance marketing platform, helping customers (typically large corporations in my experience) generate more organic traffic.
@@ -221,6 +224,7 @@ __Search Engine Optimization__ is the process of improving the quality and quant
 The digital marketing landscape changes quickly which is why it's important to consistently focus on __Skills Training__ so you don't get left behind.
 ### Online Courses
 * [Coursera](https://www.coursera.org/) - Learn in-demand skills like SEO, SEM, email, content marketing, product promotion and more. Build in-demand marketing skills & get job-ready for entry-level roles in 6 months or less. 🧂
+* [Semrush Academy](https://www.semrush.com/academy/) - Comprised of more than 30 free courses and certification exams — in English, Spanish, and French — that help anyone master new digital marketing skills and enrich their CVs and LinkedIn profiles. 
 * [Skillshare](https://www.skillshare.com/) - Skillshare is an online learning platform with thousands of creative courses and classes taught by experts to help you learn new skills.
 * [Udemy](https://www.udemy.com/) - A leading destination for online courses that empowers you to grow professionally and personally.
 
