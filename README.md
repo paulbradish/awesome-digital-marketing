@@ -185,6 +185,10 @@ __Search Engine Optimization__ is the process of improving the quality and quant
 
 ### SEO Guides
 * [How To Create the Right Meta Description](https://yoast.com/meta-descriptions/)
+* [Moz Whiteboard Fridays](https://moz.com/blog/category/whiteboard-friday) - The most famous video series in all of SEO, Rand Fishkin started filming this series when Moz was a very young company that didn't even sell software. Since then, it's grown to millions of views and the videos have helped trained thousands of SEOs.
+   * [22 Smart Google SEO Tips for 2022](https://moz.com/blog/smart-google-seo-tips-2022) - SEO expert Cyrus Shepard shares his top 22 tips for successful Google SEO in 2022. Watch to find out what to prioritize and what to look out for in the year ahead!
+   * [A Step-by-Step Process for Discovering and Prioritizing the Best Keywords](https://moz.com/blog/discovering-prioritizing-best-keywords-whiteboard-friday) - In this classic Whiteboard Friday, Rand Fishkin dives into an SEO foundation with keyword research.
+   * [How to Create 10x Content](https://moz.com/blog/how-to-create-10x-content) - Have you ever tried to create 10x content? It's not easy, is it? Knowing how and where to start can often be the biggest obstacle you'll face. 
 * [What Is SEO / Search Engine Optimization?](https://searchengineland.com/guide/what-is-seo) - Get started learning all about SEO from one of the industry's most trusted sources, Search Engine Land. Review basics of search engine optimization, ranking factors & more.
 
 ### SEO Resources
