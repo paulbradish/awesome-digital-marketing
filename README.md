@@ -1,10 +1,11 @@
 
 ![Awesome Digital Marketing](/assets/AwesomeDigitalMarketing-HeaderImage.png)
 <p align="center">
-<sup>Curated by Paul Bradish <a href="https://www.linkedin.com/in/paulbradish/">LinkedIn</a> | <a href="https://twitter.com/paul_bradish">Twitter</a></sup>
-</p>
+<sup>Curated by Paul Bradish <a href="https://www.linkedin.com/in/paulbradish/">LinkedIn</a> | <a href="https://twitter.com/paul_bradish">Twitter</a>
+<br />
+<a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg" alt="Awesome List"></a>&nbsp<a href="https://github.com/paulbradish/awesome-digital-marketing/blob/main/README.md"><img alt="MIT License" src="https://img.shields.io/github/license/paulbradish/awesome-digital-marketing?style=flat-square"></a></sup></p>
   
-💎  __awesome-digital-marketing__ is an [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) list that curates best in class digital marketing blogs, guides, resources, scripts, services, software and more for today's digital marketing professional. This is not a fixed list. The intention is for it to be expanded upon and pruned often.
+💎  __awesome-digital-marketing__ is an  list that curates best in class digital marketing blogs, guides, resources, scripts, services, software and more for today's digital marketing professional. This is not a fixed list. The intention is for it to be expanded upon and pruned often.
 
 ### Who Is This List For?
 
@@ -254,6 +255,7 @@ __URL shorteners__, also known as a link shorteners, are services designed to tu
 * [Visual Studio Code](https://code.visualstudio.com/) - A code editor redefined and optimized for building and debugging modern web and cloud applications.
 ### Markup Languages
 * CSS
+  * [How to Hide a div in Mobile but Show it on Desktop Or Vice Versa](https://xedricity.com/how-to-hide-a-div-in-mobile-but-show-it-on-desktop-or-vice-versa/)
   * [Learn CSS: The Complete Guide](https://webdesign.tutsplus.com/series/learn-css-the-complete-guide--cms-1065)
   * [The CSS Handbook: A Handy Guide to CSS for Developers](https://www.freecodecamp.org/news/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11/) 
 * HTML
