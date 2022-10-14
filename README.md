@@ -225,6 +225,7 @@ The digital marketing landscape changes quickly which is why it's important to c
 __Social Media Networks & Communities__ geared towards the digital marketer. I'm leaving a number of them off as there are communities everywhere (even on Facebook), in favor of those that are more consistent.
 * [LinkedIn](https://www.linkedin.com/) - Manage your professional identity. Build and engage with your professional network. Access knowledge, insights and opportunities.
 * [Quora](https://www.quora.com/) - A place to gain and share knowledge. It's a platform to ask questions and connect with people who contribute unique insights and quality answers.
+   * [11 Ways To Answer Questions On Quora And Generate Leads](https://ladder.io/blog/quora-lead-generation)
 * [Reddit](https://www.reddit.com/) - A network of communities where people can dive into their interests, hobbies and passions. There&#x27;s a community for whatever you're interested in on Reddit.
 * [Stack Overflow](https://stackoverflow.com/) - The largest, most trusted online community for developers. This can be a great resource for technical digital marketing and SEO questions. I know that I've ended up here more than a few times.
 * [Twitter](https://twitter.com/) - The (un)official digital marketing community hangout.
