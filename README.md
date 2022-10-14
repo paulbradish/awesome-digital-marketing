@@ -71,13 +71,14 @@ Now that that's out of the way... on to the list!
   * [URL Management](https://github.com/paulbradish/awesome-digital-marketing/#url-management)
      * [Link in Bio](https://github.com/paulbradish/awesome-digital-marketing/#link-in-bio)
      * [QR Codes](https://github.com/paulbradish/awesome-digital-marketing/#qr-codes)
-     * [URL Shorteners](https://github.com/paulbradish/awesome-digital-marketing/#url-shorteners) 
+     * [URL Shorteners](https://github.com/paulbradish/awesome-digital-marketing/#url-shorteners)
   * [Video](https://github.com/paulbradish/awesome-digital-marketing/#video)
-     * [Video Sharing](https://github.com/paulbradish/awesome-digital-marketing/#video-sharing) 
+     * [Video Sharing](https://github.com/paulbradish/awesome-digital-marketing/#video-sharing)
   * [Web Development](https://github.com/paulbradish/awesome-digital-marketing/#web-development)
-     * [Code Editors](https://github.com/paulbradish/awesome-digital-marketing/#code-editors)  
-     * [Markup Languages](https://github.com/paulbradish/awesome-digital-marketing/#markup-languages)  
-     * [Programming Languages](https://github.com/paulbradish/awesome-digital-marketing/#programming-languages)  
+     * [Code Editors](https://github.com/paulbradish/awesome-digital-marketing/#code-editors)
+     * [Markup Languages](https://github.com/paulbradish/awesome-digital-marketing/#markup-languages)
+     * [Programming Languages](https://github.com/paulbradish/awesome-digital-marketing/#programming-languages)
+     * [Version Control](https://github.com/paulbradish/awesome-digital-marketing/#version-control)
 
 ### 🛠️ Planned Additions
   * A/B Testing
@@ -172,7 +173,8 @@ You've written a killer __Press Release__ and now you need it to make a splash. 
 __Search Engine Optimization__ is the process of improving the quality and quantity of organic traffic to a website or page from search engines such as Google & Bing. SEO specifically targets "unpaid" traffic from SERPs (search engine result pages) rather than direct, paid, social or referral sources.
 
 ### SEO Articles
-* [How Images Affect SEO: Can Adding a Diagram Really Drive Rankings?](https://www.orbitmedia.com/blog/how-images-improve-seo/) - An article without a diagram isn’t optimized for search.
+* [How Images Affect SEO: Can Adding a Diagram Really Drive Rankings?](https://www.orbitmedia.com/blog/how-images-improve-seo/)
+* [We Analyzed 4M Google Search Results. Here's What We Learned About Organic CTR](https://backlinko.com/google-ctr-stats)
 
 ### SEO Guides
 * [What Is SEO / Search Engine Optimization?](https://searchengineland.com/guide/what-is-seo) - Get started learning all about SEO from one of the industry's most trusted sources, Search Engine Land. Review basics of search engine optimization, ranking factors & more.
@@ -252,8 +254,16 @@ __URL shorteners__, also known as a link shorteners, are services designed to tu
 * [Visual Studio Code](https://code.visualstudio.com/) - A code editor redefined and optimized for building and debugging modern web and cloud applications.
 ### Markup Languages
 * CSS
+  * [Learn CSS: The Complete Guide](https://webdesign.tutsplus.com/series/learn-css-the-complete-guide--cms-1065)
+  * [The CSS Handbook: A Handy Guide to CSS for Developers](https://www.freecodecamp.org/news/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11/) 
 * HTML
+  * [HTML For Beginners The Easy Way: Start Learning HTML & CSS Today](https://html.com/)
+  * [Structuring the web with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
+  * [The Ultimate Guide to HTML for Beginners: How to Write, Learn & Use It](https://blog.hubspot.com/website/html)
+  * [W3Schools HTML Tutorial](https://www.w3schools.com/html/)
 * XML
+  * [XML Tutorial for Beginners](https://www.guru99.com/xml-tutorials.html)
+  
 ### Programming Languages
 __Programming languages__ that are commonly used in front-end web design and back-end web development.
 * Javascript
@@ -264,6 +274,11 @@ __Programming languages__ that are commonly used in front-end web design and bac
 * Python
 * Ruby
 * TypeScript
+
+### Version Control
+* [Bitbucket](https://bitbucket.org/product) - Git-based code and CI/CD tool optimized for teams using Jira.
+* [Git](https://git-scm.com/) - A free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+* [GitHub](https://github.com/) - A code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. ___You Are Here. :)___
 
 - - - -
   
