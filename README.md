@@ -67,6 +67,9 @@ Now that that's out of the way... on to the list!
       * [SEO Resources](https://github.com/paulbradish/awesome-digital-marketing/#seo-resources)
       * [SEO Software (Desktop)](https://github.com/paulbradish/awesome-digital-marketing/#seo-software-desktop)
       * [SEO Software (SaaS)](https://github.com/paulbradish/awesome-digital-marketing/#seo-software-saas)    
+  * [Search Engine Marketing (SEM)](https://github.com/paulbradish/awesome-digital-marketing/#search-engine-marketing-sem)
+      * [Paid Search Platforms](https://github.com/paulbradish/awesome-digital-marketing/#paid-search-platforms)
+      * [PPC Software (SaaS)](https://github.com/paulbradish/awesome-digital-marketing/#ppc-software-saas)
   * [Skills Training](https://github.com/paulbradish/awesome-digital-marketing/#skills-training)
      * [Online Courses](https://github.com/paulbradish/awesome-digital-marketing/#online-courses)
   * [Social Media Marketing (SMM)](https://github.com/paulbradish/awesome-digital-marketing/#social-media-marketing-smm)
@@ -213,20 +216,34 @@ __Search Engine Optimization__ is the process of improving the quality and quant
    * [Ultimate Guide to White Hat SEO using Scrapebox](https://www.onely.com/blog/guide-white-hat-seo-scrapebox/)
 ### SEO Software (SaaS)
 * [Ahrefs](https://ahrefs.com/) - Everything you need to rank higher & get more traffic.
+   * [Ahrefs Academy](https://ahrefs.com/academy) - The best tools and data are worth nothing if you don’t know how to use them.
+   * [Ahrefs: The Definitive Guide](https://backlinko.com/ahrefs-guide) - Everything you need to know about Ahrefs link building and SEO software suite. This guide includes a ton of real examples of Ahrefs in action.
    * [Ahrefs Webmaster Tools](https://ahrefs.com/webmaster-tools) - Improve your website’s SEO performance and get more traffic from search. Free for website owners.
 * [BrightEdge](https://www.brightedge.com/) - A leading enterprise SEO solution and content performance marketing platform, helping customers (typically large corporations in my experience) generate more organic traffic.
 * [Google Search Console](https://search.google.com/search-console/about) - Search Console tools and reports help you measure your site's Search traffic and performance, fix issues, and make your site shine in Google Search results.
 * [Majestic](https://majestic.com/) - Develop backlink strategies with their link intelligence data, build the strong SEO backlink campaigns to drive organic traffic and boost your rankings.
 * [Moz](https://moz.com/) - Best-in-class SEO software for nearly every situation, from all-in-one SEO platform to tools for local SEO, enterprise SERP analytics, and a powerful API.
 * [Semrush](https://www.semrush.com/) - Do SEO, content marketing, competitor research, PPC and social media marketing from just one platform.
+   * [Semrush Academy](https://www.semrush.com/academy/) - Comprised of more than 30 free courses and certification exams — in English, Spanish, and French — that help anyone master new digital marketing skills and enrich their CVs and LinkedIn profiles. 
+   * [What is Semrush? A Complete Guide to Semrush Features, Metrics, and Reporting Dashboards](https://databox.com/what-is-semrush) - What’s Semrush and which features work best for tracking and improving your search rankings? Here’s everything you need to know.
 * [SpyFu](https://www.spyfu.com/seo/overview) - Study competitors to help craft your plan by seeing what types of pages link to them. Also great for finding similar sites to keep on your radar and avoid any organic SERP flaws exposed by Google core updates to competition.
 * [Ubersuggest](https://neilpatel.com/ubersuggest/) - Allows you to get insight into the strategies that are working for others in your market so you can adopt them, improve them, and gain an edge.
+
+## Search Engine Marketing (SEM)
+Also known as __Paid Search__, SEM is a commonly used method to quickly increase the visibility of a website in search engine results pages (SERPs) by paying for ad placement on specific keywords and search phrases.
+### Paid Search Platforms
+* Bing Ads
+* Google Ads
+  * Tools
+    * [Google Ads Keyword Planner](https://ads.google.com/home/tools/keyword-planner/) - You can use this free tool to discover new keywords related to your business and see estimates of the searches they receive and the cost to target them.  
+### PPC Software (SaaS)
+ * [MarinOne](https://www.marinsoftware.com/solutions/paid-search) - Identify growth opportunities and maximize revenue across Google, Microsoft, Apple Search Ads, and more. Leverage audience, revenue, and contextual data from any source to drive campaign performance and growth.
+
 ## Skills Training
 The digital marketing landscape changes quickly which is why it's important to consistently focus on __Skills Training__ so you don't get left behind.
 ### Online Courses
 * [Coursera](https://www.coursera.org/) - Learn in-demand skills like SEO, SEM, email, content marketing, product promotion and more. Build in-demand marketing skills & get job-ready for entry-level roles in 6 months or less. 🧂
 * [HubSpot Academy](https://academy.hubspot.com/) - The worldwide leader in inbound marketing, sales, and customer service/support training.
-* [Semrush Academy](https://www.semrush.com/academy/) - Comprised of more than 30 free courses and certification exams — in English, Spanish, and French — that help anyone master new digital marketing skills and enrich their CVs and LinkedIn profiles. 
 * [Skillshare](https://www.skillshare.com/) - Skillshare is an online learning platform with thousands of creative courses and classes taught by experts to help you learn new skills.
 * [Skillshop (Google)](https://skillshop.exceedlms.com/student/catalog) - The one-stop-shop for every kind of learner who wants to succeed with Google professional tools and solutions. _This is where official Google certifications are issued._
 * [Udemy](https://www.udemy.com/) - A leading destination for online courses that empowers you to grow professionally and personally.
