@@ -213,6 +213,7 @@ __Search Engine Optimization__ is the process of improving the quality and quant
    * [Ultimate Guide to White Hat SEO using Scrapebox](https://www.onely.com/blog/guide-white-hat-seo-scrapebox/)
 ### SEO Software (SaaS)
 * [Ahrefs](https://ahrefs.com/) - Everything you need to rank higher & get more traffic.
+   * [Ahrefs Webmaster Tools](https://ahrefs.com/webmaster-tools) - Improve your website’s SEO performance and get more traffic from search. Free for website owners.
 * [BrightEdge](https://www.brightedge.com/) - A leading enterprise SEO solution and content performance marketing platform, helping customers (typically large corporations in my experience) generate more organic traffic.
 * [Google Search Console](https://search.google.com/search-console/about) - Search Console tools and reports help you measure your site's Search traffic and performance, fix issues, and make your site shine in Google Search results.
 * [Majestic](https://majestic.com/) - Develop backlink strategies with their link intelligence data, build the strong SEO backlink campaigns to drive organic traffic and boost your rankings.
