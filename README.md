@@ -40,9 +40,14 @@ Now that that's out of the way... on to the list!
   
 # 📚 Table of Contents
 
-  * [A/B Testing](https://github.com/paulbradish/awesome-digital-marketing/#ab-testing)
-     * [A/B Platforms](https://github.com/paulbradish/awesome-digital-marketing/#ab-testing-platforms)
-     * [A/B Tools](https://github.com/paulbradish/awesome-digital-marketing/#ab-testing-tools)
+  * [Analytics](https://github.com/paulbradish/awesome-digital-marketing/#analytics)
+     * [Data Analytics](https://github.com/paulbradish/awesome-digital-marketing/#data-analytics)
+        * [Analytics Resources](https://github.com/paulbradish/awesome-digital-marketing/#analytics-resources) 
+        * [Analytics Services](https://github.com/paulbradish/awesome-digital-marketing/#analytics-services)
+        * [Custom Dashboards](https://github.com/paulbradish/awesome-digital-marketing/#custom-dashboards)
+     * [Testing](https://github.com/paulbradish/awesome-digital-marketing/#testing)
+        * [Testing Platforms](https://github.com/paulbradish/awesome-digital-marketing/#testing-platforms)
+        * [Testing Tools](https://github.com/paulbradish/awesome-digital-marketing/#testing-tools) 
   * [Affiliate Management](https://github.com/paulbradish/awesome-digital-marketing/#affiliate-management)
      * [Management Services](https://github.com/paulbradish/awesome-digital-marketing/#affiliate-management-services) 
   * [Automation](https://github.com/paulbradish/awesome-digital-marketing/#automation)   
@@ -55,10 +60,6 @@ Now that that's out of the way... on to the list!
   * [Customer Support](https://github.com/paulbradish/awesome-digital-marketing/#customer-support)
      * [Chat Bots](https://github.com/paulbradish/awesome-digital-marketing/#chat-bots)
      * [Live Chat](https://github.com/paulbradish/awesome-digital-marketing/#live-chat) 
-  * [Data Analytics](https://github.com/paulbradish/awesome-digital-marketing/#data-analytics)
-     * [Analytics Resources](https://github.com/paulbradish/awesome-digital-marketing/#analytics-resources) 
-     * [Analytics Services](https://github.com/paulbradish/awesome-digital-marketing/#analytics-services)
-     * [Custom Dashboards](https://github.com/paulbradish/awesome-digital-marketing/#custom-dashboards)
   * [Email Marketing](https://github.com/paulbradish/awesome-digital-marketing/#email-marketing) 
   * [Market Research](https://github.com/paulbradish/awesome-digital-marketing/#market-research)
   * [Public Relations](https://github.com/paulbradish/awesome-digital-marketing/#public-relations)
@@ -102,11 +103,40 @@ Now that that's out of the way... on to the list!
   * Task Managers
   
 - - - -
-## A/B Testing
-### A/B Testing Platforms
+# Analytics
+## Data Analytics
+:bar_chart: __Data Analytics__ is the process of examining datasets to draw conclusions about the information they contain. Data analysis is often used by digital marketers to tell a story of the customer journey and to push data-driven marketing decisions surrounding content, features, and campaign efficacy.
+### Analytics Resources
+* [Cross Validated](https://stats.stackexchange.com/) - A question and answer site for people interested in statistics, machine learning, data analysis, data mining, and data visualization.
+* [Occam's Razor](https://www.kaushik.net/avinash/) - Web analytics blog authored by longtime digital marketing evangelist @google, Avinash Kaushik.
+* [r/Analytics](https://www.reddit.com/r/analytics/) - Dedicated to web analytics, data and business analytics. A great subreddit to discuss analysis of data, learning of skills and implementation of web analytics.
+### Analytics Services
+* [Adobe Analytics](https://business.adobe.com/products/analytics/adobe-analytics.html) - Adobe Analytics lets you mix, match, and analyze data from any digital point in the customer journey. With in-depth analysis, versatile reporting, and predictive intelligence, you get the insightful foundation you need to build better customer experiences.
+* [Google Analytics](https://analytics.google.com) - A web analytics service offered by Google that tracks and reports website traffic, currently as a platform inside the Google Marketing Platform brand. Google launched the service in November 2005 after acquiring Urchin.
+   * [Campaign URL Builder](https://ga-dev-tools.web.app/campaign-url-builder/) - This tool allows you to easily add campaign parameters to URLs so you can measure Custom Campaigns in Google Analytics.
+   * [URL Builder for GA](https://raventools.com/marketing-reports/google-analytics/url-builder/) - With the Google Analytics URL Builder, you can easily tag URLs with custom campaign variables and then use an automated reporting tool to keep track of progress and share with clients.
+* [Microsoft Power BI](https://powerbi.microsoft.com/en-us/) - Power BI is an interactive data visualization software product developed by Microsoft with a primary focus on business intelligence.
+* [Tableau](https://www.tableau.com/) - Helps users visualize and understand their data, transforming the way they use data to solve problems.
+   * [Web Data Connectors](https://www.tableau.com/developer/tools/web-data-connector) - Create custom connections to data on the web and make that data available in Tableau.
+ 
+### Custom Dashboards
+It can take hours to pull together manual reports when collecting data from a multitude of sources such as Google Analytics, Facebook Insights, and custom CSV files 😱. This is where custom dashboards come into play. These dashboards (usually SaaS with a monthly/yearly sub) help eliminate the manual work by integrating most or all of your data connections together, allowing you to create and automate beautiful looking, KPI tailored dashboards and reports with minimal effort.
+* [Agency Analytics](https://agencyanalytics.com/) - Monitor all of your client's marketing channels in one seamless dashboard. All fully branded for your agency. Give clients access to the interface or app as if you built the platform in-house.
+* [Dash This](https://dashthis.com/) - An automated marketing reporting tool created to help marketers save hours of manual work by integrating numerous APIs into one customized web analytics dashboard.
+* [Databox](https://databox.com/) - Connect all of your data in one place, visualize performance trends, monitor progress toward your goals, make more informed decisions, collaborate and report as you go with custom views and deep-dives for each function in your organization. 
+* [Geckoboard](https://www.geckoboard.com/) - No hassle professional KPI dashboards. Features over 80 integrations that you can build into a real-time dashboard.
+* [Google Data Studio](https://datastudio.withgoogle.com/) - Unlock the power of your data with interactive dashboards and automated reports that inspire smarter business decisions.
+* [Klipfolio](https://www.klipfolio.com/) - From custom dashboards and reports to self-serve exploration and analysis, this SaaS helps you centralize data and gives you the power to make decisions with confidence.
+
+## Testing
+An important aspect of digital marketing, __testing__ gives you the ability to compare ad copy, hero images, personalization, UX, etc. to see what resonates best with your visitors. Have you ever heard the old adage "Always Be Selling?"... ours is "Always Be Testing".
+### Testing Platforms
+* [Google Optimize](https://optimize.google.com/) - Offers A/B testing, website testing & personalization tools for small businesses to help deliver engaging customer experiences. Formerly known as Google Website Optimizer.
 * [Optimizely](https://www.optimizely.com/) - Provides A/B testing and multivariate testing tools, website personalization, and feature toggle capabilities, as well as web content management and digital commerce.
-### A/B Testing Tools
+### Testing Tools
 * [AB testing calculator](https://www.surveymonkey.com/mp/ab-testing-significance-calculator/) - Calculate statistical significance. In the context of AB testing experiments, statistical significance is how likely it is that the difference between your experiment’s control version and test version isn’t due to error or random chance. This is important to keep in mind any time you are measuring or testing.
+
+# Uncategorized
 ## Affiliate Management
 __Affiliate Management__ is the act of recruiting new affiliates (or partners) into your program, manage the onboarding process, and ensuring that their audiences are aligned with your target market.
 ### Affiliate Management Services
@@ -143,30 +173,7 @@ __Chat Bots__ are a type of software (typically SaaS) that can help customers by
 __Live Chat__ is a form of web-based customer messaging that allows customers to speak directly with a company's representative.
 * [Live Chat](https://www.livechat.com/) - An online customer service software with online chat, help desk software, and web analytics capabilities.
 
-## Data Analytics
 
-__Data Analytics__ is the process of examining datasets to draw conclusions about the information they contain. Such analysis is often used by digital marketers to tell a story of the customer journey and to push data-driven marketing decisions surrounding content, features, and campaign efficacy.
-### Analytics Resources
-* [Cross Validated](https://stats.stackexchange.com/) - A question and answer site for people interested in statistics, machine learning, data analysis, data mining, and data visualization.
-* [Occam's Razor](https://www.kaushik.net/avinash/) - Web analytics blog authored by longtime digital marketing evangelist @google, Avinash Kaushik.
-* [r/Analytics](https://www.reddit.com/r/analytics/) - Dedicated to web analytics, data and business analytics. A great subreddit to discuss analysis of data, learning of skills and implementation of web analytics.
-### Analytics Services
-* [Adobe Analytics](https://business.adobe.com/products/analytics/adobe-analytics.html) - Adobe Analytics lets you mix, match, and analyze data from any digital point in the customer journey. With in-depth analysis, versatile reporting, and predictive intelligence, you get the insightful foundation you need to build better customer experiences.
-* [Google Analytics](https://analytics.google.com) - A web analytics service offered by Google that tracks and reports website traffic, currently as a platform inside the Google Marketing Platform brand. Google launched the service in November 2005 after acquiring Urchin.
-   * [Campaign URL Builder](https://ga-dev-tools.web.app/campaign-url-builder/) - This tool allows you to easily add campaign parameters to URLs so you can measure Custom Campaigns in Google Analytics.
-   * [URL Builder for GA](https://raventools.com/marketing-reports/google-analytics/url-builder/) - With the Google Analytics URL Builder, you can easily tag URLs with custom campaign variables and then use an automated reporting tool to keep track of progress and share with clients.
-* [Microsoft Power BI](https://powerbi.microsoft.com/en-us/) - Power BI is an interactive data visualization software product developed by Microsoft with a primary focus on business intelligence.
-* [Tableau](https://www.tableau.com/) - Helps users visualize and understand their data, transforming the way they use data to solve problems.
-   * [Web Data Connectors](https://www.tableau.com/developer/tools/web-data-connector) - Create custom connections to data on the web and make that data available in Tableau.
- 
-### Custom Dashboards
-It can take hours to pull together manual reports when collecting data from a multitude of sources such as Google Analytics, Facebook Insights, and custom CSV files 😱. This is where custom dashboards come into play. These dashboards (usually SaaS with a monthly/yearly sub) help eliminate the manual work by integrating most or all of your data connections together, allowing you to create and automate beautiful looking, KPI tailored dashboards and reports with minimal effort.
-* [Agency Analytics](https://agencyanalytics.com/) - Monitor all of your client's marketing channels in one seamless dashboard. All fully branded for your agency. Give clients access to the interface or app as if you built the platform in-house.
-* [Dash This](https://dashthis.com/) - An automated marketing reporting tool created to help marketers save hours of manual work by integrating numerous APIs into one customized web analytics dashboard.
-* [Databox](https://databox.com/) - Connect all of your data in one place, visualize performance trends, monitor progress toward your goals, make more informed decisions, collaborate and report as you go with custom views and deep-dives for each function in your organization. 
-* [Geckoboard](https://www.geckoboard.com/) - No hassle professional KPI dashboards. Features over 80 integrations that you can build into a real-time dashboard.
-* [Google Data Studio](https://datastudio.withgoogle.com/) - Unlock the power of your data with interactive dashboards and automated reports that inspire smarter business decisions.
-* [Klipfolio](https://www.klipfolio.com/) - From custom dashboards and reports to self-serve exploration and analysis, this SaaS helps you centralize data and gives you the power to make decisions with confidence.
 ## Email Marketing
 * [Constant Contact](https://www.constantcontact.com/) - Deliver stunning emails and a whole lot more. Attract new customers and boost sales with their complete, easy-to-use digital marketing suite.
 * [Mailchimp](https://mailchimp.com/) - Grow your business on your terms with Mailchimp's All-In-One marketing, automation & email marketing platform.
