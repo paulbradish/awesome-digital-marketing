@@ -45,6 +45,8 @@ Now that that's out of the way... on to the list!
      * [A/B Tools](https://github.com/paulbradish/awesome-digital-marketing/#ab-testing-tools)
   * [Affiliate Management](https://github.com/paulbradish/awesome-digital-marketing/#affiliate-management)
      * [Management Services](https://github.com/paulbradish/awesome-digital-marketing/#affiliate-management-services) 
+  * [Automation](https://github.com/paulbradish/awesome-digital-marketing/#automation)   
+     * [Digital Automation](https://github.com/paulbradish/awesome-digital-marketing/#digital-automation)
   * [Content Marketing](https://github.com/paulbradish/awesome-digital-marketing/#content-marketing)
      * [Content Research](https://github.com/paulbradish/awesome-digital-marketing/#content-research)  
      * [Content Writing](https://github.com/paulbradish/awesome-digital-marketing/#content-writing)
@@ -109,7 +111,9 @@ Now that that's out of the way... on to the list!
 __Affiliate Management__ is the act of recruiting new affiliates (or partners) into your program, manage the onboarding process, and ensuring that their audiences are aligned with your target market.
 ### Affiliate Management Services
 * [PartnerStack](https://partnerstack.com/) - Helps you recruit, engage, and scale your entire ecosystem of partners — from affiliates to referral and reseller partners.
-
+## Automation
+### Digital Automation
+* [If This Then That (IFTTT)](https://ifttt.com/) - Connect, integrate, and automate. Founded on the belief that every thing tech works better together, IF configured correctly you can automate some otherwise boring marketing and automation tasks.  
 ## Content Marketing
 ### Content Research
 * [Also Asked](https://alsoasked.com/) - A great tool for getting to grips with the breadth of topical research. It unearths troves of data, in an effective and easy to use way.
