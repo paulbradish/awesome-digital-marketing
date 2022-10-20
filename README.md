@@ -5,7 +5,7 @@
 <br />
 <a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg" alt="Awesome List"></a>&nbsp<a href="https://github.com/paulbradish/awesome-digital-marketing/blob/main/README.md"><img alt="GitHub Commits" src="https://img.shields.io/github/commit-activity/m/paulbradish/awesome-digital-marketing?style=flat-square"></a>&nbsp<a href="https://github.com/paulbradish/awesome-digital-marketing/blob/main/README.md"><img alt="MIT License" src="https://img.shields.io/github/license/paulbradish/awesome-digital-marketing?style=flat-square"></a></sup></p>
 
-💎  __awesome-digital-marketing__ is an  list that curates best in class digital marketing blogs, guides, resources, scripts, services, software and more for today's digital marketing professional. This is not a fixed list. The intention is for it to be expanded upon and pruned often.
+💎  __awesome-digital-marketing__ is a  a carefully curated list of best in class digital marketing blogs, guides, resources, scripts, services, software and more for today's marketing professional.
 
 ### Who Is This List For?
 
@@ -333,6 +333,6 @@ __Programming languages__ that are commonly used in front-end web design and bac
   
 ### Finally...
 
-I hope this list helps point you in the right direction, but I cannot stress this enough: ___don't take it (or anything you read online) verbatim.___ Use it as a resource only and do your own research. When vetting services and software especially, using an [evaluation matrix](https://www.google.com/search?q=evaluation+matrix) is an effective way verify that you're making the right choice.
+I hope this list helps point you in the right direction, but I cannot stress this enough: ___don't take it (or anything you read online) verbatim.___ Use it as a resource only to compliment your own research. When vetting services and software especially, using an [evaluation matrix](https://www.google.com/search?q=evaluation+matrix) is an effective way verify that you're making the right choice.
 
-If you do find this awesome list useful, please share it with others! ☮️
+If you do find this awesome list useful, please ⭐ and share it with others! ☮️
