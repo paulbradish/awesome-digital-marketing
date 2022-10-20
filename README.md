@@ -64,15 +64,17 @@ Now that that's out of the way... on to the list!
   * [Market Research](https://github.com/paulbradish/awesome-digital-marketing/#market-research)
   * [Public Relations](https://github.com/paulbradish/awesome-digital-marketing/#public-relations)
      * [Press Release Distribution](https://github.com/paulbradish/awesome-digital-marketing/#press-release-distribution)
-  * [Search Engine Optimization (SEO)](https://github.com/paulbradish/awesome-digital-marketing/#search-engine-optimization-seo)
-      * [SEO Articles](https://github.com/paulbradish/awesome-digital-marketing/#seo-articles)
-      * [SEO Guides](https://github.com/paulbradish/awesome-digital-marketing/#seo-guides)
-      * [SEO Resources](https://github.com/paulbradish/awesome-digital-marketing/#seo-resources)
-      * [SEO Software (Desktop)](https://github.com/paulbradish/awesome-digital-marketing/#seo-software-desktop)
-      * [SEO Software (SaaS)](https://github.com/paulbradish/awesome-digital-marketing/#seo-software-saas)    
-  * [Search Engine Marketing (SEM)](https://github.com/paulbradish/awesome-digital-marketing/#search-engine-marketing-sem)
-      * [Paid Search Platforms](https://github.com/paulbradish/awesome-digital-marketing/#paid-search-platforms)
-      * [PPC Software (SaaS)](https://github.com/paulbradish/awesome-digital-marketing/#ppc-software-saas)
+  * [Search](https://github.com/paulbradish/awesome-digital-marketing/#search) 
+     * [Keyword Research](https://github.com/paulbradish/awesome-digital-marketing/#keyword-research) 
+     * [Organic Search](https://github.com/paulbradish/awesome-digital-marketing/#organic-search)
+        * [SEO Articles](https://github.com/paulbradish/awesome-digital-marketing/#seo-articles)
+        * [SEO Guides](https://github.com/paulbradish/awesome-digital-marketing/#seo-guides)
+        * [SEO Resources](https://github.com/paulbradish/awesome-digital-marketing/#seo-resources)
+        * [SEO Software (Desktop)](https://github.com/paulbradish/awesome-digital-marketing/#seo-software-desktop)
+        * [SEO Software (SaaS)](https://github.com/paulbradish/awesome-digital-marketing/#seo-software-saas)    
+     * [Paid Search](https://github.com/paulbradish/awesome-digital-marketing/#paid-search)
+        * [Paid Search Platforms](https://github.com/paulbradish/awesome-digital-marketing/#paid-search-platforms)
+        * [PPC Software (SaaS)](https://github.com/paulbradish/awesome-digital-marketing/#ppc-software-saas)
   * [Skills Training](https://github.com/paulbradish/awesome-digital-marketing/#skills-training)
      * [Online Courses](https://github.com/paulbradish/awesome-digital-marketing/#online-courses)
   * [Social Media Marketing (SMM)](https://github.com/paulbradish/awesome-digital-marketing/#social-media-marketing-smm)
@@ -188,9 +190,25 @@ __Live Chat__ is a form of web-based customer messaging that allows customers to
 You've written a killer __Press Release__ and now you need it to make a splash. Enter PR distribution services. For a *relatively* nominal fee, they will host and distribute your press release to their large networks of IRL journalists and news sites in an automated, scalable fashion.
 * [Cision PRWeb](https://service.prweb.com/) - Reach the right audiences and gain more media visibility with Cision PR Newswire, the industry's largest, most trusted press release distribution network. 
 * [Newswire](https://www.newswire.com/) - Delivers press release distribution and press release campaigns by leveraging earned media outreach, SEO traffic and email marketing through campaign automation to help businesses land impactful media coverage, drive website traffic, generate leads and grow brand awareness.
-## Search Engine Marketing (SEM)
 
-## Search Engine Optimization (SEO)
+# Search
+
+## Keyword Research
+* Tools
+    * [Extract Text From Image](https://www.editpad.org/tool/extract-text-from-image) - This image to Text Converter uses algorithms to extract text from images, and is a huge timesaver when you find interesting text within an image and would like to check the search volume or copy for later.
+    * [Google Ads Keyword Planner](https://ads.google.com/home/tools/keyword-planner/) - You can use this free tool to discover new keywords related to your business and see estimates of the searches they receive and the cost to target them.  
+
+## Paid Search
+Also known as __Paid Search__, SEM is a commonly used method to quickly increase the visibility of a website in search engine results pages (SERPs) by paying for ad placement on specific keywords and search phrases.
+
+### Paid Search Platforms
+* Bing Ads
+* Google Ads
+  
+### Paid Search Software (SaaS)
+ * [MarinOne](https://www.marinsoftware.com/solutions/paid-search) - Identify growth opportunities and maximize revenue across Google, Microsoft, Apple Search Ads, and more. Leverage audience, revenue, and contextual data from any source to drive campaign performance and growth.
+
+## Organic Search
 __Search Engine Optimization__ is the process of improving the quality and quantity of organic traffic to a website or page from search engines such as Google & Bing. SEO specifically targets "unpaid" traffic from SERPs (search engine result pages) rather than direct, paid, social or referral sources.
 
 ### SEO Articles
@@ -240,15 +258,6 @@ __Search Engine Optimization__ is the process of improving the quality and quant
 * [SpyFu](https://www.spyfu.com/seo/overview) - Study competitors to help craft your plan by seeing what types of pages link to them. Also great for finding similar sites to keep on your radar and avoid any organic SERP flaws exposed by Google core updates to competition.
 * [Ubersuggest](https://neilpatel.com/ubersuggest/) - Allows you to get insight into the strategies that are working for others in your market so you can adopt them, improve them, and gain an edge.
 
-## Search Engine Marketing (SEM)
-Also known as __Paid Search__, SEM is a commonly used method to quickly increase the visibility of a website in search engine results pages (SERPs) by paying for ad placement on specific keywords and search phrases.
-### Paid Search Platforms
-* Bing Ads
-* Google Ads
-  * Tools
-    * [Google Ads Keyword Planner](https://ads.google.com/home/tools/keyword-planner/) - You can use this free tool to discover new keywords related to your business and see estimates of the searches they receive and the cost to target them.  
-### PPC Software (SaaS)
- * [MarinOne](https://www.marinsoftware.com/solutions/paid-search) - Identify growth opportunities and maximize revenue across Google, Microsoft, Apple Search Ads, and more. Leverage audience, revenue, and contextual data from any source to drive campaign performance and growth.
 
 ## Skills Training
 The digital marketing landscape changes quickly which is why it's important to consistently focus on __Skills Training__ so you don't get left behind.
