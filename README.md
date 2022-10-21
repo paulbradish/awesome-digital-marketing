@@ -107,7 +107,7 @@ Now that that's out of the way... on to the list!
 - - - -
 # Analytics
 ## Data Analytics
-📊 __Data Analytics__ is the process of examining datasets to draw conclusions about the information they contain. Data analysis is often used by digital marketers to tell a story of the customer journey and to push data-driven marketing decisions surrounding content, features, and campaign efficacy.
+📈 __Data Analytics__ is the process of examining datasets to draw conclusions about the information they contain. Data analysis is often used by digital marketers to tell a story of the customer journey and to push data-driven marketing decisions surrounding content, features, and campaign efficacy.
 ### Analytics Resources
 * [Cross Validated](https://stats.stackexchange.com/) - A question and answer site for people interested in statistics, machine learning, data analysis, data mining, and data visualization.
 * [Occam's Razor](https://www.kaushik.net/avinash/) - Web analytics blog authored by longtime digital marketing evangelist @google, Avinash Kaushik.
@@ -117,26 +117,43 @@ Now that that's out of the way... on to the list!
 * [Google Analytics](https://analytics.google.com) - A web analytics service offered by Google that tracks and reports website traffic, currently as a platform inside the Google Marketing Platform brand. Google launched the service in November 2005 after acquiring Urchin.
    * [Campaign URL Builder](https://ga-dev-tools.web.app/campaign-url-builder/) - This tool allows you to easily add campaign parameters to URLs so you can measure Custom Campaigns in Google Analytics.
    * [URL Builder for GA](https://raventools.com/marketing-reports/google-analytics/url-builder/) - With the Google Analytics URL Builder, you can easily tag URLs with custom campaign variables and then use an automated reporting tool to keep track of progress and share with clients.
-* [Microsoft Power BI](https://powerbi.microsoft.com/en-us/) - Power BI is an interactive data visualization software product developed by Microsoft with a primary focus on business intelligence.
-* [Tableau](https://www.tableau.com/) - Helps users visualize and understand their data, transforming the way they use data to solve problems.
-   * [Web Data Connectors](https://www.tableau.com/developer/tools/web-data-connector) - Create custom connections to data on the web and make that data available in Tableau.
  
-### Custom Dashboards
-It can take hours to pull together manual reports when collecting data from a multitude of sources such as Google Analytics, Facebook Insights, and custom CSV files 😱. This is where custom dashboards come into play. These dashboards (usually SaaS with a monthly/yearly sub) help eliminate the manual work by integrating most or all of your data connections together, allowing you to create and automate beautiful looking, KPI tailored dashboards and reports with minimal effort.
+### Analytics Tools
+* [Combinations & Permutations Generator](https://numbergenerator.org/permutations-and-combinations) - Great for when you need to come up with all possibilities within a defined alphanumeric sequence.
+
+## Custom Dashboards
+📊 Do you have to distill multiple data sources down into one single report? This is the bane of many a digital analyst and is enough to make one cry. No fear! This is where custom dashboards come into play. These dashboards (usually SaaS with a monthly/yearly sub) help eliminate the manual work by integrating most or all of your data connections together, allowing you to create and automate beautiful looking, KPI tailored dashboards and reports with minimal effort.
 * [Agency Analytics](https://agencyanalytics.com/) - Monitor all of your client's marketing channels in one seamless dashboard. All fully branded for your agency. Give clients access to the interface or app as if you built the platform in-house.
 * [Dash This](https://dashthis.com/) - An automated marketing reporting tool created to help marketers save hours of manual work by integrating numerous APIs into one customized web analytics dashboard.
 * [Databox](https://databox.com/) - Connect all of your data in one place, visualize performance trends, monitor progress toward your goals, make more informed decisions, collaborate and report as you go with custom views and deep-dives for each function in your organization. 
 * [Geckoboard](https://www.geckoboard.com/) - No hassle professional KPI dashboards. Features over 80 integrations that you can build into a real-time dashboard.
-* [Google Data Studio](https://datastudio.withgoogle.com/) - Unlock the power of your data with interactive dashboards and automated reports that inspire smarter business decisions.
 * [Klipfolio](https://www.klipfolio.com/) - From custom dashboards and reports to self-serve exploration and analysis, this SaaS helps you centralize data and gives you the power to make decisions with confidence.
 
 ## Testing
-🧪An important aspect of digital marketing, __testing__ gives you the ability to compare ad copy, hero images, personalization, UX, etc. to see what resonates best with your visitors. Have you ever heard the old adage _"Always Be Closing?"_... ours is _"Always Be Testing"_.
+🧪 An important aspect of digital marketing, __testing__ gives you the ability to compare ad copy, hero images, personalization, UX, etc. to see what resonates best with your visitors. Have you ever heard the old adage _"Always Be Closing?"_... ours is _"Always Be Testing"_.
 ### Testing Platforms
 * [Google Optimize](https://optimize.google.com/) - Offers A/B testing, website testing & personalization tools for small businesses to help deliver engaging customer experiences. Formerly known as Google Website Optimizer.
 * [Optimizely](https://www.optimizely.com/) - Provides A/B testing and multivariate testing tools, website personalization, and feature toggle capabilities, as well as web content management and digital commerce.
 ### Testing Tools
 * [AB testing calculator](https://www.surveymonkey.com/mp/ab-testing-significance-calculator/) - Calculate statistical significance. In the context of AB testing experiments, statistical significance is how likely it is that the difference between your experiment’s control version and test version isn’t due to error or random chance. This is important to keep in mind any time you are measuring or testing.
+
+## Visualization
+🌌 __Data Visualization__ is simply _(or not so simply)_ the graphic representation of data and information. In my experience, it is an efficient and effective way of communicating and presenting data to others in an easier to understand fashion.
+
+### Visualization Articles
+* [Choosing the Right Tools for Data Visualization](https://medium.com/nightingale/choosing-the-right-tools-for-data-visualization-4bab40f53cdc)
+* [Little Known Ways to Make your Data Visualization Awesome](https://towardsdatascience.com/little-known-ways-to-make-your-data-visualization-awesome-890d71b6e365)
+
+### Visualization Tools
+__Data Visualization Tools__ are desktop software or SaaS that render information in a visual format for data analysis purposes. Such tools make it far easier to understand and work with large data sets. 
+* [Datawrapper](https://www.datawrapper.de/) - Enrich your stories with charts, maps, and tables.
+* [Infogram](https://infogram.com/) - An intuitive visualization tool that empowers people and teams to create beautiful, engaging, and interactive infographs.
+* [Flourish](https://flourish.studio/) - Beautiful and easy data visualization and storytelling.
+* [Looker Studio (Google Data Studio)](https://datastudio.google.com/) - Turns your data into fully customizable informative reports and dashboards that are easy to read and share.
+* [Microsoft Power BI](https://powerbi.microsoft.com/en-us/) - Power BI is an interactive data visualization software product developed by Microsoft with a primary focus on business intelligence.
+* [Tableau](https://www.tableau.com/) - Helps users visualize and understand their data, transforming the way they use data to solve problems.
+   * [Web Data Connectors](https://www.tableau.com/developer/tools/web-data-connector) - Create custom connections to data on the web and make that data available in Tableau.
+* [WordCloud Generator](https://monkeylearn.com/word-cloud) - Display words and phrases based on frequency and relevance. Word clouds provide you with quick and simple visual insights that can lead to more in-depth analyses.
 
 # Uncategorized
 ## Affiliate Management
@@ -194,9 +211,10 @@ You've written a killer __Press Release__ and now you need it to make a splash. 
 # Search
 
 ## Keyword Research
-* Tools
+* Keyword Tools
     * [Extract Text From Image](https://www.editpad.org/tool/extract-text-from-image) - This image to Text Converter uses algorithms to extract text from images, and is a huge timesaver when you find interesting text within an image and would like to check the search volume or copy for later.
     * [Google Ads Keyword Planner](https://ads.google.com/home/tools/keyword-planner/) - You can use this free tool to discover new keywords related to your business and see estimates of the searches they receive and the cost to target them.  
+    * [SearchVolume.io](https://searchvolume.io/) - Get monthly search volume data free. See search volumes for up to 800 keywords at a time.
 
 ## Paid Search
 Also known as __Paid Search__, SEM is a commonly used method to quickly increase the visibility of a website in search engine results pages (SERPs) by paying for ad placement on specific keywords and search phrases.
@@ -221,6 +239,7 @@ __Search Engine Optimization__ is the process of improving the quality and quant
    * [22 Smart Google SEO Tips for 2022](https://moz.com/blog/smart-google-seo-tips-2022) - SEO expert Cyrus Shepard shares his top 22 tips for successful Google SEO in 2022. Watch to find out what to prioritize and what to look out for in the year ahead!
    * [A Step-by-Step Process for Discovering and Prioritizing the Best Keywords](https://moz.com/blog/discovering-prioritizing-best-keywords-whiteboard-friday) - In this classic Whiteboard Friday, Rand Fishkin dives into an SEO foundation with keyword research.
    * [How to Create 10x Content](https://moz.com/blog/how-to-create-10x-content) - Have you ever tried to create 10x content? It's not easy, is it? Knowing how and where to start can often be the biggest obstacle you'll face. 
+   * [How To Create the Right Meta Description](https://yoast.com/meta-descriptions/) - Search engines use meta descriptions in search results mostly when the searched-for phrase is within the description. So optimizing it is crucial for on-page SEO. This post will show you the characteristics of a good meta description and how Yoast SEO can help you with it.
 * [What Is SEO / Search Engine Optimization?](https://searchengineland.com/guide/what-is-seo) - Get started learning all about SEO from one of the industry's most trusted sources, Search Engine Land. Review basics of search engine optimization, ranking factors & more.
 
 ### SEO Resources
