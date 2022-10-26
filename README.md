@@ -270,6 +270,9 @@ __Search Engine Optimization__ is the process of improving the quality and quant
    * [Scrapebox Guides Tuts Loopline (YouTube)](https://www.youtube.com/user/looplinescrapebox) 
    * [The Unofficial Scrapebox FAQ](https://scrapeboxfaq.com/)
    * [Ultimate Guide to White Hat SEO using Scrapebox](https://www.onely.com/blog/guide-white-hat-seo-scrapebox/)
+ * [Site Analyzer](https://site-analyzer.pro/) - Scan your websites and get detailed information about each page. This tool will help you identify and fix technical SEO errors and is an excellent free alternative to Screaming Frog.
+ * [Xenu Link Sleuth](https://home.snafu.de/tilman/xenulink.html) - Old but good. Checks web sites for all types of broken links. It displays a continously updated list of URLs which you can sort by different criteria. A report can be produced at any time.
+ 
 ### SEO Software (SaaS)
 * [Ahrefs](https://ahrefs.com/) - Everything you need to rank higher & get more traffic.
    * [Ahrefs Academy](https://ahrefs.com/academy) - The best tools and data are worth nothing if you don’t know how to use them.
