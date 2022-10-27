@@ -87,8 +87,10 @@ Now that that's out of the way... on to the list!
         * [PPC Software (SaaS)](https://github.com/paulbradish/awesome-digital-marketing/#ppc-software-saas)
   * [Skills Training](https://github.com/paulbradish/awesome-digital-marketing/#skills-training)
      * [Online Courses](https://github.com/paulbradish/awesome-digital-marketing/#online-courses)
-  * [Social Media Marketing (SMM)](https://github.com/paulbradish/awesome-digital-marketing/#social-media-marketing-smm)
-     * [Social Networks & Communities](https://github.com/paulbradish/awesome-digital-marketing/#networks--communities)
+  * [Social Media](https://github.com/paulbradish/awesome-digital-marketing/#social-media)
+     * [Social Management](https://github.com/paulbradish/awesome-digital-marketing/#social-management)
+     * [Social Networks](https://github.com/paulbradish/awesome-digital-marketing/#social-networks)
+     * [Social Resources](https://github.com/paulbradish/awesome-digital-marketing/#social-resources)
   * [Video](https://github.com/paulbradish/awesome-digital-marketing/#video)
      * [Video Sharing](https://github.com/paulbradish/awesome-digital-marketing/#video-sharing)
   * [Web Development](https://github.com/paulbradish/awesome-digital-marketing/#web-development)
@@ -329,15 +331,21 @@ The digital marketing landscape changes quickly which is why it's important to c
 * [Skillshop (Google)](https://skillshop.exceedlms.com/student/catalog) - The one-stop-shop for every kind of learner who wants to succeed with Google professional tools and solutions. _This is where official Google certifications are issued._
 * [Udemy](https://www.udemy.com/) - A leading destination for online courses that empowers you to grow professionally and personally.
 
-## Social Media Marketing (SMM)
-### Networks & Communities
-__Social Media Networks & Communities__ geared towards the digital marketer. I'm leaving a number of them off as there are communities everywhere (even on Facebook), in favor of those that are more consistent.
+## Social Media
+### Social Management
+* [Hootsuite](https://www.hootsuite.com/) - Save time and grow on social with Hootsuite, your all-in-one social media scheduler, manager, and analytics secret weapon.
+
+### Social Networks
+__Social Media Networks__ geared towards the digital marketer. I'm leaving a number of them off as there are communities everywhere (even on Facebook), in favor of those that are more consistent.
 * [LinkedIn](https://www.linkedin.com/) - Manage your professional identity. Build and engage with your professional network. Access knowledge, insights and opportunities.
 * [Quora](https://www.quora.com/) - A place to gain and share knowledge. It's a platform to ask questions and connect with people who contribute unique insights and quality answers.
    * [11 Ways To Answer Questions On Quora And Generate Leads](https://ladder.io/blog/quora-lead-generation)
 * [Reddit](https://www.reddit.com/) - A network of communities where people can dive into their interests, hobbies and passions. There&#x27;s a community for whatever you're interested in on Reddit.
 * [Stack Overflow](https://stackoverflow.com/) - The largest, most trusted online community for developers. This can be a great resource for technical digital marketing and SEO questions. I know that I've ended up here more than a few times.
 * [Twitter](https://twitter.com/) - The (un)official digital marketing community hangout.
+
+### Social Resources
+* [2022 Social Media Image Sizes for All Networks [CHEATSHEET]](https://blog.hootsuite.com/social-media-image-sizes-guide/#LinkedIn_image_sizes) - The most recent image size specifications for different social media networks, including Instagram, Twitter, Facebook, LinkedIn, and more.
 
 ## Video
 ### Video Sharing
