@@ -40,15 +40,20 @@ Now that that's out of the way... on to the list!
   
 # 📚 Table of Contents
 
-  * [Analytics](https://github.com/paulbradish/awesome-digital-marketing/#analytics)
+  * [Analytics](https://github.com/paulbradish/awesome-digital-marketing/#one-analytics)
      * [Data Analytics](https://github.com/paulbradish/awesome-digital-marketing/#data-analytics)
         * [Analytics Resources](https://github.com/paulbradish/awesome-digital-marketing/#analytics-resources) 
         * [Analytics Services](https://github.com/paulbradish/awesome-digital-marketing/#analytics-services)
         * [Analytics Tools](https://github.com/paulbradish/awesome-digital-marketing/#analytics-tools)
      * [Custom Dashboards](https://github.com/paulbradish/awesome-digital-marketing/#custom-dashboards)
+     * [Tag Management](https://github.com/paulbradish/awesome-digital-marketing/#tag-management)
      * [Testing](https://github.com/paulbradish/awesome-digital-marketing/#testing)
         * [Testing Platforms](https://github.com/paulbradish/awesome-digital-marketing/#testing-platforms)
         * [Testing Tools](https://github.com/paulbradish/awesome-digital-marketing/#testing-tools) 
+     * [URL Management](https://github.com/paulbradish/awesome-digital-marketing/#url-management)
+        * [Link in Bio](https://github.com/paulbradish/awesome-digital-marketing/#link-in-bio)
+        * [QR Codes](https://github.com/paulbradish/awesome-digital-marketing/#qr-codes)
+        * [URL Shorteners](https://github.com/paulbradish/awesome-digital-marketing/#url-shorteners)
       * [Visualization](https://github.com/paulbradish/awesome-digital-marketing/#visualization)
         * [Visualization Articles](https://github.com/paulbradish/awesome-digital-marketing/#visualization-articles)
         * [Visualization Tools](https://github.com/paulbradish/awesome-digital-marketing/#visualization-tools)
@@ -68,9 +73,10 @@ Now that that's out of the way... on to the list!
   * [Market Research](https://github.com/paulbradish/awesome-digital-marketing/#market-research)
   * [Public Relations](https://github.com/paulbradish/awesome-digital-marketing/#public-relations)
      * [Press Release Distribution](https://github.com/paulbradish/awesome-digital-marketing/#press-release-distribution)
-  * [Search](https://github.com/paulbradish/awesome-digital-marketing/#search) 
+  * [Search](https://github.com/paulbradish/awesome-digital-marketing/#two-search) 
+     * [Engines](https://github.com/paulbradish/awesome-digital-marketing/#engines-search) 
      * [Keyword Research](https://github.com/paulbradish/awesome-digital-marketing/#keyword-research) 
-     * [Organic Search](https://github.com/paulbradish/awesome-digital-marketing/#organic-search)
+     * [Organic Search](https://github.com/paulbradish/awesome-digital-marketing/#organic-search) 
         * [SEO Articles](https://github.com/paulbradish/awesome-digital-marketing/#seo-articles)
         * [SEO Guides](https://github.com/paulbradish/awesome-digital-marketing/#seo-guides)
         * [SEO Resources](https://github.com/paulbradish/awesome-digital-marketing/#seo-resources)
@@ -83,11 +89,6 @@ Now that that's out of the way... on to the list!
      * [Online Courses](https://github.com/paulbradish/awesome-digital-marketing/#online-courses)
   * [Social Media Marketing (SMM)](https://github.com/paulbradish/awesome-digital-marketing/#social-media-marketing-smm)
      * [Social Networks & Communities](https://github.com/paulbradish/awesome-digital-marketing/#networks--communities)
-  * [Tag Management](https://github.com/paulbradish/awesome-digital-marketing/#tag-management)
-  * [URL Management](https://github.com/paulbradish/awesome-digital-marketing/#url-management)
-     * [Link in Bio](https://github.com/paulbradish/awesome-digital-marketing/#link-in-bio)
-     * [QR Codes](https://github.com/paulbradish/awesome-digital-marketing/#qr-codes)
-     * [URL Shorteners](https://github.com/paulbradish/awesome-digital-marketing/#url-shorteners)
   * [Video](https://github.com/paulbradish/awesome-digital-marketing/#video)
      * [Video Sharing](https://github.com/paulbradish/awesome-digital-marketing/#video-sharing)
   * [Web Development](https://github.com/paulbradish/awesome-digital-marketing/#web-development)
@@ -102,14 +103,13 @@ Now that that's out of the way... on to the list!
   * Domain Name Valuation
   * Lead Generation
   * Schema Markup
-  * Search Engine Marketing (SEM)
   * SMS Marketing
   * Sitemaps
   * Stock Photography
   * Task Managers
   
 - - - -
-# Analytics
+# :one: Analytics
 ## Data Analytics
 📈 __Data Analytics__ is the process of examining datasets to draw conclusions about the information they contain. Data analysis is often used by digital marketers to tell a story of the customer journey and to push data-driven marketing decisions surrounding content, features, and campaign efficacy.
 ### Analytics Resources
@@ -132,7 +132,11 @@ Now that that's out of the way... on to the list!
 * [Databox](https://databox.com/) - Connect all of your data in one place, visualize performance trends, monitor progress toward your goals, make more informed decisions, collaborate and report as you go with custom views and deep-dives for each function in your organization. 
 * [Geckoboard](https://www.geckoboard.com/) - No hassle professional KPI dashboards. Features over 80 integrations that you can build into a real-time dashboard.
 * [Klipfolio](https://www.klipfolio.com/) - From custom dashboards and reports to self-serve exploration and analysis, this SaaS helps you centralize data and gives you the power to make decisions with confidence.
-
+## Tag Management
+__Tag Management Systems__ help to manage the lifecycle of digital marketing tags, used to track activity on digital properties, such as websites and web applications. These are especially useful because they allow you do bypass having pull in developers and agencies when you want to add or modify a 3rd party snippet or tag.
+* [Adobe Experience Platform Launch](https://business.adobe.com/products/experience-platform/launch.html) - A next-generation tag management system that unifies your marketing ecosystem. It breaks down silos and bottlenecks by connecting disparate technologies so you can deliver standout digital experiences.
+* [Google Tag Manager](https://tagmanager.google.com/) - Allows you to quickly and easily update measurement codes and related code fragments collectively known as tags on your website or mobile app.
+* [Tealium](https://tealium.com/) - Tealium iQ enables you to manage tags across all digital touch points, including web sites, mobile apps and online videos all from the same intuitive user interface.
 ## Testing
 🧪 An important aspect of digital marketing, __testing__ gives you the ability to compare ad copy, hero images, personalization, UX, etc. to see what resonates best with your visitors. Have you ever heard the old adage _"Always Be Closing?"_... ours is _"Always Be Testing"_.
 ### Testing Platforms
@@ -140,7 +144,18 @@ Now that that's out of the way... on to the list!
 * [Optimizely](https://www.optimizely.com/) - Provides A/B testing and multivariate testing tools, website personalization, and feature toggle capabilities, as well as web content management and digital commerce.
 ### Testing Tools
 * [AB testing calculator](https://www.surveymonkey.com/mp/ab-testing-significance-calculator/) - Calculate statistical significance. In the context of AB testing experiments, statistical significance is how likely it is that the difference between your experiment’s control version and test version isn’t due to error or random chance. This is important to keep in mind any time you are measuring or testing.
-
+## URL Management
+### Link in Bio
+* [Linktree](https://linktr.ee/) - Link to everything you create, share and sell online. All from the one bio link.
+### QR Codes
+__QR (Quick Response) Codes__ are two-dimensional code originally intended for the automotive industry. While the tech lay dormant for a number of years, due to solid error correction and the rise of mobile phones the use cases spiked and QR codes are now frequently utilized across numerous industries, including marketing.
+* [Adobe QR Code Generator](https://express.adobe.com/tools/qr-code-generator/) - Make a QR code for free that you can use in your branding, marketing, and more to easily direct customers to your website.
+* [QR Code Generator](https://www.qr-code-generator.com/) - A QR code generator powered by Bitly. It contains all of the features you would expect.
+* [QR Code Monkey](https://www.qrcode-monkey.com/) - Create custom QR Codes with Logo, Color and Design for free. This QR Code Maker offers free vector formats for better print quality.
+### URL Shorteners
+__URL shorteners__, also known as a link shorteners, are services designed to turn long and complicated URLs into shorter, easier to type and more memorable URLs. These services are not to be underestimated and can have a dramatic impact on your marketing efforts- especially when branded and/or customized. (ex. example.to/short versus www.example.com/articles/howto/how-to-shorten-a-url/)
+* [Bitly](https://bitly.com/) - Build links that are more readable, trustworthy and likely to be clicked.
+* [TinyURL](https://tinyurl.com/) - The original URL shortener that shortens your unwieldly links into more manageable and useable URLs. 
 ## Visualization
 🌌 __Data Visualization__ is simply _(or not so simply)_ the graphic representation of data and information. In my experience, it is an efficient and effective way of communicating and presenting data to others in an easier to understand fashion.
 
@@ -158,6 +173,94 @@ __Data Visualization Tools__ are desktop software or SaaS that render informatio
 * [Tableau](https://www.tableau.com/) - Helps users visualize and understand their data, transforming the way they use data to solve problems.
    * [Web Data Connectors](https://www.tableau.com/developer/tools/web-data-connector) - Create custom connections to data on the web and make that data available in Tableau.
 * [WordCloud Generator](https://monkeylearn.com/word-cloud) - Display words and phrases based on frequency and relevance. Word clouds provide you with quick and simple visual insights that can lead to more in-depth analyses.
+
+# :two: Search
+
+## Engines (Search)
+* [Bing](https://www.bing.com/) - Owned by Microsoft. Previously known as: MSN Search, Windows Live Search and later Live Search. 
+   * [Bing Webmaster Tools](https://www.bing.com/webmasters/about) - Easy to plug-in API solution that websites can call to notify Bing on content updated, allowing instant crawling, indexing and discovery of your site content. 
+ * [DuckDuckGo](https://duckduckgo.com/) - If privacy is your thing, you'll be right at home here. 
+ * __[Google](https://google.com) - No introduction needed.__
+   * Resources
+     * [Core Web Vitals workflows with Google tools](https://web.dev/vitals-tools/) - The finer points of how to combine Google tools to audit, improve and monitor your website effectively.
+   * Tools 
+     * [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) - An open-source, automated tool for improving the quality of web pages. You can run it against any web page, public or requiring authentication. It has audits for performance, accessibility, progressive web apps, SEO and more.
+     * [PageSpeed Insights](https://pagespeed.web.dev/) - Make your web pages fast on all devices
+     * [Search Console](https://search.google.com/search-console/about) - Search Console tools and reports help you measure your site's Search traffic and performance, fix issues, and make your site shine in Google Search results.
+        * [Core Web Vitals Chrome Extension](https://chrome.google.com/webstore/detail/web-vitals/ahfhijdlegdabablpippeagghigmibma) - Because why make it harder on yourself?
+  * International
+       * [Baidu](https://www.baidu.com/) - Chinese search engine.  
+       * [Yandex](https://yandex.com/) - Russian search engine.
+
+## Keyword Research
+* Keyword Tools
+    * [Extract Text From Image](https://www.editpad.org/tool/extract-text-from-image) - This image to Text Converter uses algorithms to extract text from images, and is a huge timesaver when you find interesting text within an image and would like to check the search volume or copy for later.
+    * [Google Ads Keyword Planner](https://ads.google.com/home/tools/keyword-planner/) - You can use this free tool to discover new keywords related to your business and see estimates of the searches they receive and the cost to target them.  
+    * [SearchVolume.io](https://searchvolume.io/) - Get monthly search volume data free. See search volumes for up to 800 keywords at a time.
+
+## Organic Search
+__Search Engine Optimization__ is the process of improving the quality and quantity of organic traffic to a website or page from search engines such as Google & Bing. SEO specifically targets "unpaid" traffic from SERPs (search engine result pages) rather than direct, paid, social or referral sources.
+
+### SEO Articles
+* [How Images Affect SEO: Can Adding a Diagram Really Drive Rankings?](https://www.orbitmedia.com/blog/how-images-improve-seo/)
+* [We Analyzed 4M Google Search Results. Here's What We Learned About Organic CTR](https://backlinko.com/google-ctr-stats)
+
+### SEO Guides
+* [How To Create the Right Meta Description](https://yoast.com/meta-descriptions/)
+* [Moz Whiteboard Fridays](https://moz.com/blog/category/whiteboard-friday) - The most famous video series in all of SEO, Rand Fishkin started filming this series when Moz was a very young company that didn't even sell software. Since then, it's grown to millions of views and the videos have helped trained thousands of SEOs.
+   * [22 Smart Google SEO Tips for 2022](https://moz.com/blog/smart-google-seo-tips-2022) - SEO expert Cyrus Shepard shares his top 22 tips for successful Google SEO in 2022. Watch to find out what to prioritize and what to look out for in the year ahead!
+   * [A Step-by-Step Process for Discovering and Prioritizing the Best Keywords](https://moz.com/blog/discovering-prioritizing-best-keywords-whiteboard-friday) - In this classic Whiteboard Friday, Rand Fishkin dives into an SEO foundation with keyword research.
+   * [How to Create 10x Content](https://moz.com/blog/how-to-create-10x-content) - Have you ever tried to create 10x content? It's not easy, is it? Knowing how and where to start can often be the biggest obstacle you'll face. 
+   * [How To Create the Right Meta Description](https://yoast.com/meta-descriptions/) - Search engines use meta descriptions in search results mostly when the searched-for phrase is within the description. So optimizing it is crucial for on-page SEO. This post will show you the characteristics of a good meta description and how Yoast SEO can help you with it.
+* [What Is SEO / Search Engine Optimization?](https://searchengineland.com/guide/what-is-seo) - Get started learning all about SEO from one of the industry's most trusted sources, Search Engine Land. Review basics of search engine optimization, ranking factors & more.
+
+### SEO Resources
+* Downloads
+  * [The SEO Periodic Table](https://searchengineland.com/seotable) - Since it first debuted in 2011, Search Engine Land’s Periodic Table of SEO Factors has become a globally recognized tool that search professionals have relied on to help them understand the elements essential to a winning SEO strategy.
+* Tools
+  * __Algorithm History__  Google has a long history of famous (an infamous) algorithm updates, search index changes and refreshes. It's important to have a grasp on when new changes are occuring so that you can plan accordingly and relay that information to your team as it's likely you'll see fluctuation in SERPs.
+      * [Google Search ranking updates](https://developers.google.com/search/updates/ranking) - The offical page from Google detailing the the latest ranking updates made to Google Search that are relevant to website owners.
+      * [Moz Google Algorithm Update History](https://moz.com/google-algorithm-change) - A History of Major Google Algorithm Updates from 2000–Present.
+      * [SEJ History of Google Algorithm Updates](https://www.searchenginejournal.com/google-algorithm-history/) - Learn about the biggest and most important Google search algorithm launches, updates, and refreshes of all time – from 2003 to today.
+      * [SEL Google Algorithm Updates](https://searchengineland.com/library/google/google-algorithm-updates) - A history of the major Google search algorithm updates.
+         
+  * __SERP Volatility__ Several pages exist which track daily Search Engine Results Pages (SERPs) Volatility. These reports are useful to correlate and explain sudden, but temporary, fluctuations in organic traffic when caused by minor Google algorithm tweaks, tests, or other internal factors.
+      * [MozCast](https://moz.com/mozcast) - A weather report showing turbulence in the Google algorithm over the previous day (or see the 90-day history below). The hotter and stormier the weather, the more Google's rankings changed.
+      * [Rank Risk Index](https://www.rankranger.com/rank-risk-index) - SERP fluctuations for 10,000+ domains and keywords that RR monitors daily.
+      * [Semrush Sensor](https://www.semrush.com/sensor/) - Measures volatility in search results, tracking down 20+ categories on mobile and desktop and highlighting possible Google Updates.
+### SEO Software (Desktop)
+* [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) - A website crawler that helps you improve onsite SEO, by extracting data & auditing for common SEO issues.
+* [ScrapeBox](https://www.scrapebox.com/) - Described by many users as the Swiss Army Knife of SEO. Don't let the dated UI fool you, people are still finding innovative new uses for ScrapeBox to help with their SEO efforts.
+   * [Scrapebox Guides Tuts Loopline (YouTube)](https://www.youtube.com/user/looplinescrapebox) 
+   * [The Unofficial Scrapebox FAQ](https://scrapeboxfaq.com/)
+   * [Ultimate Guide to White Hat SEO using Scrapebox](https://www.onely.com/blog/guide-white-hat-seo-scrapebox/)
+ * [Site Analyzer](https://site-analyzer.pro/) - Scan your websites and get detailed information about each page. This tool will help you identify and fix technical SEO errors and is an excellent free alternative to Screaming Frog.
+ * [Xenu Link Sleuth](https://home.snafu.de/tilman/xenulink.html) - Old but good. Checks web sites for all types of broken links. It displays a continously updated list of URLs which you can sort by different criteria. A report can be produced at any time.
+ 
+### SEO Software (SaaS)
+* [Ahrefs](https://ahrefs.com/) - Everything you need to rank higher & get more traffic.
+   * [Ahrefs Academy](https://ahrefs.com/academy) - The best tools and data are worth nothing if you don’t know how to use them.
+   * [Ahrefs: The Definitive Guide](https://backlinko.com/ahrefs-guide) - Everything you need to know about Ahrefs link building and SEO software suite. This guide includes a ton of real examples of Ahrefs in action.
+   * [Ahrefs Webmaster Tools](https://ahrefs.com/webmaster-tools) - Improve your website’s SEO performance and get more traffic from search. Free for website owners.
+* [BrightEdge](https://www.brightedge.com/) - A leading enterprise SEO solution and content performance marketing platform, helping customers (typically large corporations in my experience) generate more organic traffic.
+* [Majestic](https://majestic.com/) - Develop backlink strategies with their link intelligence data, build the strong SEO backlink campaigns to drive organic traffic and boost your rankings.
+* [Moz](https://moz.com/) - Best-in-class SEO software for nearly every situation, from all-in-one SEO platform to tools for local SEO, enterprise SERP analytics, and a powerful API.
+* [Semrush](https://www.semrush.com/) - Do SEO, content marketing, competitor research, PPC and social media marketing from just one platform.
+   * [Semrush Academy](https://www.semrush.com/academy/) - Comprised of more than 30 free courses and certification exams — in English, Spanish, and French — that help anyone master new digital marketing skills and enrich their CVs and LinkedIn profiles. 
+   * [What is Semrush? A Complete Guide to Semrush Features, Metrics, and Reporting Dashboards](https://databox.com/what-is-semrush) - What’s Semrush and which features work best for tracking and improving your search rankings? Here’s everything you need to know.
+* [SpyFu](https://www.spyfu.com/seo/overview) - Study competitors to help craft your plan by seeing what types of pages link to them. Also great for finding similar sites to keep on your radar and avoid any organic SERP flaws exposed by Google core updates to competition.
+* [Ubersuggest](https://neilpatel.com/ubersuggest/) - Allows you to get insight into the strategies that are working for others in your market so you can adopt them, improve them, and gain an edge.
+
+
+## Paid Search
+Also known as __Paid Search__, SEM is a commonly used method to quickly increase the visibility of a website in search engine results pages (SERPs) by paying for ad placement on specific keywords and search phrases.
+
+### Paid Search Platforms
+* Bing Ads
+* Google Ads
+  
+### Paid Search Software (SaaS)
+ * [MarinOne](https://www.marinsoftware.com/solutions/paid-search) - Identify growth opportunities and maximize revenue across Google, Microsoft, Apple Search Ads, and more. Leverage audience, revenue, and contextual data from any source to drive campaign performance and growth.
 
 # Uncategorized
 ## Affiliate Management
@@ -216,79 +319,6 @@ You've written a killer __Press Release__ and now you need it to make a splash. 
 * [Cision PRWeb](https://service.prweb.com/) - Reach the right audiences and gain more media visibility with Cision PR Newswire, the industry's largest, most trusted press release distribution network. 
 * [Newswire](https://www.newswire.com/) - Delivers press release distribution and press release campaigns by leveraging earned media outreach, SEO traffic and email marketing through campaign automation to help businesses land impactful media coverage, drive website traffic, generate leads and grow brand awareness.
 
-# Search
-
-## Keyword Research
-* Keyword Tools
-    * [Extract Text From Image](https://www.editpad.org/tool/extract-text-from-image) - This image to Text Converter uses algorithms to extract text from images, and is a huge timesaver when you find interesting text within an image and would like to check the search volume or copy for later.
-    * [Google Ads Keyword Planner](https://ads.google.com/home/tools/keyword-planner/) - You can use this free tool to discover new keywords related to your business and see estimates of the searches they receive and the cost to target them.  
-    * [SearchVolume.io](https://searchvolume.io/) - Get monthly search volume data free. See search volumes for up to 800 keywords at a time.
-
-## Paid Search
-Also known as __Paid Search__, SEM is a commonly used method to quickly increase the visibility of a website in search engine results pages (SERPs) by paying for ad placement on specific keywords and search phrases.
-
-### Paid Search Platforms
-* Bing Ads
-* Google Ads
-  
-### Paid Search Software (SaaS)
- * [MarinOne](https://www.marinsoftware.com/solutions/paid-search) - Identify growth opportunities and maximize revenue across Google, Microsoft, Apple Search Ads, and more. Leverage audience, revenue, and contextual data from any source to drive campaign performance and growth.
-
-## Organic Search
-__Search Engine Optimization__ is the process of improving the quality and quantity of organic traffic to a website or page from search engines such as Google & Bing. SEO specifically targets "unpaid" traffic from SERPs (search engine result pages) rather than direct, paid, social or referral sources.
-
-### SEO Articles
-* [How Images Affect SEO: Can Adding a Diagram Really Drive Rankings?](https://www.orbitmedia.com/blog/how-images-improve-seo/)
-* [We Analyzed 4M Google Search Results. Here's What We Learned About Organic CTR](https://backlinko.com/google-ctr-stats)
-
-### SEO Guides
-* [How To Create the Right Meta Description](https://yoast.com/meta-descriptions/)
-* [Moz Whiteboard Fridays](https://moz.com/blog/category/whiteboard-friday) - The most famous video series in all of SEO, Rand Fishkin started filming this series when Moz was a very young company that didn't even sell software. Since then, it's grown to millions of views and the videos have helped trained thousands of SEOs.
-   * [22 Smart Google SEO Tips for 2022](https://moz.com/blog/smart-google-seo-tips-2022) - SEO expert Cyrus Shepard shares his top 22 tips for successful Google SEO in 2022. Watch to find out what to prioritize and what to look out for in the year ahead!
-   * [A Step-by-Step Process for Discovering and Prioritizing the Best Keywords](https://moz.com/blog/discovering-prioritizing-best-keywords-whiteboard-friday) - In this classic Whiteboard Friday, Rand Fishkin dives into an SEO foundation with keyword research.
-   * [How to Create 10x Content](https://moz.com/blog/how-to-create-10x-content) - Have you ever tried to create 10x content? It's not easy, is it? Knowing how and where to start can often be the biggest obstacle you'll face. 
-   * [How To Create the Right Meta Description](https://yoast.com/meta-descriptions/) - Search engines use meta descriptions in search results mostly when the searched-for phrase is within the description. So optimizing it is crucial for on-page SEO. This post will show you the characteristics of a good meta description and how Yoast SEO can help you with it.
-* [What Is SEO / Search Engine Optimization?](https://searchengineland.com/guide/what-is-seo) - Get started learning all about SEO from one of the industry's most trusted sources, Search Engine Land. Review basics of search engine optimization, ranking factors & more.
-
-### SEO Resources
-* Downloads
-  * [The SEO Periodic Table](https://searchengineland.com/seotable) - Since it first debuted in 2011, Search Engine Land’s Periodic Table of SEO Factors has become a globally recognized tool that search professionals have relied on to help them understand the elements essential to a winning SEO strategy.
-* Tools
-  * __Algorithm History__  Google has a long history of famous (an infamous) algorithm updates, search index changes and refreshes. It's important to have a grasp on when new changes are occuring so that you can plan accordingly and relay that information to your team as it's likely you'll see fluctuation in SERPs.
-      * [Google Search ranking updates](https://developers.google.com/search/updates/ranking) - The offical page from Google detailing the the latest ranking updates made to Google Search that are relevant to website owners.
-      * [Moz Google Algorithm Update History](https://moz.com/google-algorithm-change) - A History of Major Google Algorithm Updates from 2000–Present.
-      * [SEJ History of Google Algorithm Updates](https://www.searchenginejournal.com/google-algorithm-history/) - Learn about the biggest and most important Google search algorithm launches, updates, and refreshes of all time – from 2003 to today.
-      * [SEL Google Algorithm Updates](https://searchengineland.com/library/google/google-algorithm-updates) - A history of the major Google search algorithm updates.
-         
-  * __SERP Volatility__ Several pages exist which track daily Search Engine Results Pages (SERPs) Volatility. These reports are useful to correlate and explain sudden, but temporary, fluctuations in organic traffic when caused by minor Google algorithm tweaks, tests, or other internal factors.
-      * [MozCast](https://moz.com/mozcast) - A weather report showing turbulence in the Google algorithm over the previous day (or see the 90-day history below). The hotter and stormier the weather, the more Google's rankings changed.
-      * [Rank Risk Index](https://www.rankranger.com/rank-risk-index) - SERP fluctuations for 10,000+ domains and keywords that RR monitors daily.
-      * [Semrush Sensor](https://www.semrush.com/sensor/) - Measures volatility in search results, tracking down 20+ categories on mobile and desktop and highlighting possible Google Updates.
-### SEO Software (Desktop)
-* [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) - A website crawler that helps you improve onsite SEO, by extracting data & auditing for common SEO issues.
-* [ScrapeBox](https://www.scrapebox.com/) - Described by many users as the Swiss Army Knife of SEO. Don't let the dated UI fool you, people are still finding innovative new uses for ScrapeBox to help with their SEO efforts.
-   * [Scrapebox Guides Tuts Loopline (YouTube)](https://www.youtube.com/user/looplinescrapebox) 
-   * [The Unofficial Scrapebox FAQ](https://scrapeboxfaq.com/)
-   * [Ultimate Guide to White Hat SEO using Scrapebox](https://www.onely.com/blog/guide-white-hat-seo-scrapebox/)
- * [Site Analyzer](https://site-analyzer.pro/) - Scan your websites and get detailed information about each page. This tool will help you identify and fix technical SEO errors and is an excellent free alternative to Screaming Frog.
- * [Xenu Link Sleuth](https://home.snafu.de/tilman/xenulink.html) - Old but good. Checks web sites for all types of broken links. It displays a continously updated list of URLs which you can sort by different criteria. A report can be produced at any time.
- 
-### SEO Software (SaaS)
-* [Ahrefs](https://ahrefs.com/) - Everything you need to rank higher & get more traffic.
-   * [Ahrefs Academy](https://ahrefs.com/academy) - The best tools and data are worth nothing if you don’t know how to use them.
-   * [Ahrefs: The Definitive Guide](https://backlinko.com/ahrefs-guide) - Everything you need to know about Ahrefs link building and SEO software suite. This guide includes a ton of real examples of Ahrefs in action.
-   * [Ahrefs Webmaster Tools](https://ahrefs.com/webmaster-tools) - Improve your website’s SEO performance and get more traffic from search. Free for website owners.
-* [BrightEdge](https://www.brightedge.com/) - A leading enterprise SEO solution and content performance marketing platform, helping customers (typically large corporations in my experience) generate more organic traffic.
-* [Google Search Console](https://search.google.com/search-console/about) - Search Console tools and reports help you measure your site's Search traffic and performance, fix issues, and make your site shine in Google Search results.
-* [Majestic](https://majestic.com/) - Develop backlink strategies with their link intelligence data, build the strong SEO backlink campaigns to drive organic traffic and boost your rankings.
-* [Moz](https://moz.com/) - Best-in-class SEO software for nearly every situation, from all-in-one SEO platform to tools for local SEO, enterprise SERP analytics, and a powerful API.
-* [Semrush](https://www.semrush.com/) - Do SEO, content marketing, competitor research, PPC and social media marketing from just one platform.
-   * [Semrush Academy](https://www.semrush.com/academy/) - Comprised of more than 30 free courses and certification exams — in English, Spanish, and French — that help anyone master new digital marketing skills and enrich their CVs and LinkedIn profiles. 
-   * [What is Semrush? A Complete Guide to Semrush Features, Metrics, and Reporting Dashboards](https://databox.com/what-is-semrush) - What’s Semrush and which features work best for tracking and improving your search rankings? Here’s everything you need to know.
-* [SpyFu](https://www.spyfu.com/seo/overview) - Study competitors to help craft your plan by seeing what types of pages link to them. Also great for finding similar sites to keep on your radar and avoid any organic SERP flaws exposed by Google core updates to competition.
-* [Ubersuggest](https://neilpatel.com/ubersuggest/) - Allows you to get insight into the strategies that are working for others in your market so you can adopt them, improve them, and gain an edge.
-
-
 ## Skills Training
 The digital marketing landscape changes quickly which is why it's important to consistently focus on __Skills Training__ so you don't get left behind.
 ### Online Courses
@@ -307,25 +337,6 @@ __Social Media Networks & Communities__ geared towards the digital marketer. I'm
 * [Reddit](https://www.reddit.com/) - A network of communities where people can dive into their interests, hobbies and passions. There&#x27;s a community for whatever you're interested in on Reddit.
 * [Stack Overflow](https://stackoverflow.com/) - The largest, most trusted online community for developers. This can be a great resource for technical digital marketing and SEO questions. I know that I've ended up here more than a few times.
 * [Twitter](https://twitter.com/) - The (un)official digital marketing community hangout.
-
-## Tag Management
-__Tag Management Systems__ help to manage the lifecycle of digital marketing tags, used to track activity on digital properties, such as websites and web applications. These are especially useful because they allow you do bypass having pull in developers and agencies when you want to add or modify a 3rd party snippet or tag.
-* [Adobe Experience Platform Launch](https://business.adobe.com/products/experience-platform/launch.html) - A next-generation tag management system that unifies your marketing ecosystem. It breaks down silos and bottlenecks by connecting disparate technologies so you can deliver standout digital experiences.
-* [Google Tag Manager](https://tagmanager.google.com/) - Allows you to quickly and easily update measurement codes and related code fragments collectively known as tags on your website or mobile app.
-* [Tealium](https://tealium.com/) - Tealium iQ enables you to manage tags across all digital touch points, including web sites, mobile apps and online videos all from the same intuitive user interface.
-
-## URL Management
-### Link in Bio
-* [Linktree](https://linktr.ee/) - Link to everything you create, share and sell online. All from the one bio link.
-### QR Codes
-__QR (Quick Response) Codes__ are two-dimensional code originally intended for the automotive industry. While the tech lay dormant for a number of years, due to solid error correction and the rise of mobile phones the use cases spiked and QR codes are now frequently utilized across numerous industries, including marketing.
-* [Adobe QR Code Generator](https://express.adobe.com/tools/qr-code-generator/) - Make a QR code for free that you can use in your branding, marketing, and more to easily direct customers to your website.
-* [QR Code Generator](https://www.qr-code-generator.com/) - A QR code generator powered by Bitly. It contains all of the features you would expect.
-* [QR Code Monkey](https://www.qrcode-monkey.com/) - Create custom QR Codes with Logo, Color and Design for free. This QR Code Maker offers free vector formats for better print quality.
-### URL Shorteners
-__URL shorteners__, also known as a link shorteners, are services designed to turn long and complicated URLs into shorter, easier to type and more memorable URLs. These services are not to be underestimated and can have a dramatic impact on your marketing efforts- especially when branded and/or customized. (ex. example.to/short versus www.example.com/articles/howto/how-to-shorten-a-url/)
-* [Bitly](https://bitly.com/) - Build links that are more readable, trustworthy and likely to be clicked.
-* [TinyURL](https://tinyurl.com/) - The original URL shortener that shortens your unwieldly links into more manageable and useable URLs. 
 
 ## Video
 ### Video Sharing
