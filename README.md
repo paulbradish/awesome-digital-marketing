@@ -3,7 +3,7 @@
 <p align="center">
 <sup>Curated by Paul Bradish <a href="https://www.linkedin.com/in/paulbradish/">LinkedIn</a> | <a href="https://twitter.com/paul_bradish">Twitter</a>
 <br />
-<a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg" alt="Awesome List"></a>&nbsp<a href="https://github.com/paulbradish/awesome-digital-marketing/blob/main/README.md"><img alt="GitHub Commits" src="https://img.shields.io/github/commit-activity/m/paulbradish/awesome-digital-marketing?style=flat-square"></a>&nbsp<a href="https://github.com/paulbradish/awesome-digital-marketing/blob/main/README.md"><img alt="MIT License" src="https://img.shields.io/github/license/paulbradish/awesome-digital-marketing?style=flat-square"></a></sup></p>
+<a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg" alt="Awesome List"></a>&nbsp<a href="https://github.com/paulbradish/awesome-digital-marketing/blob/main/README.md"><img alt="GitHub Commits" src="https://img.shields.io/github/commit-activity/m/paulbradish/awesome-digital-marketing?style=flat-square"></a>&nbsp<a href="https://github.com/paulbradish/awesome-digital-marketing/blob/main/README.md"><img alt="CCO License" src="https://img.shields.io/github/license/paulbradish/awesome-digital-marketing"></a></sup></p>
 
 💎  __awesome-digital-marketing__ is a  a carefully curated list of best in class digital marketing blogs, guides, resources, scripts, services, software and more for today's marketing professional.
 
