@@ -149,6 +149,7 @@ __Tag Management Systems__ help to manage the lifecycle of digital marketing tag
 * [AB testing calculator](https://www.surveymonkey.com/mp/ab-testing-significance-calculator/) - Calculate statistical significance. In the context of AB testing experiments, statistical significance is how likely it is that the difference between your experiment’s control version and test version isn’t due to error or random chance. This is important to keep in mind any time you are measuring or testing.
 ## URL Management
 ### Link in Bio
+* [About.me](https://about.me/) - Create a page to present who you are and what you do in one link. Professional. Take control and centralize your online presence.
 * [Linktree](https://linktr.ee/) - Link to everything you create, share and sell online. All from the one bio link.
 ### QR Codes
 __QR (Quick Response) Codes__ are two-dimensional code originally intended for the automotive industry. While the tech lay dormant for a number of years, due to solid error correction and the rise of mobile phones the use cases spiked and QR codes are now frequently utilized across numerous industries, including marketing.
