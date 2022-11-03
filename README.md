@@ -102,6 +102,7 @@ Now that that's out of the way... on to the list!
 ### 🛠️ Planned Additions
   * Conversion Rate Optimization (CRO)
   * Customer Relationship Management (CRM)
+  * Domain Registrars
   * Domain Name Valuation
   * Lead Generation
   * Schema Markup
@@ -249,6 +250,7 @@ __Search Engine Optimization__ is the process of improving the quality and quant
 * [BrightEdge](https://www.brightedge.com/) - A leading enterprise SEO solution and content performance marketing platform, helping customers (typically large corporations in my experience) generate more organic traffic.
 * [Majestic](https://majestic.com/) - Develop backlink strategies with their link intelligence data, build the strong SEO backlink campaigns to drive organic traffic and boost your rankings.
 * [Moz](https://moz.com/) - Best-in-class SEO software for nearly every situation, from all-in-one SEO platform to tools for local SEO, enterprise SERP analytics, and a powerful API.
+   * [Moz Academy](https://academy.moz.com/) - Grow your SEO skills with courses on keyword research, backlink analysis, local SEO and more!
 * [Semrush](https://www.semrush.com/) - Do SEO, content marketing, competitor research, PPC and social media marketing from just one platform.
    * [Semrush Academy](https://www.semrush.com/academy/) - Comprised of more than 30 free courses and certification exams — in English, Spanish, and French — that help anyone master new digital marketing skills and enrich their CVs and LinkedIn profiles. 
    * [What is Semrush? A Complete Guide to Semrush Features, Metrics, and Reporting Dashboards](https://databox.com/what-is-semrush) - What’s Semrush and which features work best for tracking and improving your search rankings? Here’s everything you need to know.
@@ -273,7 +275,10 @@ __Affiliate Management__ is the act of recruiting new affiliates (or partners) i
 * [PartnerStack](https://partnerstack.com/) - Helps you recruit, engage, and scale your entire ecosystem of partners — from affiliates to referral and reseller partners.
 ## Automation
 ### Digital Automation
-* [If This Then That (IFTTT)](https://ifttt.com/) - Connect, integrate, and automate. Founded on the belief that every thing tech works better together, IF configured correctly you can automate some otherwise boring marketing and automation tasks.  
+* [If This Then That (IFTTT)](https://ifttt.com/) - Connect, integrate, and automate. Founded on the belief that every thing tech works better together, IF configured correctly you can automate some otherwise boring marketing and automation tasks.
+   * [Getting Started Collection](https://ifttt.com/explore/getting-started-collection) - Some of the most popular Applets to help you get started.
+   * [Google Sheets Applets](https://ifttt.com/google_sheets) - Popular Google Sheets workflows & automations.
+   * [Youtube Applets](https://ifttt.com/youtube) - Popular YouTube workflows & automations.
 ## Content Marketing
 ### Content Research
 * [Also Asked](https://alsoasked.com/) - A great tool for getting to grips with the breadth of topical research. It unearths troves of data, in an effective and easy to use way.
