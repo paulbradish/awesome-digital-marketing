@@ -151,6 +151,7 @@ __Tag Management Systems__ help to manage the lifecycle of digital marketing tag
 ## URL Management
 ### Link in Bio
 * [About.me](https://about.me/) - Create a page to present who you are and what you do in one link. Professional. Take control and centralize your online presence.
+* [Direct.me](https://direct.me/) - A completely free bio link tool used by creators and influencers.
 * [Linktree](https://linktr.ee/) - Link to everything you create, share and sell online. All from the one bio link.
 * [Solo.to](https://solo.to/) - Share and cross promote your links, music, videos, social media, and more on one page.
 ### QR Codes
