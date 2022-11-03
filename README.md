@@ -303,6 +303,7 @@ __Publishing Platforms__ are nice because they can offer a readily available com
       * [Yoast](https://yoast.com/wordpress/plugins/seo/) - Yoast helps you with your website's search engine optimization, with our internationally loved software and our online SEO courses.  
     * [Themes](https://wordpress.org/themes/) - Find the perfect theme for your WordPress website. Choose from thousands of stunning designs with a wide variety of features and customization options.
        * [Divi](https://www.elegantthemes.com/gallery/divi/) - Not just another Wordpress theme. This is a complete design framework that allows you to design and customize every part of your website from the ground up. If only It was the default WP install...
+       * [Elementor](https://elementor.com/features/wordpress/) - Elementor is the platform web creators choose to build professional WordPress websites, grow their skills, and build their business.
  
 ## Customer Support
 Improve conversions and user experience with __Customer Support__ baked into your website.
@@ -319,8 +320,10 @@ __Live Chat__ is a form of web-based customer messaging that allows customers to
 * [Mailchimp](https://mailchimp.com/) - Grow your business on your terms with Mailchimp's All-In-One marketing, automation & email marketing platform.
 ## Lead Generation
 ## Market Research
+* [Crunchbase](https://www.crunchbase.com/) - One of the more acurate prospecting services I've found. Great for intel and market research.
 * [Google Trends](https://trends.google.com/trends/) - A free service that analyzes the popularity of top search queries in Google Search across various regions and languages.
 * [Similarweb](https://www.similarweb.com/) - All in one Website analytics competitive traffic intelligence platform. Often used to compare website traffic and performance, analyze strategies & market share acquisition.
+* [Zoominfo](https://www.zoominfo.com/) - Get the B2B data and software you need to connect with and close your most valuable buyers — all in one operating system.
 
 ## Public Relations (PR)
 
@@ -340,6 +343,7 @@ The digital marketing landscape changes quickly which is why it's important to c
 
 ## Social Media
 ### Social Management
+* [Buffer](https://buffer.com/) - An intuitive and affordable social media management tool for SMBs which offers scheduling, planning, publishing and more.
 * [Hootsuite](https://www.hootsuite.com/) - Save time and grow on social with Hootsuite, your all-in-one social media scheduler, manager, and analytics secret weapon.
 
 ### Social Networks
