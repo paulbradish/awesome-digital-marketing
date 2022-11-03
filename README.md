@@ -253,6 +253,7 @@ __Search Engine Optimization__ is the process of improving the quality and quant
 * [Majestic](https://majestic.com/) - Develop backlink strategies with their link intelligence data, build the strong SEO backlink campaigns to drive organic traffic and boost your rankings.
 * [Moz](https://moz.com/) - Best-in-class SEO software for nearly every situation, from all-in-one SEO platform to tools for local SEO, enterprise SERP analytics, and a powerful API.
    * [Moz Academy](https://academy.moz.com/) - Grow your SEO skills with courses on keyword research, backlink analysis, local SEO and more!
+   * [DA PA Checker](https://www.dapachecker.org/) - A bulk domain authority checker which allows you to check the Moz domain authority and page authority of up to 20 URLs at once.
 * [Semrush](https://www.semrush.com/) - Do SEO, content marketing, competitor research, PPC and social media marketing from just one platform.
    * [Semrush Academy](https://www.semrush.com/academy/) - Comprised of more than 30 free courses and certification exams — in English, Spanish, and French — that help anyone master new digital marketing skills and enrich their CVs and LinkedIn profiles. 
    * [What is Semrush? A Complete Guide to Semrush Features, Metrics, and Reporting Dashboards](https://databox.com/what-is-semrush) - What’s Semrush and which features work best for tracking and improving your search rankings? Here’s everything you need to know.
