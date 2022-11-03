@@ -152,6 +152,7 @@ __Tag Management Systems__ help to manage the lifecycle of digital marketing tag
 ### Link in Bio
 * [About.me](https://about.me/) - Create a page to present who you are and what you do in one link. Professional. Take control and centralize your online presence.
 * [Linktree](https://linktr.ee/) - Link to everything you create, share and sell online. All from the one bio link.
+* [Solo.to](https://solo.to/) - Share and cross promote your links, music, videos, social media, and more on one page.
 ### QR Codes
 __QR (Quick Response) Codes__ are two-dimensional code originally intended for the automotive industry. While the tech lay dormant for a number of years, due to solid error correction and the rise of mobile phones the use cases spiked and QR codes are now frequently utilized across numerous industries, including marketing.
 * [Adobe QR Code Generator](https://express.adobe.com/tools/qr-code-generator/) - Make a QR code for free that you can use in your branding, marketing, and more to easily direct customers to your website.
