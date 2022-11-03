@@ -348,6 +348,8 @@ The digital marketing landscape changes quickly which is why it's important to c
 
 ### Social Networks
 __Social Media Networks__ geared towards the digital marketer. I'm leaving a number of them off as there are communities everywhere (even on Facebook), in favor of those that are more consistent.
+* [Dev.to](https://dev.to/) - A constructive and inclusive social network for software developers. With you every step of your journey.
+   * [How to make the most of DEV if you’re over Twitter](https://dev.to/devteam/how-to-make-the-most-of-dev-if-youre-over-twitter-4567) 
 * [LinkedIn](https://www.linkedin.com/) - Manage your professional identity. Build and engage with your professional network. Access knowledge, insights and opportunities.
 * [Quora](https://www.quora.com/) - A place to gain and share knowledge. It's a platform to ask questions and connect with people who contribute unique insights and quality answers.
    * [11 Ways To Answer Questions On Quora And Generate Leads](https://ladder.io/blog/quora-lead-generation)
