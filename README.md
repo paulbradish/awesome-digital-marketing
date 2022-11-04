@@ -32,8 +32,7 @@ My name is Paul Bradish. I first encountered digital marketing by way of search 
 
 If you have any questions, concerns, or are in need of guidance don't hesitate to [reach out to me directly](https://paulbradish.com/contact-me/).
 
-> Does your organization have analytics, custom software development, or cloud based digital transformation needs?   
-> We've got you covered! Check out top rated :star::star::star::star::star: [Emergent Software](https://www.emergentsoftware.net/):
+> Does your organization have analytics, custom software development, or cloud based digital transformation needs? We've got you covered! Check us out @: 
 >   
 > <a href="https://www.emergentsoftware.net/">![Emergent Software](/assets/EmergentSoftware.svg)</a>
 
