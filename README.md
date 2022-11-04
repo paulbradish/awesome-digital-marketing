@@ -30,9 +30,12 @@ My name is Paul Bradish. I first encountered digital marketing by way of search 
 7. When in doubt, I leave it off the list. 
 8. Do your due dilligence.
 
-If you have any questions, concerns, or are in need of guidance contact me using [this](https://paulbradish.com/contact-me/) form.
+If you have any questions, concerns, or are in need of guidance don't hesitate to [reach out to me directly](https://paulbradish.com/contact-me/).
 
-> Want to retain my digital marketing services? Reach out to my employer at [Emergent Software](https://www.emergentsoftware.net/contact/).
+> Does your organization have analytics, custom software development, or cloud based digital transformation needs?   
+> We've got you covered! Check out top rated :star::star::star::star::star: [Emergent Software](https://www.emergentsoftware.net/):
+>   
+> <a href="https://www.emergentsoftware.net/">![Emergent Software](/assets/EmergentSoftware.svg)</a>
 
 Now that that's out of the way... on to the list!
   
