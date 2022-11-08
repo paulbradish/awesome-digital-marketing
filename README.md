@@ -204,6 +204,7 @@ __Data Visualization Tools__ are desktop software or SaaS that render informatio
 ### Writing Tools
 * [Capitalize My Title](https://capitalizemytitle.com/) - Makes title capitalization easy. Automatically capitalize and case convert to Title Case (in AP, APA, Chicago, MLA, BB, AMA), sentence case, UPPERCASE, lowercase, and more.
 * [Grammarly](https://www.grammarly.com/) - A cloud-based typing assistant that helps you write mistake-free in Gmail, Facebook, Twitter, LinkedIn, and any other app you use. _Even the free version is fantastic and has helped me catch a few grammatical errors that would have looked messy and unprofessional._
+* [Hemmingway Editor](https://hemingwayapp.com/) - Makes your writing bold and clear. It's like a spellchecker, but for style. It makes sure that your reader will focus on your message, not your prose.
 * [Lorem Ipsum](https://loremipsum.io/) - A lorem ipsum generator. Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
 * [Make My Persona](https://www.hubspot.com/make-my-persona) - Create professional, customizable buyer personas in minutes with the help of our intuitive free generator and share the templates with your team.
 * [Wordtune](https://www.wordtune.com/) - Say exactly what you mean through clear, compelling and authentic writing.
@@ -257,10 +258,12 @@ __Publishing Platforms__ are nice because they can offer a readily available com
 ## Engines (Search)
 * [Bing](https://www.bing.com/) - Owned by Microsoft. Previously known as: MSN Search, Windows Live Search and later Live Search. 
    * [Bing Webmaster Tools](https://www.bing.com/webmasters/about) - Easy to plug-in API solution that websites can call to notify Bing on content updated, allowing instant crawling, indexing and discovery of your site content. 
- * [DuckDuckGo](https://duckduckgo.com/) - If privacy is your thing, you'll be right at home here. 
+ * [DuckDuckGo](https://duckduckgo.com/) - If privacy is your thing, you'll be right at home here.
+    * [Available Bangs!](https://duckduckgo.com/bang) - Shortcuts that quickly take you to search results on other sites. _example: use !w in DuckDuckGo to search Wikipedia._
  * __[Google](https://google.com) - No introduction needed.__
    * Resources
      * [Core Web Vitals workflows with Google tools](https://web.dev/vitals-tools/) - The finer points of how to combine Google tools to audit, improve and monitor your website effectively.
+     * [Refreshed guidelines for site owners](https://developers.google.com/search/blog/2022/10/search-essentials) - The Google Search Essentials make up the core parts of what makes your web-based content (web pages, images, videos, or other publicly-available material that Google finds on the web) eligible to appear and perform well on Google Search. _If I taught a class on SEO, this would be day #1 reading material._
    * Tools 
      * [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) - An open-source, automated tool for improving the quality of web pages. You can run it against any web page, public or requiring authentication. It has audits for performance, accessibility, progressive web apps, SEO and more.
      * [PageSpeed Insights](https://pagespeed.web.dev/) - Make your web pages fast on all devices
