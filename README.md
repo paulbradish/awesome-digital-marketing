@@ -186,14 +186,27 @@ __Data Visualization Tools__ are desktop software or SaaS that render informatio
 # :two: Content
 
 ## Content Marketing
+
 ### Content Research
 * [Also Asked](https://alsoasked.com/) - A great tool for getting to grips with the breadth of topical research. It unearths troves of data, in an effective and easy to use way.
 * [Answer The Public](https://answerthepublic.com/) - Extracts autocomplete data from search engines like Google then quickly cranks out every useful phrase and question people are asking.
 * [Explain Paper](https://www.explainpaper.com/) - Use AI to paraphrase and summarize technical documents. This is really helpful during the research phase if you're not quite grasping a topic.
 * [People Also Ask](https://www.neuraltext.com/ai/people-also-ask) - Get dozens of popular questions your audience also asked and discover untapped content opportunities.
-### Content Writing
+## Content Writing
+
+### Writing Articles
+* [How to Write Headlines That Work](https://copyblogger.com/how-to-write-headlines-that-work/)
+* [What is Copywriting? Definition & Tips](https://neilpatel.com/blog/ultimate-guide-to-copywriting/)
+
+### Writing Guides
+* [Copywriting: The Definitive Guide (2022)](https://backlinko.com/copywriting-guide)
+
+### Writing Tools
 * [Capitalize My Title](https://capitalizemytitle.com/) - Makes title capitalization easy. Automatically capitalize and case convert to Title Case (in AP, APA, Chicago, MLA, BB, AMA), sentence case, UPPERCASE, lowercase, and more.
+* [Grammarly](https://www.grammarly.com/) - A cloud-based typing assistant that helps you write mistake-free in Gmail, Facebook, Twitter, LinkedIn, and any other app you use. _Even the free version is fantastic and has helped me catch a few grammatical errors that would have looked messy and unprofessional._
 * [Lorem Ipsum](https://loremipsum.io/) - A lorem ipsum generator. Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
+* [Make My Persona](https://www.hubspot.com/make-my-persona) - Create professional, customizable buyer personas in minutes with the help of our intuitive free generator and share the templates with your team.
+* [Wordtune](https://www.wordtune.com/) - Say exactly what you mean through clear, compelling and authentic writing.
 
 ## Email Marketing
 * [Constant Contact](https://www.constantcontact.com/) - Deliver stunning emails and a whole lot more. Attract new customers and boost sales with their complete, easy-to-use digital marketing suite.
@@ -387,6 +400,9 @@ __Programming languages__ that are commonly used in front-end web design and bac
 * [Bitbucket](https://bitbucket.org/product) - Git-based code and CI/CD tool optimized for teams using Jira.
 * [Git](https://git-scm.com/) - A free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 * [GitHub](https://github.com/) - A code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. ___You Are Here. :)___
+
+### Web Performance
+* [Cloudflare](https://www.cloudflare.com/) - A global network designed to make everything you connect to the Internet secure, private, fast, and reliable. _Great to improve performance and security of your website._
 
 # :six: Everything Else
 
