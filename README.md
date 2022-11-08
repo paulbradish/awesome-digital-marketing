@@ -67,6 +67,7 @@ Now that that's out of the way... on to the list!
   * [Social](https://github.com/paulbradish/awesome-digital-marketing/#four-social)
      * [Social Media](https://github.com/paulbradish/awesome-digital-marketing/#social-media)
   * [Web](https://github.com/paulbradish/awesome-digital-marketing/#five-web)
+     * Domains
      * UX
      * Web Design
      * [Web Development](https://github.com/paulbradish/awesome-digital-marketing/#web-development)
@@ -85,8 +86,6 @@ Now that that's out of the way... on to the list!
 ### 🛠️ Planned Additions
   * Conversion Rate Optimization (CRO)
   * Customer Relationship Management (CRM)
-  * Domain Registrars
-  * Domain Name Valuation
   * Schema Markup
   * SMS Marketing
   * Sitemaps
@@ -355,6 +354,9 @@ __Social Media Networks__ geared towards the digital marketer. I'm leaving a num
 * [Notepad++](https://notepad-plus-plus.org/) - A free (as in “free speech” and also as in “free beer”) source code editor and Notepad replacement that supports several languages.
 * [Sublime Text](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose. You'll love the slick user interface, extraordinary features and amazing performance.
 * [Visual Studio Code](https://code.visualstudio.com/) - A code editor redefined and optimized for building and debugging modern web and cloud applications.
+### Domains
+* Domain Registrars
+* Domain Name Valuation
 ### Markup Languages
 * CSS
   * [How to Hide a div in Mobile but Show it on Desktop Or Vice Versa](https://xedricity.com/how-to-hide-a-div-in-mobile-but-show-it-on-desktop-or-vice-versa/)
