@@ -40,7 +40,7 @@ Now that that's out of the way... on to the list!
   
 - - - -
   
-# 📚 Table of Contents
+# 📚 Contents
 
   * [Analytics](https://github.com/paulbradish/awesome-digital-marketing/#one-analytics)
      * [Data Analytics](https://github.com/paulbradish/awesome-digital-marketing/#data-analytics)
