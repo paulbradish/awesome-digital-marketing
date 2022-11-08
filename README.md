@@ -400,6 +400,8 @@ __Programming languages__ that are commonly used in front-end web design and bac
 * [Bitbucket](https://bitbucket.org/product) - Git-based code and CI/CD tool optimized for teams using Jira.
 * [Git](https://git-scm.com/) - A free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 * [GitHub](https://github.com/) - A code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. ___You Are Here. :)___
+   * [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - A collection of cool hidden and not so hidden features of Git and GitHub.
+   * [GitHub Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet.
 
 ### Web Performance
 * [Cloudflare](https://www.cloudflare.com/) - A global network designed to make everything you connect to the Internet secure, private, fast, and reliable. _Great to improve performance and security of your website._
