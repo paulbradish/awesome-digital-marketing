@@ -7,19 +7,19 @@
 
 💎  __awesome-digital-marketing__ is a  a carefully curated list of best in class digital marketing blogs, guides, resources, scripts, services, software and more for today's marketing professional.
 
-### Who Is This List For?
+__Who Is This List For?__
 
 If you've found this list, there's a great chance that it's meant for you. This list was created as a means to cut through the noise (and hype) that we marketers often face when vetting new resources and services. I use the term "marketers" loosely, as I believe that we should all be striving to market ourselves at the very least, regardless of profession.
 
-### How To Use This List
+__How To Use This List__
 
 This list is not meant to be read in any particular order, but you can of course do so if you wish. I suggest you :eyes: watch, :star: star, and use your browser's find function (Ctrl+F or ⌘-F) as necessary for best results.
 
-### About the Curator
+__About the Creator__
 
 My name is Paul Bradish. I first encountered digital marketing by way of search engine optimization (SEO) after learning HTML in the mid 90's. Years later it would become my career, and I've now been in the industry for over 15 years. I've been around long enough to see numererous influencers, resources, and services come and go. I've notched a few wins and I've made even more mistakes. This puts me in a position where I feel confident to share my findings with the community. A community that has enjoyed a reputation of being very open, sharing, and collaborative since the very beginning.
 
-### Ground Rules
+## Rules
 
 1. Personal and contributor recommendations only.
 2. Do your due dilligence.
@@ -40,50 +40,50 @@ Now that that's out of the way... on to the list!
   
 - - - -
   
-# 📚 Contents
+## Contents
 
-  * [Analytics](https://github.com/paulbradish/awesome-digital-marketing/#one-analytics)
-     * [Data Analytics](https://github.com/paulbradish/awesome-digital-marketing/#data-analytics)
-     * [Custom Dashboards](https://github.com/paulbradish/awesome-digital-marketing/#custom-dashboards)
-     * [Tag Management](https://github.com/paulbradish/awesome-digital-marketing/#tag-management)
-     * [Testing](https://github.com/paulbradish/awesome-digital-marketing/#testing)
-     * [URL Management](https://github.com/paulbradish/awesome-digital-marketing/#url-management)
-      * [Visualization](https://github.com/paulbradish/awesome-digital-marketing/#visualization)
-  * [Content](https://github.com/paulbradish/awesome-digital-marketing/#two-content)
-     * [Content Marketing](https://github.com/paulbradish/awesome-digital-marketing/#content-marketing)
-     * [Content Writing](https://github.com/paulbradish/awesome-digital-marketing/#content-writing)
-     * [Email Marketing](https://github.com/paulbradish/awesome-digital-marketing/#email-marketing) 
-     * [Lead Generation (Inbound)](https://github.com/paulbradish/awesome-digital-marketing/#lead-generation-inbound-marketing)
-     * [Market Research](https://github.com/paulbradish/awesome-digital-marketing/#market-research)
-     * [Public Relations](https://github.com/paulbradish/awesome-digital-marketing/#public-relations)
-     * [Publishing Platforms (Free)](https://github.com/paulbradish/awesome-digital-marketing/#publishing-platforms-free--subscription)
-     * [Publishing Platforms (Hosted)](https://github.com/paulbradish/awesome-digital-marketing/#publishing-platforms-hosted)   
-     * [Video](https://github.com/paulbradish/awesome-digital-marketing/#video)
-  * [Search](https://github.com/paulbradish/awesome-digital-marketing/#two-search) 
-     * [Engines (Search)](https://github.com/paulbradish/awesome-digital-marketing/#engines-search) 
-     * [Keyword Research](https://github.com/paulbradish/awesome-digital-marketing/#keyword-research) 
-     * [Organic Search](https://github.com/paulbradish/awesome-digital-marketing/#organic-search) 
-     * [Paid Search](https://github.com/paulbradish/awesome-digital-marketing/#paid-search)
-  * [Social](https://github.com/paulbradish/awesome-digital-marketing/#four-social)
-     * [Social Media](https://github.com/paulbradish/awesome-digital-marketing/#social-media)
-  * [Web](https://github.com/paulbradish/awesome-digital-marketing/#five-web)
-     * Domains
-     * UX
-     * Web Design
-     * [Web Development](https://github.com/paulbradish/awesome-digital-marketing/#web-development)
-  * [Everything Else](https://github.com/paulbradish/awesome-digital-marketing/#six-everything-else)
-     * [Affiliate Management](https://github.com/paulbradish/awesome-digital-marketing/#affiliate-management)
-     * [Automation](https://github.com/paulbradish/awesome-digital-marketing/#automation)   
-     * [Customer Support](https://github.com/paulbradish/awesome-digital-marketing/#customer-support)
-     * [Chat Bots](https://github.com/paulbradish/awesome-digital-marketing/#chat-bots)
-     * [Live Chat](https://github.com/paulbradish/awesome-digital-marketing/#live-chat) 
-     * [Skills Training](https://github.com/paulbradish/awesome-digital-marketing/#skills-training)
-     * [Online Courses](https://github.com/paulbradish/awesome-digital-marketing/#online-courses)
+- [Analytics](https://github.com/paulbradish/awesome-digital-marketing/#one-analytics)
+   - [Data Analytics](https://github.com/paulbradish/awesome-digital-marketing/#data-analytics)
+     - [Custom Dashboards](https://github.com/paulbradish/awesome-digital-marketing/#custom-dashboards)
+     - [Tag Management](https://github.com/paulbradish/awesome-digital-marketing/#tag-management)
+     - [Testing](https://github.com/paulbradish/awesome-digital-marketing/#testing)
+     - [URL Management](https://github.com/paulbradish/awesome-digital-marketing/#url-management)
+      - [Visualization](https://github.com/paulbradish/awesome-digital-marketing/#visualization)
+  - [Content](https://github.com/paulbradish/awesome-digital-marketing/#two-content)
+     - [Content Marketing](https://github.com/paulbradish/awesome-digital-marketing/#content-marketing)
+     - [Content Writing](https://github.com/paulbradish/awesome-digital-marketing/#content-writing)
+     - [Email Marketing](https://github.com/paulbradish/awesome-digital-marketing/#email-marketing) 
+     - [Lead Generation (Inbound)](https://github.com/paulbradish/awesome-digital-marketing/#lead-generation-inbound-marketing)
+     - [Market Research](https://github.com/paulbradish/awesome-digital-marketing/#market-research)
+     - [Public Relations](https://github.com/paulbradish/awesome-digital-marketing/#public-relations)
+     - [Publishing Platforms (Free)](https://github.com/paulbradish/awesome-digital-marketing/#publishing-platforms-free--subscription)
+     - [Publishing Platforms (Hosted)](https://github.com/paulbradish/awesome-digital-marketing/#publishing-platforms-hosted)   
+     - [Video](https://github.com/paulbradish/awesome-digital-marketing/#video)
+  - [Search](https://github.com/paulbradish/awesome-digital-marketing/#two-search) 
+     - [Engines (Search)](https://github.com/paulbradish/awesome-digital-marketing/#engines-search) 
+     - [Keyword Research](https://github.com/paulbradish/awesome-digital-marketing/#keyword-research) 
+     - [Organic Search](https://github.com/paulbradish/awesome-digital-marketing/#organic-search) 
+     - [Paid Search](https://github.com/paulbradish/awesome-digital-marketing/#paid-search)
+  - [Social](https://github.com/paulbradish/awesome-digital-marketing/#four-social)
+     - [Social Media](https://github.com/paulbradish/awesome-digital-marketing/#social-media)
+  - [Web](https://github.com/paulbradish/awesome-digital-marketing/#five-web)
+     - Domains
+     - UX
+     - Web Design
+     - [Web Development](https://github.com/paulbradish/awesome-digital-marketing/#web-development)
+  - [Related](https://github.com/paulbradish/awesome-digital-marketing/#related)
+     - [Affiliate Management](https://github.com/paulbradish/awesome-digital-marketing/#affiliate-management)
+     - [Automation](https://github.com/paulbradish/awesome-digital-marketing/#automation)   
+     - [Customer Support](https://github.com/paulbradish/awesome-digital-marketing/#customer-support)
+     - [Chat Bots](https://github.com/paulbradish/awesome-digital-marketing/#chat-bots)
+     - [Live Chat](https://github.com/paulbradish/awesome-digital-marketing/#live-chat) 
+     - [Skills Training](https://github.com/paulbradish/awesome-digital-marketing/#skills-training)
+     - [Online Courses](https://github.com/paulbradish/awesome-digital-marketing/#online-courses)
  
   
  
 
-### 🛠️ Planned Additions
+## 🛠️ Planned Additions
   * Conversion Rate Optimization (CRO)
   * Customer Relationship Management (CRM)
   * Schema Markup
@@ -93,22 +93,22 @@ Now that that's out of the way... on to the list!
   * Task Managers
   
 - - - -
-# :one: Analytics
-## Data Analytics
-📈 __Data Analytics__ is the process of examining datasets to draw conclusions about the information they contain. Data analysis is often used by digital marketers to tell a story of the customer journey and to push data-driven marketing decisions surrounding content, features, and campaign efficacy.
-### Analytics Resources
-* [Cross Validated](https://stats.stackexchange.com/) - A question and answer site for people interested in statistics, machine learning, data analysis, data mining, and data visualization.
-* [Occam's Razor](https://www.kaushik.net/avinash/) - Web analytics blog authored by longtime digital marketing evangelist @google, Avinash Kaushik.
-* [r/Analytics](https://www.reddit.com/r/analytics/) - Dedicated to web analytics, data and business analytics. A great subreddit to discuss analysis of data, learning of skills and implementation of web analytics.
-### Analytics Services
-* [Adobe Analytics](https://business.adobe.com/products/analytics/adobe-analytics.html) - Adobe Analytics lets you mix, match, and analyze data from any digital point in the customer journey. With in-depth analysis, versatile reporting, and predictive intelligence, you get the insightful foundation you need to build better customer experiences.
-* [Google Analytics](https://analytics.google.com) - A web analytics service offered by Google that tracks and reports website traffic, currently as a platform inside the Google Marketing Platform brand. Google launched the service in November 2005 after acquiring Urchin.
-   * [Campaign URL Builder](https://ga-dev-tools.web.app/campaign-url-builder/) - This tool allows you to easily add campaign parameters to URLs so you can measure Custom Campaigns in Google Analytics.
-   * [URL Builder for GA](https://raventools.com/marketing-reports/google-analytics/url-builder/) - With the Google Analytics URL Builder, you can easily tag URLs with custom campaign variables and then use an automated reporting tool to keep track of progress and share with clients.
+## Analytics
+   - __Data Analytics__
+📈 The process of examining datasets to draw conclusions about the information they contain. Data analysis is often used by digital marketers to tell a story of the customer journey and to push data-driven marketing decisions surrounding content, features, and campaign efficacy.
+       - __Analytics Resources__
+           - [Cross Validated](https://stats.stackexchange.com/) - A question and answer site for people interested in statistics, machine learning, data analysis, data mining, and data visualization.
+           - [Occam's Razor](https://www.kaushik.net/avinash/) - Web analytics blog authored by longtime digital marketing evangelist @google, Avinash Kaushik.
+           - [r/Analytics](https://www.reddit.com/r/analytics/) - Dedicated to web analytics, data and business analytics. A great subreddit to discuss analysis of data, learning of skills and implementation of web analytics.
+       - __Analytics Services__
+           - [Adobe Analytics](https://business.adobe.com/products/analytics/adobe-analytics.html) - Adobe Analytics lets you mix, match, and analyze data from any digital point in the customer journey. With in-depth analysis, versatile reporting, and predictive intelligence, you get the insightful foundation you need to build better customer experiences.
+           - [Google Analytics](https://analytics.google.com) - A web analytics service offered by Google that tracks and reports website traffic, currently as a platform inside the Google Marketing Platform brand. Google launched the service in November 2005 after acquiring Urchin.
+           - [Campaign URL Builder](https://ga-dev-tools.web.app/campaign-url-builder/) - This tool allows you to easily add campaign parameters to URLs so you can measure Custom Campaigns in Google Analytics.
+           - [URL Builder for GA](https://raventools.com/marketing-reports/google-analytics/url-builder/) - With the Google Analytics URL Builder, you can easily tag URLs with custom campaign variables and then use an automated reporting tool to keep track of progress and share with clients.
  
-### Analytics Tools
-* [Combinations & Permutations Generator](https://numbergenerator.org/permutations-and-combinations) - Great for when you need to come up with all possibilities within a defined alphanumeric sequence.
-* [Percentage Change Calculator](https://www.calculatorsoup.com/calculators/algebra/percent-change-calculator.php) - This is a % change calculator. It will quantify the change from one number to another and express the change as an increase or decrease. Sounds simple but very easy to mess up when doing these quick calculations manually.
+      - __Analytics Tools__
+          - [Combinations & Permutations Generator](https://numbergenerator.org/permutations-and-combinations) - Great for when you need to come up with all possibilities within a defined alphanumeric sequence.
+          - [Percentage Change Calculator](https://www.calculatorsoup.com/calculators/algebra/percent-change-calculator.php) - This is a % change calculator. It will quantify the change from one number to another and express the change as an increase or decrease. Sounds simple but very easy to mess up when doing these quick calculations manually.
 
 ## Custom Dashboards
 📊 Do you have to distill multiple data sources down into one single report? This is the bane of many a digital analyst and is enough to make one cry. No fear! This is where custom dashboards come into play. These dashboards (usually SaaS with a monthly/yearly sub) help eliminate the manual work by integrating most or all of your data connections together, allowing you to create and automate beautiful looking, KPI tailored dashboards and reports with minimal effort.
@@ -145,7 +145,7 @@ __URL shorteners__, also known as a link shorteners, are services designed to tu
 * [Bitly](https://bitly.com/) - Build links that are more readable, trustworthy and likely to be clicked.
 * [TinyURL](https://tinyurl.com/) - The original URL shortener that shortens your unwieldly links into more manageable and useable URLs. 
 ## Visualization
-🌌 __Data Visualization__ is simply _(or not so simply)_ the graphic representation of data and information. In my experience, it is an efficient and effective way of communicating and presenting data to others in an easier to understand fashion.
+__Data Visualization__ is simply _(or not so simply)_ the graphic representation of data and information. In my experience, it is an efficient and effective way of communicating and presenting data to others in an easier to understand fashion.
 
 ### Visualization Articles
 * [Choosing the Right Tools for Data Visualization](https://medium.com/nightingale/choosing-the-right-tools-for-data-visualization-4bab40f53cdc)
@@ -162,7 +162,7 @@ __Data Visualization Tools__ are desktop software or SaaS that render informatio
    * [Web Data Connectors](https://www.tableau.com/developer/tools/web-data-connector) - Create custom connections to data on the web and make that data available in Tableau.
 * [WordCloud Generator](https://monkeylearn.com/word-cloud) - Display words and phrases based on frequency and relevance. Word clouds provide you with quick and simple visual insights that can lead to more in-depth analyses.
 
-# :two: Content
+# Content
 
 ## Content Marketing
 
@@ -232,7 +232,7 @@ __Publishing Platforms__ are nice because they can offer a readily available com
    * [TubeBuddy](https://www.tubebuddy.com/) - Helps you find high-performing, searchable video topics, and then craft the perfect titles and tags. 
 * [Vimeo](https://vimeo.com/) - An all-in-one video platform turns your ideas into action. Make, manage, and share videos and virtual events that move your audience.
 
-# :three: Search
+# Search
 
 ## Engines (Search)
 * [Bing](https://www.bing.com/) - Owned by Microsoft. Previously known as: MSN Search, Windows Live Search and later Live Search. 
@@ -324,7 +324,7 @@ Also known as __Paid Search__, SEM is a commonly used method to quickly increase
 ### Paid Search Software (SaaS)
  * [MarinOne](https://www.marinsoftware.com/solutions/paid-search) - Identify growth opportunities and maximize revenue across Google, Microsoft, Apple Search Ads, and more. Leverage audience, revenue, and contextual data from any source to drive campaign performance and growth.
 
-# :four: Social
+# Social
 
 ## Social Media
 
@@ -346,7 +346,7 @@ __Social Media Networks__ geared towards the digital marketer. I'm leaving a num
 ### Social Resources
 * [2022 Social Media Image Sizes for All Networks [CHEATSHEET]](https://blog.hootsuite.com/social-media-image-sizes-guide/#LinkedIn_image_sizes) - The most recent image size specifications for different social media networks, including Instagram, Twitter, Facebook, LinkedIn, and more.
 
-# :five: Web
+# Web
 
 ## Web Development
 ### Code Editors
@@ -372,7 +372,7 @@ __Social Media Networks__ geared towards the digital marketer. I'm leaving a num
   
 ### Programming Languages
 __Programming languages__ that are commonly used in front-end web design and back-end web development.
-* Javascript
+* JavaScript
   * Angular
   * jQuery
   * React
@@ -391,7 +391,7 @@ __Programming languages__ that are commonly used in front-end web design and bac
 ### Web Performance
 * [Cloudflare](https://www.cloudflare.com/) - A global network designed to make everything you connect to the Internet secure, private, fast, and reliable. _Great to improve performance and security of your website._
 
-# :six: Everything Else
+# Related
 
 ## Affiliate Management
 __Affiliate Management__ is the act of recruiting new affiliates (or partners) into your program, manage the onboarding process, and ensuring that their audiences are aligned with your target market.
@@ -405,7 +405,7 @@ __Affiliate Management__ is the act of recruiting new affiliates (or partners) i
 * [If This Then That (IFTTT)](https://ifttt.com/) - Connect, integrate, and automate. Founded on the belief that every thing tech works better together, IF configured correctly you can automate some otherwise boring marketing and automation tasks.
    * [Getting Started Collection](https://ifttt.com/explore/getting-started-collection) - Some of the most popular Applets to help you get started.
    * [Google Sheets Applets](https://ifttt.com/google_sheets) - Popular Google Sheets workflows & automations.
-   * [Youtube Applets](https://ifttt.com/youtube) - Popular YouTube workflows & automations.
+   * [YouTube Applets](https://ifttt.com/youtube) - Popular YouTube workflows & automations.
  
 ## Customer Support
 Improve conversions and user experience with __Customer Support__ baked into your website.
