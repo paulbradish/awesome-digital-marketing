@@ -42,73 +42,57 @@ Now that that's out of the way... on to the list!
   
 ## Contents
 
-- [Analytics](https://github.com/paulbradish/awesome-digital-marketing/#one-analytics)
-   - [Data Analytics](https://github.com/paulbradish/awesome-digital-marketing/#data-analytics)
-     - [Custom Dashboards](https://github.com/paulbradish/awesome-digital-marketing/#custom-dashboards)
-     - [Tag Management](https://github.com/paulbradish/awesome-digital-marketing/#tag-management)
-     - [Testing](https://github.com/paulbradish/awesome-digital-marketing/#testing)
-     - [URL Management](https://github.com/paulbradish/awesome-digital-marketing/#url-management)
-      - [Visualization](https://github.com/paulbradish/awesome-digital-marketing/#visualization)
-  - [Content](https://github.com/paulbradish/awesome-digital-marketing/#two-content)
-     - [Content Marketing](https://github.com/paulbradish/awesome-digital-marketing/#content-marketing)
-     - [Content Writing](https://github.com/paulbradish/awesome-digital-marketing/#content-writing)
-     - [Email Marketing](https://github.com/paulbradish/awesome-digital-marketing/#email-marketing) 
-     - [Lead Generation (Inbound)](https://github.com/paulbradish/awesome-digital-marketing/#lead-generation-inbound-marketing)
-     - [Market Research](https://github.com/paulbradish/awesome-digital-marketing/#market-research)
-     - [Public Relations](https://github.com/paulbradish/awesome-digital-marketing/#public-relations)
-     - [Publishing Platforms (Free)](https://github.com/paulbradish/awesome-digital-marketing/#publishing-platforms-free--subscription)
-     - [Publishing Platforms (Hosted)](https://github.com/paulbradish/awesome-digital-marketing/#publishing-platforms-hosted)   
-     - [Video](https://github.com/paulbradish/awesome-digital-marketing/#video)
-  - [Search](https://github.com/paulbradish/awesome-digital-marketing/#two-search) 
-     - [Engines (Search)](https://github.com/paulbradish/awesome-digital-marketing/#engines-search) 
-     - [Keyword Research](https://github.com/paulbradish/awesome-digital-marketing/#keyword-research) 
-     - [Organic Search](https://github.com/paulbradish/awesome-digital-marketing/#organic-search) 
-     - [Paid Search](https://github.com/paulbradish/awesome-digital-marketing/#paid-search)
-  - [Social](https://github.com/paulbradish/awesome-digital-marketing/#four-social)
-     - [Social Media](https://github.com/paulbradish/awesome-digital-marketing/#social-media)
-  - [Web](https://github.com/paulbradish/awesome-digital-marketing/#five-web)
-     - Domains
-     - UX
-     - Web Design
-     - [Web Development](https://github.com/paulbradish/awesome-digital-marketing/#web-development)
-  - [Related](https://github.com/paulbradish/awesome-digital-marketing/#related)
-     - [Affiliate Management](https://github.com/paulbradish/awesome-digital-marketing/#affiliate-management)
-     - [Automation](https://github.com/paulbradish/awesome-digital-marketing/#automation)   
-     - [Customer Support](https://github.com/paulbradish/awesome-digital-marketing/#customer-support)
-     - [Chat Bots](https://github.com/paulbradish/awesome-digital-marketing/#chat-bots)
-     - [Live Chat](https://github.com/paulbradish/awesome-digital-marketing/#live-chat) 
-     - [Skills Training](https://github.com/paulbradish/awesome-digital-marketing/#skills-training)
-     - [Online Courses](https://github.com/paulbradish/awesome-digital-marketing/#online-courses)
- 
-  
- 
-
-## 🛠️ Planned Additions
-- Conversion Rate Optimization (CRO)
-- Customer Relationship Management (CRM)
-- Schema Markup
-- SMS Marketing
-- Sitemaps
-- Stock Photography
-- Task Managers
+- Analytics
+   - [Data Analytics](#analytics)
+   - [Custom Dashboards](#custom-dashboards)
+   - [Tag Management](#tag-management)
+   - [Testing](#testing)
+   - [URL Management](#url-management)
+   - [Visualization](#visualization)
+- [Content](#content)
+   - [Content Marketing](#content-marketing)
+   - [Content Writing](#content-writing)
+   - [Email Marketing](#email-marketing) 
+   - [Lead Generation (Inbound)](#lead-generation-inbound-marketing)
+   - [Market Research](#market-research)
+   - [Public Relations](#public-relations)
+   - [Publishing Platforms (Free)](#publishing-platforms-free--subscription)
+   - [Publishing Platforms (Hosted)](#publishing-platforms-hosted)   
+   - [Video](#video)
+- [Search](#search) 
+   - [Engines (Search)](#engines-search) 
+   - [Keyword Research](#keyword-research) 
+   - [Organic Search](#organic-search) 
+   - [Paid Search](#paid-search)
+- [Social](social)
+   - [Social Media](#social-media)
+- [Web](#web)
+   - [Web Development](#web-development)
+- [Related](#related)
+   - [Affiliate Management](#affiliate-management)
+   - [Automation](#automation)   
+   - [Customer Support](#customer-support)
+   - [Chat Bots](#chat-bots)
+   - [Live Chat](#live-chat) 
+   - [Skills Training](#skills-training)
+   - [Online Courses](#online-courses)
   
 - - - -
 ## Analytics
-   - __Data Analytics__
-📈 The process of examining datasets to draw conclusions about the information they contain. Data analysis is often used by digital marketers to tell a story of the customer journey and to push data-driven marketing decisions surrounding content, features, and campaign efficacy.
-       - __Analytics Resources__
-           - [Cross Validated](https://stats.stackexchange.com/) - A question and answer site for people interested in statistics, machine learning, data analysis, data mining, and data visualization.
-           - [Occam's Razor](https://www.kaushik.net/avinash/) - Web analytics blog authored by longtime digital marketing evangelist @google, Avinash Kaushik.
-           - [r/Analytics](https://www.reddit.com/r/analytics/) - Dedicated to web analytics, data and business analytics. A great subreddit to discuss analysis of data, learning of skills and implementation of web analytics.
-       - __Analytics Services__
-           - [Adobe Analytics](https://business.adobe.com/products/analytics/adobe-analytics.html) - Adobe Analytics lets you mix, match, and analyze data from any digital point in the customer journey. With in-depth analysis, versatile reporting, and predictive intelligence, you get the insightful foundation you need to build better customer experiences.
-           - [Google Analytics](https://analytics.google.com) - A web analytics service offered by Google that tracks and reports website traffic, currently as a platform inside the Google Marketing Platform brand. Google launched the service in November 2005 after acquiring Urchin.
-           - [Campaign URL Builder](https://ga-dev-tools.web.app/campaign-url-builder/) - This tool allows you to easily add campaign parameters to URLs so you can measure Custom Campaigns in Google Analytics.
-           - [URL Builder for GA](https://raventools.com/marketing-reports/google-analytics/url-builder/) - With the Google Analytics URL Builder, you can easily tag URLs with custom campaign variables and then use an automated reporting tool to keep track of progress and share with clients.
+📈 __Data Analytics__ is the process of examining datasets to draw conclusions about the information they contain. Data analysis is often used by digital marketers to tell a story of the customer journey and to push data-driven marketing decisions surrounding content, features, and campaign efficacy.
+ - __Analytics Resources__
+     - [Cross Validated](https://stats.stackexchange.com/) - A question and answer site for people interested in statistics, machine learning, data analysis, data mining, and data visualization.
+     - [Occam's Razor](https://www.kaushik.net/avinash/) - Web analytics blog authored by longtime digital marketing evangelist @google, Avinash Kaushik.
+     - [r/Analytics](https://www.reddit.com/r/analytics/) - Dedicated to web analytics, data and business analytics. A great subreddit to discuss analysis of data, learning of skills and implementation of web analytics.
+ - __Analytics Services__
+     - [Adobe Analytics](https://business.adobe.com/products/analytics/adobe-analytics.html) - Adobe Analytics lets you mix, match, and analyze data from any digital point in the customer journey. With in-depth analysis, versatile reporting, and predictive intelligence, you get the insightful foundation you need to build better customer experiences.
+     - [Google Analytics](https://analytics.google.com) - A web analytics service offered by Google that tracks and reports website traffic, currently as a platform inside the Google Marketing Platform brand. Google launched the service in November 2005 after acquiring Urchin.
+     - [Campaign URL Builder](https://ga-dev-tools.web.app/campaign-url-builder/) - This tool allows you to easily add campaign parameters to URLs so you can measure Custom Campaigns in Google Analytics.
+     - [URL Builder for GA](https://raventools.com/marketing-reports/google-analytics/url-builder/) - With the Google Analytics URL Builder, you can easily tag URLs with custom campaign variables and then use an automated reporting tool to keep track of progress and share with clients.
  
-      - __Analytics Tools__
-          - [Combinations & Permutations Generator](https://numbergenerator.org/permutations-and-combinations) - Great for when you need to come up with all possibilities within a defined alphanumeric sequence.
-          - [Percentage Change Calculator](https://www.calculatorsoup.com/calculators/algebra/percent-change-calculator.php) - This is a % change calculator. It will quantify the change from one number to another and express the change as an increase or decrease. Sounds simple but very easy to mess up when doing these quick calculations manually.
+  - __Analytics Tools__
+      - [Combinations & Permutations Generator](https://numbergenerator.org/permutations-and-combinations) - Great for when you need to come up with all possibilities within a defined alphanumeric sequence.
+      - [Percentage Change Calculator](https://www.calculatorsoup.com/calculators/algebra/percent-change-calculator.php) - This is a % change calculator. It will quantify the change from one number to another and express the change as an increase or decrease. Sounds simple but very easy to mess up when doing these quick calculations manually.
 
 ## Custom Dashboards
 📊 Do you have to distill multiple data sources down into one single report? This is the bane of many a digital analyst and is enough to make one cry. No fear! This is where custom dashboards come into play. These dashboards (usually SaaS with a monthly/yearly sub) help eliminate the manual work by integrating most or all of your data connections together, allowing you to create and automate beautiful looking, KPI tailored dashboards and reports with minimal effort.
