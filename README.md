@@ -2,26 +2,34 @@
 <p align="center">
 <sup>Created & Maintained by Paul Bradish <a href="https://www.linkedin.com/in/paulbradish/">LinkedIn</a> | <a href="https://twitter.com/paul_bradish">Twitter</a>
 <br />
-<a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg" alt="Awesome List"></a>&nbsp<a href="https://github.com/paulbradish/awesome-digital-marketing/blob/main/README.md"><img alt="GitHub Commits" src="https://img.shields.io/github/commit-activity/m/paulbradish/awesome-digital-marketing?style=flat-square"></a>&nbsp<a href="https://github.com/paulbradish/awesome-digital-marketing/blob/main/README.md"><img alt="CCO License" src="https://img.shields.io/github/license/paulbradish/awesome-digital-marketing"></a></sup></p>
+<a href="https://github.com/paulbradish/awesome-digital-marketing/blob/main/README.md"><img alt="GitHub Commits" src="https://img.shields.io/github/commit-activity/m/paulbradish/awesome-digital-marketing?style=flat-square"></a>&nbsp<a href="https://github.com/paulbradish/awesome-digital-marketing/blob/main/README.md"><img alt="CCO License" src="https://img.shields.io/github/license/paulbradish/awesome-digital-marketing"></a></sup></p>
 
 # Awesome Digital Marketing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 💎  __awesome-digital-marketing__ is a collection of the top digital marketing articles, guides, resources, SaaS, tools, and more.
-
-### Who This List Is For
+<br>
+<br>
+<br>
+<strong>Who This List Is For:</strong>
 
 It's likely that you found this list because it's meant for you. It was created as a way to cut through the noise (and hype) that we marketers often encounter when vetting new resources and services.
-
-### How To Use This List
+<br>
+<br>
+<br>
+<strong>How To Use This List:</strong>
 
 This list is not designed to be read in a particular order, though you can do so if you wish. I suggest you :eyes: watch, :star: star, skip around, refer back whenever necessary.
-
-### A Note From the Creator
+<br>
+<br>
+<br>
+<strong>A Note From the Creator: </strong>
 
 Hello, my name is Paul Bradish. I first encountered digital marketing by way of search engine optimization (SEO) after learning "how to do HTML" in the mid '90s. A few years later it would become my career, and I've been in the industry now for nearly two decades. I've seen digital marketing grow from mostly theory and hype into something far more pragmatic and scientific. While I've enjoyed taking part in those changes, there are far more complexities to contend with now than ever before. Not just in algorithms and pivot tables, but also when cutting through the noise of services, vendors, gurus, experts, coaches, and consultants- all of whom would have you believe they are worth every first (and last) moment of your time. 
 
 So in a gesture of goodwill, I lay my cards on the table. _My_ master list now belongs to _you_.
-
+<br>
+<br>
+<br>
 ## Contents
 
 - Analytics
