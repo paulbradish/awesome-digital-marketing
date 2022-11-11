@@ -126,7 +126,7 @@ __Data Visualization Tools__ are desktop software or SaaS that render informatio
    - [Web Data Connectors](https://www.tableau.com/developer/tools/web-data-connector) - Create custom connections to data on the web and make that data available in Tableau.
 - [WordCloud Generator](https://monkeylearn.com/word-cloud) - Display words and phrases based on frequency and relevance. Word clouds provide you with quick and simple visual insights that can lead to more in-depth analyses.
 
-# Content
+## Content
 
 ## Content Marketing
 
@@ -196,7 +196,7 @@ __Publishing Platforms__ are nice because they can offer a readily available com
    - [TubeBuddy](https://www.tubebuddy.com/) - Helps you find high-performing, searchable video topics, and then craft the perfect titles and tags. 
 - [Vimeo](https://vimeo.com/) - An all-in-one video platform turns your ideas into action. Make, manage, and share videos and virtual events that move your audience.
 
-# Search
+## Search
 
 ## Engines (Search)
 - [Bing](https://www.bing.com/) - Owned by Microsoft. Previously known as: MSN Search, Windows Live Search and later Live Search. 
@@ -287,7 +287,7 @@ Also known as __Paid Search__, SEM is a commonly used method to quickly increase
 ### Paid Search Software (SaaS)
 - [MarinOne](https://www.marinsoftware.com/solutions/paid-search) - Identify growth opportunities and maximize revenue across Google, Microsoft, Apple Search Ads, and more. Leverage audience, revenue, and contextual data from any source to drive campaign performance and growth.
 
-# Social
+## Social
 
 ## Social Media
 
@@ -309,7 +309,7 @@ __Social Media Networks__ geared towards the digital marketer. I'm leaving a num
 ### Social Resources
 - [2022 Social Media Image Sizes for All Networks [CHEATSHEET]](https://blog.hootsuite.com/social-media-image-sizes-guide/#LinkedIn_image_sizes) - The most recent image size specifications for different social media networks, including Instagram, Twitter, Facebook, LinkedIn, and more.
 
-# Web
+## Web
 
 ## Web Development
 ### Code Editors
@@ -354,7 +354,7 @@ __Programming languages__ that are commonly used in front-end web design and bac
 ### Web Performance
 - [Cloudflare](https://www.cloudflare.com/) - A global network designed to make everything you connect to the Internet secure, private, fast, and reliable. _Great to improve performance and security of your website._
 
-# Related
+## Related
 
 ## Affiliate Management
 __Affiliate Management__ is the act of recruiting new affiliates (or partners) into your program, manage the onboarding process, and ensuring that their audiences are aligned with your target market.
