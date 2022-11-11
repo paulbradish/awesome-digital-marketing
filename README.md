@@ -1,5 +1,5 @@
 
-![Awesome Digital Marketing](/assets/AwesomeDigitalMarketing-HeaderImage20221017.png)
+# ![Awesome Digital Marketing](/assets/AwesomeDigitalMarketing-HeaderImage20221017.png)
 <p align="center">
 <sup>Created & Maintained by Paul Bradish <a href="https://www.linkedin.com/in/paulbradish/">LinkedIn</a> | <a href="https://twitter.com/paul_bradish">Twitter</a>
 <br />
