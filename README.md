@@ -7,15 +7,15 @@
 
 💎  __awesome-digital-marketing__ is a collection of the top digital marketing blogs, guides, resources, scripts, services, software, and more.
 
-__Who Is This List For?__
+### Who Is This List For?
 
 It's likely that you found this list because it's meant for you. It was created as a way to cut through the noise (and hype) that we marketers often encounter when vetting new resources and services.
 
-__How To Use This List__
+### How To Use This List
 
 This list is not designed to be read in a particular order, though you can do so if you wish. I suggest you :eyes: watch, :star: star, skip around, refer back whenever necessary.
 
-__A Note From the Creator__
+### A Note From the Creator
 
 Hello, my name is Paul Bradish. I first encountered digital marketing by way of search engine optimization (SEO) after learning “how to do HTML" in the mid '90s. A few years later it would become my career, and I've been in the industry now for nearly two decades. I've seen digital marketing grow from mostly theory and hype into something far more pragmatic and scientific. While I've enjoyed taking part in those changes, there are far more complexities to contend with now than ever before. Not just in algorithms and pivot tables, but also when cutting through the noise of services, vendors, gurus, experts, coaches, and consultants- all of whom would have you believe they are worth every first (and last) moment of your time. 
 
