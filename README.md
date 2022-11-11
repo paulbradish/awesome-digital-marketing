@@ -5,19 +5,23 @@
 <br />
 <a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg" alt="Awesome List"></a>&nbsp<a href="https://github.com/paulbradish/awesome-digital-marketing/blob/main/README.md"><img alt="GitHub Commits" src="https://img.shields.io/github/commit-activity/m/paulbradish/awesome-digital-marketing?style=flat-square"></a>&nbsp<a href="https://github.com/paulbradish/awesome-digital-marketing/blob/main/README.md"><img alt="CCO License" src="https://img.shields.io/github/license/paulbradish/awesome-digital-marketing"></a></sup></p>
 
-💎  __awesome-digital-marketing__ is a  a carefully curated list of best in class digital marketing blogs, guides, resources, scripts, services, software and more for today's marketing professional.
+💎  __awesome-digital-marketing__ is a collection of the top digital marketing blogs, guides, resources, scripts, services, software, and more.
 
 __Who Is This List For?__
 
-If you've found this list, there's a great chance that it's meant for you. This list was created as a means to cut through the noise (and hype) that we marketers often face when vetting new resources and services. I use the term "marketers" loosely, as I believe that we should all be striving to market ourselves at the very least, regardless of profession.
+It's likely that you found this list because it's meant for you. It was created as a way to cut through the noise (and hype) that we marketers often encounter when vetting new resources and services.
 
 __How To Use This List__
 
-This list is not meant to be read in any particular order, but you can of course do so if you wish. I suggest you :eyes: watch, :star: star, and use your browser's find function (Ctrl+F or ⌘-F) as necessary for best results.
+This list is not designed to be read in a particular order, though you can do so if you wish. I suggest you :eyes: watch, :star: star, skip around, refer back whenever necessary.
 
-__About the Creator__
+__A Note From the Creator__
 
-My name is Paul Bradish. I first encountered digital marketing by way of search engine optimization (SEO) after learning HTML in the mid 90's. Years later it would become my career, and I've now been in the industry for over 15 years. I've been around long enough to see numererous influencers, resources, and services come and go. I've notched a few wins and I've made even more mistakes. This puts me in a position where I feel confident to share my findings with the community. A community that has enjoyed a reputation of being very open, sharing, and collaborative since the very beginning.
+Hello, my name is Paul Bradish. I first encountered digital marketing by way of search engine optimization (SEO) after learning “how to do HTML" in the mid '90s. A few years later it would become my career, and I've been in the industry now for nearly two decades. I've seen digital marketing grow from mostly theory and hype into something far more pragmatic and scientific. While I've enjoyed taking part in those changes, there are far more complexities to contend with now than ever before. Not just in algorithms and pivot tables, but also when cutting through the noise of services, vendors, gurus, experts, coaches, and consultants- all of whom would have you believe they are worth every first (and last) moment of your time. 
+
+So in a gesture of goodwill, I lay my cards on the table. _My_ master list now belongs to _you_.
+
+---
 
 ## Rules
 
@@ -30,16 +34,10 @@ My name is Paul Bradish. I first encountered digital marketing by way of search 
 7. When in doubt, I leave it off the list. 
 8. Do your due dilligence.
 
-If you have any questions, concerns, or are in need of guidance don't hesitate to [reach out to me directly](https://paulbradish.com/contact-me/).
+If you have any questions, concerns, or are in need of guidance don't hesitate to [reach out to me directly](https://paulbradish.com/contact-me/). 
 
-> Does your organization have analytics, custom software development, or cloud based digital transformation needs? We've got you covered! Check us out @: 
->   
-> <a href="https://www.emergentsoftware.net/">![Emergent Software](/assets/EmergentSoftware.svg)</a>
+---
 
-Now that that's out of the way... on to the list!
-  
-- - - -
-  
 ## Contents
 
 - Analytics
