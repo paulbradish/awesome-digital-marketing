@@ -69,19 +69,19 @@ So in a gesture of goodwill, I lay my cards on the table. _My_ master list now b
 
 ## Analytics
 📈 __Data Analytics__ is the process of examining datasets to draw conclusions about the information they contain. Data analysis is often used by digital marketers to tell a story of the customer journey and to push data-driven marketing decisions surrounding content, features, and campaign efficacy.
- - __Analytics Resources__
+- __Analytics Resources__
      - [Cross Validated](https://stats.stackexchange.com/) - A question and answer site for people interested in statistics, machine learning, data analysis, data mining, and data visualization.
      - [Occam's Razor](https://www.kaushik.net/avinash/) - Web analytics blog authored by longtime digital marketing evangelist @google, Avinash Kaushik.
      - [r/Analytics](https://www.reddit.com/r/analytics/) - Dedicated to web analytics, data and business analytics. A great subreddit to discuss analysis of data, learning of skills and implementation of web analytics.
- - __Analytics Services__
-     - [Adobe Analytics](https://business.adobe.com/products/analytics/adobe-analytics.html) - Adobe Analytics lets you mix, match, and analyze data from any digital point in the customer journey. With in-depth analysis, versatile reporting, and predictive intelligence, you get the insightful foundation you need to build better customer experiences.
-     - [Google Analytics](https://analytics.google.com) - A web analytics service offered by Google that tracks and reports website traffic, currently as a platform inside the Google Marketing Platform brand. Google launched the service in November 2005 after acquiring Urchin.
-     - [Campaign URL Builder](https://ga-dev-tools.web.app/campaign-url-builder/) - This tool allows you to easily add campaign parameters to URLs so you can measure Custom Campaigns in Google Analytics.
-     - [URL Builder for GA](https://raventools.com/marketing-reports/google-analytics/url-builder/) - With the Google Analytics URL Builder, you can easily tag URLs with custom campaign variables and then use an automated reporting tool to keep track of progress and share with clients.
+- __Analytics Services__
+    - [Adobe Analytics](https://business.adobe.com/products/analytics/adobe-analytics.html) - Adobe Analytics lets you mix, match, and analyze data from any digital point in the customer journey. With in-depth analysis, versatile reporting, and predictive intelligence, you get the insightful foundation you need to build better customer experiences.
+    - [Google Analytics](https://analytics.google.com) - A web analytics service offered by Google that tracks and reports website traffic, currently as a platform inside the Google Marketing Platform brand. Google launched the service in November 2005 after acquiring Urchin.
+    - [Campaign URL Builder](https://ga-dev-tools.web.app/campaign-url-builder/) - This tool allows you to easily add campaign parameters to URLs so you can measure Custom Campaigns in Google Analytics.
+    - [URL Builder for GA](https://raventools.com/marketing-reports/google-analytics/url-builder/) - With the Google Analytics URL Builder, you can easily tag URLs with custom campaign variables and then use an automated reporting tool to keep track of progress and share with clients.
  
-  - __Analytics Tools__
-      - [Combinations & Permutations Generator](https://numbergenerator.org/permutations-and-combinations) - Great for when you need to come up with all possibilities within a defined alphanumeric sequence.
-      - [Percentage Change Calculator](https://www.calculatorsoup.com/calculators/algebra/percent-change-calculator.php) - This is a % change calculator. It will quantify the change from one number to another and express the change as an increase or decrease. Sounds simple but very easy to mess up when doing these quick calculations manually.
+- __Analytics Tools__
+    - [Combinations & Permutations Generator](https://numbergenerator.org/permutations-and-combinations) - Great for when you need to come up with all possibilities within a defined alphanumeric sequence.
+    - [Percentage Change Calculator](https://www.calculatorsoup.com/calculators/algebra/percent-change-calculator.php) - This is a % change calculator. It will quantify the change from one number to another and express the change as an increase or decrease. Sounds simple but very easy to mess up when doing these quick calculations manually.
 
 ## Custom Dashboards
 📊 Do you have to distill multiple data sources down into one single report? This is the bane of many a digital analyst and is enough to make one cry. No fear! This is where custom dashboards come into play. These dashboards (usually SaaS with a monthly/yearly sub) help eliminate the manual work by integrating most or all of your data connections together, allowing you to create and automate beautiful looking, KPI tailored dashboards and reports with minimal effort.
