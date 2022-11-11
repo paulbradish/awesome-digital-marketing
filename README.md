@@ -5,7 +5,7 @@
 <br />
 <a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg" alt="Awesome List"></a>&nbsp<a href="https://github.com/paulbradish/awesome-digital-marketing/blob/main/README.md"><img alt="GitHub Commits" src="https://img.shields.io/github/commit-activity/m/paulbradish/awesome-digital-marketing?style=flat-square"></a>&nbsp<a href="https://github.com/paulbradish/awesome-digital-marketing/blob/main/README.md"><img alt="CCO License" src="https://img.shields.io/github/license/paulbradish/awesome-digital-marketing"></a></sup></p>
 
-💎  __awesome-digital-marketing__ is a collection of the top digital marketing blogs, guides, resources, scripts, services, software, and more.
+💎  __awesome-digital-marketing__ is a collection of the top digital marketing articles, guides, resources, SaaS, tools, and more.
 
 ### Who This List Is For
 
