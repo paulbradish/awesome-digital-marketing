@@ -99,7 +99,7 @@ __Tag Management Systems__ help to manage the lifecycle of digital marketing tag
 - [Google Optimize](https://optimize.google.com/) - Offers A/B testing, website testing & personalization tools for small businesses to help deliver engaging customer experiences. Formerly known as Google Website Optimizer.
 - [Optimizely](https://www.optimizely.com/) - Provides A/B testing and multivariate testing tools, website personalization, and feature toggle capabilities, as well as web content management and digital commerce.
 ### Testing Tools
-- [AB testing calculator](https://www.surveymonkey.com/mp/ab-testing-significance-calculator/) - Calculate statistical significance. In the context of AB testing experiments, statistical significance is how likely it is that the difference between your experiment’s control version and test version isn’t due to error or random chance. This is important to keep in mind any time you are measuring or testing.
+- [AB testing calculator](https://www.surveymonkey.com/mp/ab-testing-significance-calculator/) - Calculate statistical significance. In the context of AB testing experiments, statistical significance is how likely it is that the difference between your experiment's control version and test version isn't due to error or random chance. This is important to keep in mind any time you are measuring or testing.
 ## URL Management
 ### Link in Bio
 - [About.me](https://about.me/) - Create a page to present who you are and what you do in one link. Professional. Take control and centralize your online presence.
@@ -246,7 +246,7 @@ __Search Engine Optimization__ is the process of improving the quality and quant
 
 ### SEO Resources
 - Downloads
-  - [The SEO Periodic Table](https://searchengineland.com/seotable) - Since it first debuted in 2011, Search Engine Land’s Periodic Table of SEO Factors has become a globally recognized tool that search professionals have relied on to help them understand the elements essential to a winning SEO strategy.
+  - [The SEO Periodic Table](https://searchengineland.com/seotable) - Since it first debuted in 2011, Search Engine Land's Periodic Table of SEO Factors has become a globally recognized tool that search professionals have relied on to help them understand the elements essential to a winning SEO strategy.
 - Tools
   - __Algorithm History__  Google has a long history of famous (an infamous) algorithm updates, search index changes and refreshes. It's important to have a grasp on when new changes are occuring so that you can plan accordingly and relay that information to your team as it's likely you'll see fluctuation in SERPs.
       - [Google Search ranking updates](https://developers.google.com/search/updates/ranking) - The offical page from Google detailing the the latest ranking updates made to Google Search that are relevant to website owners.
@@ -269,9 +269,9 @@ __Search Engine Optimization__ is the process of improving the quality and quant
  
 ### SEO Software (SaaS)
 - [Ahrefs](https://ahrefs.com/) - Everything you need to rank higher & get more traffic.
-   - [Ahrefs Academy](https://ahrefs.com/academy) - The best tools and data are worth nothing if you don’t know how to use them.
+   - [Ahrefs Academy](https://ahrefs.com/academy) - The best tools and data are worth nothing if you don't know how to use them.
    - [Ahrefs: The Definitive Guide](https://backlinko.com/ahrefs-guide) - Everything you need to know about Ahrefs link building and SEO software suite. This guide includes a ton of real examples of Ahrefs in action.
-   - [Ahrefs Webmaster Tools](https://ahrefs.com/webmaster-tools) - Improve your website’s SEO performance and get more traffic from search. Free for website owners.
+   - [Ahrefs Webmaster Tools](https://ahrefs.com/webmaster-tools) - Improve your website's SEO performance and get more traffic from search. Free for website owners.
 - [BrightEdge](https://www.brightedge.com/) - A leading enterprise SEO solution and content performance marketing platform, helping customers (typically large corporations in my experience) generate more organic traffic.
 - [Majestic](https://majestic.com/) - Develop backlink strategies with their link intelligence data, build the strong SEO backlink campaigns to drive organic traffic and boost your rankings.
 - [Moz](https://moz.com/) - Best-in-class SEO software for nearly every situation, from all-in-one SEO platform to tools for local SEO, enterprise SERP analytics, and a powerful API.
@@ -279,7 +279,7 @@ __Search Engine Optimization__ is the process of improving the quality and quant
    - [DA PA Checker](https://www.dapachecker.org/) - A bulk domain authority checker which allows you to check the Moz domain authority and page authority of up to 20 URLs at once.
 - [Semrush](https://www.semrush.com/) - Do SEO, content marketing, competitor research, PPC and social media marketing from just one platform.
    - [Semrush Academy](https://www.semrush.com/academy/) - Comprised of more than 30 free courses and certification exams — in English, Spanish, and French — that help anyone master new digital marketing skills and enrich their CVs and LinkedIn profiles. 
-   - [What is Semrush? A Complete Guide to Semrush Features, Metrics, and Reporting Dashboards](https://databox.com/what-is-semrush) - What’s Semrush and which features work best for tracking and improving your search rankings? Here’s everything you need to know.
+   - [What is Semrush? A Complete Guide to Semrush Features, Metrics, and Reporting Dashboards](https://databox.com/what-is-semrush) - What's Semrush and which features work best for tracking and improving your search rankings? Here's everything you need to know.
 - [SpyFu](https://www.spyfu.com/seo/overview) - Study competitors to help craft your plan by seeing what types of pages link to them. Also great for finding similar sites to keep on your radar and avoid any organic SERP flaws exposed by Google core updates to competition.
 - [Ubersuggest](https://neilpatel.com/ubersuggest/) - Allows you to get insight into the strategies that are working for others in your market so you can adopt them, improve them, and gain an edge.
 
@@ -305,8 +305,9 @@ Also known as __Paid Search__, SEM is a commonly used method to quickly increase
 ### Social Networks
 __Social Media Networks__ geared towards the digital marketer. I'm leaving a number of them off as there are communities everywhere (even on Facebook), in favor of those that are more consistent.
 - [Dev.to](https://dev.to/) - A constructive and inclusive social network for software developers. With you every step of your journey.
-   - [How to make the most of DEV if you’re over Twitter](https://dev.to/devteam/how-to-make-the-most-of-dev-if-youre-over-twitter-4567) 
+   - [How to make the most of DEV if you're over Twitter](https://dev.to/devteam/how-to-make-the-most-of-dev-if-youre-over-twitter-4567) 
 - [LinkedIn](https://www.linkedin.com/) - Manage your professional identity. Build and engage with your professional network. Access knowledge, insights and opportunities.
+   - [LinkedIn Polls – 5 Best Tactics For Boosting Engagement & Growth](https://leaddelta.com/linkedin-polls/)
 - [Quora](https://www.quora.com/) - A place to gain and share knowledge. It's a platform to ask questions and connect with people who contribute unique insights and quality answers.
    - [11 Ways To Answer Questions On Quora And Generate Leads](https://ladder.io/blog/quora-lead-generation)
 - [Reddit](https://www.reddit.com/) - A network of communities where people can dive into their interests, hobbies and passions. There&#x27;s a community for whatever you're interested in on Reddit.
