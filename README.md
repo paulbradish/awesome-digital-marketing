@@ -389,6 +389,8 @@ __Chat Bots__ are a type of software (typically SaaS) that can help customers by
 __Live Chat__ is a form of web-based customer messaging that allows customers to speak directly with a company's representative.
 - [Live Chat](https://www.livechat.com/) - An online customer service software with online chat, help desk software, and web analytics capabilities.
 
+## Jobs
+- [Digital Marketing Hiring Board](https://tripledouble.pallet.com/jobs) - Every week, a curated list of the best new, remote, Digital Marketing roles.
 ## Skills Training
 The digital marketing landscape changes quickly which is why it's important to consistently focus on __Skills Training__ so you don't get left behind.
 ### Online Courses
