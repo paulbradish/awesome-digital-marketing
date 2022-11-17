@@ -362,6 +362,8 @@ __Programming languages__ that are commonly used in front-end web design and bac
 
 ### Web Performance
 - [Cloudflare](https://www.cloudflare.com/) - A global network designed to make everything you connect to the Internet secure, private, fast, and reliable. _Great to improve performance and security of your website._
+- [Google Developers](https://developers.google.com/speed) - Tools and information to help you build high performance websites.
+- [Prerender](https://prerender.io/) - Get higher rankings by serving crawlers a static HTML version of your Javascript website, without compromising your customers’ experience.
 
 ## Related
 
