@@ -33,6 +33,7 @@ So in a gesture of goodwill, I lay my cards on the table. _My_ master list now b
 - Analytics
    - [Data Analytics](#analytics)
    - [Custom Dashboards](#custom-dashboards)
+   - [Spreadsheets](#spreadsheets)
    - [Tag Management](#tag-management)
    - [Testing](#testing)
    - [URL Management](#url-management)
@@ -88,6 +89,13 @@ So in a gesture of goodwill, I lay my cards on the table. _My_ master list now b
 - [Databox](https://databox.com/) - Connect all of your data in one place, visualize performance trends, monitor progress toward your goals, make more informed decisions, collaborate and report as you go with custom views and deep-dives for each function in your organization. 
 - [Geckoboard](https://www.geckoboard.com/) - No hassle professional KPI dashboards. Features over 80 integrations that you can build into a real-time dashboard.
 - [Klipfolio](https://www.klipfolio.com/) - From custom dashboards and reports to self-serve exploration and analysis, this SaaS helps you centralize data and gives you the power to make decisions with confidence.
+
+## Spreadsheets
+Love them or hate them, __Spreadsheets__ come with the territory. If you work in marketing, you're going to need to become really familiar with them 😉.
+- [Google Sheets](https://www.google.com/sheets/about/) - Create and edit online spreadsheets. Get insights together with secure sharing in real-time and from any device.
+- [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/excel) - Enables users to format, organize and calculate data in a spreadsheet.
+   - [Analyze Data in Excel](https://support.microsoft.com/en-us/office/analyze-data-in-excel-3223aab8-f543-4fda-85ed-76bb0295ffc4?ui=en-us&rs=en-us&ad=us) - Analyze Data in Excel empowers you to understand your data through natural language queries that allow you to ask questions about your data without having to write complicated formulas. In addition, Analyze Data provides high-level visual summaries, trends, and patterns.
+ 
 ## Tag Management
 __Tag Management Systems__ help to manage the lifecycle of digital marketing tags, used to track activity on digital properties, such as websites and web applications. These are especially useful because they allow you do bypass having pull in developers and agencies when you want to add or modify a 3rd party snippet or tag.
 - [Adobe Experience Platform Launch](https://business.adobe.com/products/experience-platform/launch.html) - A next-generation tag management system that unifies your marketing ecosystem. It breaks down silos and bottlenecks by connecting disparate technologies so you can deliver standout digital experiences.
