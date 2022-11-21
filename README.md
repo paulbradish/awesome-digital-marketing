@@ -370,29 +370,26 @@ __Programming languages__ that are commonly used in front-end web design and bac
 ## Affiliate Management
 __Affiliate Management__ is the act of recruiting new affiliates (or partners) into your program, manage the onboarding process, and ensuring that their audiences are aligned with your target market.
 
-### Affiliate Management Services
 - [PartnerStack](https://partnerstack.com/) - Helps you recruit, engage, and scale your entire ecosystem of partners — from affiliates to referral and reseller partners.
 
-## Automation
-
-### Digital Automation
+## Digital Automation
 - [If This Then That (IFTTT)](https://ifttt.com/) - Connect, integrate, and automate. Founded on the belief that every thing tech works better together, IF configured correctly you can automate some otherwise boring marketing and automation tasks.
    - [Getting Started Collection](https://ifttt.com/explore/getting-started-collection) - Some of the most popular Applets to help you get started.
    - [Google Sheets Applets](https://ifttt.com/google_sheets) - Popular Google Sheets workflows & automations.
    - [YouTube Applets](https://ifttt.com/youtube) - Popular YouTube workflows & automations.
- 
-## Customer Support
-Improve conversions and user experience with __Customer Support__ baked into your website.
 
-### Chat Bots
-__Chat Bots__ are a type of software (typically SaaS) that can help customers by automating conversations and interact with them through messaging platforms. Platforms are based on workflows and may contain machine learning.
-
-### Live Chat
-__Live Chat__ is a form of web-based customer messaging that allows customers to speak directly with a company's representative.
+## Chat Bots & Live Chat
 - [Live Chat](https://www.livechat.com/) - An online customer service software with online chat, help desk software, and web analytics capabilities.
+
+## Ecommerce
+- [100+ Ecommerce Tools, Tips and Tactics](https://tripledouble.notion.site/cb18cf07e53e455e90ce256a9bbcc733?v=60cade2d360e4ee08195565e26fb0e04) - A great list of ecommerce tactics hosted on Notion.
 
 ## Jobs
 - [Digital Marketing Hiring Board](https://tripledouble.pallet.com/jobs) - Every week, a curated list of the best new, remote, Digital Marketing roles.
+
+##
+- [Digital Marketing Must-Knows Newsletter](https://tripledouble.beehiiv.com/) - Sends every Monday. 5 biggest stories. In 60 seconds.
+- [TLDR](https://tldr.tech/) - TLDR is a daily newsletter with links and TLDRs of the most interesting stories in startups 🚀, tech 📱, and programming 💻!
 ## Skills Training
 The digital marketing landscape changes quickly which is why it's important to consistently focus on __Skills Training__ so you don't get left behind.
 ### Online Courses
