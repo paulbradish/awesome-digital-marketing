@@ -132,6 +132,7 @@ __Data Visualization__ is simply _(or not so simply)_ the graphic representation
 
 ### Visualization Tools
 __Data Visualization Tools__ are desktop software or SaaS that render information in a visual format for data analysis purposes. Such tools make it far easier to understand and work with large data sets. 
+- [Data Color Picker](https://www.learnui.design/tools/data-color-picker.html) - A color pallete generator for data visualization purposes. _I really enjoy this tool!_
 - [Datawrapper](https://www.datawrapper.de/) - Enrich your stories with charts, maps, and tables.
 - [Infogram](https://infogram.com/) - An intuitive visualization tool that empowers people and teams to create beautiful, engaging, and interactive infographs.
 - [Flourish](https://flourish.studio/) - Beautiful and easy data visualization and storytelling.
@@ -338,17 +339,23 @@ __Social Media Networks__ geared towards the digital marketer. I'm leaving a num
 - Domain Registrars
 - Domain Name Valuation
 ### Markup Languages
-- CSS
+Computer languages that consists of keywords, names, or tags that help format the overall view of a page and the data it contains. Typical examples of markup languages you will encounter are HTML and XML.
+### CSS Guides
   - [How to Hide a div in Mobile but Show it on Desktop Or Vice Versa](https://xedricity.com/how-to-hide-a-div-in-mobile-but-show-it-on-desktop-or-vice-versa/)
   - [Learn CSS: The Complete Guide](https://webdesign.tutsplus.com/series/learn-css-the-complete-guide--cms-1065)
   - [The CSS Handbook: A Handy Guide to CSS for Developers](https://www.freecodecamp.org/news/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11/) 
-- HTML
-  - [HTML For Beginners The Easy Way: Start Learning HTML & CSS Today](https://html.com/)
-  - [Structuring the web with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
-  - [The Ultimate Guide to HTML for Beginners: How to Write, Learn & Use It](https://blog.hubspot.com/website/html)
-  - [W3Schools HTML Tutorial](https://www.w3schools.com/html/)
-- XML
-  - [XML Tutorial for Beginners](https://www.guru99.com/xml-tutorials.html)
+### CSS Tools
+- [Cubic-Bezier Curves Generator](https://cubic-bezier.com/#.17,.67,.83,.67) - A wonderful little tool for cubic-bezier() easing.
+- [Easing Gradients](https://larsenwork.com/easing-gradients/) - Supercharge your gradients with non-linear color mix and custom color spaces.
+- [Fancy Border Radius](https://9elements.github.io/fancy-border-radius/) - a visualized border radius generator which utilizes eight values specifying border-radius in CSS to build organic looking shapes. 
+- [Smooth Shadows](https://shadows.brumm.af/) - A smooth shadow CSS generator inspired by [this](https://tobiasahlin.com/blog/layered-smooth-box-shadows/).
+### HTML
+- [HTML For Beginners The Easy Way: Start Learning HTML & CSS Today](https://html.com/)
+- [Structuring the web with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
+- [The Ultimate Guide to HTML for Beginners: How to Write, Learn & Use It](https://blog.hubspot.com/website/html)
+- [W3Schools HTML Tutorial](https://www.w3schools.com/html/)
+### XML
+- [XML Tutorial for Beginners](https://www.guru99.com/xml-tutorials.html)
   
 ### Programming Languages
 __Programming languages__ that are commonly used in front-end web design and back-end web development.
