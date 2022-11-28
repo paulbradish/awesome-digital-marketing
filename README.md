@@ -26,6 +26,7 @@ I first encountered digital marketing by way of search engine optimization (SEO)
 <br>
 <br>
 <br>
+   
 ## Contents
 
 - Analytics
