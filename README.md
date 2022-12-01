@@ -92,6 +92,9 @@ I first encountered digital marketing by way of search engine optimization (SEO)
 ## Spreadsheets
 Love them or hate them, __Spreadsheets__ come with the territory. If you work in marketing, you're going to need to become really familiar with them 😉.
 - [Google Sheets](https://www.google.com/sheets/about/) - Create and edit online spreadsheets. Get insights together with secure sharing in real-time and from any device.
+   - [40 Essential Google Sheets Tips and Tricks](https://www.lido.app/post/40-essential-google-sheets-tips-tricks-2022-edition) - In this google sheets tips and tricks 2022 edition, find 40 tips and tricks to quickly master Google Sheets
+   - [Google Sheets cheat sheet](https://support.google.com/a/users/answer/9300022?hl=en) - Common tips and syntax definition. On the right navigation you'll find a number of links to additional beginner to advanced tips.
+
 - [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/excel) - Enables users to format, organize and calculate data in a spreadsheet.
    - [Analyze Data in Excel](https://support.microsoft.com/en-us/office/analyze-data-in-excel-3223aab8-f543-4fda-85ed-76bb0295ffc4?ui=en-us&rs=en-us&ad=us) - Analyze Data in Excel empowers you to understand your data through natural language queries that allow you to ask questions about your data without having to write complicated formulas. In addition, Analyze Data provides high-level visual summaries, trends, and patterns.
  
@@ -336,7 +339,9 @@ __Social Media Networks__ geared towards the digital marketer. I'm leaving a num
 - [Visual Studio Code](https://code.visualstudio.com/) - A code editor redefined and optimized for building and debugging modern web and cloud applications.
 ### Domains
 - Domain Registrars
+  - [NameCheap](https://www.namecheap.com/) - An ICANN-accredited domain name registrar providing domain name registration and web hosting based in Phoenix, Arizona, US. Very reliable and inexpensive registration and shared hosting.
 - Domain Name Valuation
+  - [Estibot](https://www.estibot.com/) - Free domain appraisal and domain investment tools.
 ### Markup Languages
 Computer languages that consists of keywords, names, or tags that help format the overall view of a page and the data it contains. Typical examples of markup languages you will encounter are HTML and XML.
 ### CSS Guides
