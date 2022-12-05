@@ -154,7 +154,8 @@ __Data Visualization Tools__ are desktop software or SaaS that render informatio
 - [Explain Paper](https://www.explainpaper.com/) - Use AI to paraphrase and summarize technical documents. This is really helpful during the research phase if you're not quite grasping a topic.
 - [People Also Ask](https://www.neuraltext.com/ai/people-also-ask) - Get dozens of popular questions your audience also asked and discover untapped content opportunities.
 ## Content Writing
-- [Copy.ai](https://www.copy.ai/) - an AI-powered copywriter that generates high-quality copy for your business. This tool is great for generating ideas and/or breaking through inevitable writer blocks.
+- [Copy.ai](https://www.copy.ai/) - AI-powered copywriter that generates high-quality copy for your business. This tool is great for generating ideas and/or breaking through inevitable writer blocks.
+- [Jasper](https://www.jasper.ai/) - AI Content Platform that helps you and your team break through creative blocks to create amazing, original content 10X faster.  
 ### Writing Articles
 - [How to Write Headlines That Work](https://copyblogger.com/how-to-write-headlines-that-work/)
 - [What is Copywriting? Definition & Tips](https://neilpatel.com/blog/ultimate-guide-to-copywriting/)
