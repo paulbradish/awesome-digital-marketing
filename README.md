@@ -184,6 +184,7 @@ __Data Visualization Tools__ are desktop software or SaaS that render informatio
 ## Market Research
 - [Crunchbase](https://www.crunchbase.com/) - One of the more acurate prospecting services I've found. Great for intel and market research.
 - [Google Trends](https://trends.google.com/trends/) - A free service that analyzes the popularity of top search queries in Google Search across various regions and languages.
+- [Lead Forensics](https://www.leadforensics.com/) - The world's #1 website visitor identification software. Uncover your anonymous B2B website visitors and fuel your business growth.
 - [Similarweb](https://www.similarweb.com/) - All in one Website analytics competitive traffic intelligence platform. Often used to compare website traffic and performance, analyze strategies & market share acquisition.
 - [SparkToro](https://sparktoro.com/) - Crawls public profiles on social media so you can quickly learn where your audience is and how to reach them.
 - [Zoominfo](https://www.zoominfo.com/) - Get the B2B data and software you need to connect with and close your most valuable buyers — all in one operating system.
