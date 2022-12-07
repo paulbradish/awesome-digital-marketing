@@ -140,6 +140,7 @@ __Data Visualization Tools__ are desktop software or SaaS that render informatio
 - [Flourish](https://flourish.studio/) - Beautiful and easy data visualization and storytelling.
 - [Looker Studio (Google Data Studio)](https://datastudio.google.com/) - Turns your data into fully customizable informative reports and dashboards that are easy to read and share.
 - [Microsoft Power BI](https://powerbi.microsoft.com/en-us/) - Power BI is an interactive data visualization software product developed by Microsoft with a primary focus on business intelligence.
+- [SparkToro](https://sparktoro.com/) - Crawls public profiles on social media so you can quickly learn where your audience is and how to reach them.
 - [Tableau](https://www.tableau.com/) - Helps users visualize and understand their data, transforming the way they use data to solve problems.
    - [Web Data Connectors](https://www.tableau.com/developer/tools/web-data-connector) - Create custom connections to data on the web and make that data available in Tableau.
 - [WordCloud Generator](https://monkeylearn.com/word-cloud) - Display words and phrases based on frequency and relevance. Word clouds provide you with quick and simple visual insights that can lead to more in-depth analyses.
