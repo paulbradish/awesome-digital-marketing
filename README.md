@@ -43,9 +43,10 @@ I first encountered digital marketing by way of search engine optimization (SEO)
    - [Email Marketing](#email-marketing) 
    - [Lead Generation (Inbound)](#lead-generation-inbound-marketing)
    - [Market Research](#market-research)
-   - [Public Relations](#public-relations)
+   - [Press Releases](#press-releases)
    - [Publishing Platforms (Free)](#publishing-platforms-free--subscription)
-   - [Publishing Platforms (Hosted)](#publishing-platforms-hosted)   
+   - [Publishing Platforms (Hosted)](#publishing-platforms-hosted)
+   - [Stock Media](#stock-media)
    - [Video](#video)
 - [Search](#search) 
    - [Engines (Search)](#engines-search) 
@@ -159,10 +160,8 @@ __Data Visualization Tools__ are desktop software or SaaS that render informatio
 ### Writing Articles
 - [How to Write Headlines That Work](https://copyblogger.com/how-to-write-headlines-that-work/)
 - [What is Copywriting? Definition & Tips](https://neilpatel.com/blog/ultimate-guide-to-copywriting/)
-
 ### Writing Guides
 - [Copywriting: The Definitive Guide (2022)](https://backlinko.com/copywriting-guide)
-
 ### Writing Tools
 - [Capitalize My Title](https://capitalizemytitle.com/) - Makes title capitalization easy. Automatically capitalize and case convert to Title Case (in AP, APA, Chicago, MLA, BB, AMA), sentence case, UPPERCASE, lowercase, and more.
 - [Grammarly](https://www.grammarly.com/) - A cloud-based typing assistant that helps you write mistake-free in Gmail, Facebook, Twitter, LinkedIn, and any other app you use. _Even the free version is fantastic and has helped me catch a few grammatical errors that would have looked messy and unprofessional._
@@ -170,17 +169,14 @@ __Data Visualization Tools__ are desktop software or SaaS that render informatio
 - [Lorem Ipsum](https://loremipsum.io/) - A lorem ipsum generator. Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
 - [Make My Persona](https://www.hubspot.com/make-my-persona) - Create professional, customizable buyer personas in minutes with the help of our intuitive free generator and share the templates with your team.
 - [Wordtune](https://www.wordtune.com/) - Say exactly what you mean through clear, compelling and authentic writing.
-
 ## Email Marketing
 - [Constant Contact](https://www.constantcontact.com/) - Deliver stunning emails and a whole lot more. Attract new customers and boost sales with their complete, easy-to-use digital marketing suite.
 - [Mailchimp](https://mailchimp.com/) - Grow your business on your terms with Mailchimp's All-In-One marketing, automation & email marketing platform.
-
 ## Lead Generation (Inbound Marketing)
 - [HubSpot](https://www.hubspot.com/) - A leading CRM platform with a number of inbound marketing tools.
    - [Lead Generation: A Beginner's Guide to Generating Business Leads the Inbound Way](https://blog.hubspot.com/marketing/beginner-inbound-lead-generation-guide-ht)
 - [LeadPages](https://www.leadpages.com/) - A digital lead generation software platform that enables entrepreneurs and marketers to easily publish web sites and landing pages, so they can turn clicks into customers.
 - [Unbounce](https://unbounce.com/) - AI-powered landing page builder with smart features that let you create beautiful, high-performing marketing campaigns in just a few minutes.
-
 ## Market Research
 - [Crunchbase](https://www.crunchbase.com/) - One of the more acurate prospecting services I've found. Great for intel and market research.
 - [Google Trends](https://trends.google.com/trends/) - A free service that analyzes the popularity of top search queries in Google Search across various regions and languages.
@@ -188,19 +184,15 @@ __Data Visualization Tools__ are desktop software or SaaS that render informatio
 - [Similarweb](https://www.similarweb.com/) - All in one Website analytics competitive traffic intelligence platform. Often used to compare website traffic and performance, analyze strategies & market share acquisition.
 - [SparkToro](https://sparktoro.com/) - Crawls public profiles on social media so you can quickly learn where your audience is and how to reach them.
 - [Zoominfo](https://www.zoominfo.com/) - Get the B2B data and software you need to connect with and close your most valuable buyers — all in one operating system.
-
 ## Press Releases
-
 ### Press Release Distribution
 You've written a killer __Press Release__ and now you need it to make a splash. Enter PR distribution services. For a *relatively* nominal fee, they will host and distribute your press release to their large networks of IRL journalists and news sites in an automated, scalable fashion.
 - [Cision PRWeb](https://service.prweb.com/) - Reach the right audiences and gain more media visibility with Cision PR Newswire, the industry's largest, most trusted press release distribution network. 
 - [Newswire](https://www.newswire.com/) - Delivers press release distribution and press release campaigns by leveraging earned media outreach, SEO traffic and email marketing through campaign automation to help businesses land impactful media coverage, drive website traffic, generate leads and grow brand awareness.
-
 ### Publishing Platforms (Free / Subscription) 
 __Publishing Platforms__ are nice because they can offer a readily available community of avid readers, server stability, and customer support. I tend to prefer them over a hosted solution in most situations because I know that whatever I post *will* be found.
 - [Medium](https://medium.com/) - An open platform where readers find dynamic thinking, and where expert and undiscovered voices can share their writing on any topic.
 - [Substack](https://substack.com/) - Start a publication that combines a personal website, blog, and email newsletter or podcast. It's fairly minimal in nature, so you don't have to be tech savvy.
-
 ### Publishing Platforms (Hosted)
 - [Wordpress](https://wordpress.org/) - Create a place for your business, your interests, or anything else—with the open source platform that powers the web.
    - [Plugins](https://wordpress.org/plugins/) - Extend your Wordpress experience with thousands of plugins at your fingertips.
@@ -210,7 +202,11 @@ __Publishing Platforms__ are nice because they can offer a readily available com
     - [Themes](https://wordpress.org/themes/) - Find the perfect theme for your WordPress website. Choose from thousands of stunning designs with a wide variety of features and customization options.
        - [Divi](https://www.elegantthemes.com/gallery/divi/) - Not just another Wordpress theme. This is a complete design framework that allows you to design and customize every part of your website from the ground up. If only It was the default WP install...
        - [Elementor](https://elementor.com/features/wordpress/) - Elementor is the platform web creators choose to build professional WordPress websites, grow their skills, and build their business.
-
+## Stock Media
+- [Creative Market](https://creativemarket.com/) - Accelerate your projects with millions of ready-to-use products.
+- [Envato Elements](https://elements.envato.com/) - Cheap subscription service with 11 million+ creative assets.
+- [Pexels](https://www.pexels.com/) - Free stock photos, royalty free images & videos shared by creators.
+- [Unsplash](https://unsplash.com/) - The internet’s source for visuals. Powered by creators everywhere.
 ## Video
 ### Video Sharing
 - [YouTube](https://www.youtube.com/) - Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world.
