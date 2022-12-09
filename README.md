@@ -4,13 +4,13 @@
 <sup>Created & Maintained by Paul Bradish <a href="https://www.linkedin.com/in/paulbradish/">LinkedIn</a> | <a href="https://twitter.com/paul_bradish">Twitter</a>
 </p>
 <br />  
-💎  <strong>awesome-digital-marketing</strong> is a collection of the top digital marketing articles, guides, resources, SaaS, tools, and more.
+💎  <strong>awesome-digital-marketing</strong> is a constantly curated collection of top digital marketing articles, guides, resources, SaaS, tools, and more.
 <br>
 <br>
 <br>
 <strong>Who this list is for:</strong>
 <br>
-It's likely that you found this list because it's meant for you. It was created as a way to cut through the noise (and hype) that we marketers often encounter when vetting new resources and services.
+It's likely that you found this list because it's meant for you. It was created as a way to cut through the noise (and hype) that often encountered when vetting new digital marketing related resources and services.
 <br>
 <br>
 <br>
@@ -20,9 +20,9 @@ This list is not designed to be read in a particular order, though you can do so
 <br>
 <br>
 <br>
-<strong>A note From the creator:</strong>
+<strong>A note from the creator:</strong>
 <br>
-I first encountered digital marketing by way of search engine optimization (SEO) after learning "how to do HTML" in the mid '90s. A few years later it would become my career, and I've been in the industry now for nearly two decades. I've seen digital marketing grow from mostly theory and hype into something far more pragmatic and scientific. While I've enjoyed the evolution of our industry, there are far more complexities to contend with now than before. Not just in algorithms and pivot tables, but also when cutting through the noise of services, vendors, gurus, experts, coaches, and consultants- all of whom would have you believe they are worth every first (and last) moment of your time. So in a gesture of goodwill, I share with you resources that I've found (and still find to be) useful. Hopefully you find use in them as well.
+I first encountered digital marketing by way of search engine optimization (SEO) after learning "how to do HTML" in the mid '90s. A few years later it would become my career, and I've been in the industry now for nearly two decades. I've seen digital marketing grow from mostly theory and hype into something far more pragmatic and scientific. While I've enjoyed the evolution of our industry, there are far more complexities to contend with now than before. Not just in algorithms and pivot tables, but also when cutting through the noise of services, vendors, gurus, experts, coaches, and consultants- all of whom would have you believe they are worth every first (and last) moment of your time. So in a gesture of goodwill, I share with you resources and tools that I've found useful. Hopefully you find them useful as well.
 <br>
 <br>
 <br>
