@@ -56,6 +56,7 @@ I first encountered digital marketing by way of search engine optimization (SEO)
 - [Social](social)
    - [Social Media](#social-media)
 - [Web](#web)
+   - [Web Design](#web-design)
    - [Web Development](#web-development)
 - [Related](#related)
    - [Affiliate Management](#affiliate-management)
@@ -329,7 +330,9 @@ __Social Media Networks__ geared towards the digital marketer. I'm leaving a num
 - [2022 Social Media Image Sizes for All Networks [CHEATSHEET]](https://blog.hootsuite.com/social-media-image-sizes-guide/#LinkedIn_image_sizes) - The most recent image size specifications for different social media networks, including Instagram, Twitter, Facebook, LinkedIn, and more.
 
 ## Web
-
+## Web Design
+### Website Templates
+- [HTML5up](https://html5up.net/) - Responsive HTML5 and CSS3 site templates designed by [@ajlkn](https://twitter.com/ajlkn).
 ## Web Development
 ### Code Editors
 - [Atom](https://atom.io/) - A hackable text editor for the 21st Century.
