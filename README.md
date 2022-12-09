@@ -369,7 +369,11 @@ __Programming languages__ that are commonly used in front-end web design and bac
   - Angular
   - jQuery
   - React
-  - Vue 
+  - Vue
+  - Other
+    - [Paper.js](http://paperjs.org/) - The swiss army knife of vector graphics scripting.
+    - [Three.js](https://threejs.org/) - A popular 3d JavaScript library.
+    - [VantaJS](https://www.vantajs.com/) - Animated website backgrounds in a few lines of code. _Ok... it's a little bit more complicated than that, but very neat!_
 - Python
 - Ruby
 - TypeScript
