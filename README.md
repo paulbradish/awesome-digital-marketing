@@ -387,7 +387,8 @@ __Programming languages__ that are commonly used in front-end web design and bac
   - Other
     - [Paper.js](http://paperjs.org/) - The swiss army knife of vector graphics scripting.
     - [Three.js](https://threejs.org/) - A popular 3d JavaScript library.
-    - [VantaJS](https://www.vantajs.com/) - Animated website backgrounds in a few lines of code. _Ok... it's a little bit more complicated than that, but very neat!_
+    - [Vanta.js](https://www.vantajs.com/) - Animated website backgrounds in a few lines of code. _Ok... it's a little bit more complicated than that, but very neat!_
+       - [Vanta.js + HTML5up Template](https://paulbradish.github.io/html5up-vantajs/) - Demo of a vanta.js + html5/css3 + three.js template I configured to help users get off the ground quickly.
 - Python
 - Ruby
 - TypeScript
