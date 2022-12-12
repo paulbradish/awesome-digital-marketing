@@ -29,9 +29,10 @@ I first encountered digital marketing by way of search engine optimization (SEO)
    
 ## Contents
 
-- Analytics
-   - [Data Analytics](#analytics)
+- [Data](#data)
+   - [Data Analytics](#data-analytics)
    - [Custom Dashboards](#custom-dashboards)
+   - [Intelligence](#intelligence)
    - [Spreadsheets](#spreadsheets)
    - [Tag Management](#tag-management)
    - [Testing](#testing)
@@ -42,7 +43,6 @@ I first encountered digital marketing by way of search engine optimization (SEO)
    - [Content Writing](#content-writing)
    - [Email Marketing](#email-marketing) 
    - [Lead Generation (Inbound)](#lead-generation-inbound-marketing)
-   - [Market Research](#market-research)
    - [Press Releases](#press-releases)
    - [Publishing Platforms (Free)](#publishing-platforms-free--subscription)
    - [Publishing Platforms (Hosted)](#publishing-platforms-hosted)
@@ -67,19 +67,22 @@ I first encountered digital marketing by way of search engine optimization (SEO)
    - [Skills Training](#skills-training)
    - [Online Courses](#online-courses)
 
-## Analytics
+## Data
+In digital, we often think of data in terms of simple web analytics and typical marketing KPIs but it is _so_ much more than that, therefore it must be broken down into numerous sub categories. My recommendation is to first understand the question(s) you are trying to answer, and then formulate a stack of data services and tools that will help you collect, cleanse, analyze, and report your findings to key stakeholders.
+
+## Data Analytics
 📈 __Data Analytics__ is the process of examining datasets to draw conclusions about the information they contain. Data analysis is often used by digital marketers to tell a story of the customer journey and to push data-driven marketing decisions surrounding content, features, and campaign efficacy.
- - __Analytics Resources__
+ - __Data Analytics Resources__
      - [Cross Validated](https://stats.stackexchange.com/) - A question and answer site for people interested in statistics, machine learning, data analysis, data mining, and data visualization.
      - [Occam's Razor](https://www.kaushik.net/avinash/) - Web analytics blog authored by longtime digital marketing evangelist @google, Avinash Kaushik.
      - [r/Analytics](https://www.reddit.com/r/analytics/) - Dedicated to web analytics, data and business analytics. A great subreddit to discuss analysis of data, learning of skills and implementation of web analytics.
- - __Analytics Services__
+ - __Data Analytics Services__
      - [Adobe Analytics](https://business.adobe.com/products/analytics/adobe-analytics.html) - Adobe Analytics lets you mix, match, and analyze data from any digital point in the customer journey. With in-depth analysis, versatile reporting, and predictive intelligence, you get the insightful foundation you need to build better customer experiences.
      - [Google Analytics](https://analytics.google.com) - A web analytics service offered by Google that tracks and reports website traffic, currently as a platform inside the Google Marketing Platform brand. Google launched the service in November 2005 after acquiring Urchin.
      - [Campaign URL Builder](https://ga-dev-tools.web.app/campaign-url-builder/) - This tool allows you to easily add campaign parameters to URLs so you can measure Custom Campaigns in Google Analytics.
      - [URL Builder for GA](https://raventools.com/marketing-reports/google-analytics/url-builder/) - With the Google Analytics URL Builder, you can easily tag URLs with custom campaign variables and then use an automated reporting tool to keep track of progress and share with clients.
  
-  - __Analytics Tools__
+  - __Data Analytics Tools__
       - [Combinations & Permutations Generator](https://numbergenerator.org/permutations-and-combinations) - Great for when you need to come up with all possibilities within a defined alphanumeric sequence.
       - [Percentage Change Calculator](https://www.calculatorsoup.com/calculators/algebra/percent-change-calculator.php) - This is a % change calculator. It will quantify the change from one number to another and express the change as an increase or decrease. Sounds simple but very easy to mess up when doing these quick calculations manually.
 
@@ -90,6 +93,21 @@ I first encountered digital marketing by way of search engine optimization (SEO)
 - [Databox](https://databox.com/) - Connect all of your data in one place, visualize performance trends, monitor progress toward your goals, make more informed decisions, collaborate and report as you go with custom views and deep-dives for each function in your organization. 
 - [Geckoboard](https://www.geckoboard.com/) - No hassle professional KPI dashboards. Features over 80 integrations that you can build into a real-time dashboard.
 - [Klipfolio](https://www.klipfolio.com/) - From custom dashboards and reports to self-serve exploration and analysis, this SaaS helps you centralize data and gives you the power to make decisions with confidence.
+
+## Intelligence
+### Business Intelligence
+- [Crunchbase](https://www.crunchbase.com/) - One of the more acurate prospecting services I've found. Great for intel and market research.
+- [Similarweb](https://www.similarweb.com/) - All in one Website analytics competitive traffic intelligence platform. Often used to compare website traffic and performance, analyze strategies & market share acquisition.
+### Lead Intelligence
+- [Lead Forensics](https://www.leadforensics.com/) - The world's #1 website visitor identification software. Uncover your anonymous B2B website visitors and fuel your business growth.
+- [Zoominfo](https://www.zoominfo.com/) - Get the B2B data and software you need to connect with and close your most valuable buyers — all in one operating system.
+### Social Listening
+- [Google Alerts](https://www.google.com/alerts) - Monitor the web for interesting new content.
+- [SparkToro](https://sparktoro.com/) - Crawls public profiles on social media so you can quickly learn where your audience is and how to reach them.
+### Technology Stack
+- [BuiltWith](https://builtwith.com/) - A website profiler, lead generation, competitive analysis and business intelligence tool providing technology adoption, ecommerce data and usage analytics for the internet.
+- [W3Techs](https://w3techs.com/) - Provider of information about the usage of various types of technologies on the web.
+- [Wappalyzer](https://www.wappalyzer.com/) - Find out the technology stack of any website. Create lists of websites that use certain technologies, with company and contact details. Use our tools for lead generation, market analysis and competitor research.
 
 ## Spreadsheets
 Love them or hate them, __Spreadsheets__ come with the territory. If you work in marketing, you're going to need to become really familiar with them 😉.
@@ -154,6 +172,7 @@ __Data Visualization Tools__ are desktop software or SaaS that render informatio
 - [Also Asked](https://alsoasked.com/) - A great tool for getting to grips with the breadth of topical research. It unearths troves of data, in an effective and easy to use way.
 - [Answer The Public](https://answerthepublic.com/) - Extracts autocomplete data from search engines like Google then quickly cranks out every useful phrase and question people are asking.
 - [Explain Paper](https://www.explainpaper.com/) - Use AI to paraphrase and summarize technical documents. This is really helpful during the research phase if you're not quite grasping a topic.
+- [Google Trends](https://trends.google.com/trends/) - Explore what the world is searching (on Google).
 - [People Also Ask](https://www.neuraltext.com/ai/people-also-ask) - Get dozens of popular questions your audience also asked and discover untapped content opportunities.
 ## Content Writing
 - [Copy.ai](https://www.copy.ai/) - AI-powered copywriter that generates high-quality copy for your business. This tool is great for generating ideas and/or breaking through inevitable writer blocks.
@@ -178,13 +197,6 @@ __Data Visualization Tools__ are desktop software or SaaS that render informatio
    - [Lead Generation: A Beginner's Guide to Generating Business Leads the Inbound Way](https://blog.hubspot.com/marketing/beginner-inbound-lead-generation-guide-ht)
 - [LeadPages](https://www.leadpages.com/) - A digital lead generation software platform that enables entrepreneurs and marketers to easily publish web sites and landing pages, so they can turn clicks into customers.
 - [Unbounce](https://unbounce.com/) - AI-powered landing page builder with smart features that let you create beautiful, high-performing marketing campaigns in just a few minutes.
-## Market Research
-- [Crunchbase](https://www.crunchbase.com/) - One of the more acurate prospecting services I've found. Great for intel and market research.
-- [Google Trends](https://trends.google.com/trends/) - A free service that analyzes the popularity of top search queries in Google Search across various regions and languages.
-- [Lead Forensics](https://www.leadforensics.com/) - The world's #1 website visitor identification software. Uncover your anonymous B2B website visitors and fuel your business growth.
-- [Similarweb](https://www.similarweb.com/) - All in one Website analytics competitive traffic intelligence platform. Often used to compare website traffic and performance, analyze strategies & market share acquisition.
-- [SparkToro](https://sparktoro.com/) - Crawls public profiles on social media so you can quickly learn where your audience is and how to reach them.
-- [Zoominfo](https://www.zoominfo.com/) - Get the B2B data and software you need to connect with and close your most valuable buyers — all in one operating system.
 ## Press Releases
 ### Press Release Distribution
 You've written a killer __Press Release__ and now you need it to make a splash. Enter PR distribution services. For a *relatively* nominal fee, they will host and distribute your press release to their large networks of IRL journalists and news sites in an automated, scalable fashion.
@@ -239,6 +251,8 @@ __Publishing Platforms__ are nice because they can offer a readily available com
 - Keyword Tools
     - [Extract Text From Image](https://www.editpad.org/tool/extract-text-from-image) - This image to Text Converter uses algorithms to extract text from images, and is a huge timesaver when you find interesting text within an image and would like to check the search volume or copy for later.
     - [Google Ads Keyword Planner](https://ads.google.com/home/tools/keyword-planner/) - You can use this free tool to discover new keywords related to your business and see estimates of the searches they receive and the cost to target them.  
+    
+    
     - [SearchVolume.io](https://searchvolume.io/) - Get monthly search volume data free. See search volumes for up to 800 keywords at a time.
 
 ## Organic Search
