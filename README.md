@@ -347,6 +347,8 @@ __Social Media Networks__ geared towards the digital marketer. I'm leaving a num
 ## Web Design
 ### Website Templates
 - [HTML5up](https://html5up.net/) - Responsive HTML5 and CSS3 site templates designed by [@ajlkn](https://twitter.com/ajlkn).
+### Website Tools
+- [Favicon.io](https://favicon.io/) - Quickly generate your favicon from text, image, or choose from hundreds of emojis.
 ## Web Development
 ### Code Editors
 - [Atom](https://atom.io/) - A hackable text editor for the 21st Century.
