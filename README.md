@@ -345,6 +345,11 @@ __Social Media Networks__ geared towards the digital marketer. I'm leaving a num
 
 ## Web
 ## Web Design
+### Web Fonts & Icons
+- [Font Awesome](https://fontawesome.com/) - One of the internet's primary icon library and toolkits, used by millions of designers, developers, and content creators.
+- [Google Fonts](https://fonts.google.com/) - A robust catalog of open-source fonts and icons, making it easy to integrate expressive type and icons seamlessly into your design.
+   - [12 Best Google Fonts for Websites](https://www.elegantthemes.com/blog/design/best-google-fonts) - Includes best practices.
+- [Google Material Symbols](https://fonts.google.com/icons) -  Icon collection consolidating over 2,500 glyphs in a single font file with a wide range of design variants.
 ### Website Templates
 - [HTML5up](https://html5up.net/) - Responsive HTML5 and CSS3 site templates designed by [@ajlkn](https://twitter.com/ajlkn).
 ### Website Tools
