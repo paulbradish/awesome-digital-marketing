@@ -133,6 +133,7 @@ __Tag Management Systems__ help to manage the lifecycle of digital marketing tag
 ## URL Management
 ### Link in Bio
 - [About.me](https://about.me/) - Create a page to present who you are and what you do in one link. Professional. Take control and centralize your online presence.
+- [Bio.link](https://bio.link/) - The one link for all your links.
 - [Direct.me](https://direct.me/) - A completely free bio link tool used by creators and influencers.
 - [Linktree](https://linktr.ee/) - Link to everything you create, share and sell online. All from the one bio link.
 - [Solo.to](https://solo.to/) - Share and cross promote your links, music, videos, social media, and more on one page.
@@ -143,7 +144,6 @@ __QR (Quick Response) Codes__ are two-dimensional code originally intended for t
 - [QR Code Monkey](https://www.qrcode-monkey.com/) - Create custom QR Codes with Logo, Color and Design for free. This QR Code Maker offers free vector formats for better print quality.
 ### URL Shorteners
 __URL shorteners__, also known as a link shorteners, are services designed to turn long and complicated URLs into shorter, easier to type and more memorable URLs. These services are not to be underestimated and can have a dramatic impact on your marketing efforts- especially when branded and/or customized. (ex. example.to/short versus www.example.com/articles/howto/how-to-shorten-a-url/)
-- [Bio.link](https://bio.link/) - The one link for all your links.
 - [Bitly](https://bitly.com/) - Build links that are more readable, trustworthy and likely to be clicked.
 - [TinyURL](https://tinyurl.com/) - The original URL shortener that shortens your unwieldly links into more manageable and useable URLs. 
 ## Visualization
@@ -441,6 +441,7 @@ __Affiliate Management__ is the act of recruiting new affiliates (or partners) i
 ## Skills Training
 The digital marketing landscape changes quickly which is why it's important to consistently focus on __Skills Training__ so you don't get left behind.
 ### Online Courses
+- [Class Central](https://www.classcentral.com/) - Find the best courses, wherever they exist. An aggregator of sorts.
 - [Coursera](https://www.coursera.org/) - Learn in-demand skills like SEO, SEM, email, content marketing, product promotion and more. Build in-demand marketing skills & get job-ready for entry-level roles in 6 months or less. 🧂
 - [HubSpot Academy](https://academy.hubspot.com/) - The worldwide leader in inbound marketing, sales, and customer service/support training.
 - [Skillshare](https://www.skillshare.com/) - Skillshare is an online learning platform with thousands of creative courses and classes taught by experts to help you learn new skills.
