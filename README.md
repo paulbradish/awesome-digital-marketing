@@ -143,6 +143,7 @@ __QR (Quick Response) Codes__ are two-dimensional code originally intended for t
 - [QR Code Monkey](https://www.qrcode-monkey.com/) - Create custom QR Codes with Logo, Color and Design for free. This QR Code Maker offers free vector formats for better print quality.
 ### URL Shorteners
 __URL shorteners__, also known as a link shorteners, are services designed to turn long and complicated URLs into shorter, easier to type and more memorable URLs. These services are not to be underestimated and can have a dramatic impact on your marketing efforts- especially when branded and/or customized. (ex. example.to/short versus www.example.com/articles/howto/how-to-shorten-a-url/)
+- [Bio.link](https://bio.link/) - The one link for all your links.
 - [Bitly](https://bitly.com/) - Build links that are more readable, trustworthy and likely to be clicked.
 - [TinyURL](https://tinyurl.com/) - The original URL shortener that shortens your unwieldly links into more manageable and useable URLs. 
 ## Visualization
