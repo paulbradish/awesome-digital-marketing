@@ -176,8 +176,9 @@ __Data Visualization Tools__ are desktop software or SaaS that render informatio
 - [Google Trends](https://trends.google.com/trends/) - Explore what the world is searching (on Google).
 - [People Also Ask](https://www.neuraltext.com/ai/people-also-ask) - Get dozens of popular questions your audience also asked and discover untapped content opportunities.
 ## Content Writing
+- [Chat GPT](https://chat.openai.com/) - Where do I begin? Open AI's Chat GPT has soooo many uses in marketing, but the primary use case is for generating powerful call-to-actions, hooks, and content ideas.
 - [Copy.ai](https://www.copy.ai/) - AI-powered copywriter that generates high-quality copy for your business. This tool is great for generating ideas and/or breaking through inevitable writer blocks.
-- [Jasper](https://www.jasper.ai/) - AI Content Platform that helps you and your team break through creative blocks to create amazing, original content 10X faster.  
+- [Jasper](https://www.jasper.ai/) - AI Content Platform that helps you and your team break through creative blocks to create amazing, original content 10X faster.
 ### Writing Articles
 - [How to Write Headlines That Work](https://copyblogger.com/how-to-write-headlines-that-work/)
 - [What is Copywriting? Definition & Tips](https://neilpatel.com/blog/ultimate-guide-to-copywriting/)
