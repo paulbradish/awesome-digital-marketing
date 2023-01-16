@@ -56,8 +56,8 @@ I first encountered digital marketing by way of search engine optimization (SEO)
 - [Social](social)
    - [Social Media](#social-media)
 - [Web](#web)
-   - [Web Design](#web-design)
-   - [Web Development](#web-development)
+   - [Design & UI](#design--ui)
+   - [Development & UX](#development--ux)
 - [Related](#related)
    - [Affiliate Management](#affiliate-management)
    - [Automation](#automation)   
@@ -345,17 +345,20 @@ __Social Media Networks__ geared towards the digital marketer. I'm leaving a num
 - [2022 Social Media Image Sizes for All Networks [CHEATSHEET]](https://blog.hootsuite.com/social-media-image-sizes-guide/#LinkedIn_image_sizes) - The most recent image size specifications for different social media networks, including Instagram, Twitter, Facebook, LinkedIn, and more.
 
 ## Web
-## Web Design
-### Web Fonts & Icons
+## Design & UI
+### Fonts & Icons
 - [Font Awesome](https://fontawesome.com/) - One of the internet's primary icon library and toolkits, used by millions of designers, developers, and content creators.
 - [Google Fonts](https://fonts.google.com/) - A robust catalog of open-source fonts and icons, making it easy to integrate expressive type and icons seamlessly into your design.
    - [12 Best Google Fonts for Websites](https://www.elegantthemes.com/blog/design/best-google-fonts) - Includes best practices.
 - [Google Material Symbols](https://fonts.google.com/icons) -  Icon collection consolidating over 2,500 glyphs in a single font file with a wide range of design variants.
+### Mockups & Wireframes
+- [Figma](https://www.figma.com/) - A design platform for teams who build products together. Born on the Web, Figma helps the entire product team create, test, and ship better designs, faster. Very collaborative and likely the most well-known SaaS in it's category. 
+- [Octopus.do](https://octopus.do/) - A visual sitemap builder and website planner with lo-fi wireframes.
 ### Website Templates
 - [HTML5up](https://html5up.net/) - Responsive HTML5 and CSS3 site templates designed by [@ajlkn](https://twitter.com/ajlkn).
 ### Website Tools
 - [Favicon.io](https://favicon.io/) - Quickly generate your favicon from text, image, or choose from hundreds of emojis.
-## Web Development
+## Development & UX
 ### Code Editors
 - [Atom](https://atom.io/) - A hackable text editor for the 21st Century.
 - [Notepad++](https://notepad-plus-plus.org/) - A free (as in “free speech” and also as in “free beer”) source code editor and Notepad replacement that supports several languages.
