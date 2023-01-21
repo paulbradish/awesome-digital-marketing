@@ -216,6 +216,8 @@ __Publishing Platforms__ are nice because they can offer a readily available com
       - [Yoast](https://yoast.com/wordpress/plugins/seo/) - Yoast helps you with your website's search engine optimization, with our internationally loved software and our online SEO courses.  
     - [Themes](https://wordpress.org/themes/) - Find the perfect theme for your WordPress website. Choose from thousands of stunning designs with a wide variety of features and customization options.
        - [Divi](https://www.elegantthemes.com/gallery/divi/) - Not just another Wordpress theme. This is a complete design framework that allows you to design and customize every part of your website from the ground up. If only It was the default WP install...
+          - [Divi Marketplace](https://www.elegantthemes.com/marketplace/) - Divi child themes, extensions and layouts for sale by the community.
+          - [Elegant Themes Blog](https://www.elegantthemes.com/blog/) - A great resource for Divi guides, hacks, and tutorials.
        - [Elementor](https://elementor.com/features/wordpress/) - Elementor is the platform web creators choose to build professional WordPress websites, grow their skills, and build their business.
 ## Stock Media
 - [Creative Market](https://creativemarket.com/) - Accelerate your projects with millions of ready-to-use products.
