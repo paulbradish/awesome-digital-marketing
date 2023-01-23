@@ -39,8 +39,7 @@ I first encountered digital marketing by way of search engine optimization (SEO)
    - [URL Management](#url-management)
    - [Visualization](#visualization)
 - [Content](#content)
-   - [Content Marketing](#content-marketing)
-   - [Content Writing](#content-writing)
+   - [Content Creation](#content-creation)
    - [Email Marketing](#email-marketing) 
    - [Lead Generation (Inbound)](#lead-generation-inbound-marketing)
    - [Press Releases](#press-releases)
@@ -166,17 +165,10 @@ __Data Visualization Tools__ are desktop software or SaaS that render informatio
 - [WordCloud Generator](https://monkeylearn.com/word-cloud) - Display words and phrases based on frequency and relevance. Word clouds provide you with quick and simple visual insights that can lead to more in-depth analyses.
 
 ## Content
-
-## Content Marketing
-
-### Content Research
-- [Also Asked](https://alsoasked.com/) - A great tool for getting to grips with the breadth of topical research. It unearths troves of data, in an effective and easy to use way.
-- [Answer The Public](https://answerthepublic.com/) - Extracts autocomplete data from search engines like Google then quickly cranks out every useful phrase and question people are asking.
-- [Explain Paper](https://www.explainpaper.com/) - Use AI to paraphrase and summarize technical documents. This is really helpful during the research phase if you're not quite grasping a topic.
-- [Google Trends](https://trends.google.com/trends/) - Explore what the world is searching (on Google).
-- [People Also Ask](https://www.neuraltext.com/ai/people-also-ask) - Get dozens of popular questions your audience also asked and discover untapped content opportunities.
-## Content Writing
+Content is king.
+## Content Creation
 - [Chat GPT](https://chat.openai.com/) - Where do I begin? Open AI's Chat GPT has soooo many uses in marketing, but the primary use case is for generating powerful call-to-actions, hooks, and content ideas.
+   - [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt) - A curated list (like this one) of awesome tools, demos, docs for ChatGPT and GPT-3.
 - [Copy.ai](https://www.copy.ai/) - AI-powered copywriter that generates high-quality copy for your business. This tool is great for generating ideas and/or breaking through inevitable writer blocks.
 - [Jasper](https://www.jasper.ai/) - AI Content Platform that helps you and your team break through creative blocks to create amazing, original content 10X faster.
 ### Writing Articles
@@ -191,6 +183,13 @@ __Data Visualization Tools__ are desktop software or SaaS that render informatio
 - [Lorem Ipsum](https://loremipsum.io/) - A lorem ipsum generator. Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
 - [Make My Persona](https://www.hubspot.com/make-my-persona) - Create professional, customizable buyer personas in minutes with the help of our intuitive free generator and share the templates with your team.
 - [Wordtune](https://www.wordtune.com/) - Say exactly what you mean through clear, compelling and authentic writing.
+### Content Research
+- [Also Asked](https://alsoasked.com/) - A great tool for getting to grips with the breadth of topical research. It unearths troves of data, in an effective and easy to use way.
+- [Answer The Public](https://answerthepublic.com/) - Extracts autocomplete data from search engines like Google then quickly cranks out every useful phrase and question people are asking.
+- [Explain Paper](https://www.explainpaper.com/) - Use AI to paraphrase and summarize technical documents. This is really helpful during the research phase if you're not quite grasping a topic.
+- [Google Trends](https://trends.google.com/trends/) - Explore what the world is searching (on Google).
+- [People Also Ask](https://www.neuraltext.com/ai/people-also-ask) - Get dozens of popular questions your audience also asked and discover untapped content opportunities.
+
 ## Email Marketing
 - [Constant Contact](https://www.constantcontact.com/) - Deliver stunning emails and a whole lot more. Attract new customers and boost sales with their complete, easy-to-use digital marketing suite.
 - [Mailchimp](https://mailchimp.com/) - Grow your business on your terms with Mailchimp's All-In-One marketing, automation & email marketing platform.
