@@ -356,8 +356,10 @@ __Social Media Networks__ geared towards the digital marketer. I'm leaving a num
 ### Mockups & Wireframes
 - [Figma](https://www.figma.com/) - A design platform for teams who build products together. Born on the Web, Figma helps the entire product team create, test, and ship better designs, faster. Very collaborative and likely the most well-known SaaS in it's category. 
 - [Octopus.do](https://octopus.do/) - A visual sitemap builder and website planner with lo-fi wireframes.
-### Website Templates
+### Site Templates
 - [HTML5up](https://html5up.net/) - Responsive HTML5 and CSS3 site templates designed by [@ajlkn](https://twitter.com/ajlkn).
+### Web Components
+- [Shoelace](https://shoelace.style/) - A forward-thinking library of web components.
 ### Website Tools
 - [Favicon.io](https://favicon.io/) - Quickly generate your favicon from text, image, or choose from hundreds of emojis.
 ## Development & UX
