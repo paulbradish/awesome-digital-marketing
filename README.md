@@ -220,7 +220,9 @@ __Publishing Platforms__ are nice because they can offer a readily available com
        - [Elementor](https://elementor.com/features/wordpress/) - Elementor is the platform web creators choose to build professional WordPress websites, grow their skills, and build their business.
 ## Stock Media
 - [Creative Market](https://creativemarket.com/) - Accelerate your projects with millions of ready-to-use products.
+   - [4 Free Weekly Assets](https://creativemarket.com/free-goods) - CM rarely disapoints on their freebies. I find myself usually downloading these the morning they drop.
 - [Envato Elements](https://elements.envato.com/) - Cheap subscription service with 11 million+ creative assets.
+   - [Monthly Free Files](https://elements.envato.com/free-files) - Get 12 hand-selected files, including fonts, presentations, videos and more.
 - [Pexels](https://www.pexels.com/) - Free stock photos, royalty free images & videos shared by creators.
 - [Unsplash](https://unsplash.com/) - The internet’s source for visuals. Powered by creators everywhere.
 ## Video
