@@ -4,25 +4,21 @@
 <sup>Created & Maintained by Paul Bradish <a href="https://www.linkedin.com/in/paulbradish/">LinkedIn</a> | <a href="https://twitter.com/paul_bradish">Twitter</a>
 </p>
 <br />  
-💎  <strong>awesome-digital-marketing</strong> is a constantly curated collection of top digital marketing articles, guides, resources, SaaS, tools, and more.
+💎  <strong>awesome-digital-marketing</strong> is a carefully curated collection of digital marketing articles, guides, resources, software (SaaS) and more.
 <br>
 <br>
 <br>
-<strong>Who this list is for:</strong>
+<strong>Who this list is for?</strong> Anyone interested in marketing a brand, product, or service online.
 <br>
-It's likely that you found this list because it's meant for you. It was created as a way to cut through the noise (and hype) that often encountered when vetting new digital marketing related resources and services.
+<strong>Where is this list maintained?</strong> This list is maintained on GitHub.
 <br>
+<strong>What is this list about?</strong> awesome-digital-marketing is a collection of more than 200 digital marketing resources.
 <br>
+<strong>Why should I use this list?</strong> to discover credible content, resources, and services that will make you a better marketer.
 <br>
-<strong>How to use this list:</strong>
+<strong>When should I use this list?</strong> Any time. :eyes: watch, :star: star, :link: share, and refer back as updates occur often.
 <br>
-This list is not designed to be read in a particular order, though you can do so if you wish. I suggest you :eyes: watch, :star: star, skip around, refer back whenever necessary.
-<br>
-<br>
-<br>
-<strong>A note from the creator:</strong>
-<br>
-I first encountered digital marketing by way of search engine optimization (SEO) after learning "how to do HTML" in the mid '90s. A few years later it would become my career, and I've been in the industry now for nearly two decades. I've seen digital marketing grow from mostly theory and hype into something far more pragmatic and scientific. While I've enjoyed the evolution of our industry, there are far more complexities to contend with now than before. Not just in algorithms and pivot tables, but also when cutting through the noise of services, vendors, gurus, experts, coaches, and consultants- all of whom would have you believe they are worth every first (and last) moment of your time. So in a gesture of goodwill, I share with you resources and tools that I've found useful. Hopefully you find them useful as well.
+<strong>How do I use this list?</strong> There is no right or wrong way to use an awesome list. Skip around as needed. 
 <br>
 <br>
 <br>
