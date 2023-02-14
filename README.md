@@ -247,6 +247,7 @@ __Publishing Platforms__ are nice because they can offer a readily available com
   - International
        - [Baidu](https://www.baidu.com/) - Chinese search engine.  
        - [Yandex](https://yandex.com/) - Russian search engine.
+          - [Ranking Factors](https://www.dropbox.com/s/toyehkkfduogbwk/factors_gen.txt?dl=0) - list of numerous ranking factors discovered in the source code leak. It is suggested that since Yandex was designed by ex-Googlers, there may be as high as a 70% match between the two search algorithms.
 
 ## Keyword Research
 - Keyword Tools
