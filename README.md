@@ -152,6 +152,7 @@ __Data Visualization__ is simply _(or not so simply)_ the graphic representation
 __Data Visualization Tools__ are desktop software or SaaS that render information in a visual format for data analysis purposes. Such tools make it far easier to understand and work with large data sets. 
 - [Data Color Picker](https://www.learnui.design/tools/data-color-picker.html) - A color pallete generator for data visualization purposes. _I really enjoy this tool!_
 - [Datawrapper](https://www.datawrapper.de/) - Enrich your stories with charts, maps, and tables.
+- [Google Charts](https://developers.google.com/chart/) - Choose from a variety of charts to display live data on your site. From simple scatter plots to hierarchical treemaps, find the best fit for your data.
 - [Infogram](https://infogram.com/) - An intuitive visualization tool that empowers people and teams to create beautiful, engaging, and interactive infographs.
 - [Flourish](https://flourish.studio/) - Beautiful and easy data visualization and storytelling.
 - [Looker Studio (Google Data Studio)](https://datastudio.google.com/) - Turns your data into fully customizable informative reports and dashboards that are easy to read and share.
