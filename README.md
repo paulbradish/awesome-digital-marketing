@@ -43,6 +43,8 @@
    - [Publishing Platforms (Hosted)](#publishing-platforms-hosted)
    - [Stock Media](#stock-media)
    - [Video](#video)
+- [Productivity](#productivity)
+   - [Project Management](#project-management)
 - [Search](#search) 
    - [Engines (Search)](#engines-search) 
    - [Keyword Research](#keyword-research) 
@@ -228,6 +230,12 @@ __Publishing Platforms__ are nice because they can offer a readily available com
    - [TubeBuddy](https://www.tubebuddy.com/) - Helps you find high-performing, searchable video topics, and then craft the perfect titles and tags. 
    - [YouTube Player Demo/Generator](https://developers.google.com/youtube/youtube_player_demo) - This page demonstrates the YouTube Player API's functions and generates embed code based on your specifications.
 - [Vimeo](https://vimeo.com/) - An all-in-one video platform turns your ideas into action. Make, manage, and share videos and virtual events that move your audience.
+## Productivity
+## Project Management
+- [Asana](https://asana.com/) - Helps you manage projects, focus on what’s important, and organize work in one place for seamless collaboration.
+- [Jira](https://www.atlassian.com/software/jira) - Very task management and bug tracking tool used by agile teams.
+- [Monday](https://monday.com/) - Boost your team’s alignment, efficiency, and productivity by customizing any workflow to fit your needs.
+- [Wrike](https://www.wrike.com/vr/) - All-in-one platform to manage projects, organize work, enhance collaboration and accelerate execution across all departments.
 
 ## Search
 
