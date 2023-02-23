@@ -60,9 +60,11 @@
    - [Automation](#automation)   
    - [Customer Support](#customer-support)
    - [Chat Bots](#chat-bots)
-   - [Live Chat](#live-chat) 
-   - [Skills Training](#skills-training)
+   - [Live Chat](#live-chat)
+   - [Newsletters](#newsletters)
    - [Online Courses](#online-courses)
+   - [Skills Training](#skills-training)
+  
 
 ## Data
 In digital, we often think of data in terms of simple web analytics and typical marketing KPIs but it is _so_ much more than that, therefore it must be broken down into numerous sub categories. My recommendation is to first understand the question(s) you are trying to answer, and then formulate a stack of data services and tools that will help you collect, cleanse, analyze, and report your findings to key stakeholders.
@@ -447,14 +449,14 @@ __Affiliate Management__ is the act of recruiting new affiliates (or partners) i
 ## Ecommerce
 - [100+ Ecommerce Tools, Tips and Tactics](https://tripledouble.notion.site/cb18cf07e53e455e90ce256a9bbcc733?v=60cade2d360e4ee08195565e26fb0e04) - A great list of ecommerce tactics hosted on Notion.
 
-## Jobs
-- [Digital Marketing Hiring Board](https://tripledouble.pallet.com/jobs) - Every week, a curated list of the best new, remote, Digital Marketing roles.
-
-##
+## Newsletters
 - [Digital Marketing Must-Knows Newsletter](https://tripledouble.beehiiv.com/) - Sends every Monday. 5 biggest stories. In 60 seconds.
+- [The Marketing Millennials](https://workweek.com/discover-newsletters/marketing-millennials/) - Zero BS. Just fun, unfiltered, industry insights with the game-changers behind some of the coolest companies from around the globe.
 - [TLDR](https://tldr.tech/) - TLDR is a daily newsletter with links and TLDRs of the most interesting stories in startups 🚀, tech 📱, and programming 💻!
+
 ## Skills Training
 The digital marketing landscape changes quickly which is why it's important to consistently focus on __Skills Training__ so you don't get left behind.
+
 ### Online Courses
 - [Class Central](https://www.classcentral.com/) - Find the best courses, wherever they exist. An aggregator of sorts.
 - [Coursera](https://www.coursera.org/) - Learn in-demand skills like SEO, SEM, email, content marketing, product promotion and more. Build in-demand marketing skills & get job-ready for entry-level roles in 6 months or less. 🧂
