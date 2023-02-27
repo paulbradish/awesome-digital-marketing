@@ -2,24 +2,22 @@
 ![Awesome Digital Marketing](/assets/AwesomeDigitalMarketing-HeaderImage20221017.png)
 <p align="center">
 <sup>Created & Maintained by Paul Bradish <a href="https://www.linkedin.com/in/paulbradish/">LinkedIn</a> | <a href="https://twitter.com/paul_bradish">Twitter</a>
-</p>
-<br />  
+</p> 
 💎  <strong>awesome-digital-marketing</strong> is a carefully curated collection of digital marketing articles, guides, resources, software (SaaS) and more.
 <br>
+<hr>   
 <br>
+<code><strong>Who this list is for?</strong> Anyone interested in marketing a brand, product, or service online.
 <br>
-<strong>Who this list is for?</strong> Anyone interested in marketing a brand, product, or service online.
-<br><br>
 <strong>Where is this list maintained?</strong> This list is maintained on GitHub.
-<br><br>
-<strong>What is this list about?</strong> awesome-digital-marketing is a collection of more than 200 digital marketing resources.
-<br><br>
-<strong>Why should I use this list?</strong> to discover credible content, resources, and services that will make you a better marketer.
-<br><br>
-<strong>When should I use this list?</strong> Any time. :eyes: watch, :star: star, :link: share, and refer back as updates occur often.
-<br><br>
-<strong>How do I use this list?</strong> There is no right or wrong way to use an awesome list. Skip around as needed. 
 <br>
+<strong>What is this list about?</strong> awesome-digital-marketing is a collection of more than 200 digital marketing resources.
+<br>
+<strong>Why should I use this list?</strong> to discover credible content, resources, and services that will make you a better marketer.
+<br>
+<strong>When should I use this list?</strong> Any time. :eyes: watch, :star: star, :link: share, and refer back as updates occur often.
+<br>
+<strong>How do I use this list?</strong> There is no right or wrong way to use an awesome list. Skip around as needed. </code>
 <br>
 <br>
    
