@@ -232,6 +232,7 @@ __Publishing Platforms__ are nice because they can offer a readily available com
    - [TubeBuddy](https://www.tubebuddy.com/) - Helps you find high-performing, searchable video topics, and then craft the perfect titles and tags. 
    - [YouTube Player Demo/Generator](https://developers.google.com/youtube/youtube_player_demo) - This page demonstrates the YouTube Player API's functions and generates embed code based on your specifications.
 - [Vimeo](https://vimeo.com/) - An all-in-one video platform turns your ideas into action. Make, manage, and share videos and virtual events that move your audience.
+- [Wistia](https://wistia.com/) - Highly brandable and embeddable video platform for business.
 ## Productivity
 ## Project Management
 - [Asana](https://asana.com/) - Helps you manage projects, focus on what’s important, and organize work in one place for seamless collaboration.
