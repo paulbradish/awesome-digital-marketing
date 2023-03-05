@@ -49,7 +49,7 @@
    - [Organic Search](#organic-search) 
    - [Paid Search](#paid-search)
 - [Social](social)
-   - [Social Media](#social-media)
+   - [Media](#social-media)
 - [Web](#web)
    - [Design & UI](#design--ui)
    - [Development & UX](#development--ux)
@@ -353,7 +353,7 @@ __Social Media Networks__ geared towards the digital marketer. I'm leaving a num
 - [Twitter](https://twitter.com/) - The (un)official digital marketing community hangout.
 
 ### Social Resources
-- [2022 Social Media Image Sizes for All Networks [CHEATSHEET]](https://blog.hootsuite.com/social-media-image-sizes-guide/#LinkedIn_image_sizes) - The most recent image size specifications for different social media networks, including Instagram, Twitter, Facebook, LinkedIn, and more.
+- [2023 Social Media Image Sizes for All Networks [CHEATSHEET]](https://blog.hootsuite.com/social-media-image-sizes-guide/) - The most recent image size specifications for different social media networks, including Instagram, Twitter, Facebook, LinkedIn, and more.
 
 ## Web
 ## Design & UI
