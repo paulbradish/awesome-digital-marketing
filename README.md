@@ -170,6 +170,7 @@ Content is king.
    - [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt) - A curated list (like this one) of awesome tools, demos, docs for ChatGPT and GPT-3.
 - [Copy.ai](https://www.copy.ai/) - AI-powered copywriter that generates high-quality copy for your business. This tool is great for generating ideas and/or breaking through inevitable writer blocks.
 - [Jasper](https://www.jasper.ai/) - AI Content Platform that helps you and your team break through creative blocks to create amazing, original content 10X faster.
+- [Jounce](https://www.jounce.ai/) - The self proclaimed answer to the overwhelming gap between marketers and copywriters, providing the most advanced AI writing technology to marketers around the globe.
 ### Writing Articles
 - [How to Write Headlines That Work](https://copyblogger.com/how-to-write-headlines-that-work/)
 - [What is Copywriting? Definition & Tips](https://neilpatel.com/blog/ultimate-guide-to-copywriting/)
@@ -192,7 +193,11 @@ Content is king.
 ## Email Marketing
 - [Constant Contact](https://www.constantcontact.com/) - Deliver stunning emails and a whole lot more. Attract new customers and boost sales with their complete, easy-to-use digital marketing suite.
 - [Mailchimp](https://mailchimp.com/) - Grow your business on your terms with Mailchimp's All-In-One marketing, automation & email marketing platform.
+### Email Marketing Resources
+- [The Ultimate Guide to Email Marketing](https://blog.hubspot.com/marketing/email-marketing-guide) - Learn everything you need to know about email marketing; from creating a strategy and building a list to email regulations and tracking results.
+
 ## Lead Generation (Inbound Marketing)
+- [Eloqua Marketing Automation](https://www.oracle.com/cx/marketing/automation/) - Create more closed-loop marketing and sales activities and manage cross-channel B2B marketing campaigns that nurture leads across each stage of the buying process. A best-in-class B2B marketing automation solution, Oracle Eloqua Marketing Automation offers campaign design, advanced lead scoring, real-time firmographic data, and integrated sales tools.
 - [HubSpot](https://www.hubspot.com/) - A leading CRM platform with a number of inbound marketing tools.
    - [Lead Generation: A Beginner's Guide to Generating Business Leads the Inbound Way](https://blog.hubspot.com/marketing/beginner-inbound-lead-generation-guide-ht)
 - [LeadPages](https://www.leadpages.com/) - A digital lead generation software platform that enables entrepreneurs and marketers to easily publish web sites and landing pages, so they can turn clicks into customers.
