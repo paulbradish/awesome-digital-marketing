@@ -1,25 +1,10 @@
-# Awesome Digital Marketing <a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg" alt="Awesome List"></a> <a href="https://github.com/paulbradish/awesome-digital-marketing/blob/main/README.md"><img alt="GitHub Commits" src="https://img.shields.io/github/commit-activity/m/paulbradish/awesome-digital-marketing?style=flat-square"></a> <a href="https://github.com/paulbradish/awesome-digital-marketing/blob/main/README.md"><img alt="CCO License" src="https://img.shields.io/github/license/paulbradish/awesome-digital-marketing"></a></sup></p> 
-![Awesome Digital Marketing](/assets/AwesomeDigitalMarketing-HeaderImage20221017.png)
-<p align="center">
-<sup>Created & Maintained by Paul Bradish <a href="https://www.linkedin.com/in/paulbradish/">LinkedIn</a> | <a href="https://twitter.com/paul_bradish">Twitter</a>
-</p> 
-💎  <strong>awesome-digital-marketing</strong> is a carefully curated collection of digital marketing articles, guides, resources, software (SaaS) and more.
-<br>
-<hr>   
-<br>
-<code><strong>Who this list is for?</strong> Anyone interested in marketing a brand, product, or service online.
-<br>
-<strong>Where is this list maintained?</strong> This list is maintained on GitHub.
-<br>
-<strong>What is this list about?</strong> awesome-digital-marketing is a collection of more than 200 digital marketing resources.
-<br>
-<strong>Why should I use this list?</strong> to discover credible content, resources, and services that will make you a better marketer.
-<br>
-<strong>When should I use this list?</strong> Any time. :eyes: watch, :star: star, :link: share, and refer back as updates occur often.
-<br>
-<strong>How do I use this list?</strong> There is no right or wrong way to use an awesome list. Skip around as needed. </code>
-<br>
-<br>
+# Awesome Digital Marketing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <a href="https://github.com/paulbradish/awesome-digital-marketing/blob/main/README.md"><img alt="GitHub Commits" src="https://img.shields.io/github/commit-activity/m/paulbradish/awesome-digital-marketing?style=flat-square"></a> <a href="https://github.com/paulbradish/awesome-digital-marketing/blob/main/README.md"><img alt="CCO License" src="https://img.shields.io/github/license/paulbradish/awesome-digital-marketing"></a></sup></p> 
+
+A curated list of awesome digital marketing guides, resources, services, & more. Enjoy!
+
+Created & maintained by Paul Bradish. <i>Connect with me on <a href="https://www.linkedin.com/in/paulbradish/">LinkedIn</a>.</i>
+
+
    
 ## Contents
 
