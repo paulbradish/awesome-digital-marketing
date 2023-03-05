@@ -2,7 +2,7 @@
 
 A curated list of awesome digital marketing guides, resources, services, & more. Enjoy!
 
-Created & maintained by Paul Bradish. <i>Connect with me on <a href="https://www.linkedin.com/in/paulbradish/">LinkedIn</a>.</i>
+Created & maintained by <strong>Paul Bradish</strong>. <i>Connect with me on <a href="https://www.linkedin.com/in/paulbradish/">LinkedIn</a>.</i>
 
 
    
