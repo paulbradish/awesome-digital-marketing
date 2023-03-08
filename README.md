@@ -81,6 +81,7 @@ In digital, we often think of data in terms of simple web analytics and typical 
 - [Crunchbase](https://www.crunchbase.com/) - One of the more acurate prospecting services I've found. Great for intel and market research.
 - [Similarweb](https://www.similarweb.com/) - All in one Website analytics competitive traffic intelligence platform. Often used to compare website traffic and performance, analyze strategies & market share acquisition.
 ### Lead Intelligence
+- [6sense](https://6sense.com/) - ABM software which reveals revenue insights that lead to high-quality pipeline, eliminating guesswork & empowering your revenue team with more data and visibility.
 - [Lead Forensics](https://www.leadforensics.com/) - The world's #1 website visitor identification software. Uncover your anonymous B2B website visitors and fuel your business growth.
 - [Zoominfo](https://www.zoominfo.com/) - Get the B2B data and software you need to connect with and close your most valuable buyers — all in one operating system.
 ### Social Listening
