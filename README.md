@@ -15,7 +15,6 @@ Created & maintained by <strong>Paul Bradish</strong> <code><a href="https://www
 <br>
 
 ## Contents
-
 - [A/B & Multivariate Testing](#ab--multivariate-testing)
 - [Affiliate Management](#affiliate-management)
 - [Data Analytics](#data-analytics)
@@ -38,11 +37,10 @@ Created & maintained by <strong>Paul Bradish</strong> <code><a href="https://www
 - [Project Management](#project-management)
 - [Search Engines](#search-engines) 
 - [Keyword Research](#keyword-research) 
-- [Organic Search](#organic-search) 
+- [Search Engine Optimization](#search-engine-optimization-seo) 
 - [Paid Search](#paid-search)
 - [Social Media Management](#social-media-management)
 - [Social Media Networks](#social-media-networks)
-- [Design & UI](#design--ui)
 - [Development & UX](#development--ux) 
 - [Customer Support](#customer-support)
 - [Chat Bots](#chat-bots)
@@ -50,13 +48,14 @@ Created & maintained by <strong>Paul Bradish</strong> <code><a href="https://www
 - [Newsletters](#newsletters)
 - [Online Courses](#online-courses)
 - [Skills Training](#skills-training)
+- [Web Design & UI](#web-design--ui)
 - [Web Programming Languages](#web-programming-languages)
 
 <br>
 <br>
 
 ## A/B & Multivariate Testing
-_See [Digital Experience Platforms](#digital-experience-platforms-dxp)._
+_See Digital Experience Platforms._
 
 ## Affiliate Management
 - [PartnerStack](https://partnerstack.com/) - Helps you recruit, engage, and scale your entire ecosystem of partners — from affiliates to referral and reseller partners.
@@ -134,7 +133,6 @@ __Data Visualization Tools__ are desktop software or SaaS that render informatio
 - [Google Sheets](https://www.google.com/sheets/about/) - Create and edit online spreadsheets. Get insights together with secure sharing in real-time and from any device.
    - [40 Essential Google Sheets Tips and Tricks](https://www.lido.app/post/40-essential-google-sheets-tips-tricks-2022-edition) - In this google sheets tips and tricks 2022 edition, find 40 tips and tricks to quickly master Google Sheets
    - [Google Sheets cheat sheet](https://support.google.com/a/users/answer/9300022?hl=en) - Common tips and syntax definition. On the right navigation you'll find a number of links to additional beginner to advanced tips.
-
 - [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/excel) - Enables users to format, organize and calculate data in a spreadsheet.
    - [Analyze Data in Excel](https://support.microsoft.com/en-us/office/analyze-data-in-excel-3223aab8-f543-4fda-85ed-76bb0295ffc4?ui=en-us&rs=en-us&ad=us) - Analyze Data in Excel empowers you to understand your data through natural language queries that allow you to ask questions about your data without having to write complicated formulas. In addition, Analyze Data provides high-level visual summaries, trends, and patterns.
  
@@ -200,7 +198,6 @@ __URL shorteners__, also known as a link shorteners, are services designed to tu
 - [Unbounce](https://unbounce.com/) - AI-powered landing page builder with smart features that let you create beautiful, high-performing marketing campaigns in just a few minutes.
 
 ## Press Releases
-You've written a killer __Press Release__ and now you need it to make a splash. Enter PR distribution services. For a *relatively* nominal fee, they will host and distribute your press release to their large networks of IRL journalists and news sites in an automated, scalable fashion.
 - [Cision PRWeb](https://service.prweb.com/) - Reach the right audiences and gain more media visibility with Cision PR Newswire, the industry's largest, most trusted press release distribution network. 
 - [Newswire](https://www.newswire.com/) - Delivers press release distribution and press release campaigns by leveraging earned media outreach, SEO traffic and email marketing through campaign automation to help businesses land impactful media coverage, drive website traffic, generate leads and grow brand awareness.
 ### Publishing Platforms (Free / Subscription) 
@@ -262,12 +259,9 @@ __Publishing Platforms__ are nice because they can offer a readily available com
 - Keyword Tools
     - [Extract Text From Image](https://www.editpad.org/tool/extract-text-from-image) - This image to Text Converter uses algorithms to extract text from images, and is a huge timesaver when you find interesting text within an image and would like to check the search volume or copy for later.
     - [Google Ads Keyword Planner](https://ads.google.com/home/tools/keyword-planner/) - You can use this free tool to discover new keywords related to your business and see estimates of the searches they receive and the cost to target them.  
-    
-    
     - [SearchVolume.io](https://searchvolume.io/) - Get monthly search volume data free. See search volumes for up to 800 keywords at a time.
 
-## Organic Search
-__Search Engine Optimization__ is the process of improving the quality and quantity of organic traffic to a website or page from search engines such as Google & Bing. SEO specifically targets "unpaid" traffic from SERPs (search engine result pages) rather than direct, paid, social or referral sources.
+## Search Engine Optimization (SEO)
 
 ### SEO Articles
 - [How Images Affect SEO: Can Adding a Diagram Really Drive Rankings?](https://www.orbitmedia.com/blog/how-images-improve-seo/)
@@ -301,8 +295,8 @@ __Search Engine Optimization__ is the process of improving the quality and quant
    - [Scrapebox Guides Tuts Loopline (YouTube)](https://www.youtube.com/user/looplinescrapebox) 
    - [The Unofficial Scrapebox FAQ](https://scrapeboxfaq.com/)
    - [Ultimate Guide to White Hat SEO using Scrapebox](https://www.onely.com/blog/guide-white-hat-seo-scrapebox/)
- - [Site Analyzer](https://site-analyzer.pro/) - Scan your websites and get detailed information about each page. This tool will help you identify and fix technical SEO errors and is an excellent free alternative to Screaming Frog.
- - [Xenu Link Sleuth](https://home.snafu.de/tilman/xenulink.html) - Old but good. Checks web sites for all types of broken links. It displays a continously updated list of URLs which you can sort by different criteria. A report can be produced at any time.
+- [Site Analyzer](https://site-analyzer.pro/) - Scan your websites and get detailed information about each page. This tool will help you identify and fix technical SEO errors and is an excellent free alternative to Screaming Frog.
+- [Xenu Link Sleuth](https://home.snafu.de/tilman/xenulink.html) - Old but good. Checks web sites for all types of broken links. It displays a continously updated list of URLs which you can sort by different criteria. A report can be produced at any time.
  
 ### SEO Software (SaaS)
 - [Ahrefs](https://ahrefs.com/) - Everything you need to rank higher & get more traffic.
@@ -350,7 +344,7 @@ __Social Media Networks__ geared towards the digital marketer. I'm leaving a num
 ### Social Resources
 - [2023 Social Media Image Sizes for All Networks [CHEATSHEET]](https://blog.hootsuite.com/social-media-image-sizes-guide/) - The most recent image size specifications for different social media networks, including Instagram, Twitter, Facebook, LinkedIn, and more.
 
-## Design & UI
+## Web Design & UI
 ### Fonts & Icons
 - [Font Awesome](https://fontawesome.com/) - One of the internet's primary icon library and toolkits, used by millions of designers, developers, and content creators.
 - [Google Fonts](https://fonts.google.com/) - A robust catalog of open-source fonts and icons, making it easy to integrate expressive type and icons seamlessly into your design.
@@ -379,14 +373,14 @@ __Social Media Networks__ geared towards the digital marketer. I'm leaving a num
 ### Markup Languages
 Computer languages that consists of keywords, names, or tags that help format the overall view of a page and the data it contains. Typical examples of markup languages you will encounter are HTML and XML.
 ### CSS Guides
-  - [How to Hide a div in Mobile but Show it on Desktop Or Vice Versa](https://xedricity.com/how-to-hide-a-div-in-mobile-but-show-it-on-desktop-or-vice-versa/)
-  - [Learn CSS: The Complete Guide](https://webdesign.tutsplus.com/series/learn-css-the-complete-guide--cms-1065)
-  - [The CSS Handbook: A Handy Guide to CSS for Developers](https://www.freecodecamp.org/news/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11/) 
+- [How to Hide a div in Mobile but Show it on Desktop Or Vice Versa](https://xedricity.com/how-to-hide-a-div-in-mobile-but-show-it-on-desktop-or-vice-versa/)
+- [Learn CSS: The Complete Guide](https://webdesign.tutsplus.com/series/learn-css-the-complete-guide--cms-1065)
+- [The CSS Handbook: A Handy Guide to CSS for Developers](https://www.freecodecamp.org/news/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11/) 
 ### CSS Tools
 - [Cubic-Bezier Curves Generator](https://cubic-bezier.com/#.17,.67,.83,.67) - A wonderful little tool for cubic-bezier() easing.
 - [Easing Gradients](https://larsenwork.com/easing-gradients/) - Supercharge your gradients with non-linear color mix and custom color spaces.
 - [Fancy Border Radius](https://9elements.github.io/fancy-border-radius/) - a visualized border radius generator which utilizes eight values specifying border-radius in CSS to build organic looking shapes. 
-- [Smooth Shadows](https://shadows.brumm.af/) - A smooth shadow CSS generator inspired by [this](https://tobiasahlin.com/blog/layered-smooth-box-shadows/).
+- [Smooth Shadows](https://shadows.brumm.af/) - A smooth shadow CSS generator.
 ### HTML
 - [HTML For Beginners The Easy Way: Start Learning HTML & CSS Today](https://html.com/)
 - [Structuring the web with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
@@ -405,7 +399,7 @@ __Programming languages__ that are commonly used in front-end web design and bac
   - Other
     - [Paper.js](http://paperjs.org/) - The swiss army knife of vector graphics scripting.
     - [Three.js](https://threejs.org/) - A popular 3d JavaScript library.
-    - [Vanta.js](https://www.vantajs.com/) - Animated website backgrounds in a few lines of code. _Ok... it's a little bit more complicated than that, but very neat!_
+    - [Vanta.js](https://www.vantajs.com/) - Animated website backgrounds in a few lines of code. _It's a little bit more complicated than that, but very neat!_
        - [Vanta.js + HTML5up Template](https://paulbradish.github.io/html5up-vantajs/) - Demo of a vanta.js + html5/css3 + three.js template I configured to help users get off the ground quickly.
 - Python
 - Ruby
@@ -419,9 +413,9 @@ __Programming languages__ that are commonly used in front-end web design and bac
    - [GitHub Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet.
 
 ### Web Performance
-- [Cloudflare](https://www.cloudflare.com/) - A global network designed to make everything you connect to the Internet secure, private, fast, and reliable. _Great to improve performance and security of your website._
-- [Google Developers](https://developers.google.com/speed) - Tools and information to help you build high performance websites.
-- [Prerender](https://prerender.io/) - Get higher rankings by serving crawlers a static HTML version of your Javascript website, without compromising your customers’ experience.
+- [Cloudflare](https://www.cloudflare.com/) - A global network designed to make everything you connect to the Internet secure, private, fast, and reliable. _Great to improve the performance and security of your website._
+- [Google Developers](https://developers.google.com/speed) - Tools and information to help you build high-performance websites.
+- [Prerender](https://prerender.io/) - Get higher rankings by serving crawlers a static HTML version of your JavaScript website, without compromising your customers' experience.
 
 ## Related
 
