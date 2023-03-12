@@ -16,49 +16,47 @@ Created & maintained by <strong>Paul Bradish</strong> <code><a href="https://www
 
 ## Contents
 
-- [Data](#data)
-   - [Data Analytics](#data-analytics)
-   - [Custom Dashboards](#custom-dashboards)
-   - [Intelligence](#intelligence)
-   - [Spreadsheets](#spreadsheets)
-   - [Tag Management](#tag-management)
-   - [Testing](#testing)
-   - [URL Management](#url-management)
-   - [Visualization](#visualization)
-- [Content](#content)
-   - [Content Creation](#content-creation)
-   - [Email Marketing](#email-marketing) 
-   - [Lead Generation (Inbound)](#lead-generation-inbound-marketing)
-   - [Press Releases](#press-releases)
-   - [Publishing Platforms (Free)](#publishing-platforms-free--subscription)
-   - [Publishing Platforms (Hosted)](#publishing-platforms-hosted)
-   - [Stock Media](#stock-media)
-   - [Video](#video)
-- [Productivity](#productivity)
-   - [Project Management](#project-management)
-- [Search](#search) 
-   - [Engines (Search)](#engines-search) 
-   - [Keyword Research](#keyword-research) 
-   - [Organic Search](#organic-search) 
-   - [Paid Search](#paid-search)
-- [Social](social)
-   - [Media](#social-media)
-- [Web](#web)
-   - [Design & UI](#design--ui)
-   - [Development & UX](#development--ux)
-- [Related](#related)
-   - [Affiliate Management](#affiliate-management)
-   - [Automation](#automation)   
-   - [Customer Support](#customer-support)
-   - [Chat Bots](#chat-bots)
-   - [Live Chat](#live-chat)
-   - [Newsletters](#newsletters)
-   - [Online Courses](#online-courses)
-   - [Skills Training](#skills-training)
-  
+- [A/B & Multivariate Testing](#ab--multivariate-testing)
+- [Data Analytics](#data-analytics)
+- [Digital Experience Platforms (DXP)](#digital-experience-platforms-dxp)
+- [Custom Dashboards](#custom-dashboards)
+- [Intelligence](#intelligence)
+- [Spreadsheets](#spreadsheets)
+- [Tag Management](#tag-management)
+- [URL Management](#url-management)
+- [Visualization](#visualization)
+- [Content Creation](#content-creation)
+- [Email Marketing](#email-marketing) 
+- [Lead Generation (Inbound)](#lead-generation-inbound-marketing)
+- [Press Releases](#press-releases)
+- [Publishing Platforms (Free)](#publishing-platforms-free--subscription)
+- [Publishing Platforms (Hosted)](#publishing-platforms-hosted)
+- [Stock Media](#stock-media)
+- [Video Sharing](#video-sharing)
+- [Project Management](#project-management)
+- [Search Engines)](#search-engines) 
+- [Keyword Research](#keyword-research) 
+- [Organic Search](#organic-search) 
+- [Paid Search](#paid-search)
+- [Social Media Management](#social-media-management)
+- [Social Media Networks](#social-media-networks)
+- [Design & UI](#design--ui)
+- [Development & UX](#development--ux)
+- [Affiliate Management](#affiliate-management)
+- [Automation](#automation)   
+- [Customer Support](#customer-support)
+- [Chat Bots](#chat-bots)
+- [Live Chat](#live-chat)
+- [Newsletters](#newsletters)
+- [Online Courses](#online-courses)
+- [Skills Training](#skills-training)
+- [Web Programming Languages](#web-programming-languages)
 
-## Data
-In digital, we often think of data in terms of simple web analytics and typical marketing KPIs but it is _so_ much more than that, therefore it must be broken down into numerous sub categories. My recommendation is to first understand the question(s) you are trying to answer, and then formulate a stack of data services and tools that will help you collect, cleanse, analyze, and report your findings to key stakeholders.
+<br>
+<br>
+
+## A/B & Multivariate Testing
+_See [Digital Experience Platforms](#digital-experience-platforms)._
 
 ## Data Analytics
 📈 __Data Analytics__ is the process of examining datasets to draw conclusions about the information they contain. Data analysis is often used by digital marketers to tell a story of the customer journey and to push data-driven marketing decisions surrounding content, features, and campaign efficacy.
@@ -76,6 +74,14 @@ In digital, we often think of data in terms of simple web analytics and typical 
   - __Data Analytics Tools__
       - [Combinations & Permutations Generator](https://numbergenerator.org/permutations-and-combinations) - Great for when you need to come up with all possibilities within a defined alphanumeric sequence.
       - [Percentage Change Calculator](https://www.calculatorsoup.com/calculators/algebra/percent-change-calculator.php) - This is a % change calculator. It will quantify the change from one number to another and express the change as an increase or decrease. Sounds simple but very easy to mess up when doing these quick calculations manually.
+
+## Digital Experience Platforms (DXP)
+🧪 An important aspect of digital marketing, __testing__ gives you the ability to compare ad copy, hero images, personalization, UX, etc. to see what resonates best with your visitors.
+### Testing Platforms
+- [Google Optimize](https://optimize.google.com/) - Offers A/B testing, website testing & personalization tools for small businesses to help deliver engaging customer experiences. Formerly known as Google Website Optimizer.
+- [Optimizely](https://www.optimizely.com/) - Provides A/B testing and multivariate testing tools, website personalization, and feature toggle capabilities, as well as web content management and digital commerce.
+### Testing Tools
+- [AB testing calculator](https://www.surveymonkey.com/mp/ab-testing-significance-calculator/) - Calculate statistical significance. In the context of AB testing experiments, statistical significance is how likely it is that the difference between your experiment's control version and test version isn't due to error or random chance. This is important to keep in mind any time you are measuring or testing.
 
 ## Custom Dashboards
 📊 Do you have to distill multiple data sources down into one single report? This is the bane of many a digital analyst and is enough to make one cry. No fear! This is where custom dashboards come into play. These dashboards (usually SaaS with a monthly/yearly sub) help eliminate the manual work by integrating most or all of your data connections together, allowing you to create and automate beautiful looking, KPI tailored dashboards and reports with minimal effort.
@@ -115,13 +121,7 @@ __Tag Management Systems__ help to manage the lifecycle of digital marketing tag
 - [Adobe Experience Platform Launch](https://business.adobe.com/products/experience-platform/launch.html) - A next-generation tag management system that unifies your marketing ecosystem. It breaks down silos and bottlenecks by connecting disparate technologies so you can deliver standout digital experiences.
 - [Google Tag Manager](https://tagmanager.google.com/) - Allows you to quickly and easily update measurement codes and related code fragments collectively known as tags on your website or mobile app.
 - [Tealium](https://tealium.com/) - Tealium iQ enables you to manage tags across all digital touch points, including web sites, mobile apps and online videos all from the same intuitive user interface.
-## Testing
-🧪 An important aspect of digital marketing, __testing__ gives you the ability to compare ad copy, hero images, personalization, UX, etc. to see what resonates best with your visitors.
-### Testing Platforms
-- [Google Optimize](https://optimize.google.com/) - Offers A/B testing, website testing & personalization tools for small businesses to help deliver engaging customer experiences. Formerly known as Google Website Optimizer.
-- [Optimizely](https://www.optimizely.com/) - Provides A/B testing and multivariate testing tools, website personalization, and feature toggle capabilities, as well as web content management and digital commerce.
-### Testing Tools
-- [AB testing calculator](https://www.surveymonkey.com/mp/ab-testing-significance-calculator/) - Calculate statistical significance. In the context of AB testing experiments, statistical significance is how likely it is that the difference between your experiment's control version and test version isn't due to error or random chance. This is important to keep in mind any time you are measuring or testing.
+
 ## URL Management
 ### Link in Bio
 - [About.me](https://about.me/) - Create a page to present who you are and what you do in one link. Professional. Take control and centralize your online presence.
@@ -158,8 +158,6 @@ __Data Visualization Tools__ are desktop software or SaaS that render informatio
    - [Web Data Connectors](https://www.tableau.com/developer/tools/web-data-connector) - Create custom connections to data on the web and make that data available in Tableau.
 - [WordCloud Generator](https://monkeylearn.com/word-cloud) - Display words and phrases based on frequency and relevance. Word clouds provide you with quick and simple visual insights that can lead to more in-depth analyses.
 
-## Content
-Content is king.
 ## Content Creation
 - [Chat GPT](https://chat.openai.com/) - Where do I begin? Open AI's Chat GPT has soooo many uses in marketing, but the primary use case is for generating powerful call-to-actions, hooks, and content ideas.
    - [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt) - A curated list (like this one) of awesome tools, demos, docs for ChatGPT and GPT-3.
@@ -197,8 +195,8 @@ Content is king.
    - [Lead Generation: A Beginner's Guide to Generating Business Leads the Inbound Way](https://blog.hubspot.com/marketing/beginner-inbound-lead-generation-guide-ht)
 - [LeadPages](https://www.leadpages.com/) - A digital lead generation software platform that enables entrepreneurs and marketers to easily publish web sites and landing pages, so they can turn clicks into customers.
 - [Unbounce](https://unbounce.com/) - AI-powered landing page builder with smart features that let you create beautiful, high-performing marketing campaigns in just a few minutes.
+
 ## Press Releases
-### Press Release Distribution
 You've written a killer __Press Release__ and now you need it to make a splash. Enter PR distribution services. For a *relatively* nominal fee, they will host and distribute your press release to their large networks of IRL journalists and news sites in an automated, scalable fashion.
 - [Cision PRWeb](https://service.prweb.com/) - Reach the right audiences and gain more media visibility with Cision PR Newswire, the industry's largest, most trusted press release distribution network. 
 - [Newswire](https://www.newswire.com/) - Delivers press release distribution and press release campaigns by leveraging earned media outreach, SEO traffic and email marketing through campaign automation to help businesses land impactful media coverage, drive website traffic, generate leads and grow brand awareness.
@@ -224,23 +222,21 @@ __Publishing Platforms__ are nice because they can offer a readily available com
    - [Monthly Free Files](https://elements.envato.com/free-files) - Get 12 hand-selected files, including fonts, presentations, videos and more.
 - [Pexels](https://www.pexels.com/) - Free stock photos, royalty free images & videos shared by creators.
 - [Unsplash](https://unsplash.com/) - The internet’s source for visuals. Powered by creators everywhere.
-## Video
+
 ### Video Sharing
 - [YouTube](https://www.youtube.com/) - Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world.
    - [TubeBuddy](https://www.tubebuddy.com/) - Helps you find high-performing, searchable video topics, and then craft the perfect titles and tags. 
    - [YouTube Player Demo/Generator](https://developers.google.com/youtube/youtube_player_demo) - This page demonstrates the YouTube Player API's functions and generates embed code based on your specifications.
 - [Vimeo](https://vimeo.com/) - An all-in-one video platform turns your ideas into action. Make, manage, and share videos and virtual events that move your audience.
 - [Wistia](https://wistia.com/) - Highly brandable and embeddable video platform for business.
-## Productivity
+
 ## Project Management
 - [Asana](https://asana.com/) - Helps you manage projects, focus on what’s important, and organize work in one place for seamless collaboration.
 - [Jira](https://www.atlassian.com/software/jira) - Very task management and bug tracking tool used by agile teams.
 - [Monday](https://monday.com/) - Boost your team’s alignment, efficiency, and productivity by customizing any workflow to fit your needs.
 - [Wrike](https://www.wrike.com/vr/) - All-in-one platform to manage projects, organize work, enhance collaboration and accelerate execution across all departments.
 
-## Search
-
-## Engines (Search)
+## Search Engines
 - [Bing](https://www.bing.com/) - Owned by Microsoft. Previously known as: MSN Search, Windows Live Search and later Live Search. 
    - [Bing Webmaster Tools](https://www.bing.com/webmasters/about) - Easy to plug-in API solution that websites can call to notify Bing on content updated, allowing instant crawling, indexing and discovery of your site content. 
  - [DuckDuckGo](https://duckduckgo.com/) - If privacy is your thing, you'll be right at home here.
@@ -332,15 +328,11 @@ Also known as __Paid Search__, SEM is a commonly used method to quickly increase
 ### Paid Search Software (SaaS)
 - [MarinOne](https://www.marinsoftware.com/solutions/paid-search) - Identify growth opportunities and maximize revenue across Google, Microsoft, Apple Search Ads, and more. Leverage audience, revenue, and contextual data from any source to drive campaign performance and growth.
 
-## Social
-
-## Social Media
-
-### Social Management
+### Social Media Management
 - [Buffer](https://buffer.com/) - An intuitive and affordable social media management tool for SMBs which offers scheduling, planning, publishing and more.
 - [Hootsuite](https://www.hootsuite.com/) - Save time and grow on social with Hootsuite, your all-in-one social media scheduler, manager, and analytics secret weapon.
 
-### Social Networks
+### Social Media Networks
 __Social Media Networks__ geared towards the digital marketer. I'm leaving a number of them off as there are communities everywhere (even on Facebook), in favor of those that are more consistent.
 - [Dev.to](https://dev.to/) - A constructive and inclusive social network for software developers. With you every step of your journey.
    - [How to make the most of DEV if you're over Twitter](https://dev.to/devteam/how-to-make-the-most-of-dev-if-youre-over-twitter-4567) 
@@ -355,7 +347,6 @@ __Social Media Networks__ geared towards the digital marketer. I'm leaving a num
 ### Social Resources
 - [2023 Social Media Image Sizes for All Networks [CHEATSHEET]](https://blog.hootsuite.com/social-media-image-sizes-guide/) - The most recent image size specifications for different social media networks, including Instagram, Twitter, Facebook, LinkedIn, and more.
 
-## Web
 ## Design & UI
 ### Fonts & Icons
 - [Font Awesome](https://fontawesome.com/) - One of the internet's primary icon library and toolkits, used by millions of designers, developers, and content creators.
@@ -401,7 +392,7 @@ Computer languages that consists of keywords, names, or tags that help format th
 ### XML
 - [XML Tutorial for Beginners](https://www.guru99.com/xml-tutorials.html)
   
-### Programming Languages
+### Web Programming Languages
 __Programming languages__ that are commonly used in front-end web design and back-end web development.
 - JavaScript
   - Angular
