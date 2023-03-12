@@ -43,8 +43,6 @@ Created & maintained by <strong>Paul Bradish</strong> <code><a href="https://www
 - [Social Media Networks](#social-media-networks)
 - [Development & UX](#development--ux) 
 - [Customer Support](#customer-support)
-- [Chat Bots](#chat-bots)
-- [Live Chat](#live-chat)
 - [Newsletters](#newsletters)
 - [Online Courses](#online-courses)
 - [Skills Training](#skills-training)
