@@ -2,10 +2,18 @@
 
 A curated list of awesome digital marketing guides, resources, services, & more. Enjoy!
 
-Created & maintained by <strong>Paul Bradish</strong>. <i>Connect with me on <a href="https://www.linkedin.com/in/paulbradish/">LinkedIn</a>.</i>
+Created & maintained by <strong>Paul Bradish</strong> <code><a href="https://www.linkedin.com/in/paulbradish/">LinkedIn</a></code> <code><a href="https://twitter.com/paul_bradish">Twitter</a></code>
 
+<br>
 
-   
+| Icon | Description |
+| :------------ | :------------- |
+| <code>F</code> | Free to use |
+| <code>P</code> | Pay to Purchase |
+| <code>S</code> | Subscription (SaaS) |
+
+<br>
+
 ## Contents
 
 - [Data](#data)
@@ -59,10 +67,11 @@ In digital, we often think of data in terms of simple web analytics and typical 
      - [Occam's Razor](https://www.kaushik.net/avinash/) - Web analytics blog authored by longtime digital marketing evangelist @google, Avinash Kaushik.
      - [r/Analytics](https://www.reddit.com/r/analytics/) - Dedicated to web analytics, data and business analytics. A great subreddit to discuss analysis of data, learning of skills and implementation of web analytics.
  - __Data Analytics Services__
-     - [Adobe Analytics](https://business.adobe.com/products/analytics/adobe-analytics.html) - Adobe Analytics lets you mix, match, and analyze data from any digital point in the customer journey. With in-depth analysis, versatile reporting, and predictive intelligence, you get the insightful foundation you need to build better customer experiences.
-     - [Google Analytics](https://analytics.google.com) - A web analytics service offered by Google that tracks and reports website traffic, currently as a platform inside the Google Marketing Platform brand. Google launched the service in November 2005 after acquiring Urchin.
-     - [Campaign URL Builder](https://ga-dev-tools.web.app/campaign-url-builder/) - This tool allows you to easily add campaign parameters to URLs so you can measure Custom Campaigns in Google Analytics.
-     - [URL Builder for GA](https://raventools.com/marketing-reports/google-analytics/url-builder/) - With the Google Analytics URL Builder, you can easily tag URLs with custom campaign variables and then use an automated reporting tool to keep track of progress and share with clients.
+     - [Adobe Analytics](https://business.adobe.com/products/analytics/adobe-analytics.html) <code>S</code> - Adobe Analytics lets you mix, match, and analyze data from any digital point in the customer journey. With in-depth analysis, versatile reporting, and predictive intelligence, you get the insightful foundation you need to build better customer experiences.
+     - [Google Analytics](https://analytics.google.com) <code>F</code> <code>S</code> - A web analytics service offered by Google that tracks and reports website traffic, currently as a platform inside the Google Marketing Platform brand. Google launched the service in November 2005 after acquiring Urchin.
+        - [Campaign URL Builder](https://ga-dev-tools.web.app/campaign-url-builder/) - This tool allows you to easily add campaign parameters to URLs so you can measure Custom Campaigns in Google Analytics.
+        - [URL Builder for GA](https://raventools.com/marketing-reports/google-analytics/url-builder/) - With the Google Analytics URL Builder, you can easily tag URLs with custom campaign variables and then use an automated reporting tool to keep track of progress and share with clients.
+     - [Matomo](https://matomo.org/) <code>F</code> <code>S</code> -  A powerful web analytics platform that gives you 100% data ownership.
  
   - __Data Analytics Tools__
       - [Combinations & Permutations Generator](https://numbergenerator.org/permutations-and-combinations) - Great for when you need to come up with all possibilities within a defined alphanumeric sequence.
