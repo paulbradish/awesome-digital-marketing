@@ -253,7 +253,7 @@ __Publishing Platforms__ are nice because they can offer a readily available com
   - International
        - [Baidu](https://www.baidu.com/) - Chinese search engine.  
        - [Yandex](https://yandex.com/) - Russian search engine.
-          - [Ranking Factors](https://www.dropbox.com/s/toyehkkfduogbwk/factors_gen.txt?dl=0) - list of numerous ranking factors discovered in the source code leak. It is suggested that since Yandex was designed by ex-Googlers, there may be as high as a 70% match between the two search algorithms.
+          - [Ranking Factors](https://www.dropbox.com/s/toyehkkfduogbwk/factors_gen.txt?dl=0) - A list of numerous ranking factors discovered in the source code leak. It is suggested that since Yandex was designed by ex-Googlers, there may be as high as a 70% match between the two search algorithms.
 
 ## Keyword Research
 - Keyword Tools
@@ -372,7 +372,7 @@ Computer languages that consists of keywords, names, or tags that help format th
 ### CSS Tools
 - [Cubic-Bezier Curves Generator](https://cubic-bezier.com/#.17,.67,.83,.67) - A wonderful little tool for cubic-bezier() easing.
 - [Easing Gradients](https://larsenwork.com/easing-gradients/) - Supercharge your gradients with non-linear color mix and custom color spaces.
-- [Fancy Border Radius](https://9elements.github.io/fancy-border-radius/) - a visualized border radius generator which utilizes eight values specifying border radius in CSS to build organic looking shapes. 
+- [Fancy Border Radius](https://9elements.github.io/fancy-border-radius/) - A visualized border radius generator which utilizes eight values specifying border radius in CSS to build organic looking shapes. 
 - [Smooth Shadows](https://shadows.brumm.af/) - A smooth shadow CSS generator.
 ### HTML
 - [HTML For Beginners The Easy Way: Start Learning HTML & CSS Today](https://html.com/)
