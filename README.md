@@ -276,19 +276,12 @@ __Publishing Platforms__ are nice because they can offer a readily available com
 - [What Is SEO / Search Engine Optimization?](https://searchengineland.com/guide/what-is-seo) - Get started learning all about SEO from one of the industry's most trusted sources, Search Engine Land. Review basics of search engine optimization, ranking factors & more.
 
 ### SEO Resources
-- Downloads
-  - [The SEO Periodic Table](https://searchengineland.com/seotable) - Since it first debuted in 2011, Search Engine Land's Periodic Table of SEO Factors has become a globally recognized tool that search professionals have relied on to help them understand the elements essential to a winning SEO strategy.
-- Tools
-  - __Algorithm History__  Google has a long history of famous (an infamous) algorithm updates, search index changes and refreshes. It's important to have a grasp on when new changes are occuring so that you can plan accordingly and relay that information to your team as it's likely you'll see fluctuation in SERPs.
-      - [Google Search ranking updates](https://developers.google.com/search/updates/ranking) - The offical page from Google detailing the the latest ranking updates made to Google Search that are relevant to website owners.
-      - [Moz Google Algorithm Update History](https://moz.com/google-algorithm-change) - A History of Major Google Algorithm Updates from 2000–Present.
-      - [SEJ History of Google Algorithm Updates](https://www.searchenginejournal.com/google-algorithm-history/) - Learn about the biggest and most important Google search algorithm launches, updates, and refreshes of all time – from 2003 to today.
-      - [SEL Google Algorithm Updates](https://searchengineland.com/library/google/google-algorithm-updates) - A history of the major Google search algorithm updates.
-         
-  - __SERP Volatility__ Several pages exist which track daily Search Engine Results Pages (SERPs) Volatility. These reports are useful to correlate and explain sudden, but temporary, fluctuations in organic traffic when caused by minor Google algorithm tweaks, tests, or other internal factors.
-      - [MozCast](https://moz.com/mozcast) - A weather report showing turbulence in the Google algorithm over the previous day (or see the 90-day history below). The hotter and stormier the weather, the more Google's rankings changed.
-      - [Rank Risk Index](https://www.rankranger.com/rank-risk-index) - SERP fluctuations for 10,000+ domains and keywords that RR monitors daily.
-      - [Semrush Sensor](https://www.semrush.com/sensor/) - Measures volatility in search results, tracking down 20+ categories on mobile and desktop and highlighting possible Google Updates.
+- [Google Search ranking updates](https://developers.google.com/search/updates/ranking) - The offical page from Google detailing the the latest ranking updates made to Google Search that are relevant to website owners.
+- [MozCast](https://moz.com/mozcast) - A weather report showing turbulence in the Google algorithm over the previous day (or see the 90-day history below). The hotter and stormier the weather, the more Google's rankings changed.
+- [Rank Risk Index](https://www.rankranger.com/rank-risk-index) - SERP fluctuations for 10,000+ domains and keywords that RR monitors daily.
+- [Semrush Sensor](https://www.semrush.com/sensor/) - Measures volatility in search results, tracking down 20+ categories on mobile and desktop and highlighting possible Google Updates.
+- [SEO Periodic Table](https://searchengineland.com/seotable) - Since it first debuted in 2011, Search Engine Land's Periodic Table of SEO Factors has become a globally recognized tool that search professionals have relied on to help them understand the elements essential to a winning SEO strategy.
+
 ### SEO Software (Desktop)
 - [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) - A website crawler that helps you improve onsite SEO, by extracting data & auditing for common SEO issues.
 - [ScrapeBox](https://www.scrapebox.com/) - Described by many users as the Swiss Army Knife of SEO. Don't let the dated UI fool you, people are still finding innovative new uses for ScrapeBox to help with their SEO efforts.
@@ -379,7 +372,7 @@ Computer languages that consists of keywords, names, or tags that help format th
 ### CSS Tools
 - [Cubic-Bezier Curves Generator](https://cubic-bezier.com/#.17,.67,.83,.67) - A wonderful little tool for cubic-bezier() easing.
 - [Easing Gradients](https://larsenwork.com/easing-gradients/) - Supercharge your gradients with non-linear color mix and custom color spaces.
-- [Fancy Border Radius](https://9elements.github.io/fancy-border-radius/) - a visualized border radius generator which utilizes eight values specifying border-radius in CSS to build organic looking shapes. 
+- [Fancy Border Radius](https://9elements.github.io/fancy-border-radius/) - a visualized border radius generator which utilizes eight values specifying border radius in CSS to build organic looking shapes. 
 - [Smooth Shadows](https://shadows.brumm.af/) - A smooth shadow CSS generator.
 ### HTML
 - [HTML For Beginners The Easy Way: Start Learning HTML & CSS Today](https://html.com/)
