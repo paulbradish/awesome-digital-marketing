@@ -1,4 +1,4 @@
-# Awesome Digital Marketing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <a href="https://github.com/paulbradish/awesome-digital-marketing/blob/main/README.md"><img alt="GitHub Commits" src="https://img.shields.io/github/commit-activity/m/paulbradish/awesome-digital-marketing?style=flat-square"></a> <a href="https://github.com/paulbradish/awesome-digital-marketing/blob/main/README.md"><img alt="CCO License" src="https://img.shields.io/github/license/paulbradish/awesome-digital-marketing"></a></sup></p> 
+# Awesome Digital Marketing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <a href="https://github.com/paulbradish/awesome-digital-marketing/blob/main/README.md"><img alt="GitHub Commits" src="https://img.shields.io/github/commit-activity/m/paulbradish/awesome-digital-marketing"></a> <a href="https://github.com/paulbradish/awesome-digital-marketing/blob/main/README.md"><img alt="CCO License" src="https://img.shields.io/github/license/paulbradish/awesome-digital-marketing"></a></sup></p> 
 
 A curated list of awesome digital marketing guides, resources, services, & more. Enjoy!
 
@@ -17,33 +17,33 @@ Created & maintained by <strong>Paul Bradish</strong> <code><a href="https://www
 ## Contents
 
 - [A/B & Multivariate Testing](#ab--multivariate-testing)
+- [Affiliate Management](#affiliate-management)
 - [Data Analytics](#data-analytics)
+- [Data Dashboards](#data-dashboards)
+- [Data Visualization](#data-visualization)
 - [Digital Experience Platforms (DXP)](#digital-experience-platforms-dxp)
-- [Custom Dashboards](#custom-dashboards)
-- [Intelligence](#intelligence)
+- [Market Intelligence](#market-intelligence)
 - [Spreadsheets](#spreadsheets)
 - [Tag Management](#tag-management)
 - [URL Management](#url-management)
-- [Visualization](#visualization)
 - [Content Creation](#content-creation)
 - [Email Marketing](#email-marketing) 
-- [Lead Generation (Inbound)](#lead-generation-inbound-marketing)
+- [Lead Generation](#lead-generation-inbound-marketing)
+- [Marketing Automation](#marketing-automation)
 - [Press Releases](#press-releases)
 - [Publishing Platforms (Free)](#publishing-platforms-free--subscription)
 - [Publishing Platforms (Hosted)](#publishing-platforms-hosted)
 - [Stock Media](#stock-media)
 - [Video Sharing](#video-sharing)
 - [Project Management](#project-management)
-- [Search Engines)](#search-engines) 
+- [Search Engines](#search-engines) 
 - [Keyword Research](#keyword-research) 
 - [Organic Search](#organic-search) 
 - [Paid Search](#paid-search)
 - [Social Media Management](#social-media-management)
 - [Social Media Networks](#social-media-networks)
 - [Design & UI](#design--ui)
-- [Development & UX](#development--ux)
-- [Affiliate Management](#affiliate-management)
-- [Automation](#automation)   
+- [Development & UX](#development--ux) 
 - [Customer Support](#customer-support)
 - [Chat Bots](#chat-bots)
 - [Live Chat](#live-chat)
@@ -56,10 +56,12 @@ Created & maintained by <strong>Paul Bradish</strong> <code><a href="https://www
 <br>
 
 ## A/B & Multivariate Testing
-_See [Digital Experience Platforms](#digital-experience-platforms)._
+_See [Digital Experience Platforms](#digital-experience-platforms-dxp)._
+
+## Affiliate Management
+- [PartnerStack](https://partnerstack.com/) - Helps you recruit, engage, and scale your entire ecosystem of partners — from affiliates to referral and reseller partners.
 
 ## Data Analytics
-📈 __Data Analytics__ is the process of examining datasets to draw conclusions about the information they contain. Data analysis is often used by digital marketers to tell a story of the customer journey and to push data-driven marketing decisions surrounding content, features, and campaign efficacy.
  - __Data Analytics Resources__
      - [Cross Validated](https://stats.stackexchange.com/) - A question and answer site for people interested in statistics, machine learning, data analysis, data mining, and data visualization.
      - [Occam's Razor](https://www.kaushik.net/avinash/) - Web analytics blog authored by longtime digital marketing evangelist @google, Avinash Kaushik.
@@ -75,23 +77,43 @@ _See [Digital Experience Platforms](#digital-experience-platforms)._
       - [Combinations & Permutations Generator](https://numbergenerator.org/permutations-and-combinations) - Great for when you need to come up with all possibilities within a defined alphanumeric sequence.
       - [Percentage Change Calculator](https://www.calculatorsoup.com/calculators/algebra/percent-change-calculator.php) - This is a % change calculator. It will quantify the change from one number to another and express the change as an increase or decrease. Sounds simple but very easy to mess up when doing these quick calculations manually.
 
-## Digital Experience Platforms (DXP)
-🧪 An important aspect of digital marketing, __testing__ gives you the ability to compare ad copy, hero images, personalization, UX, etc. to see what resonates best with your visitors.
-### Testing Platforms
-- [Google Optimize](https://optimize.google.com/) - Offers A/B testing, website testing & personalization tools for small businesses to help deliver engaging customer experiences. Formerly known as Google Website Optimizer.
-- [Optimizely](https://www.optimizely.com/) - Provides A/B testing and multivariate testing tools, website personalization, and feature toggle capabilities, as well as web content management and digital commerce.
-### Testing Tools
-- [AB testing calculator](https://www.surveymonkey.com/mp/ab-testing-significance-calculator/) - Calculate statistical significance. In the context of AB testing experiments, statistical significance is how likely it is that the difference between your experiment's control version and test version isn't due to error or random chance. This is important to keep in mind any time you are measuring or testing.
-
-## Custom Dashboards
-📊 Do you have to distill multiple data sources down into one single report? This is the bane of many a digital analyst and is enough to make one cry. No fear! This is where custom dashboards come into play. These dashboards (usually SaaS with a monthly/yearly sub) help eliminate the manual work by integrating most or all of your data connections together, allowing you to create and automate beautiful looking, KPI tailored dashboards and reports with minimal effort.
+## Data Dashboards
 - [Agency Analytics](https://agencyanalytics.com/) - Monitor all of your client's marketing channels in one seamless dashboard. All fully branded for your agency. Give clients access to the interface or app as if you built the platform in-house.
 - [Dash This](https://dashthis.com/) - An automated marketing reporting tool created to help marketers save hours of manual work by integrating numerous APIs into one customized web analytics dashboard.
 - [Databox](https://databox.com/) - Connect all of your data in one place, visualize performance trends, monitor progress toward your goals, make more informed decisions, collaborate and report as you go with custom views and deep-dives for each function in your organization. 
 - [Geckoboard](https://www.geckoboard.com/) - No hassle professional KPI dashboards. Features over 80 integrations that you can build into a real-time dashboard.
 - [Klipfolio](https://www.klipfolio.com/) - From custom dashboards and reports to self-serve exploration and analysis, this SaaS helps you centralize data and gives you the power to make decisions with confidence.
 
-## Intelligence
+## Data Visualization
+
+### Visualization Articles
+- [Choosing the Right Tools for Data Visualization](https://medium.com/nightingale/choosing-the-right-tools-for-data-visualization-4bab40f53cdc)
+- [Little Known Ways to Make your Data Visualization Awesome](https://towardsdatascience.com/little-known-ways-to-make-your-data-visualization-awesome-890d71b6e365)
+
+### Visualization Tools
+__Data Visualization Tools__ are desktop software or SaaS that render information in a visual format for data analysis purposes. Such tools make it far easier to understand and work with large data sets. 
+- [Data Color Picker](https://www.learnui.design/tools/data-color-picker.html) - A color pallete generator for data visualization purposes. _I really enjoy this tool!_
+- [Datawrapper](https://www.datawrapper.de/) - Enrich your stories with charts, maps, and tables.
+- [Google Charts](https://developers.google.com/chart/) - Choose from a variety of charts to display live data on your site. From simple scatter plots to hierarchical treemaps, find the best fit for your data.
+- [Infogram](https://infogram.com/) - An intuitive visualization tool that empowers people and teams to create beautiful, engaging, and interactive infographs.
+- [Flourish](https://flourish.studio/) - Beautiful and easy data visualization and storytelling.
+- [Looker Studio (Google Data Studio)](https://datastudio.google.com/) - Turns your data into fully customizable informative reports and dashboards that are easy to read and share.
+- [Microsoft Power BI](https://powerbi.microsoft.com/en-us/) - Power BI is an interactive data visualization software product developed by Microsoft with a primary focus on business intelligence.
+- [Tableau](https://www.tableau.com/) - Helps users visualize and understand their data, transforming the way they use data to solve problems.
+   - [Web Data Connectors](https://www.tableau.com/developer/tools/web-data-connector) - Create custom connections to data on the web and make that data available in Tableau.
+- [WordCloud Generator](https://monkeylearn.com/word-cloud) - Display words and phrases based on frequency and relevance. Word clouds provide you with quick and simple visual insights that can lead to more in-depth analyses.
+
+## Digital Experience Platforms (DXP)
+
+### Testing Platforms
+- [Google Optimize](https://optimize.google.com/) - Offers A/B testing, website testing & personalization tools for small businesses to help deliver engaging customer experiences. Formerly known as Google Website Optimizer.
+- [Optimizely](https://www.optimizely.com/) - Provides A/B testing and multivariate testing tools, website personalization, and feature toggle capabilities, as well as web content management and digital commerce.
+### Testing Tools
+- [AB testing calculator](https://www.surveymonkey.com/mp/ab-testing-significance-calculator/) - Calculate statistical significance. In the context of AB testing experiments, statistical significance is how likely it is that the difference between your experiment's control version and test version isn't due to error or random chance. This is important to keep in mind any time you are measuring or testing.
+
+
+
+## Market Intelligence
 ### Business Intelligence
 - [Crunchbase](https://www.crunchbase.com/) - One of the more acurate prospecting services I've found. Great for intel and market research.
 - [Similarweb](https://www.similarweb.com/) - All in one Website analytics competitive traffic intelligence platform. Often used to compare website traffic and performance, analyze strategies & market share acquisition.
@@ -108,7 +130,7 @@ _See [Digital Experience Platforms](#digital-experience-platforms)._
 - [Wappalyzer](https://www.wappalyzer.com/) - Find out the technology stack of any website. Create lists of websites that use certain technologies, with company and contact details. Use our tools for lead generation, market analysis and competitor research.
 
 ## Spreadsheets
-Love them or hate them, __Spreadsheets__ come with the territory. If you work in marketing, you're going to need to become really familiar with them 😉.
+
 - [Google Sheets](https://www.google.com/sheets/about/) - Create and edit online spreadsheets. Get insights together with secure sharing in real-time and from any device.
    - [40 Essential Google Sheets Tips and Tricks](https://www.lido.app/post/40-essential-google-sheets-tips-tricks-2022-edition) - In this google sheets tips and tricks 2022 edition, find 40 tips and tricks to quickly master Google Sheets
    - [Google Sheets cheat sheet](https://support.google.com/a/users/answer/9300022?hl=en) - Common tips and syntax definition. On the right navigation you'll find a number of links to additional beginner to advanced tips.
@@ -117,7 +139,7 @@ Love them or hate them, __Spreadsheets__ come with the territory. If you work in
    - [Analyze Data in Excel](https://support.microsoft.com/en-us/office/analyze-data-in-excel-3223aab8-f543-4fda-85ed-76bb0295ffc4?ui=en-us&rs=en-us&ad=us) - Analyze Data in Excel empowers you to understand your data through natural language queries that allow you to ask questions about your data without having to write complicated formulas. In addition, Analyze Data provides high-level visual summaries, trends, and patterns.
  
 ## Tag Management
-__Tag Management Systems__ help to manage the lifecycle of digital marketing tags, used to track activity on digital properties, such as websites and web applications. These are especially useful because they allow you do bypass having pull in developers and agencies when you want to add or modify a 3rd party snippet or tag.
+
 - [Adobe Experience Platform Launch](https://business.adobe.com/products/experience-platform/launch.html) - A next-generation tag management system that unifies your marketing ecosystem. It breaks down silos and bottlenecks by connecting disparate technologies so you can deliver standout digital experiences.
 - [Google Tag Manager](https://tagmanager.google.com/) - Allows you to quickly and easily update measurement codes and related code fragments collectively known as tags on your website or mobile app.
 - [Tealium](https://tealium.com/) - Tealium iQ enables you to manage tags across all digital touch points, including web sites, mobile apps and online videos all from the same intuitive user interface.
@@ -138,25 +160,6 @@ __QR (Quick Response) Codes__ are two-dimensional code originally intended for t
 __URL shorteners__, also known as a link shorteners, are services designed to turn long and complicated URLs into shorter, easier to type and more memorable URLs. These services are not to be underestimated and can have a dramatic impact on your marketing efforts- especially when branded and/or customized. (ex. example.to/short versus www.example.com/articles/howto/how-to-shorten-a-url/)
 - [Bitly](https://bitly.com/) - Build links that are more readable, trustworthy and likely to be clicked.
 - [TinyURL](https://tinyurl.com/) - The original URL shortener that shortens your unwieldly links into more manageable and useable URLs. 
-## Visualization
-__Data Visualization__ is simply _(or not so simply)_ the graphic representation of data and information. In my experience, it is an efficient and effective way of communicating and presenting data to others in an easier to understand fashion.
-
-### Visualization Articles
-- [Choosing the Right Tools for Data Visualization](https://medium.com/nightingale/choosing-the-right-tools-for-data-visualization-4bab40f53cdc)
-- [Little Known Ways to Make your Data Visualization Awesome](https://towardsdatascience.com/little-known-ways-to-make-your-data-visualization-awesome-890d71b6e365)
-
-### Visualization Tools
-__Data Visualization Tools__ are desktop software or SaaS that render information in a visual format for data analysis purposes. Such tools make it far easier to understand and work with large data sets. 
-- [Data Color Picker](https://www.learnui.design/tools/data-color-picker.html) - A color pallete generator for data visualization purposes. _I really enjoy this tool!_
-- [Datawrapper](https://www.datawrapper.de/) - Enrich your stories with charts, maps, and tables.
-- [Google Charts](https://developers.google.com/chart/) - Choose from a variety of charts to display live data on your site. From simple scatter plots to hierarchical treemaps, find the best fit for your data.
-- [Infogram](https://infogram.com/) - An intuitive visualization tool that empowers people and teams to create beautiful, engaging, and interactive infographs.
-- [Flourish](https://flourish.studio/) - Beautiful and easy data visualization and storytelling.
-- [Looker Studio (Google Data Studio)](https://datastudio.google.com/) - Turns your data into fully customizable informative reports and dashboards that are easy to read and share.
-- [Microsoft Power BI](https://powerbi.microsoft.com/en-us/) - Power BI is an interactive data visualization software product developed by Microsoft with a primary focus on business intelligence.
-- [Tableau](https://www.tableau.com/) - Helps users visualize and understand their data, transforming the way they use data to solve problems.
-   - [Web Data Connectors](https://www.tableau.com/developer/tools/web-data-connector) - Create custom connections to data on the web and make that data available in Tableau.
-- [WordCloud Generator](https://monkeylearn.com/word-cloud) - Display words and phrases based on frequency and relevance. Word clouds provide you with quick and simple visual insights that can lead to more in-depth analyses.
 
 ## Content Creation
 - [Chat GPT](https://chat.openai.com/) - Where do I begin? Open AI's Chat GPT has soooo many uses in marketing, but the primary use case is for generating powerful call-to-actions, hooks, and content ideas.
@@ -422,12 +425,9 @@ __Programming languages__ that are commonly used in front-end web design and bac
 
 ## Related
 
-## Affiliate Management
-__Affiliate Management__ is the act of recruiting new affiliates (or partners) into your program, manage the onboarding process, and ensuring that their audiences are aligned with your target market.
 
-- [PartnerStack](https://partnerstack.com/) - Helps you recruit, engage, and scale your entire ecosystem of partners — from affiliates to referral and reseller partners.
 
-## Digital Automation
+## Marketing Automation
 - [If This Then That (IFTTT)](https://ifttt.com/) - Connect, integrate, and automate. Founded on the belief that every thing tech works better together, IF configured correctly you can automate some otherwise boring marketing and automation tasks.
    - [Getting Started Collection](https://ifttt.com/explore/getting-started-collection) - Some of the most popular Applets to help you get started.
    - [Google Sheets Applets](https://ifttt.com/google_sheets) - Popular Google Sheets workflows & automations.
