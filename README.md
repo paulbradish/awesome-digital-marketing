@@ -428,6 +428,7 @@ __Programming languages__ that are commonly used in front-end web design and bac
 
 ## Newsletters
 - [Digital Marketing Must-Knows Newsletter](https://tripledouble.beehiiv.com/) - Sends every Monday. 5 biggest stories. In 60 seconds.
+- [The Curious Connector](https://www.linkedin.com/newsletters/the-curious-connector-6953813241747714048/) - A monthly newsletter from Solutions Engineer, Tom Hart. Often discusses AI and has introduced me to tools such as Microsoft PowerToys leading to increased workday efficiency.
 - [The Marketing Millennials](https://workweek.com/discover-newsletters/marketing-millennials/) - Zero BS. Just fun, unfiltered, industry insights with the game-changers behind some of the coolest companies from around the globe.
 - [TLDR](https://tldr.tech/) - TLDR is a daily newsletter with links and TLDRs of the most interesting stories in startups 🚀, tech 📱, and programming 💻!
 
