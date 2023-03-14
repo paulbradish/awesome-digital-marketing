@@ -325,6 +325,8 @@ __Social Media Networks__ geared towards the digital marketer. I'm leaving a num
 - [Dev.to](https://dev.to/) - A constructive and inclusive social network for software developers. With you every step of your journey.
    - [How to make the most of DEV if you're over Twitter](https://dev.to/devteam/how-to-make-the-most-of-dev-if-youre-over-twitter-4567) 
 - [LinkedIn](https://www.linkedin.com/) - Manage your professional identity. Build and engage with your professional network. Access knowledge, insights and opportunities.
+   - [LinkedIn Hashtag Generator](https://www.tucktools.com/linkedin-hashtag-generator) - A fantastic free and lightweight hashtag generator for LinkedIn.
+   - [LinkedIn Hashtags List](https://blog.waalaxy.com/en/linkedin-hashtags-list/) - A list of popular LinkedIn hashtags as guidance on how/when to use them.
    - [LinkedIn Polls – 5 Best Tactics For Boosting Engagement & Growth](https://leaddelta.com/linkedin-polls/)
 - [Quora](https://www.quora.com/) - A place to gain and share knowledge. It's a platform to ask questions and connect with people who contribute unique insights and quality answers.
    - [11 Ways To Answer Questions On Quora And Generate Leads](https://ladder.io/blog/quora-lead-generation)
