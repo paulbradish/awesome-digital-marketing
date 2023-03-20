@@ -21,12 +21,12 @@ Created & maintained by <strong>Paul Bradish</strong> <code><a href="https://www
 - [Data Dashboards](#data-dashboards)
 - [Data Visualization](#data-visualization)
 - [Digital Experience Platforms (DXP)](#digital-experience-platforms-dxp)
+- [Email Marketing](#email-marketing)
 - [Market Intelligence](#market-intelligence)
 - [Spreadsheets](#spreadsheets)
 - [Tag Management](#tag-management)
 - [URL Management](#url-management)
 - [Content Creation](#content-creation)
-- [Email Marketing](#email-marketing) 
 - [Lead Generation](#lead-generation-inbound-marketing)
 - [Marketing Automation](#marketing-automation)
 - [Press Releases](#press-releases)
@@ -108,7 +108,11 @@ __Data Visualization Tools__ are desktop software or SaaS that render informatio
 ### Testing Tools
 - [AB testing calculator](https://www.surveymonkey.com/mp/ab-testing-significance-calculator/) - Calculate statistical significance. In the context of AB testing experiments, statistical significance is how likely it is that the difference between your experiment's control version and test version isn't due to error or random chance. This is important to keep in mind any time you are measuring or testing.
 
-
+## Email Marketing
+- [Constant Contact](https://www.constantcontact.com/) - Deliver stunning emails and a whole lot more. Attract new customers and boost sales with their complete, easy-to-use digital marketing suite.
+- [Mailchimp](https://mailchimp.com/) - Grow your business on your terms with Mailchimp's All-In-One marketing, automation & email marketing platform.
+### Email Marketing Resources
+- [The Ultimate Guide to Email Marketing](https://blog.hubspot.com/marketing/email-marketing-guide) - Learn everything you need to know about email marketing; from creating a strategy and building a list to email regulations and tracking results.
 
 ## Market Intelligence
 ### Business Intelligence
@@ -182,11 +186,7 @@ __URL shorteners__, also known as a link shorteners, are services designed to tu
 - [Google Trends](https://trends.google.com/trends/) - Explore what the world is searching (on Google).
 - [People Also Ask](https://www.neuraltext.com/ai/people-also-ask) - Get dozens of popular questions your audience also asked and discover untapped content opportunities.
 
-## Email Marketing
-- [Constant Contact](https://www.constantcontact.com/) - Deliver stunning emails and a whole lot more. Attract new customers and boost sales with their complete, easy-to-use digital marketing suite.
-- [Mailchimp](https://mailchimp.com/) - Grow your business on your terms with Mailchimp's All-In-One marketing, automation & email marketing platform.
-### Email Marketing Resources
-- [The Ultimate Guide to Email Marketing](https://blog.hubspot.com/marketing/email-marketing-guide) - Learn everything you need to know about email marketing; from creating a strategy and building a list to email regulations and tracking results.
+
 
 ## Lead Generation (Inbound Marketing)
 - [Eloqua Marketing Automation](https://www.oracle.com/cx/marketing/automation/) - Create more closed-loop marketing and sales activities and manage cross-channel B2B marketing campaigns that nurture leads across each stage of the buying process. A best-in-class B2B marketing automation solution, Oracle Eloqua Marketing Automation offers campaign design, advanced lead scoring, real-time firmographic data, and integrated sales tools.
