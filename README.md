@@ -57,8 +57,10 @@ Created & maintained by <strong>Paul Bradish</strong> <code><a href="https://www
 _See Digital Experience Platforms._
 
 ## Account Based Marketing (ABM)
+__Account Based Marketing__ is a strategic marketing approach where B2B companies identify and target high-value accounts with personalized campaigns and messaging. ABM focuses on building strong relationships with key decision-makers within targeted accounts, rather than trying to reach a broad audience. This approach requires a deep understanding of the target accounts and a coordinated effort between sales and marketing teams to deliver content and messaging that speaks directly to the needs and pain points of each account.
 - [6sense](https://6sense.com/) - ABM software which reveals revenue insights that lead to high-quality pipeline, eliminating guesswork & empowering your revenue team with more data and visibility.
 - [Lead Forensics](https://www.leadforensics.com/) - The world's #1 website visitor identification software. Uncover your anonymous B2B website visitors and fuel your business growth.
+- [Qualified](https://www.qualified.com/account-based-marketing) - Know when your target accounts are on the site and engage them in real-time sales conversations to grow pipeline and revenue. 
 - [Zoominfo](https://www.zoominfo.com/) - Get the B2B data and software you need to connect with and close your most valuable buyers — all in one operating system.
 
 ## Affiliate Management
