@@ -16,6 +16,7 @@ Created & maintained by <strong>Paul Bradish</strong> <code><a href="https://www
 
 ## Contents
 - [A/B & Multivariate Testing](#ab--multivariate-testing)
+- [Account Based Marketing (ABM)](#account-based-marketing-abm)
 - [Affiliate Management](#affiliate-management)
 - [Data Analytics](#data-analytics)
 - [Data Dashboards](#data-dashboards)
@@ -54,6 +55,11 @@ Created & maintained by <strong>Paul Bradish</strong> <code><a href="https://www
 
 ## A/B & Multivariate Testing
 _See Digital Experience Platforms._
+
+## Account Based Marketing (ABM)
+- [6sense](https://6sense.com/) - ABM software which reveals revenue insights that lead to high-quality pipeline, eliminating guesswork & empowering your revenue team with more data and visibility.
+- [Lead Forensics](https://www.leadforensics.com/) - The world's #1 website visitor identification software. Uncover your anonymous B2B website visitors and fuel your business growth.
+- [Zoominfo](https://www.zoominfo.com/) - Get the B2B data and software you need to connect with and close your most valuable buyers — all in one operating system.
 
 ## Affiliate Management
 - [PartnerStack](https://partnerstack.com/) - Helps you recruit, engage, and scale your entire ecosystem of partners — from affiliates to referral and reseller partners.
@@ -118,10 +124,7 @@ __Data Visualization Tools__ are desktop software or SaaS that render informatio
 ### Business Intelligence
 - [Crunchbase](https://www.crunchbase.com/) - One of the more acurate prospecting services I've found. Great for intel and market research.
 - [Similarweb](https://www.similarweb.com/) - All in one Website analytics competitive traffic intelligence platform. Often used to compare website traffic and performance, analyze strategies & market share acquisition.
-### Lead Intelligence
-- [6sense](https://6sense.com/) - ABM software which reveals revenue insights that lead to high-quality pipeline, eliminating guesswork & empowering your revenue team with more data and visibility.
-- [Lead Forensics](https://www.leadforensics.com/) - The world's #1 website visitor identification software. Uncover your anonymous B2B website visitors and fuel your business growth.
-- [Zoominfo](https://www.zoominfo.com/) - Get the B2B data and software you need to connect with and close your most valuable buyers — all in one operating system.
+
 ### Social Listening
 - [Google Alerts](https://www.google.com/alerts) - Monitor the web for interesting new content.
 - [SparkToro](https://sparktoro.com/) - Crawls public profiles on social media so you can quickly learn where your audience is and how to reach them.
@@ -350,6 +353,7 @@ __Social Media Networks__ geared towards the digital marketer. I'm leaving a num
 - [HTML5up](https://html5up.net/) - Responsive HTML5 and CSS3 site templates designed by [@ajlkn](https://twitter.com/ajlkn).
 ### Web Components
 - [Shoelace](https://shoelace.style/) - A forward-thinking library of web components.
+- [Wired Elements](https://wiredjs.com/) - A series of basic UI Elements that have a hand drawn look. These can be used for wireframes, mockups, or just the fun hand-drawn look.
 ### Website Tools
 - [Favicon.io](https://favicon.io/) - Quickly generate your favicon from text, image, or choose from hundreds of emojis.
 ## Development & UX
@@ -382,7 +386,7 @@ Computer languages that consists of keywords, names, or tags that help format th
 ### XML
 - [XML Tutorial for Beginners](https://www.guru99.com/xml-tutorials.html)
   
-### Web Programming Languages
+## Web Programming Languages
 __Programming languages__ that are commonly used in front-end web design and back-end web development.
 - JavaScript
   - Angular
