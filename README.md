@@ -67,6 +67,7 @@ __Account Based Marketing__ is a strategic marketing approach where B2B companie
 - [PartnerStack](https://partnerstack.com/) - Helps you recruit, engage, and scale your entire ecosystem of partners — from affiliates to referral and reseller partners.
 
 ## Data Analytics
+Analytics is the process of examining and interpreting large sets of data in order to uncover patterns, gain insights, and-making. This involves using various tools and techniques to extract meaning from data, including statistical analysis, machine learning, and data visualization. The goal of __Data Analytics__ is to turn raw data into actionable insights that can be used to improve business operations, identify new opportunities, and solve complex problems.
  - __Data Analytics Resources__
      - [Cross Validated](https://stats.stackexchange.com/) - A question and answer site for people interested in statistics, machine learning, data analysis, data mining, and data visualization.
      - [Occam's Razor](https://www.kaushik.net/avinash/) - Web analytics blog authored by longtime digital marketing evangelist @google, Avinash Kaushik.
