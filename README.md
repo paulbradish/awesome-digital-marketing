@@ -15,19 +15,16 @@ Created & maintained by <strong>Paul Bradish</strong> <code><a href="https://www
 <br>
 
 ## Contents
-- [A/B & Multivariate Testing](#ab--multivariate-testing)
 - [Account Based Marketing (ABM)](#account-based-marketing-abm)
-- [Data Analytics](#data-analytics)
-- [Data Dashboards](#data-dashboards)
-- [Data Visualization](#data-visualization)
+- [Analytics](#analytics)
+- [Content](#content)
 - [Digital Experience Platforms (DXP)](#digital-experience-platforms-dxp)
-- [Email Marketing](#email-marketing)
+- [Email](#email)
 - [Graphic Design](#graphic-design)
 - [Market Intelligence](#market-intelligence)
 - [Spreadsheets](#spreadsheets)
 - [Tag Management](#tag-management)
 - [URL Management](#url-management)
-- [Content Creation](#content-creation)
 - [Lead Generation](#lead-generation-inbound-marketing)
 - [Marketing Automation](#marketing-automation)
 - [Press Releases](#press-releases)
@@ -40,21 +37,19 @@ Created & maintained by <strong>Paul Bradish</strong> <code><a href="https://www
 - [Keyword Research](#keyword-research) 
 - [Search Engine Optimization](#search-engine-optimization-seo) 
 - [Paid Search](#paid-search)
-- [Social Media Management](#social-media-management)
-- [Social Media Networks](#social-media-networks)
+- [Social Media](#social-media)
 - [Development & UX](#development--ux) 
 - [Customer Support](#customer-support)
 - [Newsletters](#newsletters)
-- [Online Courses](#online-courses)
 - [Skills Training](#skills-training)
+- [Testing](#testing)
 - [Web Design & UI](#web-design--ui)
 - [Web Programming Languages](#web-programming-languages)
 
 <br>
 <br>
 
-## A/B & Multivariate Testing
-_See Digital Experience Platforms._
+
 
 ## Account Based Marketing (ABM)
 __Account Based Marketing__ is a strategic marketing approach where B2B companies identify and target high-value accounts with personalized campaigns and messaging. ABM focuses on building strong relationships with key decision-makers within targeted accounts, rather than trying to reach a broad audience. This approach requires a deep understanding of the target accounts and a coordinated effort between sales and marketing teams to deliver content and messaging that speaks directly to the needs and pain points of each account.
@@ -63,7 +58,9 @@ __Account Based Marketing__ is a strategic marketing approach where B2B companie
 - [Qualified](https://www.qualified.com/account-based-marketing) - Know when your target accounts are on the site and engage them in real-time sales conversations to grow pipeline and revenue. 
 - [Zoominfo](https://www.zoominfo.com/) - Get the B2B data and software you need to connect with and close your most valuable buyers — all in one operating system.
 
-## Data Analytics
+## Analytics
+
+### Data Analytics
 Analytics is the process of examining and interpreting large sets of data in order to uncover patterns, gain insights, and-making. This involves using various tools and techniques to extract meaning from data, including statistical analysis, machine learning, and data visualization. The goal of __Data Analytics__ is to turn raw data into actionable insights that can be used to improve business operations, identify new opportunities, and solve complex problems.
  - __Data Analytics Resources__
      - [Cross Validated](https://stats.stackexchange.com/) - A question and answer site for people interested in statistics, machine learning, data analysis, data mining, and data visualization.
@@ -80,14 +77,14 @@ Analytics is the process of examining and interpreting large sets of data in ord
       - [Combinations & Permutations Generator](https://numbergenerator.org/permutations-and-combinations) - Great for when you need to come up with all possibilities within a defined alphanumeric sequence.
       - [Percentage Change Calculator](https://www.calculatorsoup.com/calculators/algebra/percent-change-calculator.php) - This is a % change calculator. It will quantify the change from one number to another and express the change as an increase or decrease. Sounds simple but very easy to mess up when doing these quick calculations manually.
 
-## Data Dashboards
+### Data Dashboards
 - [Agency Analytics](https://agencyanalytics.com/) - Monitor all of your client's marketing channels in one seamless dashboard. All fully branded for your agency. Give clients access to the interface or app as if you built the platform in-house.
 - [Dash This](https://dashthis.com/) - An automated marketing reporting tool created to help marketers save hours of manual work by integrating numerous APIs into one customized web analytics dashboard.
 - [Databox](https://databox.com/) - Connect all of your data in one place, visualize performance trends, monitor progress toward your goals, make more informed decisions, collaborate and report as you go with custom views and deep-dives for each function in your organization. 
 - [Geckoboard](https://www.geckoboard.com/) - No hassle professional KPI dashboards. Features over 80 integrations that you can build into a real-time dashboard.
 - [Klipfolio](https://www.klipfolio.com/) - From custom dashboards and reports to self-serve exploration and analysis, this SaaS helps you centralize data and gives you the power to make decisions with confidence.
 
-## Data Visualization
+### Data Visualization
 
 ### Visualization Articles
 - [Choosing the Right Tools for Data Visualization](https://medium.com/nightingale/choosing-the-right-tools-for-data-visualization-4bab40f53cdc)
@@ -106,6 +103,36 @@ __Data Visualization Tools__ are desktop software or SaaS that render informatio
    - [Web Data Connectors](https://www.tableau.com/developer/tools/web-data-connector) - Create custom connections to data on the web and make that data available in Tableau.
 - [WordCloud Generator](https://monkeylearn.com/word-cloud) - Display words and phrases based on frequency and relevance. Word clouds provide you with quick and simple visual insights that can lead to more in-depth analyses.
 
+## Content
+
+### AI Copywriting
+- [Chat GPT](https://chat.openai.com/) - Where do I begin? Open AI's Chat GPT has soooo many uses in marketing, but the primary use case is for generating powerful call-to-actions, hooks, and content ideas.
+   - [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt) - A curated list (like this one) of awesome tools, demos, docs for ChatGPT and GPT-3.
+- [Copy.ai](https://www.copy.ai/) - AI-powered copywriter that generates high-quality copy for your business. This tool is great for generating ideas and/or breaking through inevitable writer blocks.
+- [Jasper](https://www.jasper.ai/) - AI Content Platform that helps you and your team break through creative blocks to create amazing, original content 10X faster.
+- [Jounce](https://www.jounce.ai/) - The self proclaimed answer to the overwhelming gap between marketers and copywriters, providing the most advanced AI writing technology to marketers around the globe.
+### Writing Articles
+- [How to Write Headlines That Work](https://copyblogger.com/how-to-write-headlines-that-work/)
+- [What is Copywriting? Definition & Tips](https://neilpatel.com/blog/ultimate-guide-to-copywriting/)
+### Writing Guides
+- [Copywriting: The Definitive Guide (2022)](https://backlinko.com/copywriting-guide)
+### Writing Tools
+- [Capitalize My Title](https://capitalizemytitle.com/) - Makes title capitalization easy. Automatically capitalize and case convert to Title Case (in AP, APA, Chicago, MLA, BB, AMA), sentence case, UPPERCASE, lowercase, and more.
+- [Grammarly](https://www.grammarly.com/) - A cloud-based typing assistant that helps you write mistake-free in Gmail, Facebook, Twitter, LinkedIn, and any other app you use. _Even the free version is fantastic and has helped me catch a few grammatical errors that would have looked messy and unprofessional._
+- [Hemmingway Editor](https://hemingwayapp.com/) - Makes your writing bold and clear. It's like a spellchecker, but for style. It makes sure that your reader will focus on your message, not your prose.
+- [Lorem Ipsum](https://loremipsum.io/) - A lorem ipsum generator. Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
+- [Make My Persona](https://www.hubspot.com/make-my-persona) - Create professional, customizable buyer personas in minutes with the help of our intuitive free generator and share the templates with your team.
+- [Wordtune](https://www.wordtune.com/) - Say exactly what you mean through clear, compelling and authentic writing.
+### Content Research
+- [Also Asked](https://alsoasked.com/) - A great tool for getting to grips with the breadth of topical research. It unearths troves of data, in an effective and easy to use way.
+- [Answer The Public](https://answerthepublic.com/) - Extracts autocomplete data from search engines like Google then quickly cranks out every useful phrase and question people are asking.
+- [Explain Paper](https://www.explainpaper.com/) - Use AI to paraphrase and summarize technical documents. This is really helpful during the research phase if you're not quite grasping a topic.
+- [Google Trends](https://trends.google.com/trends/) - Explore what the world is searching (on Google).
+- [People Also Ask](https://www.neuraltext.com/ai/people-also-ask) - Get dozens of popular questions your audience also asked and discover untapped content opportunities.
+
+
+
+
 ## Digital Experience Platforms (DXP)
 
 ### Testing Platforms
@@ -114,10 +141,13 @@ __Data Visualization Tools__ are desktop software or SaaS that render informatio
 ### Testing Tools
 - [AB testing calculator](https://www.surveymonkey.com/mp/ab-testing-significance-calculator/) - Calculate statistical significance. In the context of AB testing experiments, statistical significance is how likely it is that the difference between your experiment's control version and test version isn't due to error or random chance. This is important to keep in mind any time you are measuring or testing.
 
-## Email Marketing
+## Email
+
+### Email Marketing
 - [Constant Contact](https://www.constantcontact.com/) - Deliver stunning emails and a whole lot more. Attract new customers and boost sales with their complete, easy-to-use digital marketing suite.
 - [Mailchimp](https://mailchimp.com/) - Grow your business on your terms with Mailchimp's All-In-One marketing, automation & email marketing platform.
-### Email Marketing Resources
+#### Email Marketing Resources
+- [CAN-SPAM Act: A Compliance Guide for Business](https://www.ftc.gov/business-guidance/resources/can-spam-act-compliance-guide-business) - Follow these guidelines laid out by the FTC if you'd like to uphold your brand's reputation and be an all-around decent human.
 - [The Ultimate Guide to Email Marketing](https://blog.hubspot.com/marketing/email-marketing-guide) - Learn everything you need to know about email marketing; from creating a strategy and building a list to email regulations and tracking results.
 
 ## Graphic Design
@@ -169,32 +199,6 @@ __QR (Quick Response) Codes__ are two-dimensional code originally intended for t
 __URL shorteners__, also known as a link shorteners, are services designed to turn long and complicated URLs into shorter, easier to type and more memorable URLs. These services are not to be underestimated and can have a dramatic impact on your marketing efforts- especially when branded and/or customized. (ex. example.to/short versus www.example.com/articles/howto/how-to-shorten-a-url/)
 - [Bitly](https://bitly.com/) - Build links that are more readable, trustworthy and likely to be clicked.
 - [TinyURL](https://tinyurl.com/) - The original URL shortener that shortens your unwieldly links into more manageable and useable URLs. 
-
-## Content Creation
-- [Chat GPT](https://chat.openai.com/) - Where do I begin? Open AI's Chat GPT has soooo many uses in marketing, but the primary use case is for generating powerful call-to-actions, hooks, and content ideas.
-   - [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt) - A curated list (like this one) of awesome tools, demos, docs for ChatGPT and GPT-3.
-- [Copy.ai](https://www.copy.ai/) - AI-powered copywriter that generates high-quality copy for your business. This tool is great for generating ideas and/or breaking through inevitable writer blocks.
-- [Jasper](https://www.jasper.ai/) - AI Content Platform that helps you and your team break through creative blocks to create amazing, original content 10X faster.
-- [Jounce](https://www.jounce.ai/) - The self proclaimed answer to the overwhelming gap between marketers and copywriters, providing the most advanced AI writing technology to marketers around the globe.
-### Writing Articles
-- [How to Write Headlines That Work](https://copyblogger.com/how-to-write-headlines-that-work/)
-- [What is Copywriting? Definition & Tips](https://neilpatel.com/blog/ultimate-guide-to-copywriting/)
-### Writing Guides
-- [Copywriting: The Definitive Guide (2022)](https://backlinko.com/copywriting-guide)
-### Writing Tools
-- [Capitalize My Title](https://capitalizemytitle.com/) - Makes title capitalization easy. Automatically capitalize and case convert to Title Case (in AP, APA, Chicago, MLA, BB, AMA), sentence case, UPPERCASE, lowercase, and more.
-- [Grammarly](https://www.grammarly.com/) - A cloud-based typing assistant that helps you write mistake-free in Gmail, Facebook, Twitter, LinkedIn, and any other app you use. _Even the free version is fantastic and has helped me catch a few grammatical errors that would have looked messy and unprofessional._
-- [Hemmingway Editor](https://hemingwayapp.com/) - Makes your writing bold and clear. It's like a spellchecker, but for style. It makes sure that your reader will focus on your message, not your prose.
-- [Lorem Ipsum](https://loremipsum.io/) - A lorem ipsum generator. Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
-- [Make My Persona](https://www.hubspot.com/make-my-persona) - Create professional, customizable buyer personas in minutes with the help of our intuitive free generator and share the templates with your team.
-- [Wordtune](https://www.wordtune.com/) - Say exactly what you mean through clear, compelling and authentic writing.
-### Content Research
-- [Also Asked](https://alsoasked.com/) - A great tool for getting to grips with the breadth of topical research. It unearths troves of data, in an effective and easy to use way.
-- [Answer The Public](https://answerthepublic.com/) - Extracts autocomplete data from search engines like Google then quickly cranks out every useful phrase and question people are asking.
-- [Explain Paper](https://www.explainpaper.com/) - Use AI to paraphrase and summarize technical documents. This is really helpful during the research phase if you're not quite grasping a topic.
-- [Google Trends](https://trends.google.com/trends/) - Explore what the world is searching (on Google).
-- [People Also Ask](https://www.neuraltext.com/ai/people-also-ask) - Get dozens of popular questions your audience also asked and discover untapped content opportunities.
-
 
 
 ## Lead Generation (Inbound Marketing)
@@ -325,6 +329,8 @@ Also known as __Paid Search__, SEM is a commonly used method to quickly increase
 ### Paid Search Software (SaaS)
 - [MarinOne](https://www.marinsoftware.com/solutions/paid-search) - Identify growth opportunities and maximize revenue across Google, Microsoft, Apple Search Ads, and more. Leverage audience, revenue, and contextual data from any source to drive campaign performance and growth.
 
+## Social Media
+
 ### Social Media Management
 - [Buffer](https://buffer.com/) - An intuitive and affordable social media management tool for SMBs which offers scheduling, planning, publishing and more.
 - [Hootsuite](https://www.hootsuite.com/) - Save time and grow on social with Hootsuite, your all-in-one social media scheduler, manager, and analytics secret weapon.
@@ -345,6 +351,14 @@ __Social Media Networks__ geared towards the digital marketer. I'm leaving a num
 
 ### Social Resources
 - [2023 Social Media Image Sizes for All Networks [CHEATSHEET]](https://blog.hootsuite.com/social-media-image-sizes-guide/) - The most recent image size specifications for different social media networks, including Instagram, Twitter, Facebook, LinkedIn, and more.
+
+## Testing
+
+### A/B Testing
+_See Digital Experience Platforms._
+
+### Multivariate Testing
+_See Digital Experience Platforms._
 
 ## Web Design & UI
 ### Fonts & Icons
