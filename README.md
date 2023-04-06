@@ -23,6 +23,7 @@ Created & maintained by <strong>Paul Bradish</strong> <code><a href="https://www
 - [Data Visualization](#data-visualization)
 - [Digital Experience Platforms (DXP)](#digital-experience-platforms-dxp)
 - [Email Marketing](#email-marketing)
+- [Graphic Design](#graphic-design)
 - [Market Intelligence](#market-intelligence)
 - [Spreadsheets](#spreadsheets)
 - [Tag Management](#tag-management)
@@ -122,6 +123,12 @@ __Data Visualization Tools__ are desktop software or SaaS that render informatio
 - [Mailchimp](https://mailchimp.com/) - Grow your business on your terms with Mailchimp's All-In-One marketing, automation & email marketing platform.
 ### Email Marketing Resources
 - [The Ultimate Guide to Email Marketing](https://blog.hubspot.com/marketing/email-marketing-guide) - Learn everything you need to know about email marketing; from creating a strategy and building a list to email regulations and tracking results.
+
+## Graphic Design
+- [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) - A powerful image editing software that allows users to manipulate and enhance digital images through a variety of tools and features.
+- [Canva](https://www.canva.com/) - A graphic design platform that allows users to create professional-looking designs easily and quickly, without needing any design experience. It offers a wide range of templates, graphics, and fonts to choose from, making it a great tool for creating social media posts, flyers, presentations, and more.
+- [Convertio Image Converter](https://convertio.co/image-converter/) <code>F</code> - Convert to and from a number of image formats, including those annoying .JFIF and .WEBP formats that certain social networks love to use.
+- [GIMP](https://www.gimp.org/) <code>F</code> - Whether you are a graphic designer, photographer, illustrator, or scientist, GIMP provides you with sophisticated tools to get your job done. You can further enhance your productivity with GIMP thanks to many customization options and 3rd party plugins.
 
 ## Market Intelligence
 ### Business Intelligence
