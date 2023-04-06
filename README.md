@@ -17,7 +17,6 @@ Created & maintained by <strong>Paul Bradish</strong> <code><a href="https://www
 ## Contents
 - [A/B & Multivariate Testing](#ab--multivariate-testing)
 - [Account Based Marketing (ABM)](#account-based-marketing-abm)
-- [Affiliate Management](#affiliate-management)
 - [Data Analytics](#data-analytics)
 - [Data Dashboards](#data-dashboards)
 - [Data Visualization](#data-visualization)
@@ -63,9 +62,6 @@ __Account Based Marketing__ is a strategic marketing approach where B2B companie
 - [Lead Forensics](https://www.leadforensics.com/) - The world's #1 website visitor identification software. Uncover your anonymous B2B website visitors and fuel your business growth.
 - [Qualified](https://www.qualified.com/account-based-marketing) - Know when your target accounts are on the site and engage them in real-time sales conversations to grow pipeline and revenue. 
 - [Zoominfo](https://www.zoominfo.com/) - Get the B2B data and software you need to connect with and close your most valuable buyers — all in one operating system.
-
-## Affiliate Management
-- [PartnerStack](https://partnerstack.com/) - Helps you recruit, engage, and scale your entire ecosystem of partners — from affiliates to referral and reseller partners.
 
 ## Data Analytics
 Analytics is the process of examining and interpreting large sets of data in order to uncover patterns, gain insights, and-making. This involves using various tools and techniques to extract meaning from data, including statistical analysis, machine learning, and data visualization. The goal of __Data Analytics__ is to turn raw data into actionable insights that can be used to improve business operations, identify new opportunities, and solve complex problems.
