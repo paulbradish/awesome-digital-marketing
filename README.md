@@ -19,6 +19,7 @@ Created & maintained by <strong>Paul Bradish</strong> <code><a href="https://www
 - [Analytics](#analytics)
 - [Content](#content)
 - [Digital Experience Platforms (DXP)](#digital-experience-platforms-dxp)
+- [Documentation](#documentation)
 - [Email](#email)
 - [Graphic Design](#graphic-design)
 - [Market Intelligence](#market-intelligence)
@@ -140,6 +141,13 @@ __Data Visualization Tools__ are desktop software or SaaS that render informatio
 - [Optimizely](https://www.optimizely.com/) - Provides A/B testing and multivariate testing tools, website personalization, and feature toggle capabilities, as well as web content management and digital commerce.
 ### Testing Tools
 - [AB testing calculator](https://www.surveymonkey.com/mp/ab-testing-significance-calculator/) - Calculate statistical significance. In the context of AB testing experiments, statistical significance is how likely it is that the difference between your experiment's control version and test version isn't due to error or random chance. This is important to keep in mind any time you are measuring or testing.
+
+## Documentation
+
+### Documentation Platforms
+- [Confluence](https://www.atlassian.com/software/confluence) <code>F</code> <code>S</code> - A remote-friendly team workspace where knowledge and collaboration meet.
+- [Gitbook](https://www.gitbook.com/) <code>F</code> <code>S</code> - Makes it easy to research, plan and document products, from start to ship.
+
 
 ## Email
 
