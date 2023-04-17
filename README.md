@@ -26,6 +26,7 @@ Created & maintained by <strong>Paul Bradish</strong> <code><a href="https://www
 ## Contents
 - [Account Based Marketing (ABM)](#account-based-marketing-abm)
 - [Analytics](#analytics)
+- [Artificial Intelligence (AI)](#artificial-intelligence-ai)
 - [Content](#content)
 - [Digital Experience Platforms (DXP)](#digital-experience-platforms-dxp)
 - [Documentation](#documentation)
@@ -38,8 +39,6 @@ Created & maintained by <strong>Paul Bradish</strong> <code><a href="https://www
 - [Lead Generation](#lead-generation-inbound-marketing)
 - [Marketing Automation](#marketing-automation)
 - [Press Releases](#press-releases)
-- [Publishing Platforms (Free)](#publishing-platforms-free--subscription)
-- [Publishing Platforms (Hosted)](#publishing-platforms-hosted)
 - [Stock Media](#stock-media)
 - [Video Sharing](#video-sharing)
 - [Project Management](#project-management)
@@ -69,63 +68,69 @@ __Account Based Marketing__ is a strategic marketing approach where B2B companie
 - [Zoominfo](https://www.zoominfo.com/) - Get the B2B data and software you need to connect with and close your most valuable buyers — all in one operating system.
 
 ## Analytics
-
-### Data Analytics
 Analytics is the process of examining and interpreting large sets of data in order to uncover patterns, gain insights, and-making. This involves using various tools and techniques to extract meaning from data, including statistical analysis, machine learning, and data visualization. The goal of __Data Analytics__ is to turn raw data into actionable insights that can be used to improve business operations, identify new opportunities, and solve complex problems.
- - __Data Analytics Resources__
+ -___Analytics Dashboards___
+     - [Agency Analytics](https://agencyanalytics.com/) - Monitor all of your client's marketing channels in one seamless dashboard. All fully branded for your agency. Give clients access to the interface or app as if you built the platform in-house.
+     - [Dash This](https://dashthis.com/) - An automated marketing reporting tool created to help marketers save hours of manual work by integrating numerous APIs into one customized web analytics dashboard.
+     - [Databox](https://databox.com/) - Connect all of your data in one place, visualize performance trends, monitor progress toward your goals, make more informed decisions, collaborate and report as you go with custom views and deep-dives for each function in your organization. 
+     - [Geckoboard](https://www.geckoboard.com/) - No hassle professional KPI dashboards. Features over 80 integrations that you can build into a real-time dashboard.
+     - [Klipfolio](https://www.klipfolio.com/) - From custom dashboards and reports to self-serve exploration and analysis, this SaaS helps you centralize data and gives you the power to make decisions with confidence.
+ - __Analytics Resources__
      - [Cross Validated](https://stats.stackexchange.com/) - A question and answer site for people interested in statistics, machine learning, data analysis, data mining, and data visualization.
      - [Occam's Razor](https://www.kaushik.net/avinash/) - Web analytics blog authored by longtime digital marketing evangelist @google, Avinash Kaushik.
      - [r/Analytics](https://www.reddit.com/r/analytics/) - Dedicated to web analytics, data and business analytics. A great subreddit to discuss analysis of data, learning of skills and implementation of web analytics.
- - __Data Analytics Services__
+ - __Analytics Services__
      - [Adobe Analytics](https://business.adobe.com/products/analytics/adobe-analytics.html) <code>S</code> - Adobe Analytics lets you mix, match, and analyze data from any digital point in the customer journey. With in-depth analysis, versatile reporting, and predictive intelligence, you get the insightful foundation you need to build better customer experiences.
      - [Google Analytics](https://analytics.google.com) <code>F</code> <code>S</code> - A web analytics service offered by Google that tracks and reports website traffic, currently as a platform inside the Google Marketing Platform brand. Google launched the service in November 2005 after acquiring Urchin.
         - [Campaign URL Builder](https://ga-dev-tools.web.app/campaign-url-builder/) - This tool allows you to easily add campaign parameters to URLs so you can measure Custom Campaigns in Google Analytics.
         - [URL Builder for GA](https://raventools.com/marketing-reports/google-analytics/url-builder/) - With the Google Analytics URL Builder, you can easily tag URLs with custom campaign variables and then use an automated reporting tool to keep track of progress and share with clients.
      - [Matomo](https://matomo.org/) <code>F</code> <code>S</code> -  A powerful web analytics platform that gives you 100% data ownership.
  
-  - __Data Analytics Tools__
-      - [Combinations & Permutations Generator](https://numbergenerator.org/permutations-and-combinations) - Great for when you need to come up with all possibilities within a defined alphanumeric sequence.
-      - [Percentage Change Calculator](https://www.calculatorsoup.com/calculators/algebra/percent-change-calculator.php) - This is a % change calculator. It will quantify the change from one number to another and express the change as an increase or decrease. Sounds simple but very easy to mess up when doing these quick calculations manually.
+ - __Analytics Tools__
+     - [Combinations & Permutations Generator](https://numbergenerator.org/permutations-and-combinations) - Great for when you need to come up with all possibilities within a defined alphanumeric sequence.
+     - [Percentage Change Calculator](https://www.calculatorsoup.com/calculators/algebra/percent-change-calculator.php) - This is a % change calculator. It will quantify the change from one number to another and express the change as an increase or decrease. Sounds simple but very easy to mess up when doing these quick calculations manually.
+     
+ - __Visualization__
+     - [Choosing the Right Tools for Data Visualization](https://medium.com/nightingale/choosing-the-right-tools-for-data-visualization-4bab40f53cdc)
+     - [Little Known Ways to Make your Data Visualization Awesome](https://towardsdatascience.com/little-known-ways-to-make-your-data-visualization-awesome-890d71b6e365)
 
-### Data Dashboards
-- [Agency Analytics](https://agencyanalytics.com/) - Monitor all of your client's marketing channels in one seamless dashboard. All fully branded for your agency. Give clients access to the interface or app as if you built the platform in-house.
-- [Dash This](https://dashthis.com/) - An automated marketing reporting tool created to help marketers save hours of manual work by integrating numerous APIs into one customized web analytics dashboard.
-- [Databox](https://databox.com/) - Connect all of your data in one place, visualize performance trends, monitor progress toward your goals, make more informed decisions, collaborate and report as you go with custom views and deep-dives for each function in your organization. 
-- [Geckoboard](https://www.geckoboard.com/) - No hassle professional KPI dashboards. Features over 80 integrations that you can build into a real-time dashboard.
-- [Klipfolio](https://www.klipfolio.com/) - From custom dashboards and reports to self-serve exploration and analysis, this SaaS helps you centralize data and gives you the power to make decisions with confidence.
+ - __Visualization Tools__ - 
+Desktop software or SaaS that render information in a visual format for data analysis purposes. Such tools make it far easier to understand and work with large data sets. 
+     - [Data Color Picker](https://www.learnui.design/tools/data-color-picker.html) - A color pallete generator for data visualization purposes. _I really enjoy this tool!_
+     - [Datawrapper](https://www.datawrapper.de/) - Enrich your stories with charts, maps, and tables.
+     - [Google Charts](https://developers.google.com/chart/) - Choose from a variety of charts to display live data on your site. From simple scatter plots to hierarchical treemaps, find the best fit for your data.
+     - [Infogram](https://infogram.com/) - An intuitive visualization tool that empowers people and teams to create beautiful, engaging, and interactive infographs.
+     - [Flourish](https://flourish.studio/) - Beautiful and easy data visualization and storytelling.
+     - [Looker Studio (Google Data Studio)](https://datastudio.google.com/) - Turns your data into fully customizable informative reports and dashboards that are easy to read and share.
+     - [Microsoft Power BI](https://powerbi.microsoft.com/en-us/) - Power BI is an interactive data visualization software product developed by Microsoft with a primary focus on business intelligence.
+     - [Tableau](https://www.tableau.com/) - Helps users visualize and understand their data, transforming the way they use data to solve problems.
+        - [Web Data Connectors](https://www.tableau.com/developer/tools/web-data-connector) - Create custom connections to data on the web and make that data available in Tableau.
+     - [WordCloud Generator](https://monkeylearn.com/word-cloud) - Display words and phrases based on frequency and relevance. Word clouds provide you with quick and simple visual insights that can lead to more in-depth analyses.
 
-### Data Visualization
-
-### Visualization Articles
-- [Choosing the Right Tools for Data Visualization](https://medium.com/nightingale/choosing-the-right-tools-for-data-visualization-4bab40f53cdc)
-- [Little Known Ways to Make your Data Visualization Awesome](https://towardsdatascience.com/little-known-ways-to-make-your-data-visualization-awesome-890d71b6e365)
-
-### Visualization Tools
-__Data Visualization Tools__ are desktop software or SaaS that render information in a visual format for data analysis purposes. Such tools make it far easier to understand and work with large data sets. 
-- [Data Color Picker](https://www.learnui.design/tools/data-color-picker.html) - A color pallete generator for data visualization purposes. _I really enjoy this tool!_
-- [Datawrapper](https://www.datawrapper.de/) - Enrich your stories with charts, maps, and tables.
-- [Google Charts](https://developers.google.com/chart/) - Choose from a variety of charts to display live data on your site. From simple scatter plots to hierarchical treemaps, find the best fit for your data.
-- [Infogram](https://infogram.com/) - An intuitive visualization tool that empowers people and teams to create beautiful, engaging, and interactive infographs.
-- [Flourish](https://flourish.studio/) - Beautiful and easy data visualization and storytelling.
-- [Looker Studio (Google Data Studio)](https://datastudio.google.com/) - Turns your data into fully customizable informative reports and dashboards that are easy to read and share.
-- [Microsoft Power BI](https://powerbi.microsoft.com/en-us/) - Power BI is an interactive data visualization software product developed by Microsoft with a primary focus on business intelligence.
-- [Tableau](https://www.tableau.com/) - Helps users visualize and understand their data, transforming the way they use data to solve problems.
-   - [Web Data Connectors](https://www.tableau.com/developer/tools/web-data-connector) - Create custom connections to data on the web and make that data available in Tableau.
-- [WordCloud Generator](https://monkeylearn.com/word-cloud) - Display words and phrases based on frequency and relevance. Word clouds provide you with quick and simple visual insights that can lead to more in-depth analyses.
-
-## Content
-
-### AI Copywriting
+## Artificial Intelligence (AI)
 - [Chat GPT](https://chat.openai.com/) - Where do I begin? Open AI's Chat GPT has soooo many uses in marketing, but the primary use case is for generating powerful call-to-actions, hooks, and content ideas.
    - [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt) - A curated list (like this one) of awesome tools, demos, docs for ChatGPT and GPT-3.
 - [Copy.ai](https://www.copy.ai/) - AI-powered copywriter that generates high-quality copy for your business. This tool is great for generating ideas and/or breaking through inevitable writer blocks.
 - [Jasper](https://www.jasper.ai/) - AI Content Platform that helps you and your team break through creative blocks to create amazing, original content 10X faster.
 - [Jounce](https://www.jounce.ai/) - The self proclaimed answer to the overwhelming gap between marketers and copywriters, providing the most advanced AI writing technology to marketers around the globe.
-### Writing Articles
-- [How to Write Headlines That Work](https://copyblogger.com/how-to-write-headlines-that-work/)
-- [What is Copywriting? Definition & Tips](https://neilpatel.com/blog/ultimate-guide-to-copywriting/)
+
+## Content
+
+### Content Research
+- [Also Asked](https://alsoasked.com/) - A great tool for getting to grips with the breadth of topical research. It unearths troves of data, in an effective and easy to use way.
+- [Answer The Public](https://answerthepublic.com/) - Extracts autocomplete data from search engines like Google then quickly cranks out every useful phrase and question people are asking.
+- [Explain Paper](https://www.explainpaper.com/) - Use AI to paraphrase and summarize technical documents. This is really helpful during the research phase if you're not quite grasping a topic.
+- [Google Trends](https://trends.google.com/trends/) - Explore what the world is searching (on Google).
+- [People Also Ask](https://www.neuraltext.com/ai/people-also-ask) - Get dozens of popular questions your audience also asked and discover untapped content opportunities.
+### Publishing Platforms
+- [Medium](https://medium.com/) - An open platform where readers find dynamic thinking, and where expert and undiscovered voices can share their writing on any topic.
+- [Substack](https://substack.com/) - Start a publication that combines a personal website, blog, and email newsletter or podcast. It's fairly minimal in nature, so you don't have to be tech savvy.
+- [Wordpress.com](https://wordpress.com) <code>F</code> <code>S</code> - Create a free website or build a blog with ease on WordPress.com. Dozens of free, customizable, mobile-ready designs and themes. Free hosting and support.
+
 ### Writing Guides
 - [Copywriting: The Definitive Guide (2022)](https://backlinko.com/copywriting-guide)
+- [How to Write Headlines That Work](https://copyblogger.com/how-to-write-headlines-that-work/)
+- [What is Copywriting? Definition & Tips](https://neilpatel.com/blog/ultimate-guide-to-copywriting/)
 ### Writing Tools
 - [Capitalize My Title](https://capitalizemytitle.com/) - Makes title capitalization easy. Automatically capitalize and case convert to Title Case (in AP, APA, Chicago, MLA, BB, AMA), sentence case, UPPERCASE, lowercase, and more.
 - [Grammarly](https://www.grammarly.com/) - A cloud-based typing assistant that helps you write mistake-free in Gmail, Facebook, Twitter, LinkedIn, and any other app you use. _Even the free version is fantastic and has helped me catch a few grammatical errors that would have looked messy and unprofessional._
@@ -133,12 +138,7 @@ __Data Visualization Tools__ are desktop software or SaaS that render informatio
 - [Lorem Ipsum](https://loremipsum.io/) - A lorem ipsum generator. Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
 - [Make My Persona](https://www.hubspot.com/make-my-persona) - Create professional, customizable buyer personas in minutes with the help of our intuitive free generator and share the templates with your team.
 - [Wordtune](https://www.wordtune.com/) - Say exactly what you mean through clear, compelling and authentic writing.
-### Content Research
-- [Also Asked](https://alsoasked.com/) - A great tool for getting to grips with the breadth of topical research. It unearths troves of data, in an effective and easy to use way.
-- [Answer The Public](https://answerthepublic.com/) - Extracts autocomplete data from search engines like Google then quickly cranks out every useful phrase and question people are asking.
-- [Explain Paper](https://www.explainpaper.com/) - Use AI to paraphrase and summarize technical documents. This is really helpful during the research phase if you're not quite grasping a topic.
-- [Google Trends](https://trends.google.com/trends/) - Explore what the world is searching (on Google).
-- [People Also Ask](https://www.neuraltext.com/ai/people-also-ask) - Get dozens of popular questions your audience also asked and discover untapped content opportunities.
+
 
 
 
@@ -228,21 +228,8 @@ __URL shorteners__, also known as a link shorteners, are services designed to tu
 ## Press Releases
 - [Cision PRWeb](https://service.prweb.com/) - Reach the right audiences and gain more media visibility with Cision PR Newswire, the industry's largest, most trusted press release distribution network. 
 - [Newswire](https://www.newswire.com/) - Delivers press release distribution and press release campaigns by leveraging earned media outreach, SEO traffic and email marketing through campaign automation to help businesses land impactful media coverage, drive website traffic, generate leads and grow brand awareness.
-### Publishing Platforms (Free / Subscription) 
-__Publishing Platforms__ are nice because they can offer a readily available community of avid readers, server stability, and customer support. I tend to prefer them over a hosted solution in most situations because I know that whatever I post *will* be found.
-- [Medium](https://medium.com/) - An open platform where readers find dynamic thinking, and where expert and undiscovered voices can share their writing on any topic.
-- [Substack](https://substack.com/) - Start a publication that combines a personal website, blog, and email newsletter or podcast. It's fairly minimal in nature, so you don't have to be tech savvy.
-### Publishing Platforms (Hosted)
-- [Wordpress](https://wordpress.org/) - Create a place for your business, your interests, or anything else—with the open source platform that powers the web.
-   - [Plugins](https://wordpress.org/plugins/) - Extend your Wordpress experience with thousands of plugins at your fingertips.
-      - [WooCommerce](https://woocommerce.com/) - The defacto ecommerce solution of choice for Wordpress. 
-         - [WooCommerce Shortcodes: A Comprehensive Guide](https://www.cloudways.com/blog/woocommerce-shortcodes/) - Learn how to use WooCommerce shortcodes to customize your WooCommerce store. _Super helpful_.
-      - [Yoast](https://yoast.com/wordpress/plugins/seo/) - Yoast helps you with your website's search engine optimization, with our internationally loved software and our online SEO courses.  
-    - [Themes](https://wordpress.org/themes/) - Find the perfect theme for your WordPress website. Choose from thousands of stunning designs with a wide variety of features and customization options.
-       - [Divi](https://www.elegantthemes.com/gallery/divi/) - Not just another Wordpress theme. This is a complete design framework that allows you to design and customize every part of your website from the ground up. If only It was the default WP install...
-          - [Divi Marketplace](https://www.elegantthemes.com/marketplace/) - Divi child themes, extensions and layouts for sale by the community.
-          - [Elegant Themes Blog](https://www.elegantthemes.com/blog/) - A great resource for Divi guides, hacks, and tutorials.
-       - [Elementor](https://elementor.com/features/wordpress/) - Elementor is the platform web creators choose to build professional WordPress websites, grow their skills, and build their business.
+
+
 ## Stock Media
 - [Creative Market](https://creativemarket.com/) - Accelerate your projects with millions of ready-to-use products.
    - [4 Free Weekly Assets](https://creativemarket.com/free-goods) - CM rarely disapoints on their freebies. I find myself usually downloading these the morning they drop.
@@ -394,11 +381,25 @@ _See Digital Experience Platforms._
 ### Website Tools
 - [Favicon.io](https://favicon.io/) - Quickly generate your favicon from text, image, or choose from hundreds of emojis.
 ## Development & UX
+
 ### Code Editors
 - [Atom](https://atom.io/) - A hackable text editor for the 21st Century.
 - [Notepad++](https://notepad-plus-plus.org/) - A free (as in “free speech” and also as in “free beer”) source code editor and Notepad replacement that supports several languages.
 - [Sublime Text](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose. You'll love the slick user interface, extraordinary features and amazing performance.
 - [Visual Studio Code](https://code.visualstudio.com/) - A code editor redefined and optimized for building and debugging modern web and cloud applications.
+
+### Content Management Systems
+- [Wordpress](https://wordpress.org/) - Create a place for your business, your interests, or anything else—with the open source platform that powers the web.
+   - [Plugins](https://wordpress.org/plugins/) - Extend your Wordpress experience with thousands of plugins at your fingertips.
+      - [WooCommerce](https://woocommerce.com/) - The defacto ecommerce solution of choice for Wordpress. 
+         - [WooCommerce Shortcodes: A Comprehensive Guide](https://www.cloudways.com/blog/woocommerce-shortcodes/) - Learn how to use WooCommerce shortcodes to customize your WooCommerce store. _Super helpful_.
+      - [Yoast](https://yoast.com/wordpress/plugins/seo/) - Yoast helps you with your website's search engine optimization, with our internationally loved software and our online SEO courses.  
+    - [Themes](https://wordpress.org/themes/) - Find the perfect theme for your WordPress website. Choose from thousands of stunning designs with a wide variety of features and customization options.
+       - [Divi](https://www.elegantthemes.com/gallery/divi/) - Not just another Wordpress theme. This is a complete design framework that allows you to design and customize every part of your website from the ground up. 
+          - [Divi Marketplace](https://www.elegantthemes.com/marketplace/) - Divi child themes, extensions and layouts for sale by the community.
+          - [Elegant Themes Blog](https://www.elegantthemes.com/blog/) - A great resource for Divi guides, hacks, and tutorials.
+       - [Elementor](https://elementor.com/features/wordpress/) - Elementor is the platform web creators choose to build professional WordPress websites, grow their skills, and build their business.### Writing Articles
+
 ### Domains
 - Domain Registrars
   - [NameCheap](https://www.namecheap.com/) - An ICANN-accredited domain name registrar providing domain name registration and web hosting based in Phoenix, Arizona, US. Very reliable and inexpensive registration and shared hosting.
