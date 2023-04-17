@@ -268,9 +268,9 @@ __URL shorteners__, also known as a link shorteners, are services designed to tu
       - [PageSpeed Insights](https://pagespeed.web.dev/) - Make your web pages fast on all devices
       - [Search Console](https://search.google.com/search-console/about) - Search Console tools and reports help you measure your site's Search traffic and performance, fix issues, and make your site shine in Google Search results.
          - [Core Web Vitals Chrome Extension](https://chrome.google.com/webstore/detail/web-vitals/ahfhijdlegdabablpippeagghigmibma) - Because why make it harder on yourself?
- - [Baidu](https://www.baidu.com/) - Chinese search engine.  
- - [Yandex](https://yandex.com/) - Russian search engine.
-    - [Ranking Factors](https://www.dropbox.com/s/toyehkkfduogbwk/factors_gen.txt?dl=0) - A list of numerous ranking factors discovered in the source code leak. It is suggested that since Yandex was designed by ex-Googlers, there may be as high as a 70% match between the two search algorithms.
+- [Baidu](https://www.baidu.com/) - Chinese search engine.
+- [Yandex](https://yandex.com/) - Russian search engine.
+   - [Ranking Factors](https://www.dropbox.com/s/toyehkkfduogbwk/factors_gen.txt?dl=0) - A list of numerous ranking factors discovered in the source code leak. It is suggested that since Yandex was designed by ex-Googlers, there may be as high as a 70% match between the two search algorithms.
 
 ## Keyword Research
 - Keyword Tools
