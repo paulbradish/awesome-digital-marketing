@@ -259,13 +259,13 @@ __URL shorteners__, also known as a link shorteners, are services designed to tu
  - [Google](https://google.com) - Search the world's information, including webpages, images, videos and more.
     - Documentation
       - [Google Search Cheet Sheet & Quick Reference](https://quickref.me/google-search.html) - This quick reference cheat sheet lists of Google advanced search operators.
-      - [Google Search Operators Cheet Sheet (PDF)](https://static.semrush.com/blog/uploads/files/39/12/39121580a18160d3587274faed6323e2.pdf) - nt.
+      - [Google Search Operators Cheet Sheet (PDF)](https://static.semrush.com/blog/uploads/files/39/12/39121580a18160d3587274faed6323e2.pdf) - Handy list of search operators in pdf format.
     - Resources
       - [Core Web Vitals workflows with Google tools](https://web.dev/vitals-tools/) - The finer points of how to combine Google tools to audit, improve and monitor your website effectively.
       - [Refreshed guidelines for site owners](https://developers.google.com/search/blog/2022/10/search-essentials) - The Google Search Essentials make up the core parts of what makes your web-based content (web pages, images, videos, or other publicly-available material that Google finds on the web) eligible to appear and perform well on Google Search. _If I taught a class on SEO, this would be day #1 reading material._
     - Tools 
       - [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) - An open-source, automated tool for improving the quality of web pages. You can run it against any web page, public or requiring authentication. It has audits for performance, accessibility, progressive web apps, SEO and more.
-      - [PageSpeed Insights](https://pagespeed.web.dev/) - Make your web pages fast on all devices
+      - [PageSpeed Insights](https://pagespeed.web.dev/) - Make your web pages fast on all devices.
       - [Search Console](https://search.google.com/search-console/about) - Search Console tools and reports help you measure your site's Search traffic and performance, fix issues, and make your site shine in Google Search results.
          - [Core Web Vitals Chrome Extension](https://chrome.google.com/webstore/detail/web-vitals/ahfhijdlegdabablpippeagghigmibma) - Because why make it harder on yourself?
 - [Baidu](https://www.baidu.com/) - Chinese search engine.
