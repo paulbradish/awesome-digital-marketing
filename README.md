@@ -27,32 +27,35 @@ Created & maintained by <strong>Paul Bradish</strong> <code><a href="https://www
 - [Account Based Marketing (ABM)](#account-based-marketing-abm)
 - [Analytics](#analytics)
 - [Artificial Intelligence (AI)](#artificial-intelligence-ai)
-- [Content](#content)
+- [Business Intelligence](#business-intelligence)
+- [Content Research](#content-research)
+- [Development & UX](#development--ux) 
 - [Digital Experience Platforms (DXP)](#digital-experience-platforms-dxp)
 - [Documentation](#documentation)
-- [Email](#email)
+- [Ecommerce](#ecommerce)
+- [Email Marketing](#email-marketing)
 - [Graphic Design](#graphic-design)
-- [Market Intelligence](#market-intelligence)
-- [Spreadsheets](#spreadsheets)
-- [Tag Management](#tag-management)
-- [URL Management](#url-management)
+- [Industry Newsletters](#industry-newsletters)
+- [Keyword Research](#keyword-research) 
 - [Lead Generation](#lead-generation-inbound-marketing)
 - [Marketing Automation](#marketing-automation)
-- [Press Releases](#press-releases)
-- [Stock Media](#stock-media)
-- [Video Sharing](#video-sharing)
-- [Project Management](#project-management)
-- [Search Engines](#search-engines) 
-- [Keyword Research](#keyword-research) 
-- [Search Engine Optimization](#search-engine-optimization-seo) 
 - [Paid Search](#paid-search)
+- [Paid Social](#paid-social)
+- [Press Releases](#press-releases)
 - [Programming Languages](#programming-languages)
-- [Social Media](#social-media)
-- [Development & UX](#development--ux) 
-- [Customer Support](#customer-support)
-- [Newsletters](#newsletters)
+- [Project Management](#project-management)
+- [Publishing Platforms](#publishing-platforms)
+- [Search Engine Optimization](#search-engine-optimization-seo) 
+- [Search Engines](#search-engines) 
 - [Skills Training](#skills-training)
-- [Testing](#testing)
+- [Social Listening](#social-listening)
+- [Social Media Management](#social-media-management)
+- [Social Networks](#social-networks)
+- [Spreadsheets](#spreadsheets)
+- [Stock Media](#stock-media)
+- [Tag Management](#tag-management)
+- [URL Management](#url-management)
+- [Video Sharing](#video-sharing)
 - [Web Design & UI](#web-design--ui)
 
 <br>
@@ -114,15 +117,18 @@ Desktop software or SaaS that render information in a visual format for data ana
 - [Jasper](https://www.jasper.ai/) - AI Content Platform that helps you and your team break through creative blocks to create amazing, original content 10X faster.
 - [Jounce](https://www.jounce.ai/) - The self proclaimed answer to the overwhelming gap between marketers and copywriters, providing the most advanced AI writing technology to marketers around the globe.
 
-## Content
+## Business Intelligence
+- [Crunchbase](https://www.crunchbase.com/) - One of the more acurate prospecting services I've found. Great for intel and market research.
+- [Similarweb](https://www.similarweb.com/) - All in one Website analytics competitive traffic intelligence platform. Often used to compare website traffic and performance, analyze strategies & market share acquisition.
 
-### Content Research
+## Content Research
 - [Also Asked](https://alsoasked.com/) - A great tool for getting to grips with the breadth of topical research. It unearths troves of data, in an effective and easy to use way.
 - [Answer The Public](https://answerthepublic.com/) - Extracts autocomplete data from search engines like Google then quickly cranks out every useful phrase and question people are asking.
 - [Explain Paper](https://www.explainpaper.com/) - Use AI to paraphrase and summarize technical documents. This is really helpful during the research phase if you're not quite grasping a topic.
 - [Google Trends](https://trends.google.com/trends/) - Explore what the world is searching (on Google).
 - [People Also Ask](https://www.neuraltext.com/ai/people-also-ask) - Get dozens of popular questions your audience also asked and discover untapped content opportunities.
-### Publishing Platforms
+
+## Publishing Platforms
 - [Medium](https://medium.com/) - An open platform where readers find dynamic thinking, and where expert and undiscovered voices can share their writing on any topic.
 - [Substack](https://substack.com/) - Start a publication that combines a personal website, blog, and email newsletter or podcast. It's fairly minimal in nature, so you don't have to be tech savvy.
 - [Wordpress.com](https://wordpress.com) - Create a free website or build a blog with ease on WordPress.com. Dozens of free, customizable, mobile-ready designs and themes. Free hosting and support. <code>F</code> <code>S</code>
@@ -139,10 +145,6 @@ Desktop software or SaaS that render information in a visual format for data ana
 - [Make My Persona](https://www.hubspot.com/make-my-persona) - Create professional, customizable buyer personas in minutes with the help of our intuitive free generator and share the templates with your team.
 - [Wordtune](https://www.wordtune.com/) - Say exactly what you mean through clear, compelling and authentic writing.
 
-
-
-
-
 ## Digital Experience Platforms (DXP)
 
 ### Testing Platforms
@@ -157,13 +159,13 @@ Desktop software or SaaS that render information in a visual format for data ana
 - [Confluence](https://www.atlassian.com/software/confluence) - A remote-friendly team workspace where knowledge and collaboration meet. <code>F</code> <code>S</code>
 - [Gitbook](https://www.gitbook.com/) - Makes it easy to research, plan and document products, from start to ship. <code>F</code> <code>S</code>
 
+## Email Marketing
 
-## Email
-
-### Email Marketing
+### Email Marketing Services
 - [Constant Contact](https://www.constantcontact.com/) - Deliver stunning emails and a whole lot more. Attract new customers and boost sales with their complete, easy-to-use digital marketing suite.
 - [Mailchimp](https://mailchimp.com/) - Grow your business on your terms with Mailchimp's All-In-One marketing, automation & email marketing platform.
-#### Email Marketing Resources
+
+### Email Marketing Resources
 - [CAN-SPAM Act: A Compliance Guide for Business](https://www.ftc.gov/business-guidance/resources/can-spam-act-compliance-guide-business) - Follow these guidelines laid out by the FTC if you'd like to uphold your brand's reputation and be an all-around decent human.
 - [The Ultimate Guide to Email Marketing](https://blog.hubspot.com/marketing/email-marketing-guide) - Learn everything you need to know about email marketing; from creating a strategy and building a list to email regulations and tracking results.
 
@@ -173,21 +175,17 @@ Desktop software or SaaS that render information in a visual format for data ana
 - [Convertio Image Converter](https://convertio.co/image-converter/) - Convert to and from a number of image formats, including those annoying .JFIF and .WEBP formats that certain social networks love to use.  <code>F</code>
 - [GIMP](https://www.gimp.org/) - Whether you are a graphic designer, photographer, illustrator, or scientist, GIMP provides you with sophisticated tools to get your job done. You can further enhance your productivity with GIMP thanks to many customization options and 3rd party plugins. <code>F</code>
 
-## Market Intelligence
-### Business Intelligence
-- [Crunchbase](https://www.crunchbase.com/) - One of the more acurate prospecting services I've found. Great for intel and market research.
-- [Similarweb](https://www.similarweb.com/) - All in one Website analytics competitive traffic intelligence platform. Often used to compare website traffic and performance, analyze strategies & market share acquisition.
+## Industry Newsletters
+- [Digital Marketing Must-Knows Newsletter](https://tripledouble.beehiiv.com/) - Sends every Monday. 5 biggest stories. In 60 seconds.
+- [The Curious Connector](https://www.linkedin.com/newsletters/the-curious-connector-6953813241747714048/) - A monthly newsletter from Solutions Engineer, Tom Hart. Often discusses AI and has introduced me to tools such as Microsoft PowerToys leading to increased workday efficiency.
+- [The Marketing Millennials](https://workweek.com/discover-newsletters/marketing-millennials/) - Zero BS. Just fun, unfiltered, industry insights with the game-changers behind some of the coolest companies from around the globe.
+- [TLDR](https://tldr.tech/) - TLDR is a daily newsletter with links and TLDRs of the most interesting stories in startups 🚀, tech 📱, and programming 💻!
 
-### Social Listening
+## Social Listening
 - [Google Alerts](https://www.google.com/alerts) - Monitor the web for interesting new content.
 - [SparkToro](https://sparktoro.com/) - Crawls public profiles on social media so you can quickly learn where your audience is and how to reach them.
-### Technology Stack
-- [BuiltWith](https://builtwith.com/) - A website profiler, lead generation, competitive analysis and business intelligence tool providing technology adoption, ecommerce data and usage analytics for the internet.
-- [W3Techs](https://w3techs.com/) - Provider of information about the usage of various types of technologies on the web.
-- [Wappalyzer](https://www.wappalyzer.com/) - Find out the technology stack of any website. Create lists of websites that use certain technologies, with company and contact details. Use our tools for lead generation, market analysis and competitor research.
 
 ## Spreadsheets
-
 - [Google Sheets](https://www.google.com/sheets/about/) - Create and edit online spreadsheets. Get insights together with secure sharing in real-time and from any device.
    - [40 Essential Google Sheets Tips and Tricks](https://www.lido.app/post/40-essential-google-sheets-tips-tricks-2022-edition) - In this google sheets tips and tricks 2022 edition, find 40 tips and tricks to quickly master Google Sheets.
    - [Google Sheets cheat sheet](https://support.google.com/a/users/answer/9300022?hl=en) - Common tips and syntax definition. On the right navigation you'll find a number of links to additional beginner to advanced tips.
@@ -195,12 +193,17 @@ Desktop software or SaaS that render information in a visual format for data ana
    - [Analyze Data in Excel](https://support.microsoft.com/en-us/office/analyze-data-in-excel-3223aab8-f543-4fda-85ed-76bb0295ffc4?ui=en-us&rs=en-us&ad=us) - Analyze Data in Excel empowers you to understand your data through natural language queries that allow you to ask questions about your data without having to write complicated formulas. In addition, Analyze Data provides high-level visual summaries, trends, and patterns.
  
 ## Tag Management
-
 - [Adobe Experience Platform Launch](https://business.adobe.com/products/experience-platform/launch.html) - A next-generation tag management system that unifies your marketing ecosystem. It breaks down silos and bottlenecks by connecting disparate technologies so you can deliver standout digital experiences.
 - [Google Tag Manager](https://tagmanager.google.com/) - Allows you to quickly and easily update measurement codes and related code fragments collectively known as tags on your website or mobile app.
 - [Tealium](https://tealium.com/) - Tealium iQ enables you to manage tags across all digital touch points, including web sites, mobile apps and online videos all from the same intuitive user interface.
 
+## Technology Stack Intelligence
+- [BuiltWith](https://builtwith.com/) - A website profiler, lead generation, competitive analysis and business intelligence tool providing technology adoption, ecommerce data and usage analytics for the internet.
+- [W3Techs](https://w3techs.com/) - Provider of information about the usage of various types of technologies on the web.
+- [Wappalyzer](https://www.wappalyzer.com/) - Find out the technology stack of any website. Create lists of websites that use certain technologies, with company and contact details. Use our tools for lead generation, market analysis and competitor research.
+
 ## URL Management
+
 ### Link in Bio
 - [About.me](https://about.me/) - Create a page to present who you are and what you do in one link. Professional. Take control and centralize your online presence.
 - [Bio.link](https://bio.link/) - The one link for all your links.
@@ -335,14 +338,15 @@ Also known as __Paid Search__, SEM is a commonly used method to quickly increase
 ### Paid Search Software (SaaS)
 - [MarinOne](https://www.marinsoftware.com/solutions/paid-search) - Identify growth opportunities and maximize revenue across Google, Microsoft, Apple Search Ads, and more. Leverage audience, revenue, and contextual data from any source to drive campaign performance and growth.
 
-## Social Media
+## Paid Social
+- [2023 Social Media Image Sizes for All Networks [CHEATSHEET]](https://blog.hootsuite.com/social-media-image-sizes-guide/) - The most recent image size specifications for different social media networks, including Instagram, Twitter, Facebook, LinkedIn, and more.
 
-### Social Media Management
+## Social Media Management
 - [Buffer](https://buffer.com/) - An intuitive and affordable social media management tool for SMBs which offers scheduling, planning, publishing and more.
 - [Hootsuite](https://www.hootsuite.com/) - Save time and grow on social with Hootsuite, your all-in-one social media scheduler, manager, and analytics secret weapon.
 
-### Social Media Networks
-__Social Media Networks__ geared towards the digital marketer. I'm leaving a number of them off as there are communities everywhere (even on Facebook), in favor of those that are more consistent.
+## Social Networks
+__Social Networks__ geared towards the digital marketer. I'm leaving a number of them off as there are communities everywhere (even on Facebook), in favor of those that are more consistent.
 - [Dev.to](https://dev.to/) - A constructive and inclusive social network for software developers. With you every step of your journey.
    - [How to make the most of DEV if you're over Twitter](https://dev.to/devteam/how-to-make-the-most-of-dev-if-youre-over-twitter-4567) 
 - [LinkedIn](https://www.linkedin.com/) - Manage your professional identity. Build and engage with your professional network. Access knowledge, insights and opportunities.
@@ -354,9 +358,6 @@ __Social Media Networks__ geared towards the digital marketer. I'm leaving a num
 - [Reddit](https://www.reddit.com/) - A network of communities where people can dive into their interests, hobbies and passions. There&#x27;s a community for whatever you're interested in on Reddit.
 - [Stack Overflow](https://stackoverflow.com/) - The largest, most trusted online community for developers. This can be a great resource for technical digital marketing and SEO questions. I know that I've ended up here more than a few times.
 - [Twitter](https://twitter.com/) - The (un)official digital marketing community hangout.
-
-### Social Resources
-- [2023 Social Media Image Sizes for All Networks [CHEATSHEET]](https://blog.hootsuite.com/social-media-image-sizes-guide/) - The most recent image size specifications for different social media networks, including Instagram, Twitter, Facebook, LinkedIn, and more.
 
 ## Testing
 
@@ -471,11 +472,7 @@ __Programming languages__ that are commonly used in front-end web design and bac
 ## Ecommerce
 - [100+ Ecommerce Tools, Tips and Tactics](https://tripledouble.notion.site/cb18cf07e53e455e90ce256a9bbcc733?v=60cade2d360e4ee08195565e26fb0e04) - A great list of ecommerce tactics hosted on Notion.
 
-## Newsletters
-- [Digital Marketing Must-Knows Newsletter](https://tripledouble.beehiiv.com/) - Sends every Monday. 5 biggest stories. In 60 seconds.
-- [The Curious Connector](https://www.linkedin.com/newsletters/the-curious-connector-6953813241747714048/) - A monthly newsletter from Solutions Engineer, Tom Hart. Often discusses AI and has introduced me to tools such as Microsoft PowerToys leading to increased workday efficiency.
-- [The Marketing Millennials](https://workweek.com/discover-newsletters/marketing-millennials/) - Zero BS. Just fun, unfiltered, industry insights with the game-changers behind some of the coolest companies from around the globe.
-- [TLDR](https://tldr.tech/) - TLDR is a daily newsletter with links and TLDRs of the most interesting stories in startups 🚀, tech 📱, and programming 💻!
+
 
 ## Skills Training
 The digital marketing landscape changes quickly which is why it's important to consistently focus on __Skills Training__ so you don't get left behind.
