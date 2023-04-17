@@ -171,7 +171,7 @@ Desktop software or SaaS that render information in a visual format for data ana
 - [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) - A powerful image editing software that allows users to manipulate and enhance digital images through a variety of tools and features.
 - [Canva](https://www.canva.com/) - A graphic design platform that allows users to create professional-looking designs easily and quickly, without needing any design experience. It offers a wide range of templates, graphics, and fonts to choose from, making it a great tool for creating social media posts, flyers, presentations, and more.
 - [Convertio Image Converter](https://convertio.co/image-converter/) <code>F</code> - Convert to and from a number of image formats, including those annoying .JFIF and .WEBP formats that certain social networks love to use.
-- [GIMP](https://www.gimp.org/) <code>F</code> - Whether you are a graphic designer, photographer, illustrator, or scientist, GIMP provides you with sophisticated tools to get your job done. You can further enhance your productivity with GIMP thanks to many customization options and 3rd party plugins.
+- [GIMP](https://www.gimp.org/) - Whether you are a graphic designer, photographer, illustrator, or scientist, GIMP provides you with sophisticated tools to get your job done. You can further enhance your productivity with GIMP thanks to many customization options and 3rd party plugins. <code>F</code>
 
 ## Market Intelligence
 ### Business Intelligence
@@ -189,7 +189,7 @@ Desktop software or SaaS that render information in a visual format for data ana
 ## Spreadsheets
 
 - [Google Sheets](https://www.google.com/sheets/about/) - Create and edit online spreadsheets. Get insights together with secure sharing in real-time and from any device.
-   - [40 Essential Google Sheets Tips and Tricks](https://www.lido.app/post/40-essential-google-sheets-tips-tricks-2022-edition) - In this google sheets tips and tricks 2022 edition, find 40 tips and tricks to quickly master Google Sheets
+   - [40 Essential Google Sheets Tips and Tricks](https://www.lido.app/post/40-essential-google-sheets-tips-tricks-2022-edition) - In this google sheets tips and tricks 2022 edition, find 40 tips and tricks to quickly master Google Sheets.
    - [Google Sheets cheat sheet](https://support.google.com/a/users/answer/9300022?hl=en) - Common tips and syntax definition. On the right navigation you'll find a number of links to additional beginner to advanced tips.
 - [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/excel) - Enables users to format, organize and calculate data in a spreadsheet.
    - [Analyze Data in Excel](https://support.microsoft.com/en-us/office/analyze-data-in-excel-3223aab8-f543-4fda-85ed-76bb0295ffc4?ui=en-us&rs=en-us&ad=us) - Analyze Data in Excel empowers you to understand your data through natural language queries that allow you to ask questions about your data without having to write complicated formulas. In addition, Analyze Data provides high-level visual summaries, trends, and patterns.
@@ -236,7 +236,7 @@ __URL shorteners__, also known as a link shorteners, are services designed to tu
 - [Envato Elements](https://elements.envato.com/) - Cheap subscription service with 11 million+ creative assets.
    - [Monthly Free Files](https://elements.envato.com/free-files) - Get 12 hand-selected files, including fonts, presentations, videos and more.
 - [Pexels](https://www.pexels.com/) - Free stock photos, royalty free images & videos shared by creators.
-- [Unsplash](https://unsplash.com/) - The internet’s source for visuals. Powered by creators everywhere.
+- [Unsplash](https://unsplash.com/) - The internet's source for visuals. Powered by creators everywhere.
 
 ### Video Sharing
 - [YouTube](https://www.youtube.com/) - Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world.
@@ -246,9 +246,9 @@ __URL shorteners__, also known as a link shorteners, are services designed to tu
 - [Wistia](https://wistia.com/) - Highly brandable and embeddable video platform for business.
 
 ## Project Management
-- [Asana](https://asana.com/) - Helps you manage projects, focus on what’s important, and organize work in one place for seamless collaboration.
+- [Asana](https://asana.com/) - Helps you manage projects, focus on what's important, and organize work in one place for seamless collaboration.
 - [Jira](https://www.atlassian.com/software/jira) - Very task management and bug tracking tool used by agile teams.
-- [Monday](https://monday.com/) - Boost your team’s alignment, efficiency, and productivity by customizing any workflow to fit your needs.
+- [Monday](https://monday.com/) - Boost your team's alignment, efficiency, and productivity by customizing any workflow to fit your needs.
 - [Wrike](https://www.wrike.com/vr/) - All-in-one platform to manage projects, organize work, enhance collaboration and accelerate execution across all departments.
 
 ## Search Engines
