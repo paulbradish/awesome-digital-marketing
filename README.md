@@ -46,6 +46,7 @@ Created & maintained by <strong>Paul Bradish</strong> <code><a href="https://www
 - [Keyword Research](#keyword-research) 
 - [Search Engine Optimization](#search-engine-optimization-seo) 
 - [Paid Search](#paid-search)
+- [Programming Languages](#programming-languages)
 - [Social Media](#social-media)
 - [Development & UX](#development--ux) 
 - [Customer Support](#customer-support)
@@ -53,7 +54,6 @@ Created & maintained by <strong>Paul Bradish</strong> <code><a href="https://www
 - [Skills Training](#skills-training)
 - [Testing](#testing)
 - [Web Design & UI](#web-design--ui)
-- [Web Programming Languages](#web-programming-languages)
 
 <br>
 <br>
@@ -424,11 +424,12 @@ Computer languages that consists of keywords, names, or tags that help format th
 ### XML
 - [XML Tutorial for Beginners](https://www.guru99.com/xml-tutorials.html)
   
-## Web Programming Languages
+## Programming Languages
 __Programming languages__ that are commonly used in front-end web design and back-end web development.
 - JavaScript
   - Angular
   - jQuery
+  - [Node.js](https://nodejs.org/en) - An open-source, cross-platform JavaScript runtime environment.
   - React
   - Vue
   - Other
