@@ -6,9 +6,9 @@ Created & maintained by <strong>Paul Bradish</strong> <code><a href="https://www
 
 <br>
 
-<strong>Sponsored by <a href="semrush.sjv.io/github-adml" target="_blank">Semrush</a></strong>
+<strong>Sponsored by <a href="https://semrush.sjv.io/github-adml" target="_blank" rel="noopener">Semrush</a></strong>
 
-<a href="https://semrush.sjv.io/c/2892891/1588720/13053?subId1=github-adml" target="_blank" id="1588720"><img src="https://a.impactradius-go.com/display-ad/13053-1588720" border="0" alt="" width="240" height="133"/></a><img height="0" width="0" src="https://imp.pxf.io/i/2892891/1588720/13053?subId1=github-adml" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://semrush.sjv.io/c/2892891/1588720/13053?subId1=github-adml" target="_blank" rel="noopener" id="1588720"><img src="https://a.impactradius-go.com/display-ad/13053-1588720" border="0" alt="" width="240" height="133"/></a><img height="0" width="0" src="https://imp.pxf.io/i/2892891/1588720/13053?subId1=github-adml" style="position:absolute;visibility:hidden;" border="0" />
 
 <br>
 
