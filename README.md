@@ -80,11 +80,11 @@ Analytics is the process of examining and interpreting large sets of data in ord
      - [Occam's Razor](https://www.kaushik.net/avinash/) - Web analytics blog authored by longtime digital marketing evangelist @google, Avinash Kaushik.
      - [r/Analytics](https://www.reddit.com/r/analytics/) - Dedicated to web analytics, data and business analytics. A great subreddit to discuss analysis of data, learning of skills and implementation of web analytics.
  - __Analytics Services__
-     - [Adobe Analytics](https://business.adobe.com/products/analytics/adobe-analytics.html) <code>S</code> - Adobe Analytics lets you mix, match, and analyze data from any digital point in the customer journey. With in-depth analysis, versatile reporting, and predictive intelligence, you get the insightful foundation you need to build better customer experiences.
-     - [Google Analytics](https://analytics.google.com) <code>F</code> <code>S</code> - A web analytics service offered by Google that tracks and reports website traffic, currently as a platform inside the Google Marketing Platform brand. Google launched the service in November 2005 after acquiring Urchin.
+     - [Adobe Analytics](https://business.adobe.com/products/analytics/adobe-analytics.html) - Adobe Analytics lets you mix, match, and analyze data from any digital point in the customer journey. With in-depth analysis, versatile reporting, and predictive intelligence, you get the insightful foundation you need to build better customer experiences. <code>S</code>
+     - [Google Analytics](https://analytics.google.com) - A web analytics service offered by Google that tracks and reports website traffic, currently as a platform inside the Google Marketing Platform brand. Google launched the service in November 2005 after acquiring Urchin.  <code>F</code> <code>S</code>
         - [Campaign URL Builder](https://ga-dev-tools.web.app/campaign-url-builder/) - This tool allows you to easily add campaign parameters to URLs so you can measure Custom Campaigns in Google Analytics.
         - [URL Builder for GA](https://raventools.com/marketing-reports/google-analytics/url-builder/) - With the Google Analytics URL Builder, you can easily tag URLs with custom campaign variables and then use an automated reporting tool to keep track of progress and share with clients.
-     - [Matomo](https://matomo.org/) <code>F</code> <code>S</code> -  A powerful web analytics platform that gives you 100% data ownership.
+     - [Matomo](https://matomo.org/) -  A powerful web analytics platform that gives you 100% data ownership. <code>F</code> <code>S</code>
  
  - __Analytics Tools__
      - [Combinations & Permutations Generator](https://numbergenerator.org/permutations-and-combinations) - Great for when you need to come up with all possibilities within a defined alphanumeric sequence.
@@ -125,7 +125,7 @@ Desktop software or SaaS that render information in a visual format for data ana
 ### Publishing Platforms
 - [Medium](https://medium.com/) - An open platform where readers find dynamic thinking, and where expert and undiscovered voices can share their writing on any topic.
 - [Substack](https://substack.com/) - Start a publication that combines a personal website, blog, and email newsletter or podcast. It's fairly minimal in nature, so you don't have to be tech savvy.
-- [Wordpress.com](https://wordpress.com) <code>F</code> <code>S</code> - Create a free website or build a blog with ease on WordPress.com. Dozens of free, customizable, mobile-ready designs and themes. Free hosting and support.
+- [Wordpress.com](https://wordpress.com) - Create a free website or build a blog with ease on WordPress.com. Dozens of free, customizable, mobile-ready designs and themes. Free hosting and support. <code>F</code> <code>S</code>
 
 ### Writing Guides
 - [Copywriting: The Definitive Guide (2022)](https://backlinko.com/copywriting-guide)
@@ -154,8 +154,8 @@ Desktop software or SaaS that render information in a visual format for data ana
 ## Documentation
 
 ### Documentation Platforms
-- [Confluence](https://www.atlassian.com/software/confluence) <code>F</code> <code>S</code> - A remote-friendly team workspace where knowledge and collaboration meet.
-- [Gitbook](https://www.gitbook.com/) <code>F</code> <code>S</code> - Makes it easy to research, plan and document products, from start to ship.
+- [Confluence](https://www.atlassian.com/software/confluence) - A remote-friendly team workspace where knowledge and collaboration meet. <code>F</code> <code>S</code>
+- [Gitbook](https://www.gitbook.com/) - Makes it easy to research, plan and document products, from start to ship. <code>F</code> <code>S</code>
 
 
 ## Email
@@ -170,7 +170,7 @@ Desktop software or SaaS that render information in a visual format for data ana
 ## Graphic Design
 - [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) - A powerful image editing software that allows users to manipulate and enhance digital images through a variety of tools and features.
 - [Canva](https://www.canva.com/) - A graphic design platform that allows users to create professional-looking designs easily and quickly, without needing any design experience. It offers a wide range of templates, graphics, and fonts to choose from, making it a great tool for creating social media posts, flyers, presentations, and more.
-- [Convertio Image Converter](https://convertio.co/image-converter/) <code>F</code> - Convert to and from a number of image formats, including those annoying .JFIF and .WEBP formats that certain social networks love to use.
+- [Convertio Image Converter](https://convertio.co/image-converter/) - Convert to and from a number of image formats, including those annoying .JFIF and .WEBP formats that certain social networks love to use.  <code>F</code>
 - [GIMP](https://www.gimp.org/) - Whether you are a graphic designer, photographer, illustrator, or scientist, GIMP provides you with sophisticated tools to get your job done. You can further enhance your productivity with GIMP thanks to many customization options and 3rd party plugins. <code>F</code>
 
 ## Market Intelligence
