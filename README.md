@@ -56,7 +56,7 @@ Created & maintained by <strong>Paul Bradish</strong> <code><a href="https://www
 - [Tag Management](#tag-management)
 - [URL Management](#url-management)
 - [Video Sharing](#video-sharing)
-- [Web Design & UI](#web-design--ui)
+- [Web Design](#web-design)
 
 <br>
 <br>
@@ -367,22 +367,39 @@ _See Digital Experience Platforms._
 ### Multivariate Testing
 _See Digital Experience Platforms._
 
-## Web Design & UI
-### Fonts & Icons
-- [Font Awesome](https://fontawesome.com/) - One of the internet's primary icon library and toolkits, used by millions of designers, developers, and content creators.
-- [Google Fonts](https://fonts.google.com/) - A robust catalog of open-source fonts and icons, making it easy to integrate expressive type and icons seamlessly into your design.
-   - [12 Best Google Fonts for Websites](https://www.elegantthemes.com/blog/design/best-google-fonts) - Includes best practices.
-- [Google Material Symbols](https://fonts.google.com/icons) -  Icon collection consolidating over 2,500 glyphs in a single font file with a wide range of design variants.
-### Mockups & Wireframes
-- [Figma](https://www.figma.com/) - A design platform for teams who build products together. Born on the Web, Figma helps the entire product team create, test, and ship better designs, faster. Very collaborative and likely the most well-known SaaS in it's category. 
-- [Octopus.do](https://octopus.do/) - A visual sitemap builder and website planner with lo-fi wireframes.
-### Site Templates
-- [HTML5up](https://html5up.net/) - Responsive HTML5 and CSS3 site templates designed by [@ajlkn](https://twitter.com/ajlkn).
-### Web Components
-- [Shoelace](https://shoelace.style/) - A forward-thinking library of web components.
-- [Wired Elements](https://wiredjs.com/) - A series of basic UI Elements that have a hand drawn look. These can be used for wireframes, mockups, or just the fun hand-drawn look.
-### Website Tools
-- [Favicon.io](https://favicon.io/) - Quickly generate your favicon from text, image, or choose from hundreds of emojis.
+## Web Design
+Good __web design__ is important because it helps visitors to a website find the information they need quickly and easily, and it can also improve a website's performance by making it easier for search engines to index and rank the site. Overall, web design is a critical component of creating a successful and effective online presence.
+
+- __Components & Frameworks__ -
+Using components and frameworks can help web designers and developers save time and improve the quality of their work. They can also make it easier to maintain and update a website over time. Additionally, because these pre-built components and frameworks have been tested and optimized by many developers, they can help to ensure that the website is fast, responsive, and easy to use.
+    - [Bootstrap](https://getbootstrap.com/) - A powerful, extensible, and feature-packed frontend toolkit. Build and customize with Sass, utilize prebuilt grid system and components, and bring projects to life.
+    - [Favicon.io](https://favicon.io/) - Quickly generate your favicon from text, image, or choose from hundreds of emojis.
+    - [Figma](https://www.figma.com/) - A design platform for teams who build products together. Born on the Web, Figma helps the entire product team create, test, and ship better designs, faster. Very collaborative and likely the most well-known SaaS in it's category. 
+    - [Font Awesome](https://fontawesome.com/) - One of the internet's primary icon library and toolkits, used by millions of designers, developers, and content creators.
+    - [Google Fonts](https://fonts.google.com/) - A robust catalog of open-source fonts and icons, making it easy to integrate expressive type and icons seamlessly into your design.
+       - [12 Best Google Fonts for Websites](https://www.elegantthemes.com/blog/design/best-google-fonts) - Includes best practices.
+    - [Google Material Symbols](https://fonts.google.com/icons) -  Icon collection consolidating over 2,500 glyphs in a single font file with a wide range of design variants.
+    - [HTML5up](https://html5up.net/) - Responsive HTML5 and CSS3 site templates designed by [@ajlkn](https://twitter.com/ajlkn).
+    - [Octopus.do](https://octopus.do/) - A visual sitemap builder and website planner with lo-fi wireframes.
+    - [Shoelace](https://shoelace.style/) - A forward-thinking library of web components.
+    - [W3.CSS](https://www.w3schools.com/w3css/default.asp) - A quality alternative to Bootstrap. W3.CSS claims to be smaller, faster and easier to use.
+    - [Wired Elements](https://wiredjs.com/) - A series of basic UI Elements that have a hand drawn look. These can be used for wireframes, mockups, or just the fun hand-drawn look.
+
+- __Markup Languages__ -
+Computer languages that consists of keywords, names, or tags that help format the overall view of a page and the data it contains. Typical examples of markup languages you will encounter are HTML and XML.
+    - CSS
+      - [Easing Gradients](https://larsenwork.com/easing-gradients/) - Supercharge your gradients with non-linear color mix and custom color spaces.
+      - [Fancy Border Radius](https://9elements.github.io/fancy-border-radius/) - A visualized border radius generator which utilizes eight values specifying border radius in CSS to build organic looking shapes. 
+      - [Smooth Shadows](https://shadows.brumm.af/) - A smooth shadow CSS generator.
+      - [The CSS Handbook: A Handy Guide to CSS for Developers](https://www.freecodecamp.org/news/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11/) 
+    - HTML
+      - [HTML For Beginners The Easy Way: Start Learning HTML & CSS Today](https://html.com/)
+      - [Structuring the web with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
+      - [The Ultimate Guide to HTML for Beginners: How to Write, Learn & Use It](https://blog.hubspot.com/website/html)
+      - [W3Schools HTML Tutorial](https://www.w3schools.com/html/)
+    - XML
+       - [XML Tutorial for Beginners](https://www.guru99.com/xml-tutorials.html)
+
 ## Development & UX
 
 ### Code Editors
@@ -408,24 +425,7 @@ _See Digital Experience Platforms._
   - [NameCheap](https://www.namecheap.com/) - An ICANN-accredited domain name registrar providing domain name registration and web hosting based in Phoenix, Arizona, US. Very reliable and inexpensive registration and shared hosting.
 - Domain Name Valuation
   - [Estibot](https://www.estibot.com/) - Free domain appraisal and domain investment tools.
-### Markup Languages
-Computer languages that consists of keywords, names, or tags that help format the overall view of a page and the data it contains. Typical examples of markup languages you will encounter are HTML and XML.
-### CSS Guides
-- [How to Hide a div in Mobile but Show it on Desktop Or Vice Versa](https://xedricity.com/how-to-hide-a-div-in-mobile-but-show-it-on-desktop-or-vice-versa/)
-- [Learn CSS: The Complete Guide](https://webdesign.tutsplus.com/series/learn-css-the-complete-guide--cms-1065)
-- [The CSS Handbook: A Handy Guide to CSS for Developers](https://www.freecodecamp.org/news/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11/) 
-### CSS Tools
-- [Cubic-Bezier Curves Generator](https://cubic-bezier.com/#.17,.67,.83,.67) - A wonderful little tool for cubic-bezier() easing.
-- [Easing Gradients](https://larsenwork.com/easing-gradients/) - Supercharge your gradients with non-linear color mix and custom color spaces.
-- [Fancy Border Radius](https://9elements.github.io/fancy-border-radius/) - A visualized border radius generator which utilizes eight values specifying border radius in CSS to build organic looking shapes. 
-- [Smooth Shadows](https://shadows.brumm.af/) - A smooth shadow CSS generator.
-### HTML
-- [HTML For Beginners The Easy Way: Start Learning HTML & CSS Today](https://html.com/)
-- [Structuring the web with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
-- [The Ultimate Guide to HTML for Beginners: How to Write, Learn & Use It](https://blog.hubspot.com/website/html)
-- [W3Schools HTML Tutorial](https://www.w3schools.com/html/)
-### XML
-- [XML Tutorial for Beginners](https://www.guru99.com/xml-tutorials.html)
+
   
 ## Programming Languages
 __Programming languages__ that are commonly used in front-end web design and back-end web development.
