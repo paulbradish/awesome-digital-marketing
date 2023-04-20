@@ -6,12 +6,6 @@ Created & maintained by <strong>Paul Bradish</strong> <code><a href="https://www
 
 <br>
 
-<strong>Sponsored by <a href="https://semrush.sjv.io/github-adml">Semrush</a></strong>
-
-<a href="https://semrush.sjv.io/c/2892891/1438257/13053" target="_top" id="1438257"><img src="https://a.impactradius-go.com/display-ad/13053-1438257" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/2892891/1438257/13053" style="position:absolute;visibility:hidden;" border="0" />
-
-<br>
-
 <strong>Legend</strong>
 | Icon | Description |
 | :------------ | :------------- |
@@ -440,9 +434,11 @@ __Programming languages__ that are commonly used in front-end web design and bac
     - [Three.js](https://threejs.org/) - A popular 3d JavaScript library.
     - [Vanta.js](https://www.vantajs.com/) - Animated website backgrounds in a few lines of code. _It's a little bit more complicated than that, but very neat!_
        - [Vanta.js + HTML5up Template](https://paulbradish.github.io/html5up-vantajs/) - Demo of a vanta.js + html5/css3 + three.js template I configured to help users get off the ground quickly.
-- Python
-- Ruby
-- TypeScript
+ - Python
+ - Ruby
+ - SQL
+   - [Lost at SQL](https://lost-at-sql.therobinlord.com/) -  A SQL learning game designed to help you pick up basic SQL skills so that you can use queries to get information. 
+ - TypeScript
 
 ### Version Control
 - [Bitbucket](https://bitbucket.org/product) - Git-based code and CI/CD tool optimized for teams using Jira.
