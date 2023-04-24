@@ -341,6 +341,9 @@ Also known as __Paid Search__, SEM is a commonly used method to quickly increase
 
 ## Social Networks
 __Social Networks__ geared towards the digital marketer. I'm leaving a number of them off as there are communities everywhere (even on Facebook), in favor of those that are more consistent.
+- [Bluesky Social](https://blueskyweb.xyz/) - A federated community running on the AT protocol offering you algorithmic choice of the soft of content you see. In private beta now (It's awesome!) and I recommend joining the waitlist.
+   - [AT Protocol](https://atproto.com/) - A networking technology created by Bluesky to power the next generation of social applications.
+   - [PC/Web Version](https://staging.bsky.app/) - A working version of the app that you can use from your web browser on PC.
 - [Dev.to](https://dev.to/) - A constructive and inclusive social network for software developers. With you every step of your journey.
    - [How to make the most of DEV if you're over Twitter](https://dev.to/devteam/how-to-make-the-most-of-dev-if-youre-over-twitter-4567) 
 - [LinkedIn](https://www.linkedin.com/) - Manage your professional identity. Build and engage with your professional network. Access knowledge, insights and opportunities.
