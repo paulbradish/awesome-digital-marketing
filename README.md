@@ -109,6 +109,7 @@ Desktop software or SaaS that render information in a visual format for data ana
    - [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt) - A curated list (like this one) of awesome tools, demos, docs for ChatGPT and GPT-3.
    - [ChartGPT](https://www.chartgpt.dev/) - Chart-GPT - text to beautiful charts within seconds 
 - [Copy.ai](https://www.copy.ai/) - AI-powered copywriter that generates high-quality copy for your business. This tool is great for generating ideas and/or breaking through inevitable writer blocks.
+- [Google Bard](https://bard.google.com/) - Your creative and helpful collaborator, here to supercharge your imagination, boost your productivity, and bring your ideas to life.
 - [GPTE](https://gpte.ai/) - Search 1,500+ AI tools. Discover the latest AI news, prompts, tools, and trends. 
 - [Jasper](https://www.jasper.ai/) - AI Content Platform that helps you and your team break through creative blocks to create amazing, original content 10X faster.
 - [Jounce](https://www.jounce.ai/) - The self proclaimed answer to the overwhelming gap between marketers and copywriters, providing the most advanced AI writing technology to marketers around the globe.
