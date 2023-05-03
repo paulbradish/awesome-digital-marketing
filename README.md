@@ -115,15 +115,17 @@ __Artificial Intelligence__ enables digital marketers to work smarter, faster, a
 - [Google Bard](https://bard.google.com/) - Your creative and helpful collaborator, here to supercharge your imagination, boost your productivity, and bring your ideas to life.
 - [Jasper](https://www.jasper.ai/) - AI Content Platform that helps you and your team break through creative blocks to create amazing, original content 10X faster.
 - [Jounce](https://www.jounce.ai/) - The self proclaimed answer to the overwhelming gap between marketers and copywriters, providing the most advanced AI writing technology to marketers around the globe.
-- [Prompt Engineering Guide](https://www.promptingguide.ai) - Guides, papers, lecture, notebooks and resources for prompt engineering.
 - [PromptPerfect](https://promptperfect.jina.ai/) - A cutting-edge tool designed to streamline prompt engineering by automatically optimizing your prompts for ChatGPT, GPT-3.5, DALL-E 2, StableDiffusion and MidJourney.
 - [SuperReply](https://superreply.co/) - Improve your productivity and free up time with AI-powered email replies.
 - [Wordtune](https://www.wordtune.com/) - Say exactly what you mean through clear, compelling and authentic writing.
 
 ### AI Articles & Guides
+- [Learn Prompting](https://learnprompting.org/) - Learn how to use ChatGPT and other AI tools to accomplish your goals using our free and open source curriculum, designed for all skill levels!
 - [Prompt Engineering Daily](https://www.neatprompts.com/) - Sharing how to leverage AI prompts and tools to become a marketing and productivity machine at work. They have a fantastic newsletter.
+- [Prompt Engineering Guide](https://www.promptingguide.ai) - Guides, papers, lecture, notebooks and resources for prompt engineering.
 
 ### AI Resources & Websites
+- [ai podcast](https://blogs.nvidia.com/ai-podcast/) - Explore the impact of AI on our world, one amazing person at a time.
 - [GPTE](https://gpte.ai/) - Search 1,500+ AI tools. Discover the latest AI news, prompts, tools, and trends.
 - [Towards AI](https://towardsai.net/) - Focuses on sharing high-quality publications, news, articles, and stories on AI and technology related topics.
 
