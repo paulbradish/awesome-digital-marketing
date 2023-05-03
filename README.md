@@ -105,18 +105,27 @@ Desktop software or SaaS that render information in a visual format for data ana
      - [WordCloud Generator](https://monkeylearn.com/word-cloud) - Display words and phrases based on frequency and relevance. Word clouds provide you with quick and simple visual insights that can lead to more in-depth analyses.
 
 ## Artificial Intelligence (AI)
+__Artificial Intelligence__ enables digital marketers to work smarter, faster, and more effectively (within reason). If you don’t have an AI stack, you’re being left behind.
+
+### AI Tools
 - [ChatGPT](https://chat.openai.com/) - Where do I begin? Open AI's Chat GPT has soooo many uses in marketing, but the primary use case is for generating powerful call-to-actions, hooks, and content ideas.
    - [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt) - A curated list (like this one) of awesome tools, demos, docs for ChatGPT and GPT-3.
    - [ChartGPT](https://www.chartgpt.dev/) - Chart-GPT - text to beautiful charts within seconds 
 - [Copy.ai](https://www.copy.ai/) - AI-powered copywriter that generates high-quality copy for your business. This tool is great for generating ideas and/or breaking through inevitable writer blocks.
 - [Google Bard](https://bard.google.com/) - Your creative and helpful collaborator, here to supercharge your imagination, boost your productivity, and bring your ideas to life.
-- [GPTE](https://gpte.ai/) - Search 1,500+ AI tools. Discover the latest AI news, prompts, tools, and trends. 
 - [Jasper](https://www.jasper.ai/) - AI Content Platform that helps you and your team break through creative blocks to create amazing, original content 10X faster.
 - [Jounce](https://www.jounce.ai/) - The self proclaimed answer to the overwhelming gap between marketers and copywriters, providing the most advanced AI writing technology to marketers around the globe.
 - [Prompt Engineering Guide](https://www.promptingguide.ai) - Guides, papers, lecture, notebooks and resources for prompt engineering.
 - [PromptPerfect](https://promptperfect.jina.ai/) - A cutting-edge tool designed to streamline prompt engineering by automatically optimizing your prompts for ChatGPT, GPT-3.5, DALL-E 2, StableDiffusion and MidJourney.
 - [SuperReply](https://superreply.co/) - Improve your productivity and free up time with AI-powered email replies.
 - [Wordtune](https://www.wordtune.com/) - Say exactly what you mean through clear, compelling and authentic writing.
+
+### AI Articles & Guides
+- [Prompt Engineering Daily](https://www.neatprompts.com/) - Sharing how to leverage AI prompts and tools to become a marketing and productivity machine at work. They have a fantastic newsletter.
+
+### AI Resources & Websites
+- [GPTE](https://gpte.ai/) - Search 1,500+ AI tools. Discover the latest AI news, prompts, tools, and trends.
+- [Towards AI](https://towardsai.net/) - Focuses on sharing high-quality publications, news, articles, and stories on AI and technology related topics.
 
 ## Business Intelligence
 - [Crunchbase](https://www.crunchbase.com/) - One of the more acurate prospecting services I've found. Great for intel and market research.
