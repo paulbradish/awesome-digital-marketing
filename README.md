@@ -21,7 +21,7 @@ Created & maintained by <strong>Paul Bradish</strong> <code><a href="https://www
 - [Account Based Marketing (ABM)](#account-based-marketing-abm)
 - [Analytics](#analytics)
 - [Artificial Intelligence (AI)](#artificial-intelligence-ai)
-- [Business Intelligence](#business-intelligence)
+- [Competitive Intelligence](#competitive-intelligence)
 - [Content Research](#content-research)
 - [Development & UX](#development--ux) 
 - [Digital Experience Platforms (DXP)](#digital-experience-platforms-dxp)
@@ -110,7 +110,8 @@ __Artificial Intelligence__ enables digital marketers to work smarter, faster, a
 ### AI Tools
 - [ChatGPT](https://chat.openai.com/) - Where do I begin? Open AI's Chat GPT has soooo many uses in marketing, but the primary use case is for generating powerful call-to-actions, hooks, and content ideas.
    - [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt) - A curated list (like this one) of awesome tools, demos, docs for ChatGPT and GPT-3.
-   - [ChartGPT](https://www.chartgpt.dev/) - Chart-GPT - text to beautiful charts within seconds 
+   - [ChartGPT](https://www.chartgpt.dev/) - Text to beautiful charts within seconds 
+   - [ChatAI](https://chatai.com/) - An app developed to make Chat GPT more accessible and mobile-friendly.
 - [Copy.ai](https://www.copy.ai/) - AI-powered copywriter that generates high-quality copy for your business. This tool is great for generating ideas and/or breaking through inevitable writer blocks.
 - [Google Bard](https://bard.google.com/) - Your creative and helpful collaborator, here to supercharge your imagination, boost your productivity, and bring your ideas to life.
 - [Jasper](https://www.jasper.ai/) - AI Content Platform that helps you and your team break through creative blocks to create amazing, original content 10X faster.
@@ -129,7 +130,7 @@ __Artificial Intelligence__ enables digital marketers to work smarter, faster, a
 - [GPTE](https://gpte.ai/) - Search 1,500+ AI tools. Discover the latest AI news, prompts, tools, and trends.
 - [Towards AI](https://towardsai.net/) - Focuses on sharing high-quality publications, news, articles, and stories on AI and technology related topics.
 
-## Business Intelligence
+## Competitive Intelligence
 - [Crunchbase](https://www.crunchbase.com/) - One of the more acurate prospecting services I've found. Great for intel and market research.
 - [Similarweb](https://www.similarweb.com/) - All in one Website analytics competitive traffic intelligence platform. Often used to compare website traffic and performance, analyze strategies & market share acquisition.
 
