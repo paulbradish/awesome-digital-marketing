@@ -131,8 +131,14 @@ __Artificial Intelligence__ enables digital marketers to work smarter, faster, a
 - [Towards AI](https://towardsai.net/) - Focuses on sharing high-quality publications, news, articles, and stories on AI and technology related topics.
 
 ## Competitive Intelligence
+__Competitive Intelligence__ is all about learning about what your competitors are doing and using that information to help you make good decisions for your own business.
+### Competitive Intelligence Tools
 - [Crunchbase](https://www.crunchbase.com/) - One of the more acurate prospecting services I've found. Great for intel and market research.
+- [Klue](https://klue.com/) - A platform that automates the collection of competitive and market intelligence, streamlines your analysis, and makes it easier to distribute insights and messaging to every team in your organization.
 - [Similarweb](https://www.similarweb.com/) - All in one Website analytics competitive traffic intelligence platform. Often used to compare website traffic and performance, analyze strategies & market share acquisition.
+
+### Competitive Intelligence Resources
+- [10 Essential Examples of Competitive Intelligence](https://www.crayon.co/blog/top-10-types-competitive-intelligence)
 
 ## Content Research
 - [Also Asked](https://alsoasked.com/) - A great tool for getting to grips with the breadth of topical research. It unearths troves of data, in an effective and easy to use way.
