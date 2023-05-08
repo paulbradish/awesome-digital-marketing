@@ -193,6 +193,31 @@ __Artificial Intelligence__ enables digital marketers to work smarter, faster, a
 - [The Marketing Millennials](https://workweek.com/discover-newsletters/marketing-millennials/) - Zero BS. Just fun, unfiltered, industry insights with the game-changers behind some of the coolest companies from around the globe.
 - [TLDR](https://tldr.tech/) - TLDR is a daily newsletter with links and TLDRs of the most interesting stories in startups 🚀, tech 📱, and programming 💻!
 
+## Paid Search
+Also known as __Paid Search__, SEM is a commonly used method to quickly increase the visibility of a website in search engine results pages (SERPs) by paying for ad placement on specific keywords and search phrases.
+
+### Paid Search Platforms
+- Bing Ads
+- Google Ads
+  
+### Paid Search Software (SaaS)
+- [MarinOne](https://www.marinsoftware.com/solutions/paid-search) - Identify growth opportunities and maximize revenue across Google, Microsoft, Apple Search Ads, and more. Leverage audience, revenue, and contextual data from any source to drive campaign performance and growth.
+
+## Paid Social
+__Paid Social__ advertising allows businesses to reach a larger audience than they might be able to through organic social media marketing alone. It also offers more advanced targeting options, allowing businesses to reach specific demographics or target users based on their interests, behaviors, or location.
+
+### Paid Social Platforms
+- [Facebook Ads](https://www.facebook.com/business/ads) - Reach out to future customers and fans.
+- [Instagram Ads](https://business.instagram.com/advertising) - Advertise your business and reach your next customers with precise targeting and actionable insights.
+- [LinkedIn Ads](https://business.linkedin.com/ads) - Reach over 850 million professionals on the world's largest professional network.
+- [Reddit for Business](https://www.redditforbusiness.com/) - Find your people where they find community.
+- [Snapchat Ads](https://forbusiness.snapchat.com/) - A worldwide community that is deeply engaged, putting you in a perfect position to help you meet your business goals.
+- [TikTok Ads](https://getstarted.tiktok.com/tt4b) - Get your business discovered on TikTok.
+- [Twitter Ads](https://business.twitter.com/en.html) - Connect with the people at the center of what's happening.
+
+### Paid Social Resources
+- [2023 Social Media Image Sizes for All Networks [CHEATSHEET]](https://blog.hootsuite.com/social-media-image-sizes-guide/) - The most recent image size specifications for different social media networks, including Instagram, Twitter, Facebook, LinkedIn, and more.
+
 ## Social Listening
 - [Google Alerts](https://www.google.com/alerts) - Monitor the web for interesting new content.
 - [SparkToro](https://sparktoro.com/) - Crawls public profiles on social media so you can quickly learn where your audience is and how to reach them.
@@ -340,18 +365,6 @@ __URL shorteners__, also known as a link shorteners, are services designed to tu
 - [Ubersuggest](https://neilpatel.com/ubersuggest/) - Allows you to get insight into the strategies that are working for others in your market so you can adopt them, improve them, and gain an edge.
 
 
-## Paid Search
-Also known as __Paid Search__, SEM is a commonly used method to quickly increase the visibility of a website in search engine results pages (SERPs) by paying for ad placement on specific keywords and search phrases.
-
-### Paid Search Platforms
-- Bing Ads
-- Google Ads
-  
-### Paid Search Software (SaaS)
-- [MarinOne](https://www.marinsoftware.com/solutions/paid-search) - Identify growth opportunities and maximize revenue across Google, Microsoft, Apple Search Ads, and more. Leverage audience, revenue, and contextual data from any source to drive campaign performance and growth.
-
-## Paid Social
-- [2023 Social Media Image Sizes for All Networks [CHEATSHEET]](https://blog.hootsuite.com/social-media-image-sizes-guide/) - The most recent image size specifications for different social media networks, including Instagram, Twitter, Facebook, LinkedIn, and more.
 
 ## Social Media Management
 - [Buffer](https://buffer.com/) - An intuitive and affordable social media management tool for SMBs which offers scheduling, planning, publishing and more.
