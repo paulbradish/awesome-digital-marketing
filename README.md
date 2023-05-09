@@ -298,25 +298,38 @@ __URL shorteners__, also known as a link shorteners, are services designed to tu
 - [Wrike](https://www.wrike.com/vr/) - All-in-one platform to manage projects, organize work, enhance collaboration and accelerate execution across all departments.
 
 ## Search Engines
+A __Search Engine__ works by crawling and indexing a vast amount of content found online. As visitors query for information, the search engine uses algorithms to rank the results by relevance and popularity, and then display them in a list with a brief description for each result. Additional features may include news searches, image and video searches, and maps. SERPs are ever evolving and have become significantly more complex over time.
+
+### Bing
 - [Bing](https://www.bing.com/) - Owned by Microsoft. Previously known as: MSN Search, Windows Live Search and later Live Search. 
    - [Bing Webmaster Tools](https://www.bing.com/webmasters/about) - Easy to plug-in API solution that websites can call to notify Bing on content updated, allowing instant crawling, indexing and discovery of your site content. 
+
+### DuckDuckGo
 - [DuckDuckGo](https://duckduckgo.com/) - If privacy is your thing, you'll be right at home here.
    - [Available Bangs!](https://duckduckgo.com/bang) - Shortcuts that quickly take you to search results on other sites. _example: use !w in DuckDuckGo to search Wikipedia._
-- [Google](https://google.com) - Search the world's information, including webpages, images, videos and more.
-   - Documentation
-     - [Google Search Cheet Sheet & Quick Reference](https://quickref.me/google-search.html) - This quick reference cheat sheet lists of Google advanced search operators.
-     - [Google Search Operators Cheet Sheet (PDF)](https://static.semrush.com/blog/uploads/files/39/12/39121580a18160d3587274faed6323e2.pdf) - Handy list of search operators in pdf format.
-   - Resources
-     - [Core Web Vitals workflows with Google tools](https://web.dev/vitals-tools/) - The finer points of how to combine Google tools to audit, improve and monitor your website effectively.
-     - [Refreshed guidelines for site owners](https://developers.google.com/search/blog/2022/10/search-essentials) - The Google Search Essentials make up the core parts of what makes your web-based content (web pages, images, videos, or other publicly-available material that Google finds on the web) eligible to appear and perform well on Google Search. _If I taught a class on SEO, this would be day #1 reading material._
-   - Tools 
-     - [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) - An open-source, automated tool for improving the quality of web pages. You can run it against any web page, public or requiring authentication. It has audits for performance, accessibility, progressive web apps, SEO and more.
-     - [PageSpeed Insights](https://pagespeed.web.dev/) - Make your web pages fast on all devices.
-     - [Search Console](https://search.google.com/search-console/about) - Search Console tools and reports help you measure your site's Search traffic and performance, fix issues, and make your site shine in Google Search results.
-        - [Core Web Vitals Chrome Extension](https://chrome.google.com/webstore/detail/web-vitals/ahfhijdlegdabablpippeagghigmibma) - Because why make it harder on yourself?
+
+### Google
+- [Google](https://google.com) - Search the world's information, including webpages, images, videos and more.     
+     
+#### Google Resources
+- [Core Web Vitals workflows with Google tools](https://web.dev/vitals-tools/) - The finer points of how to combine Google tools to audit, improve and monitor your website effectively.
+- [Google Search Cheet Sheet & Quick Reference](https://quickref.me/google-search.html) - This quick reference cheat sheet lists of Google advanced search operators.
+- [Google Search Operators Cheet Sheet (PDF)](https://static.semrush.com/blog/uploads/files/39/12/39121580a18160d3587274faed6323e2.pdf) - Handy list of search operators in pdf format.
+- [Refreshed guidelines for site owners](https://developers.google.com/search/blog/2022/10/search-essentials) - The Google Search Essentials make up the core parts of what makes your web-based content (web pages, images, videos, or other publicly-available material that Google finds on the web) eligible to appear and perform well on Google Search. _If I taught a class on SEO, this would be day #1 reading material._
+- [Ultimate Google Algorithm Cheat Sheet](https://neilpatel.com/blog/the-ultimate-google-algorithm-cheat-sheet/) - With Google’s algorithm evolving all the time, it’s hard to plan your SEO strategy effectively. Here are some tips to help you hack the Google algorithm.
+
+#### Google Tools 
+- [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) - An open-source, automated tool for improving the quality of web pages. You can run it against any web page, public or requiring authentication. It has audits for performance, accessibility, progressive web apps, SEO and more.
+- [PageSpeed Insights](https://pagespeed.web.dev/) - Make your web pages fast on all devices.
+- [Search Console](https://search.google.com/search-console/about) - Search Console tools and reports help you measure your site's Search traffic and performance, fix issues, and make your site shine in Google Search results.
+   - [Core Web Vitals Chrome Extension](https://chrome.google.com/webstore/detail/web-vitals/ahfhijdlegdabablpippeagghigmibma) - Because why make it harder on yourself?
+
+### International Search Engines
 - [Baidu](https://www.baidu.com/) - Chinese search engine.
 - [Yandex](https://yandex.com/) - Russian search engine.
    - [Ranking Factors](https://www.dropbox.com/s/toyehkkfduogbwk/factors_gen.txt?dl=0) - A list of numerous ranking factors discovered in the source code leak. It is suggested that since Yandex was designed by ex-Googlers, there may be as high as a 70% match between the two search algorithms.
+### Specialty Search Engines
+- [Wolfram Alpha](https://www.wolframalpha.com/) - Computational search engine. 
 
 ## Keyword Research
 - Keyword Tools
