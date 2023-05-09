@@ -23,7 +23,6 @@ Created & maintained by <strong>Paul Bradish</strong> <code><a href="https://www
 - [Artificial Intelligence (AI)](#artificial-intelligence-ai)
 - [Competitive Intelligence](#competitive-intelligence)
 - [Content Research](#content-research)
-- [Development & UX](#development--ux) 
 - [Digital Experience Platforms (DXP)](#digital-experience-platforms-dxp)
 - [Documentation](#documentation)
 - [Ecommerce](#ecommerce)
@@ -39,18 +38,21 @@ Created & maintained by <strong>Paul Bradish</strong> <code><a href="https://www
 - [Programming Languages](#programming-languages)
 - [Project Management](#project-management)
 - [Publishing Platforms](#publishing-platforms)
-- [Search Engine Optimization](#search-engine-optimization-seo) 
 - [Search Engines](#search-engines) 
+- [Search Engine Optimization](#search-engine-optimization-seo) 
 - [Skills Training](#skills-training)
 - [Social Listening](#social-listening)
-- [Social Media Management](#social-media-management)
+- [Social Media](#social-media)
 - [Social Networks](#social-networks)
 - [Spreadsheets](#spreadsheets)
 - [Stock Media](#stock-media)
 - [Tag Management](#tag-management)
 - [URL Management](#url-management)
+- [Version Control](#version-control)
 - [Video Sharing](#video-sharing)
 - [Web Design](#web-design)
+- [Web Development](#web-development)
+- [Web Performance](#web-performance)
 
 <br>
 <br>
@@ -87,11 +89,11 @@ Analytics is the process of examining and interpreting large sets of data in ord
      - [Combinations & Permutations Generator](https://numbergenerator.org/permutations-and-combinations) - Great for when you need to come up with all possibilities within a defined alphanumeric sequence.
      - [Percentage Change Calculator](https://www.calculatorsoup.com/calculators/algebra/percent-change-calculator.php) - This is a % change calculator. It will quantify the change from one number to another and express the change as an increase or decrease. Sounds simple but very easy to mess up when doing these quick calculations manually.
      
- - __Visualization__
+ - __Data Visualization__
      - [Choosing the Right Tools for Data Visualization](https://medium.com/nightingale/choosing-the-right-tools-for-data-visualization-4bab40f53cdc)
      - [Little Known Ways to Make your Data Visualization Awesome](https://towardsdatascience.com/little-known-ways-to-make-your-data-visualization-awesome-890d71b6e365)
 
- - __Visualization Tools__ - 
+ - __Data Visualization Tools__ - 
 Desktop software or SaaS that render information in a visual format for data analysis purposes. Such tools make it far easier to understand and work with large data sets. 
      - [Data Color Picker](https://www.learnui.design/tools/data-color-picker.html) - A color pallete generator for data visualization purposes. _I really enjoy this tool!_
      - [Datawrapper](https://www.datawrapper.de/) - Enrich your stories with charts, maps, and tables.
@@ -129,6 +131,9 @@ __Artificial Intelligence__ enables digital marketers to work smarter, faster, a
 - [ai podcast](https://blogs.nvidia.com/ai-podcast/) - Explore the impact of AI on our world, one amazing person at a time.
 - [GPTE](https://gpte.ai/) - Search 1,500+ AI tools. Discover the latest AI news, prompts, tools, and trends.
 - [Towards AI](https://towardsai.net/) - Focuses on sharing high-quality publications, news, articles, and stories on AI and technology related topics.
+
+## Chat Bots
+- [Live Chat](https://www.livechat.com/) - An online customer service software with online chat, help desk software, and web analytics capabilities.
 
 ## Competitive Intelligence
 __Competitive Intelligence__ is all about learning about what your competitors are doing and using that information to help you make good decisions for your own business.
@@ -177,6 +182,9 @@ __Competitive Intelligence__ is all about learning about what your competitors a
 - [Confluence](https://www.atlassian.com/software/confluence) - A remote-friendly team workspace where knowledge and collaboration meet. <code>F</code> <code>S</code>
 - [Gitbook](https://www.gitbook.com/) - Makes it easy to research, plan and document products, from start to ship. <code>F</code> <code>S</code>
 
+## Ecommerce
+- [100+ Ecommerce Tools, Tips and Tactics](https://tripledouble.notion.site/cb18cf07e53e455e90ce256a9bbcc733?v=60cade2d360e4ee08195565e26fb0e04) - A great list of ecommerce tactics hosted on Notion.
+
 ## Email Marketing
 
 ### Email Marketing Services
@@ -198,6 +206,25 @@ __Competitive Intelligence__ is all about learning about what your competitors a
 - [The Curious Connector](https://www.linkedin.com/newsletters/the-curious-connector-6953813241747714048/) - A monthly newsletter from Solutions Engineer, Tom Hart. Often discusses AI and has introduced me to tools such as Microsoft PowerToys leading to increased workday efficiency.
 - [The Marketing Millennials](https://workweek.com/discover-newsletters/marketing-millennials/) - Zero BS. Just fun, unfiltered, industry insights with the game-changers behind some of the coolest companies from around the globe.
 - [TLDR](https://tldr.tech/) - TLDR is a daily newsletter with links and TLDRs of the most interesting stories in startups 🚀, tech 📱, and programming 💻!
+
+## Keyword Research
+- Keyword Tools
+    - [Extract Text From Image](https://www.editpad.org/tool/extract-text-from-image) - This image to Text Converter uses algorithms to extract text from images, and is a huge timesaver when you find interesting text within an image and would like to check the search volume or copy for later.
+    - [Google Ads Keyword Planner](https://ads.google.com/home/tools/keyword-planner/) - You can use this free tool to discover new keywords related to your business and see estimates of the searches they receive and the cost to target them.  
+    - [SearchVolume.io](https://searchvolume.io/) - Get monthly search volume data free. See search volumes for up to 800 keywords at a time.
+
+## Lead Generation (Inbound Marketing)
+- [Eloqua Marketing Automation](https://www.oracle.com/cx/marketing/automation/) - Create more closed-loop marketing and sales activities and manage cross-channel B2B marketing campaigns that nurture leads across each stage of the buying process. A best-in-class B2B marketing automation solution, Oracle Eloqua Marketing Automation offers campaign design, advanced lead scoring, real-time firmographic data, and integrated sales tools.
+- [HubSpot](https://www.hubspot.com/) - A leading CRM platform with a number of inbound marketing tools.
+   - [Lead Generation: A Beginner's Guide to Generating Business Leads the Inbound Way](https://blog.hubspot.com/marketing/beginner-inbound-lead-generation-guide-ht)
+- [LeadPages](https://www.leadpages.com/) - A digital lead generation software platform that enables entrepreneurs and marketers to easily publish web sites and landing pages, so they can turn clicks into customers.
+- [Unbounce](https://unbounce.com/) - AI-powered landing page builder with smart features that let you create beautiful, high-performing marketing campaigns in just a few minutes.
+
+## Marketing Automation
+- [If This Then That (IFTTT)](https://ifttt.com/) - Connect, integrate, and automate. Founded on the belief that every thing tech works better together, IF configured correctly you can automate some otherwise boring marketing and automation tasks.
+   - [Getting Started Collection](https://ifttt.com/explore/getting-started-collection) - Some of the most popular Applets to help you get started.
+   - [Google Sheets Applets](https://ifttt.com/google_sheets) - Popular Google Sheets workflows & automations.
+   - [YouTube Applets](https://ifttt.com/youtube) - Popular YouTube workflows & automations.
 
 ## Paid Search
 Also known as __Paid Search__, SEM is a commonly used method to quickly increase the visibility of a website in search engine results pages (SERPs) by paying for ad placement on specific keywords and search phrases.
@@ -224,72 +251,9 @@ __Paid Social__ advertising allows businesses to reach a larger audience than th
 ### Paid Social Resources
 - [2023 Social Media Image Sizes for All Networks [CHEATSHEET]](https://blog.hootsuite.com/social-media-image-sizes-guide/) - The most recent image size specifications for different social media networks, including Instagram, Twitter, Facebook, LinkedIn, and more.
 
-## Social Listening
-- [Google Alerts](https://www.google.com/alerts) - Monitor the web for interesting new content.
-- [SparkToro](https://sparktoro.com/) - Crawls public profiles on social media so you can quickly learn where your audience is and how to reach them.
-
-## Spreadsheets
-- [Google Sheets](https://www.google.com/sheets/about/) - Create and edit online spreadsheets. Get insights together with secure sharing in real-time and from any device.
-   - [40 Essential Google Sheets Tips and Tricks](https://www.lido.app/post/40-essential-google-sheets-tips-tricks-2022-edition) - In this google sheets tips and tricks 2022 edition, find 40 tips and tricks to quickly master Google Sheets.
-   - [Google Sheets cheat sheet](https://support.google.com/a/users/answer/9300022?hl=en) - Common tips and syntax definition. On the right navigation you'll find a number of links to additional beginner to advanced tips.
-- [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/excel) - Enables users to format, organize and calculate data in a spreadsheet.
-   - [Analyze Data in Excel](https://support.microsoft.com/en-us/office/analyze-data-in-excel-3223aab8-f543-4fda-85ed-76bb0295ffc4?ui=en-us&rs=en-us&ad=us) - Analyze Data in Excel empowers you to understand your data through natural language queries that allow you to ask questions about your data without having to write complicated formulas. In addition, Analyze Data provides high-level visual summaries, trends, and patterns.
- 
-## Tag Management
-- [Adobe Experience Platform Launch](https://business.adobe.com/products/experience-platform/launch.html) - A next-generation tag management system that unifies your marketing ecosystem. It breaks down silos and bottlenecks by connecting disparate technologies so you can deliver standout digital experiences.
-- [Google Tag Manager](https://tagmanager.google.com/) - Allows you to quickly and easily update measurement codes and related code fragments collectively known as tags on your website or mobile app.
-- [Tealium](https://tealium.com/) - Tealium iQ enables you to manage tags across all digital touch points, including web sites, mobile apps and online videos all from the same intuitive user interface.
-
-## Technology Stack Intelligence
-- [BuiltWith](https://builtwith.com/) - A website profiler, lead generation, competitive analysis and business intelligence tool providing technology adoption, ecommerce data and usage analytics for the internet.
-- [W3Techs](https://w3techs.com/) - Provider of information about the usage of various types of technologies on the web.
-- [Wappalyzer](https://www.wappalyzer.com/) - Find out the technology stack of any website. Create lists of websites that use certain technologies, with company and contact details. Use our tools for lead generation, market analysis and competitor research.
-
-## URL Management
-
-### Link in Bio
-- [About.me](https://about.me/) - Create a page to present who you are and what you do in one link. Professional. Take control and centralize your online presence.
-- [Bio.link](https://bio.link/) - The one link for all your links.
-- [Direct.me](https://direct.me/) - A completely free bio link tool used by creators and influencers.
-- [Linktree](https://linktr.ee/) - Link to everything you create, share and sell online. All from the one bio link.
-- [Solo.to](https://solo.to/) - Share and cross promote your links, music, videos, social media, and more on one page.
-### QR Codes
-__QR (Quick Response) Codes__ are two-dimensional code originally intended for the automotive industry. While the tech lay dormant for a number of years, due to solid error correction and the rise of mobile phones the use cases spiked and QR codes are now frequently utilized across numerous industries, including marketing.
-- [Adobe QR Code Generator](https://express.adobe.com/tools/qr-code-generator/) - Make a QR code for free that you can use in your branding, marketing, and more to easily direct customers to your website.
-- [QR Code Generator](https://www.qr-code-generator.com/) - A QR code generator powered by Bitly. It contains all of the features you would expect.
-- [QR Code Monkey](https://www.qrcode-monkey.com/) - Create custom QR Codes with Logo, Color and Design for free. This QR Code Maker offers free vector formats for better print quality.
-### URL Shorteners
-__URL shorteners__, also known as a link shorteners, are services designed to turn long and complicated URLs into shorter, easier to type and more memorable URLs. These services are not to be underestimated and can have a dramatic impact on your marketing efforts- especially when branded and/or customized. (ex. example.to/short versus www.example.com/articles/howto/how-to-shorten-a-url/)
-- [Bitly](https://bitly.com/) - Build links that are more readable, trustworthy and likely to be clicked.
-- [TinyURL](https://tinyurl.com/) - The original URL shortener that shortens your unwieldly links into more manageable and useable URLs. 
-
-
-## Lead Generation (Inbound Marketing)
-- [Eloqua Marketing Automation](https://www.oracle.com/cx/marketing/automation/) - Create more closed-loop marketing and sales activities and manage cross-channel B2B marketing campaigns that nurture leads across each stage of the buying process. A best-in-class B2B marketing automation solution, Oracle Eloqua Marketing Automation offers campaign design, advanced lead scoring, real-time firmographic data, and integrated sales tools.
-- [HubSpot](https://www.hubspot.com/) - A leading CRM platform with a number of inbound marketing tools.
-   - [Lead Generation: A Beginner's Guide to Generating Business Leads the Inbound Way](https://blog.hubspot.com/marketing/beginner-inbound-lead-generation-guide-ht)
-- [LeadPages](https://www.leadpages.com/) - A digital lead generation software platform that enables entrepreneurs and marketers to easily publish web sites and landing pages, so they can turn clicks into customers.
-- [Unbounce](https://unbounce.com/) - AI-powered landing page builder with smart features that let you create beautiful, high-performing marketing campaigns in just a few minutes.
-
 ## Press Releases
 - [Cision PRWeb](https://service.prweb.com/) - Reach the right audiences and gain more media visibility with Cision PR Newswire, the industry's largest, most trusted press release distribution network. 
 - [Newswire](https://www.newswire.com/) - Delivers press release distribution and press release campaigns by leveraging earned media outreach, SEO traffic and email marketing through campaign automation to help businesses land impactful media coverage, drive website traffic, generate leads and grow brand awareness.
-
-
-## Stock Media
-- [Creative Market](https://creativemarket.com/) - Accelerate your projects with millions of ready-to-use products.
-   - [4 Free Weekly Assets](https://creativemarket.com/free-goods) - CM rarely disapoints on their freebies. I find myself usually downloading these the morning they drop.
-- [Envato Elements](https://elements.envato.com/) - Cheap subscription service with 11 million+ creative assets.
-   - [Monthly Free Files](https://elements.envato.com/free-files) - Get 12 hand-selected files, including fonts, presentations, videos and more.
-- [Pexels](https://www.pexels.com/) - Free stock photos, royalty free images & videos shared by creators.
-- [Unsplash](https://unsplash.com/) - The internet's source for visuals. Powered by creators everywhere.
-
-### Video Sharing
-- [YouTube](https://www.youtube.com/) - Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world.
-   - [TubeBuddy](https://www.tubebuddy.com/) - Helps you find high-performing, searchable video topics, and then craft the perfect titles and tags. 
-   - [YouTube Player Demo/Generator](https://developers.google.com/youtube/youtube_player_demo) - This page demonstrates the YouTube Player API's functions and generates embed code based on your specifications.
-- [Vimeo](https://vimeo.com/) - An all-in-one video platform turns your ideas into action. Make, manage, and share videos and virtual events that move your audience.
-- [Wistia](https://wistia.com/) - Highly brandable and embeddable video platform for business.
 
 ## Project Management
 - [Asana](https://asana.com/) - Helps you manage projects, focus on what's important, and organize work in one place for seamless collaboration.
@@ -329,13 +293,12 @@ A __Search Engine__ works by crawling and indexing a vast amount of content foun
 - [Yandex](https://yandex.com/) - Russian search engine.
    - [Ranking Factors](https://www.dropbox.com/s/toyehkkfduogbwk/factors_gen.txt?dl=0) - A list of numerous ranking factors discovered in the source code leak. It is suggested that since Yandex was designed by ex-Googlers, there may be as high as a 70% match between the two search algorithms.
 ### Specialty Search Engines
-- [Wolfram Alpha](https://www.wolframalpha.com/) - Computational search engine. 
+- [Wolfram Alpha](https://www.wolframalpha.com/) - Computational search engine.
 
-## Keyword Research
-- Keyword Tools
-    - [Extract Text From Image](https://www.editpad.org/tool/extract-text-from-image) - This image to Text Converter uses algorithms to extract text from images, and is a huge timesaver when you find interesting text within an image and would like to check the search volume or copy for later.
-    - [Google Ads Keyword Planner](https://ads.google.com/home/tools/keyword-planner/) - You can use this free tool to discover new keywords related to your business and see estimates of the searches they receive and the cost to target them.  
-    - [SearchVolume.io](https://searchvolume.io/) - Get monthly search volume data free. See search volumes for up to 800 keywords at a time.
+### Search Engines Glossary
+- __Crawler__ -  A bot or program that automatically scans web pages with the purpose of collecting information.
+- __Index__ - The process of organizing information collected by crawlers to create a searchable index used by search engines to display relevant results.
+- __SERP__ - Search engine results page.
 
 ## Search Engine Optimization (SEO)
 
@@ -383,13 +346,28 @@ A __Search Engine__ works by crawling and indexing a vast amount of content foun
 - [SpyFu](https://www.spyfu.com/seo/overview) - Study competitors to help craft your plan by seeing what types of pages link to them. Also great for finding similar sites to keep on your radar and avoid any organic SERP flaws exposed by Google core updates to competition.
 - [Ubersuggest](https://neilpatel.com/ubersuggest/) - Allows you to get insight into the strategies that are working for others in your market so you can adopt them, improve them, and gain an edge.
 
+## Skills Training
+The digital marketing landscape changes quickly which is why it's important to consistently focus on __Skills Training__ so you don't get left behind.
 
+### Online Courses
+- [Class Central](https://www.classcentral.com/) - Find the best courses, wherever they exist. An aggregator of sorts.
+- [Coursera](https://www.coursera.org/) - Learn in-demand skills like SEO, SEM, email, content marketing, product promotion and more. Build in-demand marketing skills & get job-ready for entry-level roles in 6 months or less. 🧂
+- [HubSpot Academy](https://academy.hubspot.com/) - The worldwide leader in inbound marketing, sales, and customer service/support training.
+- [Skillshare](https://www.skillshare.com/) - Skillshare is an online learning platform with thousands of creative courses and classes taught by experts to help you learn new skills.
+- [Skillshop (Google)](https://skillshop.exceedlms.com/student/catalog) - The one-stop-shop for every kind of learner who wants to succeed with Google professional tools and solutions. _This is where official Google certifications are issued._
+- [Udemy](https://www.udemy.com/) - A leading destination for online courses that empowers you to grow professionally and personally.
 
-## Social Media Management
+## Social Media
+
+### Social Listening
+- [Google Alerts](https://www.google.com/alerts) - Monitor the web for interesting new content.
+- [SparkToro](https://sparktoro.com/) - Crawls public profiles on social media so you can quickly learn where your audience is and how to reach them.
+
+### Social Management
 - [Buffer](https://buffer.com/) - An intuitive and affordable social media management tool for SMBs which offers scheduling, planning, publishing and more.
 - [Hootsuite](https://www.hootsuite.com/) - Save time and grow on social with Hootsuite, your all-in-one social media scheduler, manager, and analytics secret weapon.
 
-## Social Networks
+### Social Networks
 __Social Networks__ geared towards the digital marketer. I'm leaving a number of them off as there are communities everywhere (even on Facebook), in favor of those that are more consistent.
 - [Bluesky Social](https://blueskyweb.xyz/) - A federated community running on the AT protocol offering you algorithmic choice of the soft of content you see. In private beta now (It's awesome!) and I recommend joining the waitlist.
    - [AT Protocol](https://atproto.com/) - A networking technology created by Bluesky to power the next generation of social applications.
@@ -406,13 +384,64 @@ __Social Networks__ geared towards the digital marketer. I'm leaving a number of
 - [Stack Overflow](https://stackoverflow.com/) - The largest, most trusted online community for developers. This can be a great resource for technical digital marketing and SEO questions. I know that I've ended up here more than a few times.
 - [Twitter](https://twitter.com/) - The (un)official digital marketing community hangout.
 
-## Testing
+## Spreadsheets
+- [Google Sheets](https://www.google.com/sheets/about/) - Create and edit online spreadsheets. Get insights together with secure sharing in real-time and from any device.
+   - [40 Essential Google Sheets Tips and Tricks](https://www.lido.app/post/40-essential-google-sheets-tips-tricks-2022-edition) - In this google sheets tips and tricks 2022 edition, find 40 tips and tricks to quickly master Google Sheets.
+   - [Google Sheets cheat sheet](https://support.google.com/a/users/answer/9300022?hl=en) - Common tips and syntax definition. On the right navigation you'll find a number of links to additional beginner to advanced tips.
+- [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/excel) - Enables users to format, organize and calculate data in a spreadsheet.
+   - [Analyze Data in Excel](https://support.microsoft.com/en-us/office/analyze-data-in-excel-3223aab8-f543-4fda-85ed-76bb0295ffc4?ui=en-us&rs=en-us&ad=us) - Analyze Data in Excel empowers you to understand your data through natural language queries that allow you to ask questions about your data without having to write complicated formulas. In addition, Analyze Data provides high-level visual summaries, trends, and patterns.
 
-### A/B Testing
-_See Digital Experience Platforms._
+## Stock Media
+- [Creative Market](https://creativemarket.com/) - Accelerate your projects with millions of ready-to-use products.
+   - [4 Free Weekly Assets](https://creativemarket.com/free-goods) - CM rarely disapoints on their freebies. I find myself usually downloading these the morning they drop.
+- [Envato Elements](https://elements.envato.com/) - Cheap subscription service with 11 million+ creative assets.
+   - [Monthly Free Files](https://elements.envato.com/free-files) - Get 12 hand-selected files, including fonts, presentations, videos and more.
+- [Pexels](https://www.pexels.com/) - Free stock photos, royalty free images & videos shared by creators.
+- [Unsplash](https://unsplash.com/) - The internet's source for visuals. Powered by creators everywhere.
 
-### Multivariate Testing
-_See Digital Experience Platforms._
+## Tag Management
+- [Adobe Experience Platform Launch](https://business.adobe.com/products/experience-platform/launch.html) - A next-generation tag management system that unifies your marketing ecosystem. It breaks down silos and bottlenecks by connecting disparate technologies so you can deliver standout digital experiences.
+- [Google Tag Manager](https://tagmanager.google.com/) - Allows you to quickly and easily update measurement codes and related code fragments collectively known as tags on your website or mobile app.
+- [Tealium](https://tealium.com/) - Tealium iQ enables you to manage tags across all digital touch points, including web sites, mobile apps and online videos all from the same intuitive user interface.
+
+## Technology Stack Intelligence
+- [BuiltWith](https://builtwith.com/) - A website profiler, lead generation, competitive analysis and business intelligence tool providing technology adoption, ecommerce data and usage analytics for the internet.
+- [W3Techs](https://w3techs.com/) - Provider of information about the usage of various types of technologies on the web.
+- [Wappalyzer](https://www.wappalyzer.com/) - Find out the technology stack of any website. Create lists of websites that use certain technologies, with company and contact details. Use our tools for lead generation, market analysis and competitor research.
+
+## URL Management
+
+### Link in Bio
+- [About.me](https://about.me/) - Create a page to present who you are and what you do in one link. Professional. Take control and centralize your online presence.
+- [Bio.link](https://bio.link/) - The one link for all your links.
+- [Direct.me](https://direct.me/) - A completely free bio link tool used by creators and influencers.
+- [Linktree](https://linktr.ee/) - Link to everything you create, share and sell online. All from the one bio link.
+- [Solo.to](https://solo.to/) - Share and cross promote your links, music, videos, social media, and more on one page.
+
+### QR Codes
+__QR (Quick Response) Codes__ are two-dimensional code originally intended for the automotive industry. While the tech lay dormant for a number of years, due to solid error correction and the rise of mobile phones the use cases spiked and QR codes are now frequently utilized across numerous industries, including marketing.
+- [Adobe QR Code Generator](https://express.adobe.com/tools/qr-code-generator/) - Make a QR code for free that you can use in your branding, marketing, and more to easily direct customers to your website.
+- [QR Code Generator](https://www.qr-code-generator.com/) - A QR code generator powered by Bitly. It contains all of the features you would expect.
+- [QR Code Monkey](https://www.qrcode-monkey.com/) - Create custom QR Codes with Logo, Color and Design for free. This QR Code Maker offers free vector formats for better print quality.
+
+### URL Shorteners
+__URL shorteners__, also known as a link shorteners, are services designed to turn long and complicated URLs into shorter, easier to type and more memorable URLs. These services are not to be underestimated and can have a dramatic impact on your marketing efforts- especially when branded and/or customized. (ex. example.to/short versus www.example.com/articles/howto/how-to-shorten-a-url/)
+- [Bitly](https://bitly.com/) - Build links that are more readable, trustworthy and likely to be clicked.
+- [TinyURL](https://tinyurl.com/) - The original URL shortener that shortens your unwieldly links into more manageable and useable URLs. 
+
+## Version Control
+- [Bitbucket](https://bitbucket.org/product) - Git-based code and CI/CD tool optimized for teams using Jira.
+- [Git](https://git-scm.com/) - A free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+- [GitHub](https://github.com/) - A code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. ___You Are Here. :)___
+   - [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - A collection of cool hidden and not so hidden features of Git and GitHub.
+   - [GitHub Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet.
+
+## Video Sharing
+- [YouTube](https://www.youtube.com/) - Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world.
+   - [TubeBuddy](https://www.tubebuddy.com/) - Helps you find high-performing, searchable video topics, and then craft the perfect titles and tags. 
+   - [YouTube Player Demo/Generator](https://developers.google.com/youtube/youtube_player_demo) - This page demonstrates the YouTube Player API's functions and generates embed code based on your specifications.
+- [Vimeo](https://vimeo.com/) - An all-in-one video platform turns your ideas into action. Make, manage, and share videos and virtual events that move your audience.
+- [Wistia](https://wistia.com/) - Highly brandable and embeddable video platform for business.
 
 ## Web Design
 Good __web design__ is important because it helps visitors to a website find the information they need quickly and easily, and it can also improve a website's performance by making it easier for search engines to index and rank the site. Overall, web design is a critical component of creating a successful and effective online presence.
@@ -447,7 +476,7 @@ Computer languages that consists of keywords, names, or tags that help format th
     - XML
        - [XML Tutorial for Beginners](https://www.guru99.com/xml-tutorials.html)
 
-## Development & UX
+## Web Development
 
 ### Code Editors
 - [Atom](https://atom.io/) - A hackable text editor for the 21st Century.
@@ -472,9 +501,8 @@ Computer languages that consists of keywords, names, or tags that help format th
   - [NameCheap](https://www.namecheap.com/) - An ICANN-accredited domain name registrar providing domain name registration and web hosting based in Phoenix, Arizona, US. Very reliable and inexpensive registration and shared hosting.
 - Domain Name Valuation
   - [Estibot](https://www.estibot.com/) - Free domain appraisal and domain investment tools.
-
   
-## Programming Languages
+### Programming Languages
 __Programming languages__ that are commonly used in front-end web design and back-end web development.
 - JavaScript
   - Angular
@@ -493,46 +521,17 @@ __Programming languages__ that are commonly used in front-end web design and bac
    - [Lost at SQL](https://lost-at-sql.therobinlord.com/) -  A SQL learning game designed to help you pick up basic SQL skills so that you can use queries to get information. 
  - TypeScript
 
-### Version Control
-- [Bitbucket](https://bitbucket.org/product) - Git-based code and CI/CD tool optimized for teams using Jira.
-- [Git](https://git-scm.com/) - A free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
-- [GitHub](https://github.com/) - A code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. ___You Are Here. :)___
-   - [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - A collection of cool hidden and not so hidden features of Git and GitHub.
-   - [GitHub Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet.
-
-### Web Performance
+## Web Performance
 - [Cloudflare](https://www.cloudflare.com/) - A global network designed to make everything you connect to the Internet secure, private, fast, and reliable. _Great to improve the performance and security of your website._
 - [Google Developers](https://developers.google.com/speed) - Tools and information to help you build high-performance websites.
 - [Prerender](https://prerender.io/) - Get higher rankings by serving crawlers a static HTML version of your JavaScript website, without compromising your customers' experience.
 
-## Related
 
 
 
-## Marketing Automation
-- [If This Then That (IFTTT)](https://ifttt.com/) - Connect, integrate, and automate. Founded on the belief that every thing tech works better together, IF configured correctly you can automate some otherwise boring marketing and automation tasks.
-   - [Getting Started Collection](https://ifttt.com/explore/getting-started-collection) - Some of the most popular Applets to help you get started.
-   - [Google Sheets Applets](https://ifttt.com/google_sheets) - Popular Google Sheets workflows & automations.
-   - [YouTube Applets](https://ifttt.com/youtube) - Popular YouTube workflows & automations.
-
-## Chat Bots & Live Chat
-- [Live Chat](https://www.livechat.com/) - An online customer service software with online chat, help desk software, and web analytics capabilities.
-
-## Ecommerce
-- [100+ Ecommerce Tools, Tips and Tactics](https://tripledouble.notion.site/cb18cf07e53e455e90ce256a9bbcc733?v=60cade2d360e4ee08195565e26fb0e04) - A great list of ecommerce tactics hosted on Notion.
 
 
 
-## Skills Training
-The digital marketing landscape changes quickly which is why it's important to consistently focus on __Skills Training__ so you don't get left behind.
-
-### Online Courses
-- [Class Central](https://www.classcentral.com/) - Find the best courses, wherever they exist. An aggregator of sorts.
-- [Coursera](https://www.coursera.org/) - Learn in-demand skills like SEO, SEM, email, content marketing, product promotion and more. Build in-demand marketing skills & get job-ready for entry-level roles in 6 months or less. 🧂
-- [HubSpot Academy](https://academy.hubspot.com/) - The worldwide leader in inbound marketing, sales, and customer service/support training.
-- [Skillshare](https://www.skillshare.com/) - Skillshare is an online learning platform with thousands of creative courses and classes taught by experts to help you learn new skills.
-- [Skillshop (Google)](https://skillshop.exceedlms.com/student/catalog) - The one-stop-shop for every kind of learner who wants to succeed with Google professional tools and solutions. _This is where official Google certifications are issued._
-- [Udemy](https://www.udemy.com/) - A leading destination for online courses that empowers you to grow professionally and personally.
 
 
 
