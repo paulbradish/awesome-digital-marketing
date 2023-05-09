@@ -111,6 +111,7 @@ __Artificial Intelligence__ enables digital marketers to work smarter, faster, a
 
 ### AI Tools
 - [ChatGPT](https://chat.openai.com/) - Where do I begin? Open AI's Chat GPT has soooo many uses in marketing, but the primary use case is for generating powerful call-to-actions, hooks, and content ideas.
+   - [AIPRM](https://www.aiprm.com/) -  Chrome extension that adds an easy to use list of curated prompt templates for ChatGPT curated for you by a community of prompt engineering experts.
    - [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt) - A curated list (like this one) of awesome tools, demos, docs for ChatGPT and GPT-3.
    - [ChartGPT](https://www.chartgpt.dev/) - Text to beautiful charts within seconds 
    - [ChatAI](https://chatai.com/) - An app developed to make Chat GPT more accessible and mobile-friendly.
