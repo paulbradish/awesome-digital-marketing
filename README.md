@@ -3,12 +3,12 @@
 A curated list of awesome digital marketing guides, resources, services, & more. Enjoy!
 
 Created & maintained by <strong>Paul Bradish</strong> <code><a href="https://www.linkedin.com/in/paulbradish/">LinkedIn</a></code>.
+<br><br>
 
-Want to support?
-<br>
-<a href="https://www.buymeacoffee.com/paulbradish"><img src="/assets/bmc-button.png"></a>
-
-<br>
+<strong>Want to support?</strong>
+<br><br>
+<a href="https://www.buymeacoffee.com/paulbradish"><img src="/assets/IMG_6768.png" width="50%" height="50%"></a>
+<br><br>
 
 <strong>Legend</strong>
 | Icon | Description |
