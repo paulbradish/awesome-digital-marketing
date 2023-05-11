@@ -2,7 +2,11 @@
 
 A curated list of awesome digital marketing guides, resources, services, & more. Enjoy!
 
-Created & maintained by <strong>Paul Bradish</strong> <code><a href="https://www.linkedin.com/in/paulbradish/">LinkedIn</a></code> <code><a href="https://twitter.com/paul_bradish">Twitter</a></code>
+Created & maintained by <strong>Paul Bradish</strong> <code><a href="https://www.linkedin.com/in/paulbradish/">LinkedIn</a></code>.
+
+Want to support?
+<br>
+<a href="https://www.buymeacoffee.com/paulbradish"><img src="/assets/bmc-button.png"></a>
 
 <br>
 
