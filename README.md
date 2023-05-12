@@ -4,10 +4,7 @@ A curated list of awesome digital marketing guides, resources, services, & more.
 
 Created & maintained by <strong>Paul Bradish</strong> <code><a href="https://www.linkedin.com/in/paulbradish/">LinkedIn</a></code>.
 <br><br>
-
-<strong>Want to support?</strong>
-<br><br>
-<a href="https://www.buymeacoffee.com/paulbradish"><img src="/assets/IMG_6768.png" width="50%" height="50%"></a>
+<a href="https://www.buymeacoffee.com/paulbradish"><img src="/assets/IMG_6768.png" width="25%" height="25%" alt="Buy Me A Coffee"></a>
 <br><br>
 
 <strong>Legend</strong>
@@ -328,10 +325,6 @@ A __Search Engine__ works by crawling and indexing a vast amount of content foun
 
 ### SEO Software (Desktop)
 - [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) - A website crawler that helps you improve onsite SEO, by extracting data & auditing for common SEO issues.
-- [ScrapeBox](https://www.scrapebox.com/) - Described by many users as the Swiss Army Knife of SEO. Don't let the dated UI fool you, people are still finding innovative new uses for ScrapeBox to help with their SEO efforts.
-   - [Scrapebox Guides Tuts Loopline (YouTube)](https://www.youtube.com/user/looplinescrapebox) 
-   - [The Unofficial Scrapebox FAQ](https://scrapeboxfaq.com/)
-   - [Ultimate Guide to White Hat SEO using Scrapebox](https://www.onely.com/blog/guide-white-hat-seo-scrapebox/)
 - [Site Analyzer](https://site-analyzer.pro/) - Scan your websites and get detailed information about each page. This tool will help you identify and fix technical SEO errors and is an excellent free alternative to Screaming Frog.
 - [Xenu Link Sleuth](https://home.snafu.de/tilman/xenulink.html) - Old but good. Checks web sites for all types of broken links. It displays a continously updated list of URLs which you can sort by different criteria. A report can be produced at any time.
  
@@ -340,12 +333,10 @@ A __Search Engine__ works by crawling and indexing a vast amount of content foun
    - [Ahrefs Academy](https://ahrefs.com/academy) - The best tools and data are worth nothing if you don't know how to use them.
    - [Ahrefs: The Definitive Guide](https://backlinko.com/ahrefs-guide) - Everything you need to know about Ahrefs link building and SEO software suite. This guide includes a ton of real examples of Ahrefs in action.
    - [Ahrefs Webmaster Tools](https://ahrefs.com/webmaster-tools) - Improve your website's SEO performance and get more traffic from search. Free for website owners.
-- [BrightEdge](https://www.brightedge.com/) - A leading enterprise SEO solution and content performance marketing platform, helping customers (typically large corporations in my experience) generate more organic traffic.
-- [Majestic](https://majestic.com/) - Develop backlink strategies with their link intelligence data, build the strong SEO backlink campaigns to drive organic traffic and boost your rankings.
 - [Moz](https://moz.com/) - Best-in-class SEO software for nearly every situation, from all-in-one SEO platform to tools for local SEO, enterprise SERP analytics, and a powerful API.
    - [Moz Academy](https://academy.moz.com/) - Grow your SEO skills with courses on keyword research, backlink analysis, local SEO and more!
    - [DA PA Checker](https://www.dapachecker.org/) - A bulk domain authority checker which allows you to check the Moz domain authority and page authority of up to 20 URLs at once.
-- [Semrush](https://www.semrush.com/) - Do SEO, content marketing, competitor research, PPC and social media marketing from just one platform.
+- [Semrush](https://semrush.sjv.io/github-adml) - Do SEO, content marketing, competitor research, PPC and social media marketing from just one platform.
    - [Semrush Academy](https://www.semrush.com/academy/) - Comprised of more than 30 free courses and certification exams — in English, Spanish, and French — that help anyone master new digital marketing skills and enrich their CVs and LinkedIn profiles. 
    - [What is Semrush? A Complete Guide to Semrush Features, Metrics, and Reporting Dashboards](https://databox.com/what-is-semrush) - What's Semrush and which features work best for tracking and improving your search rankings? Here's everything you need to know.
 - [SpyFu](https://www.spyfu.com/seo/overview) - Study competitors to help craft your plan by seeing what types of pages link to them. Also great for finding similar sites to keep on your radar and avoid any organic SERP flaws exposed by Google core updates to competition.
