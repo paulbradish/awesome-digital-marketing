@@ -15,8 +15,9 @@ Created & maintained by <strong>Paul Bradish</strong> <code><a href="https://www
 | <code>S</code> | Subscription (SaaS) |
 
 <br>
-
-
+<i>Note: If you see a tool that's bolded, that means It's part of my current digital marketing stack.</i>
+<br>
+<br>
 
 ## Contents
 - [Account Based Marketing (ABM)](#account-based-marketing-abm)
@@ -72,7 +73,7 @@ Analytics is the process of examining and interpreting large sets of data in ord
   - __Analytics Dashboards__
       - [Agency Analytics](https://agencyanalytics.com/) - Monitor all of your client's marketing channels in one seamless dashboard. All fully branded for your agency. Give clients access to the interface or app as if you built the platform in-house.
       - [Dash This](https://dashthis.com/) - An automated marketing reporting tool created to help marketers save hours of manual work by integrating numerous APIs into one customized web analytics dashboard.
-      - [Databox](https://databox.com/) - Connect all of your data in one place, visualize performance trends, monitor progress toward your goals, make more informed decisions, collaborate and report as you go with custom views and deep-dives for each function in your organization. 
+      - __[Databox](https://databox.com/) - Connect all of your data in one place, visualize performance trends, monitor progress toward your goals, make more informed decisions, collaborate and report as you go with custom views and deep-dives for each function in your organization.__
       - [Geckoboard](https://www.geckoboard.com/) - No hassle professional KPI dashboards. Features over 80 integrations that you can build into a real-time dashboard.
       - [Klipfolio](https://www.klipfolio.com/) - From custom dashboards and reports to self-serve exploration and analysis, this SaaS helps you centralize data and gives you the power to make decisions with confidence.
  - __Analytics Resources__
@@ -81,7 +82,7 @@ Analytics is the process of examining and interpreting large sets of data in ord
      - [r/Analytics](https://www.reddit.com/r/analytics/) - Dedicated to web analytics, data and business analytics. A great subreddit to discuss analysis of data, learning of skills and implementation of web analytics.
  - __Analytics Services__
      - [Adobe Analytics](https://business.adobe.com/products/analytics/adobe-analytics.html) - Adobe Analytics lets you mix, match, and analyze data from any digital point in the customer journey. With in-depth analysis, versatile reporting, and predictive intelligence, you get the insightful foundation you need to build better customer experiences. <code>S</code>
-     - [Google Analytics](https://analytics.google.com) - A web analytics service offered by Google that tracks and reports website traffic, currently as a platform inside the Google Marketing Platform brand. Google launched the service in November 2005 after acquiring Urchin.  <code>F</code> <code>S</code>
+     - __[Google Analytics](https://analytics.google.com) - A web analytics service offered by Google that tracks and reports website traffic, currently as a platform inside the Google Marketing Platform brand. Google launched the service in November 2005 after acquiring Urchin.__  <code>F</code> <code>S</code>
         - [Campaign URL Builder](https://ga-dev-tools.web.app/campaign-url-builder/) - This tool allows you to easily add campaign parameters to URLs so you can measure Custom Campaigns in Google Analytics.
         - [URL Builder for GA](https://raventools.com/marketing-reports/google-analytics/url-builder/) - With the Google Analytics URL Builder, you can easily tag URLs with custom campaign variables and then use an automated reporting tool to keep track of progress and share with clients.
      - [Matomo](https://matomo.org/) -  A powerful web analytics platform that gives you 100% data ownership. <code>F</code> <code>S</code>
@@ -111,7 +112,7 @@ Desktop software or SaaS that render information in a visual format for data ana
 __Artificial Intelligence__ enables digital marketers to work smarter, faster, and more effectively (within reason). If you don’t have an AI stack, you’re being left behind.
 
 ### AI Tools
-- [ChatGPT](https://chat.openai.com/) - Where do I begin? Open AI's Chat GPT has soooo many uses in marketing, but the primary use case is for generating powerful call-to-actions, hooks, and content ideas.
+- __[ChatGPT](https://chat.openai.com/) - Where do I begin? Open AI's Chat GPT has soooo many uses in marketing, but the primary use case is for generating powerful call-to-actions, hooks, and content ideas.__
    - [AIPRM](https://www.aiprm.com/) -  Chrome extension that adds an easy to use list of curated prompt templates for ChatGPT curated for you by a community of prompt engineering experts.
    - [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt) - A curated list (like this one) of awesome tools, demos, docs for ChatGPT and GPT-3.
    - [ChartGPT](https://www.chartgpt.dev/) - Text to beautiful charts within seconds 
@@ -198,7 +199,7 @@ __Competitive Intelligence__ is all about learning about what your competitors a
 - [The Ultimate Guide to Email Marketing](https://blog.hubspot.com/marketing/email-marketing-guide) - Learn everything you need to know about email marketing; from creating a strategy and building a list to email regulations and tracking results.
 
 ## Graphic Design
-- [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) - A powerful image editing software that allows users to manipulate and enhance digital images through a variety of tools and features.
+- __[Adobe Photoshop](https://www.adobe.com/products/photoshop.html) - A powerful image editing software that allows users to manipulate and enhance digital images through a variety of tools and features.__
 - [Canva](https://www.canva.com/) - A graphic design platform that allows users to create professional-looking designs easily and quickly, without needing any design experience. It offers a wide range of templates, graphics, and fonts to choose from, making it a great tool for creating social media posts, flyers, presentations, and more.
 - [Convertio Image Converter](https://convertio.co/image-converter/) - Convert to and from a number of image formats, including those annoying .JFIF and .WEBP formats that certain social networks love to use.  <code>F</code>
 - [GIMP](https://www.gimp.org/) - Whether you are a graphic designer, photographer, illustrator, or scientist, GIMP provides you with sophisticated tools to get your job done. You can further enhance your productivity with GIMP thanks to many customization options and 3rd party plugins. <code>F</code>
@@ -217,7 +218,7 @@ __Competitive Intelligence__ is all about learning about what your competitors a
 
 ## Lead Generation (Inbound Marketing)
 - [Eloqua Marketing Automation](https://www.oracle.com/cx/marketing/automation/) - Create more closed-loop marketing and sales activities and manage cross-channel B2B marketing campaigns that nurture leads across each stage of the buying process. A best-in-class B2B marketing automation solution, Oracle Eloqua Marketing Automation offers campaign design, advanced lead scoring, real-time firmographic data, and integrated sales tools.
-- [HubSpot](https://www.hubspot.com/) - A leading CRM platform with a number of inbound marketing tools.
+- __[HubSpot](https://www.hubspot.com/) - A leading CRM platform with a number of inbound marketing tools.__
    - [Lead Generation: A Beginner's Guide to Generating Business Leads the Inbound Way](https://blog.hubspot.com/marketing/beginner-inbound-lead-generation-guide-ht)
 - [LeadPages](https://www.leadpages.com/) - A digital lead generation software platform that enables entrepreneurs and marketers to easily publish web sites and landing pages, so they can turn clicks into customers.
 - [Unbounce](https://unbounce.com/) - AI-powered landing page builder with smart features that let you create beautiful, high-performing marketing campaigns in just a few minutes.
@@ -261,6 +262,7 @@ __Paid Social__ advertising allows businesses to reach a larger audience than th
 - [Asana](https://asana.com/) - Helps you manage projects, focus on what's important, and organize work in one place for seamless collaboration.
 - [Jira](https://www.atlassian.com/software/jira) - Very task management and bug tracking tool used by agile teams.
 - [Monday](https://monday.com/) - Boost your team's alignment, efficiency, and productivity by customizing any workflow to fit your needs.
+- __[Notion](https://www.notion.so/) - A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team.__
 - [Wrike](https://www.wrike.com/vr/) - All-in-one platform to manage projects, organize work, enhance collaboration and accelerate execution across all departments.
 
 ## Search Engines
@@ -336,7 +338,7 @@ A __Search Engine__ works by crawling and indexing a vast amount of content foun
 - [Moz](https://moz.com/) - Best-in-class SEO software for nearly every situation, from all-in-one SEO platform to tools for local SEO, enterprise SERP analytics, and a powerful API.
    - [Moz Academy](https://academy.moz.com/) - Grow your SEO skills with courses on keyword research, backlink analysis, local SEO and more!
    - [DA PA Checker](https://www.dapachecker.org/) - A bulk domain authority checker which allows you to check the Moz domain authority and page authority of up to 20 URLs at once.
-- [Semrush](https://semrush.sjv.io/github-adml) - Do SEO, content marketing, competitor research, PPC and social media marketing from just one platform.
+- __[Semrush](https://semrush.sjv.io/github-adml) - Do SEO, content marketing, competitor research, PPC and social media marketing from just one platform.__
    - [Semrush Academy](https://www.semrush.com/academy/) - Comprised of more than 30 free courses and certification exams — in English, Spanish, and French — that help anyone master new digital marketing skills and enrich their CVs and LinkedIn profiles. 
    - [What is Semrush? A Complete Guide to Semrush Features, Metrics, and Reporting Dashboards](https://databox.com/what-is-semrush) - What's Semrush and which features work best for tracking and improving your search rankings? Here's everything you need to know.
 - [SpyFu](https://www.spyfu.com/seo/overview) - Study competitors to help craft your plan by seeing what types of pages link to them. Also great for finding similar sites to keep on your radar and avoid any organic SERP flaws exposed by Google core updates to competition.
@@ -397,7 +399,7 @@ __Social Networks__ geared towards the digital marketer. I'm leaving a number of
 
 ## Tag Management
 - [Adobe Experience Platform Launch](https://business.adobe.com/products/experience-platform/launch.html) - A next-generation tag management system that unifies your marketing ecosystem. It breaks down silos and bottlenecks by connecting disparate technologies so you can deliver standout digital experiences.
-- [Google Tag Manager](https://tagmanager.google.com/) - Allows you to quickly and easily update measurement codes and related code fragments collectively known as tags on your website or mobile app.
+- __[Google Tag Manager](https://tagmanager.google.com/) - Allows you to quickly and easily update measurement codes and related code fragments collectively known as tags on your website or mobile app.__
 - [Tealium](https://tealium.com/) - Tealium iQ enables you to manage tags across all digital touch points, including web sites, mobile apps and online videos all from the same intuitive user interface.
 
 ## Technology Stack Intelligence
@@ -478,7 +480,7 @@ Computer languages that consists of keywords, names, or tags that help format th
 - [Atom](https://atom.io/) - A hackable text editor for the 21st Century.
 - [Notepad++](https://notepad-plus-plus.org/) - A free (as in “free speech” and also as in “free beer”) source code editor and Notepad replacement that supports several languages.
 - [Sublime Text](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose. You'll love the slick user interface, extraordinary features and amazing performance.
-- [Visual Studio Code](https://code.visualstudio.com/) - A code editor redefined and optimized for building and debugging modern web and cloud applications.
+- __[Visual Studio Code](https://code.visualstudio.com/) - A code editor redefined and optimized for building and debugging modern web and cloud applications.__
 
 ### Content Management Systems
 - [Wordpress](https://wordpress.org/) - Create a place for your business, your interests, or anything else—with the open source platform that powers the web.
