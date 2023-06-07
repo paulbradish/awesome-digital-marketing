@@ -15,7 +15,7 @@ Created & maintained by <strong>Paul Bradish</strong> <code><a href="https://www
 | <code>S</code> | Subscription (SaaS) |
 
 <br>
-<i>Note: If you see a tool that's bolded, that means It's part of my current digital marketing stack.</i>
+<i>Note: If you see a tool that's bolded in the list below, that means It's part of my current digital marketing stack.</i>
 <br>
 <br>
 
@@ -174,7 +174,6 @@ __Competitive Intelligence__ is all about learning about what your competitors a
 ## Digital Experience Platforms (DXP)
 
 ### Testing Platforms
-- [Google Optimize](https://optimize.google.com/) - Offers A/B testing, website testing & personalization tools for small businesses to help deliver engaging customer experiences. Formerly known as Google Website Optimizer.
 - [Optimizely](https://www.optimizely.com/) - Provides A/B testing and multivariate testing tools, website personalization, and feature toggle capabilities, as well as web content management and digital commerce.
 ### Testing Tools
 - [AB testing calculator](https://www.surveymonkey.com/mp/ab-testing-significance-calculator/) - Calculate statistical significance. In the context of AB testing experiments, statistical significance is how likely it is that the difference between your experiment's control version and test version isn't due to error or random chance. This is important to keep in mind any time you are measuring or testing.
@@ -200,7 +199,7 @@ __Competitive Intelligence__ is all about learning about what your competitors a
 
 ## Graphic Design
 - __[Adobe Photoshop](https://www.adobe.com/products/photoshop.html) - A powerful image editing software that allows users to manipulate and enhance digital images through a variety of tools and features.__
-- [Canva](https://www.canva.com/) - A graphic design platform that allows users to create professional-looking designs easily and quickly, without needing any design experience. It offers a wide range of templates, graphics, and fonts to choose from, making it a great tool for creating social media posts, flyers, presentations, and more.
+- __[Canva](https://www.canva.com/) - A graphic design platform that allows users to create professional-looking designs easily and quickly, without needing any design experience. It offers a wide range of templates, graphics, and fonts to choose from, making it a great tool for creating social media posts, flyers, presentations, and more.__
 - [Convertio Image Converter](https://convertio.co/image-converter/) - Convert to and from a number of image formats, including those annoying .JFIF and .WEBP formats that certain social networks love to use.  <code>F</code>
 - [GIMP](https://www.gimp.org/) - Whether you are a graphic designer, photographer, illustrator, or scientist, GIMP provides you with sophisticated tools to get your job done. You can further enhance your productivity with GIMP thanks to many customization options and 3rd party plugins. <code>F</code>
 
@@ -259,11 +258,11 @@ __Paid Social__ advertising allows businesses to reach a larger audience than th
 - [Newswire](https://www.newswire.com/) - Delivers press release distribution and press release campaigns by leveraging earned media outreach, SEO traffic and email marketing through campaign automation to help businesses land impactful media coverage, drive website traffic, generate leads and grow brand awareness.
 
 ## Project Management
-- [Asana](https://asana.com/) - Helps you manage projects, focus on what's important, and organize work in one place for seamless collaboration.
+- __[Asana](https://asana.com/) - Helps you manage projects, focus on what's important, and organize work in one place for seamless collaboration.__
 - [Jira](https://www.atlassian.com/software/jira) - Very task management and bug tracking tool used by agile teams.
 - [Monday](https://monday.com/) - Boost your team's alignment, efficiency, and productivity by customizing any workflow to fit your needs.
-- __[Notion](https://www.notion.so/) - A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team.__
-- [Wrike](https://www.wrike.com/vr/) - All-in-one platform to manage projects, organize work, enhance collaboration and accelerate execution across all departments.
+- [Notion](https://www.notion.so/) - A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team.
+- __[Wrike](https://www.wrike.com/vr/) - All-in-one platform to manage projects, organize work, enhance collaboration and accelerate execution across all departments.__
 
 ## Search Engines
 A __Search Engine__ works by crawling and indexing a vast amount of content found online. As visitors query for information, the search engine uses algorithms to rank the results by relevance and popularity, and then display them in a list with a brief description for each result. Additional features may include news searches, image and video searches, and maps. SERPs are ever evolving and have become significantly more complex over time.
@@ -364,10 +363,11 @@ The digital marketing landscape changes quickly which is why it's important to c
 ### Social Management
 - [Buffer](https://buffer.com/) - An intuitive and affordable social media management tool for SMBs which offers scheduling, planning, publishing and more.
 - [Hootsuite](https://www.hootsuite.com/) - Save time and grow on social with Hootsuite, your all-in-one social media scheduler, manager, and analytics secret weapon.
+- __[Oktopost](https://www.oktopost.com/) - Oktopost empowers social media professionals to work at scale and demonstrate business impact.__
 
 ### Social Networks
 __Social Networks__ geared towards the digital marketer. I'm leaving a number of them off as there are communities everywhere (even on Facebook), in favor of those that are more consistent.
-- [Bluesky Social](https://blueskyweb.xyz/) - A federated community running on the AT protocol offering you algorithmic choice of the soft of content you see. In private beta now (It's awesome!) and I recommend joining the waitlist.
+- [Bluesky Social](https://blueskyweb.xyz/) - A federated community running on the AT protocol offering you algorithmic choice of the soft of content you see.
    - [AT Protocol](https://atproto.com/) - A networking technology created by Bluesky to power the next generation of social applications.
    - [PC/Web Version](https://staging.bsky.app/) - A working version of the app that you can use from your web browser on PC.
 - [Dev.to](https://dev.to/) - A constructive and inclusive social network for software developers. With you every step of your journey.
