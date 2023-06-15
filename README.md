@@ -202,6 +202,7 @@ __Competitive Intelligence__ is all about learning about what your competitors a
 - __[Canva](https://www.canva.com/) - A graphic design platform that allows users to create professional-looking designs easily and quickly, without needing any design experience. It offers a wide range of templates, graphics, and fonts to choose from, making it a great tool for creating social media posts, flyers, presentations, and more.__
 - [Convertio Image Converter](https://convertio.co/image-converter/) - Convert to and from a number of image formats, including those annoying .JFIF and .WEBP formats that certain social networks love to use.  <code>F</code>
 - [GIMP](https://www.gimp.org/) - Whether you are a graphic designer, photographer, illustrator, or scientist, GIMP provides you with sophisticated tools to get your job done. You can further enhance your productivity with GIMP thanks to many customization options and 3rd party plugins. <code>F</code>
+- [Real Favicon Generator](https://realfavicongenerator.net/) - The ultimate favicon generator. Design your icons platform per platform and make them look great everywhere. Including in Google results pages.
 
 ## Industry Newsletters
 - [Digital Marketing Must-Knows Newsletter](https://tripledouble.beehiiv.com/) - Sends every Monday. 5 biggest stories. In 60 seconds.
@@ -356,6 +357,11 @@ The digital marketing landscape changes quickly which is why it's important to c
 
 ## Social Media
 
+### Social Best Practices
+- [2023 Social Media Image Sizes for All Networks](https://blog.hootsuite.com/social-media-image-sizes-guide/) - The most recent image size specifications for different social media networks, including Instagram, Twitter, Facebook, LinkedIn, and more.
+- [How Often to Post to Social Media in 2023](https://blog.hootsuite.com/how-often-to-post-on-social-media/) - The answer to "how often to post to social media" varies by platform. But it will also require some testing on your own accounts.
+- [How to Use Hashtags in 2023: A Guide for Every Network](https://blog.hootsuite.com/how-to-use-hashtags/) - Do you know how to use hashtags? How about how not to use hashtags? Read on for all the DOs and DON'Ts before you get started.
+
 ### Social Listening
 - [Google Alerts](https://www.google.com/alerts) - Monitor the web for interesting new content.
 - [SparkToro](https://sparktoro.com/) - Crawls public profiles on social media so you can quickly learn where your audience is and how to reach them.
@@ -381,6 +387,7 @@ __Social Networks__ geared towards the digital marketer. I'm leaving a number of
 - [Reddit](https://www.reddit.com/) - A network of communities where people can dive into their interests, hobbies and passions. There&#x27;s a community for whatever you're interested in on Reddit.
 - [Stack Overflow](https://stackoverflow.com/) - The largest, most trusted online community for developers. This can be a great resource for technical digital marketing and SEO questions. I know that I've ended up here more than a few times.
 - [Twitter](https://twitter.com/) - The (un)official digital marketing community hangout.
+   - [Twitter Hashtag Generator](https://mention.com/en/twitter-hashtag-generator/) - Generate popular hashtags for your tweets to reach a wider audience.
 
 ## Spreadsheets
 - [Google Sheets](https://www.google.com/sheets/about/) - Create and edit online spreadsheets. Get insights together with secure sharing in real-time and from any device.
