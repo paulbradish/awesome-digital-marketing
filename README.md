@@ -4,8 +4,6 @@ A curated list of awesome digital marketing guides, resources, services, & more.
 
 Created & maintained by <strong>Paul Bradish</strong> <code><a href="https://www.linkedin.com/in/paulbradish/">LinkedIn</a></code>.
 <br><br>
-<a href="https://www.buymeacoffee.com/paulbradish"><img src="/assets/IMG_6768.png" width="25%" height="25%" alt="Buy Me A Coffee"></a>
-<br><br>
 
 <strong>Legend</strong>
 | Icon | Description |
