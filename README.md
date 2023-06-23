@@ -382,6 +382,7 @@ __Social Networks__ geared towards the digital marketer. I'm leaving a number of
    - [LinkedIn Hashtag Generator](https://www.tucktools.com/linkedin-hashtag-generator) - A fantastic free and lightweight hashtag generator for LinkedIn.
    - [LinkedIn Hashtags List](https://blog.waalaxy.com/en/linkedin-hashtags-list/) - A list of popular LinkedIn hashtags as guidance on how/when to use them.
    - [LinkedIn Polls – 5 Best Tactics For Boosting Engagement & Growth](https://leaddelta.com/linkedin-polls/)
+   - [Social Selling Index](https://www.linkedin.com/sales/ssi) - This free tool from LinkedIn measures how effective you are at establishing your professional brand, finding the right people, engaging with insights, and building relationships. It is updated daily.
 - [Quora](https://www.quora.com/) - A place to gain and share knowledge. It's a platform to ask questions and connect with people who contribute unique insights and quality answers.
    - [11 Ways To Answer Questions On Quora And Generate Leads](https://ladder.io/blog/quora-lead-generation)
 - [Reddit](https://www.reddit.com/) - A network of communities where people can dive into their interests, hobbies and passions. There&#x27;s a community for whatever you're interested in on Reddit.
