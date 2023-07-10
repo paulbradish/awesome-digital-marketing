@@ -3,19 +3,6 @@
 A curated list of awesome digital marketing guides, resources, services, & more. Enjoy!
 
 Created & maintained by <strong>Paul Bradish</strong> <code><a href="https://www.linkedin.com/in/paulbradish/">LinkedIn</a></code>.
-<br><br>
-
-<strong>Legend</strong>
-| Icon | Description |
-| :------------ | :------------- |
-| <code>F</code> | Free to use |
-| <code>P</code> | Pay to Purchase |
-| <code>S</code> | Subscription (SaaS) |
-
-<br>
-<i>Note: If you see a tool that's bolded in the list below, that means It's part of my current digital marketing stack.</i>
-<br>
-<br>
 
 ## Contents
 - [Account Based Marketing (ABM)](#account-based-marketing-abm)
@@ -61,13 +48,12 @@ Created & maintained by <strong>Paul Bradish</strong> <code><a href="https://www
 
 ## Account Based Marketing (ABM)
 __Account Based Marketing__ is a strategic marketing approach where B2B companies identify and target high-value accounts with personalized campaigns and messaging. ABM focuses on building strong relationships with key decision-makers within targeted accounts, rather than trying to reach a broad audience. This approach requires a deep understanding of the target accounts and a coordinated effort between sales and marketing teams to deliver content and messaging that speaks directly to the needs and pain points of each account.
-- [6sense](https://6sense.com/) - ABM software which reveals revenue insights that lead to high-quality pipeline, eliminating guesswork & empowering your revenue team with more data and visibility.
-- [Lead Forensics](https://www.leadforensics.com/) - The world's #1 website visitor identification software. Uncover your anonymous B2B website visitors and fuel your business growth.
-- [Qualified](https://www.qualified.com/account-based-marketing) - Know when your target accounts are on the site and engage them in real-time sales conversations to grow pipeline and revenue. 
-- [Zoominfo](https://www.zoominfo.com/) - Get the B2B data and software you need to connect with and close your most valuable buyers — all in one operating system.
+- [6sense](https://6sense.com/) - Reveals revenue insights that lead to a high-quality pipeline, eliminating guesswork & empowering your revenue team with more data and visibility.
+- [Lead Forensics](https://www.leadforensics.com/) - Uncover your anonymous B2B website visitors and fuel your business growth.
+- [Zoominfo](https://www.zoominfo.com/) - Data to connect with and close your most valuable buyers — all in one operating system.
 
 ## Analytics
-Analytics is the process of examining and interpreting large sets of data in order to uncover patterns, gain insights, and-making. This involves using various tools and techniques to extract meaning from data, including statistical analysis, machine learning, and data visualization. The goal of __Data Analytics__ is to turn raw data into actionable insights that can be used to improve business operations, identify new opportunities, and solve complex problems.
+Analytics is the process of examining and interpreting large sets of data in order to uncover patterns, gain insights, and drive smart marketing decisions. This involves using various tools and techniques to extract meaning from data, including statistical analysis, machine learning, and data visualization. The goal of __Data Analytics__ is to turn raw data into actionable insights that can be used to improve business operations, identify new opportunities, and solve complex problems.
   - __Analytics Dashboards__
       - [Agency Analytics](https://agencyanalytics.com/) - Monitor all of your client's marketing channels in one seamless dashboard. All fully branded for your agency. Give clients access to the interface or app as if you built the platform in-house.
       - [Dash This](https://dashthis.com/) - An automated marketing reporting tool created to help marketers save hours of manual work by integrating numerous APIs into one customized web analytics dashboard.
@@ -107,14 +93,13 @@ Desktop software or SaaS that render information in a visual format for data ana
      - [WordCloud Generator](https://monkeylearn.com/word-cloud) - Display words and phrases based on frequency and relevance. Word clouds provide you with quick and simple visual insights that can lead to more in-depth analyses.
 
 ## Artificial Intelligence (AI)
-__Artificial Intelligence__ enables digital marketers to work smarter, faster, and more effectively (within reason). If you don’t have an AI stack, you’re being left behind.
+__Artificial Intelligence__ enables digital marketers to work smarter, faster, and more efficiently.
 
 ### AI Tools
 - __[ChatGPT](https://chat.openai.com/) - Where do I begin? Open AI's Chat GPT has soooo many uses in marketing, but the primary use case is for generating powerful call-to-actions, hooks, and content ideas.__
-   - [AIPRM](https://www.aiprm.com/) -  Chrome extension that adds an easy to use list of curated prompt templates for ChatGPT curated for you by a community of prompt engineering experts.
-   - [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt) - A curated list (like this one) of awesome tools, demos, docs for ChatGPT and GPT-3.
+   - [15 Rules For Crafting Effective GPT Chat Prompts](https://expandi.io/blog/chat-gpt-rules/) - How effective your ChatGPT response is depends entirely on you and the prompts you use.
+   - [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt) - A curated list of awesome ChatGPT tools, demos, and docs.
    - [ChartGPT](https://www.chartgpt.dev/) - Text to beautiful charts within seconds 
-   - [ChatAI](https://chatai.com/) - An app developed to make Chat GPT more accessible and mobile-friendly.
 - [Copy.ai](https://www.copy.ai/) - AI-powered copywriter that generates high-quality copy for your business. This tool is great for generating ideas and/or breaking through inevitable writer blocks.
 - [Google Bard](https://bard.google.com/) - Your creative and helpful collaborator, here to supercharge your imagination, boost your productivity, and bring your ideas to life.
 - [Jasper](https://www.jasper.ai/) - AI Content Platform that helps you and your team break through creative blocks to create amazing, original content 10X faster.
@@ -123,18 +108,12 @@ __Artificial Intelligence__ enables digital marketers to work smarter, faster, a
 - [SuperReply](https://superreply.co/) - Improve your productivity and free up time with AI-powered email replies.
 - [Wordtune](https://www.wordtune.com/) - Say exactly what you mean through clear, compelling and authentic writing.
 
-### AI Articles & Guides
+### AI Guides & Resources
+- [GPTE](https://gpte.ai/) - Discover the latest tools and trends in AI.
 - [Learn Prompting](https://learnprompting.org/) - Learn how to use ChatGPT and other AI tools to accomplish your goals using our free and open source curriculum, designed for all skill levels!
 - [Prompt Engineering Daily](https://www.neatprompts.com/) - Sharing how to leverage AI prompts and tools to become a marketing and productivity machine at work. They have a fantastic newsletter.
 - [Prompt Engineering Guide](https://www.promptingguide.ai) - Guides, papers, lecture, notebooks and resources for prompt engineering.
-
-### AI Resources & Websites
-- [ai podcast](https://blogs.nvidia.com/ai-podcast/) - Explore the impact of AI on our world, one amazing person at a time.
-- [GPTE](https://gpte.ai/) - Search 1,500+ AI tools. Discover the latest AI news, prompts, tools, and trends.
-- [Towards AI](https://towardsai.net/) - Focuses on sharing high-quality publications, news, articles, and stories on AI and technology related topics.
-
-## Chat Bots
-- [Live Chat](https://www.livechat.com/) - An online customer service software with online chat, help desk software, and web analytics capabilities.
+- [Superhuman](https://www.joinsuperhuman.ai/) - Learn how to leverage AI to boost your productivity and accelerate your career.
 
 ## Competitive Intelligence
 __Competitive Intelligence__ is all about learning about what your competitors are doing and using that information to help you make good decisions for your own business.
@@ -269,11 +248,7 @@ A __Search Engine__ works by crawling and indexing a vast amount of content foun
 
 ### Bing
 - [Bing](https://www.bing.com/) - Owned by Microsoft. Previously known as: MSN Search, Windows Live Search and later Live Search. 
-   - [Bing Webmaster Tools](https://www.bing.com/webmasters/about) - Easy to plug-in API solution that websites can call to notify Bing on content updated, allowing instant crawling, indexing and discovery of your site content. 
-
-### DuckDuckGo
-- [DuckDuckGo](https://duckduckgo.com/) - If privacy is your thing, you'll be right at home here.
-   - [Available Bangs!](https://duckduckgo.com/bang) - Shortcuts that quickly take you to search results on other sites. _example: use !w in DuckDuckGo to search Wikipedia._
+   - [Bing Webmaster Tools](https://www.bing.com/webmasters/about) - Easy to plug-in API solution that websites can call to notify Bing on content updated, allowing instant crawling, indexing and discovery of your site content.
 
 ### Google
 - [Google](https://google.com) - Search the world's information, including webpages, images, videos and more.     
@@ -291,16 +266,9 @@ A __Search Engine__ works by crawling and indexing a vast amount of content foun
 - [Search Console](https://search.google.com/search-console/about) - Search Console tools and reports help you measure your site's Search traffic and performance, fix issues, and make your site shine in Google Search results.
    - [Core Web Vitals Chrome Extension](https://chrome.google.com/webstore/detail/web-vitals/ahfhijdlegdabablpippeagghigmibma) - Because why make it harder on yourself?
 
-### International Search Engines
-- [Baidu](https://www.baidu.com/) - Chinese search engine.
-- [Yandex](https://yandex.com/) - Russian search engine.
-   - [Ranking Factors](https://www.dropbox.com/s/toyehkkfduogbwk/factors_gen.txt?dl=0) - A list of numerous ranking factors discovered in the source code leak. It is suggested that since Yandex was designed by ex-Googlers, there may be as high as a 70% match between the two search algorithms.
-### Specialty Search Engines
-- [Wolfram Alpha](https://www.wolframalpha.com/) - Computational search engine.
-
 ### Search Engines Glossary
 - __Crawler__ -  A bot or program that automatically scans web pages with the purpose of collecting information.
-- __Index__ - The process of organizing information collected by crawlers to create a searchable index used by search engines to display relevant results.
+- __Index__ - The process of organizing the information collected by crawlers to create a searchable index used by search engines to display relevant results.
 - __SERP__ - Search engine results page.
 
 ## Search Engine Optimization (SEO)
@@ -372,20 +340,12 @@ The digital marketing landscape changes quickly which is why it's important to c
 
 ### Social Networks
 __Social Networks__ geared towards the digital marketer. I'm leaving a number of them off as there are communities everywhere (even on Facebook), in favor of those that are more consistent.
-- [Bluesky Social](https://blueskyweb.xyz/) - A federated community running on the AT protocol offering you algorithmic choice of the soft of content you see.
-   - [AT Protocol](https://atproto.com/) - A networking technology created by Bluesky to power the next generation of social applications.
-   - [PC/Web Version](https://staging.bsky.app/) - A working version of the app that you can use from your web browser on PC.
-- [Dev.to](https://dev.to/) - A constructive and inclusive social network for software developers. With you every step of your journey.
-   - [How to make the most of DEV if you're over Twitter](https://dev.to/devteam/how-to-make-the-most-of-dev-if-youre-over-twitter-4567) 
 - [LinkedIn](https://www.linkedin.com/) - Manage your professional identity. Build and engage with your professional network. Access knowledge, insights and opportunities.
+   - [How to Use Linkedin Events – The Complete 2023 Guide](https://www.theb2bhouse.com/linkedin-events/) - A deep dive into how you can use Linkedin events for your event marketing.
    - [LinkedIn Hashtag Generator](https://www.tucktools.com/linkedin-hashtag-generator) - A fantastic free and lightweight hashtag generator for LinkedIn.
    - [LinkedIn Hashtags List](https://blog.waalaxy.com/en/linkedin-hashtags-list/) - A list of popular LinkedIn hashtags as guidance on how/when to use them.
    - [LinkedIn Polls – 5 Best Tactics For Boosting Engagement & Growth](https://leaddelta.com/linkedin-polls/)
-   - [Social Selling Index](https://www.linkedin.com/sales/ssi) - This free tool from LinkedIn measures how effective you are at establishing your professional brand, finding the right people, engaging with insights, and building relationships. It is updated daily.
-- [Quora](https://www.quora.com/) - A place to gain and share knowledge. It's a platform to ask questions and connect with people who contribute unique insights and quality answers.
-   - [11 Ways To Answer Questions On Quora And Generate Leads](https://ladder.io/blog/quora-lead-generation)
-- [Reddit](https://www.reddit.com/) - A network of communities where people can dive into their interests, hobbies and passions. There&#x27;s a community for whatever you're interested in on Reddit.
-- [Stack Overflow](https://stackoverflow.com/) - The largest, most trusted online community for developers. This can be a great resource for technical digital marketing and SEO questions. I know that I've ended up here more than a few times.
+   - [Social Selling Index](https://www.linkedin.com/sales/ssi) - Free tool from LI measures various branding aspects of your profile.
 - [Twitter](https://twitter.com/) - The (un)official digital marketing community hangout.
    - [Twitter Hashtag Generator](https://mention.com/en/twitter-hashtag-generator/) - Generate popular hashtags for your tweets to reach a wider audience.
 
@@ -500,12 +460,6 @@ Computer languages that consists of keywords, names, or tags that help format th
           - [Divi Marketplace](https://www.elegantthemes.com/marketplace/) - Divi child themes, extensions and layouts for sale by the community.
           - [Elegant Themes Blog](https://www.elegantthemes.com/blog/) - A great resource for Divi guides, hacks, and tutorials.
        - [Elementor](https://elementor.com/features/wordpress/) - Elementor is the platform web creators choose to build professional WordPress websites, grow their skills, and build their business.
-
-### Domains
-- Domain Registrars
-  - [NameCheap](https://www.namecheap.com/) - An ICANN-accredited domain name registrar providing domain name registration and web hosting based in Phoenix, Arizona, US. Very reliable and inexpensive registration and shared hosting.
-- Domain Name Valuation
-  - [Estibot](https://www.estibot.com/) - Free domain appraisal and domain investment tools.
   
 ### Programming Languages
 __Programming languages__ that are commonly used in front-end web design and back-end web development.
