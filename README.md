@@ -55,11 +55,9 @@ __Account Based Marketing__ is a strategic marketing approach where B2B companie
 ## Analytics
 Analytics is the process of examining and interpreting large sets of data in order to uncover patterns, gain insights, and drive smart marketing decisions. This involves using various tools and techniques to extract meaning from data, including statistical analysis, machine learning, and data visualization. The goal of __Data Analytics__ is to turn raw data into actionable insights that can be used to improve business operations, identify new opportunities, and solve complex problems.
   - __Analytics Dashboards__
-      - [Agency Analytics](https://agencyanalytics.com/) - Monitor all of your client's marketing channels in one seamless dashboard. All fully branded for your agency. Give clients access to the interface or app as if you built the platform in-house.
       - [Dash This](https://dashthis.com/) - An automated marketing reporting tool created to help marketers save hours of manual work by integrating numerous APIs into one customized web analytics dashboard.
       - __[Databox](https://databox.com/) - Connect all of your data in one place, visualize performance trends, monitor progress toward your goals, make more informed decisions, collaborate and report as you go with custom views and deep-dives for each function in your organization.__
       - [Geckoboard](https://www.geckoboard.com/) - No hassle professional KPI dashboards. Features over 80 integrations that you can build into a real-time dashboard.
-      - [Klipfolio](https://www.klipfolio.com/) - From custom dashboards and reports to self-serve exploration and analysis, this SaaS helps you centralize data and gives you the power to make decisions with confidence.
  - __Analytics Resources__
      - [Cross Validated](https://stats.stackexchange.com/) - A question and answer site for people interested in statistics, machine learning, data analysis, data mining, and data visualization.
      - [Occam's Razor](https://www.kaushik.net/avinash/) - Web analytics blog authored by longtime digital marketing evangelist @google, Avinash Kaushik.
@@ -99,14 +97,13 @@ __Artificial Intelligence__ enables digital marketers to work smarter, faster, a
 - __[ChatGPT](https://chat.openai.com/) - Where do I begin? Open AI's Chat GPT has soooo many uses in marketing, but the primary use case is for generating powerful call-to-actions, hooks, and content ideas.__
    - [15 Rules For Crafting Effective GPT Chat Prompts](https://expandi.io/blog/chat-gpt-rules/) - How effective your ChatGPT response is depends entirely on you and the prompts you use.
    - [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt) - A curated list of awesome ChatGPT tools, demos, and docs.
-   - [ChartGPT](https://www.chartgpt.dev/) - Text to beautiful charts within seconds 
+   - [ChartGPT](https://www.chartgpt.dev/) - Text to beautiful charts within seconds
+- [Claude](https://claude.ai/login) - A next-generation AI assistant for your tasks, no matter the scale.
 - [Copy.ai](https://www.copy.ai/) - AI-powered copywriter that generates high-quality copy for your business. This tool is great for generating ideas and/or breaking through inevitable writer blocks.
 - [Google Bard](https://bard.google.com/) - Your creative and helpful collaborator, here to supercharge your imagination, boost your productivity, and bring your ideas to life.
 - [Jasper](https://www.jasper.ai/) - AI Content Platform that helps you and your team break through creative blocks to create amazing, original content 10X faster.
 - [Jounce](https://www.jounce.ai/) - The self proclaimed answer to the overwhelming gap between marketers and copywriters, providing the most advanced AI writing technology to marketers around the globe.
 - [PromptPerfect](https://promptperfect.jina.ai/) - A cutting-edge tool designed to streamline prompt engineering by automatically optimizing your prompts for ChatGPT, GPT-3.5, DALL-E 2, StableDiffusion and MidJourney.
-- [SuperReply](https://superreply.co/) - Improve your productivity and free up time with AI-powered email replies.
-- [Wordtune](https://www.wordtune.com/) - Say exactly what you mean through clear, compelling and authentic writing.
 
 ### AI Guides & Resources
 - [GPTE](https://gpte.ai/) - Discover the latest tools and trends in AI.
