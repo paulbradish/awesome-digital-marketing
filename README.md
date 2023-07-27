@@ -205,11 +205,15 @@ __Competitive Intelligence__ is all about learning about what your competitors a
    - [YouTube Applets](https://ifttt.com/youtube) - Popular YouTube workflows & automations.
 
 ## Paid Search
-Also known as __Paid Search__, SEM is a commonly used method to quickly increase the visibility of a website in search engine results pages (SERPs) by paying for ad placement on specific keywords and search phrases.
+Increase the visibility of a website in search engine results pages (SERPs) by paying for ad placement on specific keywords and search phrases.
 
 ### Paid Search Platforms
-- Bing Ads
-- Google Ads
+
+- [Google Ads](https://ads.google.com/home/) - For whatever matters most, make it easier for potential customers to find your business with Google Ads.
+- [Microsoft Ads](https://ads.microsoft.com/) - An often underrated pay-per-click (PPC) advertising system, especially useful in the b2b space or when demographics skew older.
+
+### Click Fraud & Invalid Traffic
+- [CHEQ Essentials](https://essentials.cheq.ai/) - Detect and block harmful activity to let your marketing spend and efforts thrive.
   
 ### Paid Search Software (SaaS)
 - [MarinOne](https://www.marinsoftware.com/solutions/paid-search) - Identify growth opportunities and maximize revenue across Google, Microsoft, Apple Search Ads, and more. Leverage audience, revenue, and contextual data from any source to drive campaign performance and growth.
