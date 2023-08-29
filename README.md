@@ -1,4 +1,4 @@
-# Awesome Digital Marketing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <a href="https://github.com/paulbradish/awesome-digital-marketing/blob/main/README.md"><img alt="GitHub Commits" src="https://img.shields.io/github/commit-activity/m/paulbradish/awesome-digital-marketing"></a> <a href="https://github.com/paulbradish/awesome-digital-marketing/blob/main/README.md"><img alt="CCO License" src="https://img.shields.io/github/license/paulbradish/awesome-digital-marketing"></a></sup></p> 
+# Awesome Digital Marketing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <a href="https://github.com/paulbradish/awesome-digital-marketing/blob/main/README.md"> <a href="https://github.com/paulbradish/awesome-digital-marketing/blob/main/README.md"><img alt="CCO License" src="https://img.shields.io/github/license/paulbradish/awesome-digital-marketing"></a></sup></p> 
 
 A curated list of awesome digital marketing guides, resources, services, & more. Enjoy!
 
