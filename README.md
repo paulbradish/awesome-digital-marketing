@@ -12,7 +12,6 @@ Created & maintained by <strong>Paul Bradish</strong> <code><a href="https://www
 - [Content Research](#content-research)
 - [Digital Experience Platforms (DXP)](#digital-experience-platforms-dxp)
 - [Documentation](#documentation)
-- [Ecommerce](#ecommerce)
 - [Email Marketing](#email-marketing)
 - [Graphic Design](#graphic-design)
 - [Industry Newsletters](#industry-newsletters)
@@ -160,9 +159,6 @@ __Competitive Intelligence__ is all about learning about what your competitors a
 - [Confluence](https://www.atlassian.com/software/confluence) - A remote-friendly team workspace where knowledge and collaboration meet. <code>F</code> <code>S</code>
 - [Gitbook](https://www.gitbook.com/) - Makes it easy to research, plan and document products, from start to ship. <code>F</code> <code>S</code>
 
-## Ecommerce
-- [100+ Ecommerce Tools, Tips and Tactics](https://tripledouble.notion.site/cb18cf07e53e455e90ce256a9bbcc733?v=60cade2d360e4ee08195565e26fb0e04) - A great list of ecommerce tactics hosted on Notion.
-
 ## Email Marketing
 
 ### Email Marketing Services
@@ -212,6 +208,7 @@ Increase the visibility of a website in search engine results pages (SERPs) by p
 ### Paid Search Platforms
 
 - [Google Ads](https://ads.google.com/home/) - For whatever matters most, make it easier for potential customers to find your business with Google Ads.
+   - [List of Countries and States to Exclude from Google Ads](https://www.kesarlong.com/ppc/list-of-countries-and-states-to-exclude-from-google-ads/) - Exclude countries you don't want to target in your campaigns.
 - [Microsoft Ads](https://ads.microsoft.com/) - An often underrated pay-per-click (PPC) advertising system, especially useful in the b2b space or when demographics skew older.
 
 ### Click Fraud & Invalid Traffic
