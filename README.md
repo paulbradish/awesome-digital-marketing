@@ -344,9 +344,10 @@ __Social Networks__ geared towards the digital marketer. I'm leaving a number of
    - [How to Use Linkedin Events – The Complete 2023 Guide](https://www.theb2bhouse.com/linkedin-events/) - A deep dive into how you can use Linkedin events for your event marketing.
    - [LinkedIn Hashtag Generator](https://www.tucktools.com/linkedin-hashtag-generator) - A fantastic free and lightweight hashtag generator for LinkedIn.
    - [LinkedIn Hashtags List](https://blog.waalaxy.com/en/linkedin-hashtags-list/) - A list of popular LinkedIn hashtags as guidance on how/when to use them.
+   - [LinkedIn Headline Generator](https://taplio.com/headline-generator) - A LinkedIn Headline Generator using AI to generate highly engaging LinkedIn headlines to get more profile visits.
    - [LinkedIn Polls – 5 Best Tactics For Boosting Engagement & Growth](https://leaddelta.com/linkedin-polls/)
    - [Social Selling Index](https://www.linkedin.com/sales/ssi) - Free tool from LI measures various branding aspects of your profile.
-- [Twitter](https://twitter.com/) - The (un)official digital marketing community hangout.
+- [X / Twitter](https://twitter.com/) - The (un)official digital marketing community hangout.
    - [Twitter Hashtag Generator](https://mention.com/en/twitter-hashtag-generator/) - Generate popular hashtags for your tweets to reach a wider audience.
 
 ## Spreadsheets
