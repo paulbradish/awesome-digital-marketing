@@ -2,7 +2,8 @@
 
 A curated list of awesome digital marketing guides, resources, services, & more. Enjoy!
 
-Created & maintained by <strong>Paul Bradish</strong> <code><a href="https://www.linkedin.com/in/paulbradish/">LinkedIn</a></code>.
+Created & maintained by <strong>Paul Bradish</strong>. Add me on <code><a href="https://www.linkedin.com/in/paulbradish/">LinkedIn</a></code>.
+
 
 ## Contents
 - [Account Based Marketing (ABM)](#account-based-marketing-abm)
@@ -99,6 +100,7 @@ __Artificial Intelligence__ enables digital marketers to work smarter, faster, a
    - [15 Rules For Crafting Effective GPT Chat Prompts](https://expandi.io/blog/chat-gpt-rules/) - How effective your ChatGPT response is depends entirely on you and the prompts you use.
    - [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt) - A curated list of awesome ChatGPT tools, demos, and docs.
    - [ChartGPT](https://www.chartgpt.dev/) - Text to beautiful charts within seconds
+   - [How to Use Chat GPT for Marketing](https://medium.com/@luvuyo.mdebuka/how-to-use-chat-gpt-for-marketing-the-ultimate-guide-to-skyrocket-your-campaign-performance-6922b3b515f3) - The ultimate guide to skyrocketing your campaign performance.
 - [Claude](https://claude.ai/login) - A next-generation AI assistant for your tasks, no matter the scale.
 - [Copy.ai](https://www.copy.ai/) - AI-powered copywriter that generates high-quality copy for your business. This tool is great for generating ideas and/or breaking through inevitable writer blocks.
 - [Google Bard](https://bard.google.com/) - Your creative and helpful collaborator, here to supercharge your imagination, boost your productivity, and bring your ideas to life.
