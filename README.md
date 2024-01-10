@@ -171,6 +171,9 @@ __Competitive Intelligence__ is all about learning about what your competitors a
 - [CAN-SPAM Act: A Compliance Guide for Business](https://www.ftc.gov/business-guidance/resources/can-spam-act-compliance-guide-business) - Follow these guidelines laid out by the FTC if you'd like to uphold your brand's reputation and be an all-around decent human.
 - [The Ultimate Guide to Email Marketing](https://blog.hubspot.com/marketing/email-marketing-guide) - Learn everything you need to know about email marketing; from creating a strategy and building a list to email regulations and tracking results.
 
+### Email Optimization Resources
+- [Campaign Cleaner](https://campaigncleaner.com) - A tool that automatically optimizes your email HTML to improve delivery rates. 
+
 ## Graphic Design
 - __[Adobe Photoshop](https://www.adobe.com/products/photoshop.html) - A powerful image editing software that allows users to manipulate and enhance digital images through a variety of tools and features.__
 - [Canva](https://www.canva.com/) - A graphic design platform that allows users to create professional-looking designs easily and quickly, without needing any design experience. It offers a wide range of templates, graphics, and fonts to choose from, making it a great tool for creating social media posts, flyers, presentations, and more.
