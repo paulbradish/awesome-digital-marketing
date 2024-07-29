@@ -215,6 +215,7 @@ Increase the visibility of a website in search engine results pages (SERPs) by p
 
 ### Click Fraud & Invalid Traffic
 - [CHEQ Essentials](https://essentials.cheq.ai/) - Detect and block harmful activity to let your marketing spend and efforts thrive.
+- [Lunio](https://lunio.ai/) - Stop fake traffic on all ad platforms. *Interesting because this includes performance max on Google Ads.*
   
 ### Paid Search Software (SaaS)
 - [MarinOne](https://www.marinsoftware.com/solutions/paid-search) - Identify growth opportunities and maximize revenue across Google, Microsoft, Apple Search Ads, and more. Leverage audience, revenue, and contextual data from any source to drive campaign performance and growth.
