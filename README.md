@@ -166,7 +166,8 @@ __Competitive Intelligence__ is all about learning about what your competitors a
 ### Email Marketing Services
 - [Constant Contact](https://www.constantcontact.com/) - Deliver stunning emails and a whole lot more. Attract new customers and boost sales with their complete, easy-to-use digital marketing suite.
 - [Mailchimp](https://mailchimp.com/) - Grow your business on your terms with Mailchimp's All-In-One marketing, automation & email marketing platform.
-
+- [Heybounce](https://www.heybounce.io/) - Email verification service that checks if an email exists and detects disposable emails to reduce bounce rates.
+- 
 ### Email Marketing Resources
 - [CAN-SPAM Act: A Compliance Guide for Business](https://www.ftc.gov/business-guidance/resources/can-spam-act-compliance-guide-business) - Follow these guidelines laid out by the FTC if you'd like to uphold your brand's reputation and be an all-around decent human.
 - [The Ultimate Guide to Email Marketing](https://blog.hubspot.com/marketing/email-marketing-guide) - Learn everything you need to know about email marketing; from creating a strategy and building a list to email regulations and tracking results.
