@@ -287,6 +287,7 @@ A __Search Engine__ works by crawling and indexing a vast amount of content foun
    - [How to Create 10x Content](https://moz.com/blog/how-to-create-10x-content) - Have you ever tried to create 10x content? It's not easy, is it? Knowing how and where to start can often be the biggest obstacle you'll face. 
    - [How To Create the Right Meta Description](https://yoast.com/meta-descriptions/) - Search engines use meta descriptions in search results mostly when the searched-for phrase is within the description. So optimizing it is crucial for on-page SEO. This post will show you the characteristics of a good meta description and how Yoast SEO can help you with it.
 - [What Is SEO / Search Engine Optimization?](https://searchengineland.com/guide/what-is-seo) - Get started learning all about SEO from one of the industry's most trusted sources, Search Engine Land. Review basics of search engine optimization, ranking factors & more.
+- [SEO Roadmap](https://github.com/seoroadmap/seo-roadmap) - A Roadmap to becoming an SEO expert 
 
 ### SEO Resources
 - [Google Search ranking updates](https://developers.google.com/search/updates/ranking) - The offical page from Google detailing the the latest ranking updates made to Google Search that are relevant to website owners.
