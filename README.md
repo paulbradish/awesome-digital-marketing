@@ -147,6 +147,7 @@ __Competitive Intelligence__ is all about learning about what your competitors a
 - [Hemmingway Editor](https://hemingwayapp.com/) - Makes your writing bold and clear. It's like a spellchecker, but for style. It makes sure that your reader will focus on your message, not your prose.
 - [Lorem Ipsum](https://loremipsum.io/) - A lorem ipsum generator. Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
 - [Make My Persona](https://www.hubspot.com/make-my-persona) - Create professional, customizable buyer personas in minutes with the help of our intuitive free generator and share the templates with your team.
+- [LogicBalls AI] (https://logicballs.com/tools/buyer-persona-generator) -Quickly create professional and customizable buyer personas with our easy-to-use free generator.
 
 ## Digital Experience Platforms (DXP)
 
