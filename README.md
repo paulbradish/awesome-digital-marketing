@@ -231,6 +231,8 @@ __Paid Social__ advertising allows businesses to reach a larger audience than th
 - [Snapchat Ads](https://forbusiness.snapchat.com/) - A worldwide community that is deeply engaged, putting you in a perfect position to help you meet your business goals.
 - [TikTok Ads](https://getstarted.tiktok.com/tt4b) - Get your business discovered on TikTok.
 - [Twitter Ads](https://business.twitter.com/en.html) - Connect with the people at the center of what's happening.
+- [Instaking](https://instaking.org/en) - Boost instagram Profiles with engagement.
+
 
 ### Paid Social Resources
 - [2023 Social Media Image Sizes for All Networks [CHEATSHEET]](https://blog.hootsuite.com/social-media-image-sizes-guide/) - The most recent image size specifications for different social media networks, including Instagram, Twitter, Facebook, LinkedIn, and more.
