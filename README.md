@@ -143,6 +143,7 @@ __Competitive Intelligence__ is all about learning about what your competitors a
 - [What is Copywriting? Definition & Tips](https://neilpatel.com/blog/ultimate-guide-to-copywriting/)
 ### Writing Tools
 - [Capitalize My Title](https://capitalizemytitle.com/) - Makes title capitalization easy. Automatically capitalize and case convert to Title Case (in AP, APA, Chicago, MLA, BB, AMA), sentence case, UPPERCASE, lowercase, and more.
+- [Cold Email Generator (Cobalt Studio)](https://techchenko.github.io/cobaltstudio-products/tools/cold-email-generator/) - Free no-signup tool that generates short cold outreach emails + subject lines.
 - [Grammarly](https://www.grammarly.com/) - A cloud-based typing assistant that helps you write mistake-free in Gmail, Facebook, Twitter, LinkedIn, and any other app you use. _Even the free version is fantastic and has helped me catch a few grammatical errors that would have looked messy and unprofessional._
 - [Hemmingway Editor](https://hemingwayapp.com/) - Makes your writing bold and clear. It's like a spellchecker, but for style. It makes sure that your reader will focus on your message, not your prose.
 - [Lorem Ipsum](https://loremipsum.io/) - A lorem ipsum generator. Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
