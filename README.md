@@ -244,6 +244,7 @@ __Paid Social__ advertising allows businesses to reach a larger audience than th
 - [Jira](https://www.atlassian.com/software/jira) - Very task management and bug tracking tool used by agile teams.
 - [Monday](https://monday.com/) - Boost your team's alignment, efficiency, and productivity by customizing any workflow to fit your needs.
 - [Notion](https://www.notion.so/) - A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team.
+- [Taskade](https://taskade.com) - AI-powered workspace for marketing teams with custom AI agents, content generation, workflow automation with 100+ integrations, and project management.
 - __[Wrike](https://www.wrike.com/vr/) - All-in-one platform to manage projects, organize work, enhance collaboration and accelerate execution across all departments.__
 
 ## Search Engines
