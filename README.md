@@ -502,3 +502,7 @@ __Programming languages__ that are commonly used in front-end web design and bac
 ---
 
 If you do find this awesome list useful, please ⭐ and share it with others! ☮️
+
+### AI Marketing Agents
+- [AfrexAI Marketing Skills](https://afrexai-cto.github.io/agent-setup/) - Free AI agent skills for cold email writing, SEO content, LinkedIn posts, competitor analysis, and prospect research. Built on OpenClaw.
+- [AI Revenue Calculator](https://afrexai-cto.github.io/ai-revenue-calculator/) - Calculate how much revenue AI marketing agents can generate for your business.
