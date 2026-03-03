@@ -7,6 +7,7 @@ Created & maintained by <strong>Paul Bradish</strong>. Add me on <code><a href="
 
 ## Contents
 - [Account Based Marketing (ABM)](#account-based-marketing-abm)
+- [Accessibility](#accessibility)
 - [Analytics](#analytics)
 - [Artificial Intelligence (AI)](#artificial-intelligence-ai)
 - [Competitive Intelligence](#competitive-intelligence)
@@ -51,6 +52,22 @@ __Account Based Marketing__ is a strategic marketing approach where B2B companie
 - [6sense](https://6sense.com/) - Reveals revenue insights that lead to a high-quality pipeline, eliminating guesswork & empowering your revenue team with more data and visibility.
 - [Lead Forensics](https://www.leadforensics.com/) - Uncover your anonymous B2B website visitors and fuel your business growth.
 - [Zoominfo](https://www.zoominfo.com/) - Data to connect with and close your most valuable buyers — all in one operating system.
+
+## Accessibility
+
+With the [ADA Title II deadline](https://www.ada.gov/resources/web-guidance/) and growing enforcement of WCAG standards, web accessibility has become essential for digital marketers to ensure compliance and reach the widest possible audience.
+
+### Accessibility Tools
+- [axe DevTools](https://www.deque.com/axe/devtools/) - Browser extension for identifying accessibility issues. The industry standard engine for automated accessibility testing.
+- [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) - Built into Chrome DevTools, includes accessibility auditing alongside performance and SEO checks.
+- [RatedWithAI](https://ratedwithai.com/) - AI-powered website accessibility scanner that checks for ADA and WCAG 2.2 compliance and provides actionable fix suggestions.
+- [WAVE](https://wave.webaim.org/) - Free web accessibility evaluation tool by WebAIM that provides visual feedback about the accessibility of web content.
+
+### Accessibility Resources
+- [ADA Title II Web Accessibility Requirements](https://www.ada.gov/resources/web-guidance/) - Official ADA.gov guidance on web accessibility requirements for state and local governments.
+- [The A11Y Project](https://www.a11yproject.com/) - A community-driven effort to make digital accessibility easier with practical resources and checklists.
+- [WCAG 2.2 Quick Reference](https://www.w3.org/WAI/WCAG22/quickref/) - The official W3C quick reference to WCAG 2.2 success criteria, requirements and techniques.
+- [WebAIM](https://webaim.org/) - Web Accessibility In Mind — articles, tools, training and resources for making the web accessible to people with disabilities.
 
 ## Analytics
 Analytics is the process of examining and interpreting large sets of data in order to uncover patterns, gain insights, and drive smart marketing decisions. This involves using various tools and techniques to extract meaning from data, including statistical analysis, machine learning, and data visualization. The goal of __Data Analytics__ is to turn raw data into actionable insights that can be used to improve business operations, identify new opportunities, and solve complex problems.
