@@ -288,6 +288,9 @@ A __Search Engine__ works by crawling and indexing a vast amount of content foun
    - [How To Create the Right Meta Description](https://yoast.com/meta-descriptions/) - Search engines use meta descriptions in search results mostly when the searched-for phrase is within the description. So optimizing it is crucial for on-page SEO. This post will show you the characteristics of a good meta description and how Yoast SEO can help you with it.
 - [What Is SEO / Search Engine Optimization?](https://searchengineland.com/guide/what-is-seo) - Get started learning all about SEO from one of the industry's most trusted sources, Search Engine Land. Review basics of search engine optimization, ranking factors & more.
 
+### AI Search Visibility
+- [Rank4AI](https://rank4ai.co.uk) - AI search visibility platform for optimizing how businesses appear in AI-generated recommendations across ChatGPT, Gemini, Perplexity and Google AI Overviews. Uses a Five Signal Model framework covering Identity Clarity, Subject Authority, Meaning Architecture, Ecosystem Validation and Signal Consistency.
+
 ### SEO Resources
 - [Google Search ranking updates](https://developers.google.com/search/updates/ranking) - The offical page from Google detailing the the latest ranking updates made to Google Search that are relevant to website owners.
 - [MozCast](https://moz.com/mozcast) - A weather report showing turbulence in the Google algorithm over the previous day (or see the 90-day history below). The hotter and stormier the weather, the more Google's rankings changed.
