@@ -301,6 +301,7 @@ A __Search Engine__ works by crawling and indexing a vast amount of content foun
 - [Xenu Link Sleuth](https://home.snafu.de/tilman/xenulink.html) - Old but good. Checks web sites for all types of broken links. It displays a continously updated list of URLs which you can sort by different criteria. A report can be produced at any time.
  
 ### SEO Software (SaaS)
+- [GEOScore AI](https://geoscoreai.com/) - Free AI search visibility scanner that checks 11 GEO signals for ChatGPT, Perplexity, and Gemini visibility, with actionable recommendations.
 - [Ahrefs](https://ahrefs.com/) - Everything you need to rank higher & get more traffic.
    - [Ahrefs Academy](https://ahrefs.com/academy) - The best tools and data are worth nothing if you don't know how to use them.
    - [Ahrefs: The Definitive Guide](https://backlinko.com/ahrefs-guide) - Everything you need to know about Ahrefs link building and SEO software suite. This guide includes a ton of real examples of Ahrefs in action.
