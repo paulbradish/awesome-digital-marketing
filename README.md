@@ -101,6 +101,7 @@ __Artificial Intelligence__ enables digital marketers to work smarter, faster, a
    - [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt) - A curated list of awesome ChatGPT tools, demos, and docs.
    - [ChartGPT](https://www.chartgpt.dev/) - Text to beautiful charts within seconds
    - [How to Use Chat GPT for Marketing](https://medium.com/@luvuyo.mdebuka/how-to-use-chat-gpt-for-marketing-the-ultimate-guide-to-skyrocket-your-campaign-performance-6922b3b515f3) - The ultimate guide to skyrocketing your campaign performance.
+- [AnveVoice](https://anvevoice.app) - AI voice agent for websites — trains on your content, talks to visitors in 50+ languages, navigates pages, fills forms, and books appointments.
 - [Claude](https://claude.ai/login) - A next-generation AI assistant for your tasks, no matter the scale.
 - [Copy.ai](https://www.copy.ai/) - AI-powered copywriter that generates high-quality copy for your business. This tool is great for generating ideas and/or breaking through inevitable writer blocks.
 - [Google Bard](https://bard.google.com/) - Your creative and helpful collaborator, here to supercharge your imagination, boost your productivity, and bring your ideas to life.
