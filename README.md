@@ -192,6 +192,7 @@ __Competitive Intelligence__ is all about learning about what your competitors a
     - [SearchVolume.io](https://searchvolume.io/) - Get monthly search volume data free. See search volumes for up to 800 keywords at a time.
 
 ## Lead Generation (Inbound Marketing)
+- [B2B Outbound Sniper](https://github.com/getlemnos32/b2b-outbound-sniper) - Open-source autonomous B2B outbound engine. Scrapes job boards for hiring signals, verifies decision-maker emails, personalizes cold emails with 6 LLMs, and sends via SMTP. 10/10 deliverability. Battle-tested in production.
 - [Eloqua Marketing Automation](https://www.oracle.com/cx/marketing/automation/) - Create more closed-loop marketing and sales activities and manage cross-channel B2B marketing campaigns that nurture leads across each stage of the buying process. A best-in-class B2B marketing automation solution, Oracle Eloqua Marketing Automation offers campaign design, advanced lead scoring, real-time firmographic data, and integrated sales tools.
 - __[HubSpot](https://www.hubspot.com/) - A leading CRM platform with a number of inbound marketing tools.__
    - [Lead Generation: A Beginner's Guide to Generating Business Leads the Inbound Way](https://blog.hubspot.com/marketing/beginner-inbound-lead-generation-guide-ht)
