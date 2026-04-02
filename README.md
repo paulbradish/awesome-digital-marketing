@@ -294,6 +294,7 @@ A __Search Engine__ works by crawling and indexing a vast amount of content foun
 - [Rank Risk Index](https://www.rankranger.com/rank-risk-index) - SERP fluctuations for 10,000+ domains and keywords that RR monitors daily.
 - [Semrush Sensor](https://www.semrush.com/sensor/) - Measures volatility in search results, tracking down 20+ categories on mobile and desktop and highlighting possible Google Updates.
 - [SEO Periodic Table](https://searchengineland.com/seotable) - Since it first debuted in 2011, Search Engine Land's Periodic Table of SEO Factors has become a globally recognized tool that search professionals have relied on to help them understand the elements essential to a winning SEO strategy.
+- [submission-site-discovery](https://github.com/SeeleAI/submission-site-discovery) - Automated discovery of product submission sites, launch directories, and distribution channels for indie hackers.
 
 ### SEO Software (Desktop)
 - [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) - A website crawler that helps you improve onsite SEO, by extracting data & auditing for common SEO issues.
