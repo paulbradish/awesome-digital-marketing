@@ -51,6 +51,7 @@ __Account Based Marketing__ is a strategic marketing approach where B2B companie
 - [6sense](https://6sense.com/) - Reveals revenue insights that lead to a high-quality pipeline, eliminating guesswork & empowering your revenue team with more data and visibility.
 - [Lead Forensics](https://www.leadforensics.com/) - Uncover your anonymous B2B website visitors and fuel your business growth.
 - [Zoominfo](https://www.zoominfo.com/) - Data to connect with and close your most valuable buyers — all in one operating system.
+- [Signals CLI](https://github.com/sortlist/signals-cli) - B2B intent signal monitoring from the terminal. Track LinkedIn engagement, job changers, funding events, and keyword posters to identify in-market accounts. JSON output. `npm install -g signals-sortlist-cli`
 
 ## Analytics
 Analytics is the process of examining and interpreting large sets of data in order to uncover patterns, gain insights, and drive smart marketing decisions. This involves using various tools and techniques to extract meaning from data, including statistical analysis, machine learning, and data visualization. The goal of __Data Analytics__ is to turn raw data into actionable insights that can be used to improve business operations, identify new opportunities, and solve complex problems.
@@ -197,6 +198,7 @@ __Competitive Intelligence__ is all about learning about what your competitors a
    - [Lead Generation: A Beginner's Guide to Generating Business Leads the Inbound Way](https://blog.hubspot.com/marketing/beginner-inbound-lead-generation-guide-ht)
 - [LeadPages](https://www.leadpages.com/) - A digital lead generation software platform that enables entrepreneurs and marketers to easily publish web sites and landing pages, so they can turn clicks into customers.
 - [Unbounce](https://unbounce.com/) - AI-powered landing page builder with smart features that let you create beautiful, high-performing marketing campaigns in just a few minutes.
+- [Overloop CLI](https://github.com/sortlist/overloop-cli) - AI-powered outbound sales engine. Source contacts from a 450M+ database, run multi-channel campaigns (email + LinkedIn), enroll prospects, and manage conversations from the terminal. `npm install -g overloop-cli`
 
 ## Marketing Automation
 - [If This Then That (IFTTT)](https://ifttt.com/) - Connect, integrate, and automate. Founded on the belief that every thing tech works better together, IF configured correctly you can automate some otherwise boring marketing and automation tasks.
