@@ -302,6 +302,7 @@ A __Search Engine__ works by crawling and indexing a vast amount of content foun
  
 ### SEO Software (SaaS)
 - [Ahrefs](https://ahrefs.com/) - Everything you need to rank higher & get more traffic.
+- [AuditWidget](https://auditwidget.app/?utm_source=github&utm_medium=awesome_list&utm_campaign=awesome_digital_marketing) - Embeddable SEO audit widget for agency websites. Drop one script tag on your site; visitors run a 12-point SEO analysis and share their email to unlock the full report.
    - [Ahrefs Academy](https://ahrefs.com/academy) - The best tools and data are worth nothing if you don't know how to use them.
    - [Ahrefs: The Definitive Guide](https://backlinko.com/ahrefs-guide) - Everything you need to know about Ahrefs link building and SEO software suite. This guide includes a ton of real examples of Ahrefs in action.
    - [Ahrefs Webmaster Tools](https://ahrefs.com/webmaster-tools) - Improve your website's SEO performance and get more traffic from search. Free for website owners.
