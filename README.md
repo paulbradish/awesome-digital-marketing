@@ -313,6 +313,7 @@ A __Search Engine__ works by crawling and indexing a vast amount of content foun
    - [What is Semrush? A Complete Guide to Semrush Features, Metrics, and Reporting Dashboards](https://databox.com/what-is-semrush) - What's Semrush and which features work best for tracking and improving your search rankings? Here's everything you need to know.
 - [SpyFu](https://www.spyfu.com/seo/overview) - Study competitors to help craft your plan by seeing what types of pages link to them. Also great for finding similar sites to keep on your radar and avoid any organic SERP flaws exposed by Google core updates to competition.
 - [Ubersuggest](https://neilpatel.com/ubersuggest/) - Allows you to get insight into the strategies that are working for others in your market so you can adopt them, improve them, and gain an edge.
+- [TinyTools](https://tinytools-smoky.vercel.app/) - Free browser-based SEO and AI marketing utilities including SEO meta tag generator, OG image generator, favicon generator, AI robots.txt generator, AI cost calculator, and AI content disclosure generator (EU AI Act compliant). No signup. Open source.
 
 ## Skills Training
 The digital marketing landscape changes quickly which is why it's important to consistently focus on __Skills Training__ so you don't get left behind.
