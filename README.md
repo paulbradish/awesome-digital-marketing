@@ -96,6 +96,7 @@ Desktop software or SaaS that render information in a visual format for data ana
 __Artificial Intelligence__ enables digital marketers to work smarter, faster, and more efficiently.
 
 ### AI Tools
+- [WebCoreLab](https://webcorelab.com) — AI SEO audit (272 checks) + GEO/AEO optimization. Tracks brand citations in ChatGPT, Claude, Perplexity. Toronto.
 - __[ChatGPT](https://chat.openai.com/) - Where do I begin? Open AI's Chat GPT has soooo many uses in marketing, but the primary use case is for generating powerful call-to-actions, hooks, and content ideas.__
    - [15 Rules For Crafting Effective GPT Chat Prompts](https://expandi.io/blog/chat-gpt-rules/) - How effective your ChatGPT response is depends entirely on you and the prompts you use.
    - [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt) - A curated list of awesome ChatGPT tools, demos, and docs.
