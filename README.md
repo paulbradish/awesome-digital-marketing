@@ -323,6 +323,7 @@ The digital marketing landscape changes quickly which is why it's important to c
 - [HubSpot Academy](https://academy.hubspot.com/) - The worldwide leader in inbound marketing, sales, and customer service/support training.
 - [Skillshare](https://www.skillshare.com/) - Skillshare is an online learning platform with thousands of creative courses and classes taught by experts to help you learn new skills.
 - [Skillshop (Google)](https://skillshop.exceedlms.com/student/catalog) - The one-stop-shop for every kind of learner who wants to succeed with Google professional tools and solutions. _This is where official Google certifications are issued._
+- [TutorialSearch](https://tutorialsearch.io/browse/web-development/digital-marketing) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 - [Udemy](https://www.udemy.com/) - A leading destination for online courses that empowers you to grow professionally and personally.
 
 ## Social Media
