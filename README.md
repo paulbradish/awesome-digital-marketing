@@ -176,6 +176,7 @@ __Competitive Intelligence__ is all about learning about what your competitors a
 - [Canva](https://www.canva.com/) - A graphic design platform that allows users to create professional-looking designs easily and quickly, without needing any design experience. It offers a wide range of templates, graphics, and fonts to choose from, making it a great tool for creating social media posts, flyers, presentations, and more.
    - [Canva Color Wheel & Theory](https://www.canva.com/colors/color-wheel/) - Want to know what colors look good together? Canva's Color Wheel makes color combinations easy.
 - [Convertio Image Converter](https://convertio.co/image-converter/) - Convert to and from a number of image formats, including those annoying .JFIF and .WEBP formats that certain social networks love to use.  <code>F</code>
+- [PhotoRestore.ai](https://photorestore.ai) - AI-powered restoration of old and damaged photos — repairs scratches, fading, tears, and colorizes B&W images.
 - [GIMP](https://www.gimp.org/) - Whether you are a graphic designer, photographer, illustrator, or scientist, GIMP provides you with sophisticated tools to get your job done. You can further enhance your productivity with GIMP thanks to many customization options and 3rd party plugins. <code>F</code>
 - [Real Favicon Generator](https://realfavicongenerator.net/) - The ultimate favicon generator. Design your icons platform per platform and make them look great everywhere. Including in Google results pages.
 
