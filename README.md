@@ -199,6 +199,7 @@ __Competitive Intelligence__ is all about learning about what your competitors a
 - [Unbounce](https://unbounce.com/) - AI-powered landing page builder with smart features that let you create beautiful, high-performing marketing campaigns in just a few minutes.
 
 ## Marketing Automation
+- [AI Automation Playbook for Marketing Agencies](https://terriszmjechka.github.io/ai-automation-playbook/) - 20 step-by-step AI workflow automations for digital marketing agencies, covering client reporting, lead generation, content operations, and internal admin. Each workflow includes specific tool recommendations, setup instructions, and estimated time savings.
 - [If This Then That (IFTTT)](https://ifttt.com/) - Connect, integrate, and automate. Founded on the belief that every thing tech works better together, IF configured correctly you can automate some otherwise boring marketing and automation tasks.
    - [Getting Started Collection](https://ifttt.com/explore/getting-started-collection) - Some of the most popular Applets to help you get started.
    - [Google Sheets Applets](https://ifttt.com/google_sheets) - Popular Google Sheets workflows & automations.
