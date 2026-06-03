@@ -317,6 +317,9 @@ A __Search Engine__ works by crawling and indexing a vast amount of content foun
 ## Skills Training
 The digital marketing landscape changes quickly which is why it's important to consistently focus on __Skills Training__ so you don't get left behind.
 
+### Career Resources
+- [Marketing Manager Jobs](https://marketingmanagerjobs.com/) - Curated job board for marketing manager-level roles, including remote, salary, role, and location-specific listings.
+
 ### Online Courses
 - [Class Central](https://www.classcentral.com/) - Find the best courses, wherever they exist. An aggregator of sorts.
 - [Coursera](https://www.coursera.org/) - Learn in-demand skills like SEO, SEM, email, content marketing, product promotion and more. Build in-demand marketing skills & get job-ready for entry-level roles in 6 months or less. 🧂
