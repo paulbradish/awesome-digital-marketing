@@ -320,6 +320,7 @@ The digital marketing landscape changes quickly which is why it's important to c
 ### Online Courses
 - [Class Central](https://www.classcentral.com/) - Find the best courses, wherever they exist. An aggregator of sorts.
 - [Coursera](https://www.coursera.org/) - Learn in-demand skills like SEO, SEM, email, content marketing, product promotion and more. Build in-demand marketing skills & get job-ready for entry-level roles in 6 months or less. 🧂
+- [The Free X Growth Course](https://slappost.app/learn/) - 5 no-login lessons on growing on X (Twitter): hooks, threads, X's open-source algorithm, replies, and your profile funnel. <code>F</code>
 - [HubSpot Academy](https://academy.hubspot.com/) - The worldwide leader in inbound marketing, sales, and customer service/support training.
 - [Skillshare](https://www.skillshare.com/) - Skillshare is an online learning platform with thousands of creative courses and classes taught by experts to help you learn new skills.
 - [Skillshop (Google)](https://skillshop.exceedlms.com/student/catalog) - The one-stop-shop for every kind of learner who wants to succeed with Google professional tools and solutions. _This is where official Google certifications are issued._
