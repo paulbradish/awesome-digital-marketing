@@ -101,6 +101,7 @@ __Artificial Intelligence__ enables digital marketers to work smarter, faster, a
    - [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt) - A curated list of awesome ChatGPT tools, demos, and docs.
    - [ChartGPT](https://www.chartgpt.dev/) - Text to beautiful charts within seconds
    - [How to Use Chat GPT for Marketing](https://medium.com/@luvuyo.mdebuka/how-to-use-chat-gpt-for-marketing-the-ultimate-guide-to-skyrocket-your-campaign-performance-6922b3b515f3) - The ultimate guide to skyrocketing your campaign performance.
+- [AISOTools](https://aisotools.com/) - The go-to hub for AI Search Optimization (AISO) — helping marketers audit and improve how their brand appears in AI-powered results from ChatGPT, Perplexity, and Google AI Overviews. Includes a curated directory of 1,000+ AI tools with AISO scoring.
 - [Claude](https://claude.ai/login) - A next-generation AI assistant for your tasks, no matter the scale.
 - [Copy.ai](https://www.copy.ai/) - AI-powered copywriter that generates high-quality copy for your business. This tool is great for generating ideas and/or breaking through inevitable writer blocks.
 - [Google Bard](https://bard.google.com/) - Your creative and helpful collaborator, here to supercharge your imagination, boost your productivity, and bring your ideas to life.
