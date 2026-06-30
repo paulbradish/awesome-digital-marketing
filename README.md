@@ -290,6 +290,7 @@ A __Search Engine__ works by crawling and indexing a vast amount of content foun
 
 ### SEO Resources
 - [Google Search ranking updates](https://developers.google.com/search/updates/ranking) - The offical page from Google detailing the the latest ranking updates made to Google Search that are relevant to website owners.
+- [Local Business Schema Generator](https://landing-five-dusky-44.vercel.app/schema-generator) - Free JSON-LD schema generator for local businesses. Generates LocalBusiness, Restaurant, MedicalBusiness, AutoRepair, and other schema types instantly. No signup required. Copy-paste the output into your site's `<head>`.
 - [MozCast](https://moz.com/mozcast) - A weather report showing turbulence in the Google algorithm over the previous day (or see the 90-day history below). The hotter and stormier the weather, the more Google's rankings changed.
 - [Rank Risk Index](https://www.rankranger.com/rank-risk-index) - SERP fluctuations for 10,000+ domains and keywords that RR monitors daily.
 - [Semrush Sensor](https://www.semrush.com/sensor/) - Measures volatility in search results, tracking down 20+ categories on mobile and desktop and highlighting possible Google Updates.
@@ -488,6 +489,7 @@ __Programming languages__ that are commonly used in front-end web design and bac
 - [Cloudflare](https://www.cloudflare.com/) - A global network designed to make everything you connect to the Internet secure, private, fast, and reliable. _Great to improve the performance and security of your website._
 - [Google Developers](https://developers.google.com/speed) - Tools and information to help you build high-performance websites.
 - [Prerender](https://prerender.io/) - Get higher rankings by serving crawlers a static HTML version of your JavaScript website, without compromising your customers' experience.
+- [Website Speed Comparator](https://landing-five-dusky-44.vercel.app/comparar-velocidad) - Free tool that compares your website's Google PageSpeed score side-by-side against any competitor's URL. Uses real PageSpeed Insights API data for both mobile and desktop. No signup required.
 
 
 
