@@ -488,6 +488,7 @@ __Programming languages__ that are commonly used in front-end web design and bac
 - [Cloudflare](https://www.cloudflare.com/) - A global network designed to make everything you connect to the Internet secure, private, fast, and reliable. _Great to improve the performance and security of your website._
 - [Google Developers](https://developers.google.com/speed) - Tools and information to help you build high-performance websites.
 - [Prerender](https://prerender.io/) - Get higher rankings by serving crawlers a static HTML version of your JavaScript website, without compromising your customers' experience.
+- [Comparar Velocidad Web](https://landing-five-dusky-44.vercel.app/comparar-velocidad) - Free tool to compare your website speed vs. a competitor using real Google PageSpeed data. Enter two URLs and get a side-by-side Core Web Vitals comparison instantly.
 
 
 
