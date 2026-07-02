@@ -119,6 +119,7 @@ __Artificial Intelligence__ enables digital marketers to work smarter, faster, a
 __Competitive Intelligence__ is all about learning about what your competitors are doing and using that information to help you make good decisions for your own business.
 ### Competitive Intelligence Tools
 - [Crunchbase](https://www.crunchbase.com/) - One of the more acurate prospecting services I've found. Great for intel and market research.
+- [GetAppNiche](https://getappniche.com/) - App Store intelligence for indie iOS founders to track revenue estimates, downloads, ASO keywords, ads, and reviews.
 - [Klue](https://klue.com/) - A platform that automates the collection of competitive and market intelligence, streamlines your analysis, and makes it easier to distribute insights and messaging to every team in your organization.
 - [Similarweb](https://www.similarweb.com/) - All in one Website analytics competitive traffic intelligence platform. Often used to compare website traffic and performance, analyze strategies & market share acquisition.
 
