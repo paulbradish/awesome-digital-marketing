@@ -305,6 +305,7 @@ A __Search Engine__ works by crawling and indexing a vast amount of content foun
    - [Ahrefs Academy](https://ahrefs.com/academy) - The best tools and data are worth nothing if you don't know how to use them.
    - [Ahrefs: The Definitive Guide](https://backlinko.com/ahrefs-guide) - Everything you need to know about Ahrefs link building and SEO software suite. This guide includes a ton of real examples of Ahrefs in action.
    - [Ahrefs Webmaster Tools](https://ahrefs.com/webmaster-tools) - Improve your website's SEO performance and get more traffic from search. Free for website owners.
+- [AnswerLens](https://app.sfdj.net/) - Public-evidence audit for B2B SaaS websites, checking pricing, proof, docs, trust pages, metadata, and llms.txt gaps before a source-backed fix plan.
 - [Moz](https://moz.com/) - Best-in-class SEO software for nearly every situation, from all-in-one SEO platform to tools for local SEO, enterprise SERP analytics, and a powerful API.
    - [Moz Academy](https://academy.moz.com/) - Grow your SEO skills with courses on keyword research, backlink analysis, local SEO and more!
    - [DA PA Checker](https://www.dapachecker.org/) - A bulk domain authority checker which allows you to check the Moz domain authority and page authority of up to 20 URLs at once.
