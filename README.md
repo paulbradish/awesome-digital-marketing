@@ -311,6 +311,7 @@ A __Search Engine__ works by crawling and indexing a vast amount of content foun
 - __[Semrush](https://semrush.sjv.io/github-adml) - Do SEO, content marketing, competitor research, PPC and social media marketing from just one platform.__
    - [Semrush Academy](https://www.semrush.com/academy/) - Comprised of more than 30 free courses and certification exams — in English, Spanish, and French — that help anyone master new digital marketing skills and enrich their CVs and LinkedIn profiles. 
    - [What is Semrush? A Complete Guide to Semrush Features, Metrics, and Reporting Dashboards](https://databox.com/what-is-semrush) - What's Semrush and which features work best for tracking and improving your search rankings? Here's everything you need to know.
+- [Screpy](https://screpy.com/) - AI SEO platform for technical audits, rank tracking, Core Web Vitals, uptime monitoring, and reports.
 - [SpyFu](https://www.spyfu.com/seo/overview) - Study competitors to help craft your plan by seeing what types of pages link to them. Also great for finding similar sites to keep on your radar and avoid any organic SERP flaws exposed by Google core updates to competition.
 - [Ubersuggest](https://neilpatel.com/ubersuggest/) - Allows you to get insight into the strategies that are working for others in your market so you can adopt them, improve them, and gain an edge.
 
