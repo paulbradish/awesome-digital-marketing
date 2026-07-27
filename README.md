@@ -133,6 +133,7 @@ __Competitive Intelligence__ is all about learning about what your competitors a
 - [People Also Ask](https://www.neuraltext.com/ai/people-also-ask) - Get dozens of popular questions your audience also asked and discover untapped content opportunities.
 
 ## Publishing Platforms
+- [SocialClaw](https://getsocialclaw.com/) - Schedule and publish posts across X, LinkedIn, Instagram, Facebook Pages, TikTok, YouTube, Reddit, Pinterest, Discord, Telegram, and WordPress from one dashboard, API, CLI, or MCP.
 - [Medium](https://medium.com/) - An open platform where readers find dynamic thinking, and where expert and undiscovered voices can share their writing on any topic.
 - [Substack](https://substack.com/) - Start a publication that combines a personal website, blog, and email newsletter or podcast. It's fairly minimal in nature, so you don't have to be tech savvy.
 - [Wordpress.com](https://wordpress.com) - Create a free website or build a blog with ease on WordPress.com. Dozens of free, customizable, mobile-ready designs and themes. Free hosting and support. <code>F</code> <code>S</code>
