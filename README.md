@@ -116,6 +116,7 @@ __Artificial Intelligence__ enables digital marketers to work smarter, faster, a
 - [Superhuman](https://www.joinsuperhuman.ai/) - Learn how to leverage AI to boost your productivity and accelerate your career.
 
 ## Competitive Intelligence
+- [Trends MCP](https://trendsmcp.ai) - Multi-platform trend data API (Google, TikTok, Amazon, YouTube, Reddit, news sentiment).
 __Competitive Intelligence__ is all about learning about what your competitors are doing and using that information to help you make good decisions for your own business.
 ### Competitive Intelligence Tools
 - [Crunchbase](https://www.crunchbase.com/) - One of the more acurate prospecting services I've found. Great for intel and market research.
