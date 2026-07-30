@@ -107,6 +107,7 @@ __Artificial Intelligence__ enables digital marketers to work smarter, faster, a
 - [Jasper](https://www.jasper.ai/) - AI Content Platform that helps you and your team break through creative blocks to create amazing, original content 10X faster.
 - [Jounce](https://www.jounce.ai/) - The self proclaimed answer to the overwhelming gap between marketers and copywriters, providing the most advanced AI writing technology to marketers around the globe.
 - [PromptPerfect](https://promptperfect.jina.ai/) - A cutting-edge tool designed to streamline prompt engineering by automatically optimizing your prompts for ChatGPT, GPT-3.5, DALL-E 2, StableDiffusion and MidJourney.
+- [Trends MCP](https://trendsmcp.ai) - Keyword and topic trend data across Google, YouTube, TikTok, Reddit, more. Free tier.
 
 ### AI Guides & Resources
 - [GPTE](https://gpte.ai/) - Discover the latest tools and trends in AI.
