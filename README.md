@@ -96,7 +96,8 @@ Desktop software or SaaS that render information in a visual format for data ana
 __Artificial Intelligence__ enables digital marketers to work smarter, faster, and more efficiently.
 
 ### AI Tools
-- __[ChatGPT](https://chat.openai.com/) - Where do I begin? Open AI's Chat GPT has soooo many uses in marketing, but the primary use case is for generating powerful call-to-actions, hooks, and content ideas.__
+
+- [LinkedIn Marketing Skills](https://github.com/sergebulaev/linkedin-skills) - Open-source Claude Code and Codex skill bundle for drafting, humanizing, and scheduling LinkedIn posts, comments, and replies with proven hook formulas; part of a seven-platform social-media marketing family.- __[ChatGPT](https://chat.openai.com/) - Where do I begin? Open AI's Chat GPT has soooo many uses in marketing, but the primary use case is for generating powerful call-to-actions, hooks, and content ideas.__
    - [15 Rules For Crafting Effective GPT Chat Prompts](https://expandi.io/blog/chat-gpt-rules/) - How effective your ChatGPT response is depends entirely on you and the prompts you use.
    - [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt) - A curated list of awesome ChatGPT tools, demos, and docs.
    - [ChartGPT](https://www.chartgpt.dev/) - Text to beautiful charts within seconds
