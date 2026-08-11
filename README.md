@@ -103,6 +103,7 @@ __Artificial Intelligence__ enables digital marketers to work smarter, faster, a
    - [How to Use Chat GPT for Marketing](https://medium.com/@luvuyo.mdebuka/how-to-use-chat-gpt-for-marketing-the-ultimate-guide-to-skyrocket-your-campaign-performance-6922b3b515f3) - The ultimate guide to skyrocketing your campaign performance.
 - [Claude](https://claude.ai/login) - A next-generation AI assistant for your tasks, no matter the scale.
 - [Copy.ai](https://www.copy.ai/) - AI-powered copywriter that generates high-quality copy for your business. This tool is great for generating ideas and/or breaking through inevitable writer blocks.
+- [CreatorSkills](https://creatorskills.co) - Marketplace of 30+ downloadable AI skills for content creators covering YouTube scripting, sponsorship analysis, and audience growth. Works with Claude and ChatGPT.
 - [Google Bard](https://bard.google.com/) - Your creative and helpful collaborator, here to supercharge your imagination, boost your productivity, and bring your ideas to life.
 - [Jasper](https://www.jasper.ai/) - AI Content Platform that helps you and your team break through creative blocks to create amazing, original content 10X faster.
 - [Jounce](https://www.jounce.ai/) - The self proclaimed answer to the overwhelming gap between marketers and copywriters, providing the most advanced AI writing technology to marketers around the globe.
