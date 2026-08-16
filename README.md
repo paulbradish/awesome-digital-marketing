@@ -335,6 +335,7 @@ The digital marketing landscape changes quickly which is why it's important to c
 ### Social Listening
 - [Google Alerts](https://www.google.com/alerts) - Monitor the web for interesting new content.
 - [SparkToro](https://sparktoro.com/) - Crawls public profiles on social media so you can quickly learn where your audience is and how to reach them.
+- [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - Independent X (Twitter) data API for search, follower export, monitors, and MCP.
 
 ### Social Management
 - [Buffer](https://buffer.com/) - An intuitive and affordable social media management tool for SMBs which offers scheduling, planning, publishing and more.
@@ -474,7 +475,7 @@ __Programming languages__ that are commonly used in front-end web design and bac
   - React
   - Vue
   - Other
-    - [Paper.js](http://paperjs.org/) - The swiss army knife of vector graphics scripting.
+    - [Paper.js](https://paperjs.org/) - The swiss army knife of vector graphics scripting.
     - [Three.js](https://threejs.org/) - A popular 3d JavaScript library.
     - [Vanta.js](https://www.vantajs.com/) - Animated website backgrounds in a few lines of code. _It's a little bit more complicated than that, but very neat!_
        - [Vanta.js + HTML5up Template](https://paulbradish.github.io/html5up-vantajs/) - Demo of a vanta.js + html5/css3 + three.js template I configured to help users get off the ground quickly.
