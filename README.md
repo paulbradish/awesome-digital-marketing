@@ -6,6 +6,8 @@ Created & maintained by <strong>Paul Bradish</strong>. Add me on <code><a href="
 
 
 ## Contents
+
+- [Social Roster](https://socialroster.dev) - Schedule TikTok, Instagram Reels, YouTube Shorts, and Facebook videos from one calendar — with bulk upload.
 - [Account Based Marketing (ABM)](#account-based-marketing-abm)
 - [Analytics](#analytics)
 - [Artificial Intelligence (AI)](#artificial-intelligence-ai)
