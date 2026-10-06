@@ -73,7 +73,7 @@ Analytics is the process of examining and interpreting large sets of data in ord
  
  - __Analytics Tools__
      - [Combinations & Permutations Generator](https://numbergenerator.org/permutations-and-combinations) - Great for when you need to come up with all possibilities within a defined alphanumeric sequence.
-     - [Koveto-Vasarlas Engagement Rate Calculator (Hungarian)](https://koveto-vasarlas.hu/tools/engagement-rate) - Free, no-login calculator for (likes + comments) divided by followers, reach, or views; explains why results with different denominators are not directly comparable.
+     - [Koveto-Vasarlas Engagement Rate Calculator (Hungarian)](https://koveto-vasarlas.hu/tools/engagement-rate) - Free, no-login calculator that expresses likes plus comments as a percentage of followers, reach, or views; explains why different denominators are not directly comparable.
      - [Percentage Change Calculator](https://www.calculatorsoup.com/calculators/algebra/percent-change-calculator.php) - This is a % change calculator. It will quantify the change from one number to another and express the change as an increase or decrease. Sounds simple but very easy to mess up when doing these quick calculations manually.
      
  - __Data Visualization__
