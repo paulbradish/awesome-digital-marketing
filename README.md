@@ -209,6 +209,8 @@ Increase the visibility of a website in search engine results pages (SERPs) by p
 
 ### Paid Search Platforms
 
+- [Display & Video 360](https://marketingplatform.google.com/about/display-video-360/) - Google's platform for programmatic buying of display, video, audio and YouTube ads.
+   - [The Complete Guide to DV360 (in Russian)](https://aksanov.digital/books/dv360) - Free 175-page PDF: auction mechanics, bidding, targeting, deals, brand safety and reporting.
 - [Google Ads](https://ads.google.com/home/) - For whatever matters most, make it easier for potential customers to find your business with Google Ads.
    - [List of Countries and States to Exclude from Google Ads](https://www.kesarlong.com/ppc/list-of-countries-and-states-to-exclude-from-google-ads/) - Exclude countries you don't want to target in your campaigns.
 - [Microsoft Ads](https://ads.microsoft.com/) - An often underrated pay-per-click (PPC) advertising system, especially useful in the b2b space or when demographics skew older.
