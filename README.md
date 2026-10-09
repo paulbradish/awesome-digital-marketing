@@ -131,6 +131,7 @@ __Competitive Intelligence__ is all about learning about what your competitors a
 - [Explain Paper](https://www.explainpaper.com/) - Use AI to paraphrase and summarize technical documents. This is really helpful during the research phase if you're not quite grasping a topic.
 - [Google Trends](https://trends.google.com/trends/) - Explore what the world is searching (on Google).
 - [People Also Ask](https://www.neuraltext.com/ai/people-also-ask) - Get dozens of popular questions your audience also asked and discover untapped content opportunities.
+- [WeWorkBuddy](https://weworkbuddy.com/) - Topic research for AI creators using traceable Hacker News, GitHub, and publisher sources.
 
 ## Publishing Platforms
 - [Medium](https://medium.com/) - An open platform where readers find dynamic thinking, and where expert and undiscovered voices can share their writing on any topic.
@@ -147,6 +148,7 @@ __Competitive Intelligence__ is all about learning about what your competitors a
 - [Hemmingway Editor](https://hemingwayapp.com/) - Makes your writing bold and clear. It's like a spellchecker, but for style. It makes sure that your reader will focus on your message, not your prose.
 - [Lorem Ipsum](https://loremipsum.io/) - A lorem ipsum generator. Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
 - [Make My Persona](https://www.hubspot.com/make-my-persona) - Create professional, customizable buyer personas in minutes with the help of our intuitive free generator and share the templates with your team.
+- [WarmQuant](https://warmquant.com/) - AI-assisted English drafting with configurable author voice, target readers, and editable saved drafts.
 
 ## Digital Experience Platforms (DXP)
 
