@@ -154,6 +154,7 @@ __Competitive Intelligence__ is all about learning about what your competitors a
 - [Optimizely](https://www.optimizely.com/) - Provides A/B testing and multivariate testing tools, website personalization, and feature toggle capabilities, as well as web content management and digital commerce.
 ### Testing Tools
 - [AB testing calculator](https://www.surveymonkey.com/mp/ab-testing-significance-calculator/) - Calculate statistical significance. In the context of AB testing experiments, statistical significance is how likely it is that the difference between your experiment's control version and test version isn't due to error or random chance. This is important to keep in mind any time you are measuring or testing.
+- [A/B test duration estimate](https://twinpage.app/guides/how-long-to-run-an-ab-test) - Estimates how long a test needs before it can call a winner, from traffic and conversion rate. <code>F</code>
 
 ## Documentation
 
