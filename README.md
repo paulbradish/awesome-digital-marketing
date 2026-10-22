@@ -340,6 +340,7 @@ The digital marketing landscape changes quickly which is why it's important to c
 - [Buffer](https://buffer.com/) - An intuitive and affordable social media management tool for SMBs which offers scheduling, planning, publishing and more.
 - [Hootsuite](https://www.hootsuite.com/) - Save time and grow on social with Hootsuite, your all-in-one social media scheduler, manager, and analytics secret weapon.
 - __[Oktopost](https://www.oktopost.com/) - Oktopost empowers social media professionals to work at scale and demonstrate business impact.__
+- [OpenSparta](https://opensparta.com/en) - Telegram operations SaaS workspace for conversation discovery, connected-account management, and proxy operations.
 
 ### Social Networks
 __Social Networks__ geared towards the digital marketer. I'm leaving a number of them off as there are communities everywhere (even on Facebook), in favor of those that are more consistent.
