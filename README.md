@@ -91,6 +91,7 @@ Desktop software or SaaS that render information in a visual format for data ana
      - [Tableau](https://www.tableau.com/) - Helps users visualize and understand their data, transforming the way they use data to solve problems.
         - [Web Data Connectors](https://www.tableau.com/developer/tools/web-data-connector) - Create custom connections to data on the web and make that data available in Tableau.
      - [WordCloud Generator](https://monkeylearn.com/word-cloud) - Display words and phrases based on frequency and relevance. Word clouds provide you with quick and simple visual insights that can lead to more in-depth analyses.
+     - [Mode VC WebMCP & Backlink Lens](https://modevc.com/tools/webmcp-backlink-lens) - Open-source Manifest V3 Chrome Extension and W3C WebMCP inspector for auditing dofollow/nofollow links and `.well-known/mcp.json` manifests.
 
 ## Artificial Intelligence (AI)
 __Artificial Intelligence__ enables digital marketers to work smarter, faster, and more efficiently.
