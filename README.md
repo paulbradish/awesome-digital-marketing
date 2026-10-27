@@ -301,6 +301,7 @@ A __Search Engine__ works by crawling and indexing a vast amount of content foun
 - [Xenu Link Sleuth](https://home.snafu.de/tilman/xenulink.html) - Old but good. Checks web sites for all types of broken links. It displays a continously updated list of URLs which you can sort by different criteria. A report can be produced at any time.
  
 ### SEO Software (SaaS)
+- [CrakSEO Search Console MCP](https://docs.crakseo.com/mcp-servers/search-console) - Free remote MCP access to owned-site Google Search Console and Bing Webmaster data; OAuth or an API key required.
 - [Ahrefs](https://ahrefs.com/) - Everything you need to rank higher & get more traffic.
    - [Ahrefs Academy](https://ahrefs.com/academy) - The best tools and data are worth nothing if you don't know how to use them.
    - [Ahrefs: The Definitive Guide](https://backlinko.com/ahrefs-guide) - Everything you need to know about Ahrefs link building and SEO software suite. This guide includes a ton of real examples of Ahrefs in action.
