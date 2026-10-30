@@ -359,7 +359,7 @@ __Social Networks__ geared towards the digital marketer. I'm leaving a number of
    - [Google Sheets cheat sheet](https://support.google.com/a/users/answer/9300022?hl=en) - Common tips and syntax definition. On the right navigation you'll find a number of links to additional beginner to advanced tips.
 - [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/excel) - Enables users to format, organize and calculate data in a spreadsheet.
    - [Analyze Data in Excel](https://support.microsoft.com/en-us/office/analyze-data-in-excel-3223aab8-f543-4fda-85ed-76bb0295ffc4?ui=en-us&rs=en-us&ad=us) - Analyze Data in Excel empowers you to understand your data through natural language queries that allow you to ask questions about your data without having to write complicated formulas. In addition, Analyze Data provides high-level visual summaries, trends, and patterns.
-   
+
    - [Extract Invoice Line Items to Excel](https://fovata.com/blog/extract-invoice-line-items-to-excel) - A step-by-step guide to extracting PDF invoice rows into Excel, with field selection and checks against the source document.
 ## Stock Media
 - [Creative Market](https://creativemarket.com/) - Accelerate your projects with millions of ready-to-use products.
