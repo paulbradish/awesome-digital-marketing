@@ -6,6 +6,7 @@ Created & maintained by <strong>Paul Bradish</strong>. Add me on <code><a href="
 
 
 ## Contents
+
 - [Account Based Marketing (ABM)](#account-based-marketing-abm)
 - [Analytics](#analytics)
 - [Artificial Intelligence (AI)](#artificial-intelligence-ai)
