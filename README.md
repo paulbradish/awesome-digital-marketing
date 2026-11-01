@@ -178,6 +178,7 @@ __Competitive Intelligence__ is all about learning about what your competitors a
 - [Convertio Image Converter](https://convertio.co/image-converter/) - Convert to and from a number of image formats, including those annoying .JFIF and .WEBP formats that certain social networks love to use.  <code>F</code>
 - [GIMP](https://www.gimp.org/) - Whether you are a graphic designer, photographer, illustrator, or scientist, GIMP provides you with sophisticated tools to get your job done. You can further enhance your productivity with GIMP thanks to many customization options and 3rd party plugins. <code>F</code>
 - [Real Favicon Generator](https://realfavicongenerator.net/) - The ultimate favicon generator. Design your icons platform per platform and make them look great everywhere. Including in Google results pages.
+- [AdVariq](https://advariq.com/) - AI ad creative and visual design platform to clone winning ad styles, enhance visuals, and generate marketing assets.
 
 ## Industry Newsletters
 - [Digital Marketing Must-Knows Newsletter](https://tripledouble.beehiiv.com/) - Sends every Monday. 5 biggest stories. In 60 seconds.
