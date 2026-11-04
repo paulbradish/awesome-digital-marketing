@@ -335,6 +335,7 @@ The digital marketing landscape changes quickly which is why it's important to c
 ### Social Listening
 - [Google Alerts](https://www.google.com/alerts) - Monitor the web for interesting new content.
 - [SparkToro](https://sparktoro.com/) - Crawls public profiles on social media so you can quickly learn where your audience is and how to reach them.
+- [twtData Trends](https://twtdata.com/twitter-trends/) - Hourly record of what trends on X (Twitter) by country, with a free public page for each past day.
 
 ### Social Management
 - [Buffer](https://buffer.com/) - An intuitive and affordable social media management tool for SMBs which offers scheduling, planning, publishing and more.
