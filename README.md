@@ -74,6 +74,7 @@ Analytics is the process of examining and interpreting large sets of data in ord
  - __Analytics Tools__
      - [Combinations & Permutations Generator](https://numbergenerator.org/permutations-and-combinations) - Great for when you need to come up with all possibilities within a defined alphanumeric sequence.
      - [Percentage Change Calculator](https://www.calculatorsoup.com/calculators/algebra/percent-change-calculator.php) - This is a % change calculator. It will quantify the change from one number to another and express the change as an increase or decrease. Sounds simple but very easy to mess up when doing these quick calculations manually.
+     - [Telegram Sponsorship Quote Comparator](https://thinkpad2050.github.io/telegram-sponsorship-cpm-calculator/) - Free browser-based calculator for comparing Telegram channel sponsorship quotes by price per 1,000 median recent post views.
      
  - __Data Visualization__
      - [Choosing the Right Tools for Data Visualization](https://medium.com/nightingale/choosing-the-right-tools-for-data-visualization-4bab40f53cdc)
