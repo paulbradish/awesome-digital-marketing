@@ -191,6 +191,8 @@ __Competitive Intelligence__ is all about learning about what your competitors a
     - [Google Ads Keyword Planner](https://ads.google.com/home/tools/keyword-planner/) - You can use this free tool to discover new keywords related to your business and see estimates of the searches they receive and the cost to target them.  
     - [SearchVolume.io](https://searchvolume.io/) - Get monthly search volume data free. See search volumes for up to 800 keywords at a time.
 
+    - [GoAnyAPI](https://goanyapi.com/) - SEO data API and MCP server for AI agents: keyword difficulty, keyword ideas and suggestions, search volume, backlinks, domain rating and website traffic.
+
 ## Lead Generation (Inbound Marketing)
 - [Eloqua Marketing Automation](https://www.oracle.com/cx/marketing/automation/) - Create more closed-loop marketing and sales activities and manage cross-channel B2B marketing campaigns that nurture leads across each stage of the buying process. A best-in-class B2B marketing automation solution, Oracle Eloqua Marketing Automation offers campaign design, advanced lead scoring, real-time firmographic data, and integrated sales tools.
 - __[HubSpot](https://www.hubspot.com/) - A leading CRM platform with a number of inbound marketing tools.__
