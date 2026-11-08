@@ -121,6 +121,7 @@ __Competitive Intelligence__ is all about learning about what your competitors a
 - [Crunchbase](https://www.crunchbase.com/) - One of the more acurate prospecting services I've found. Great for intel and market research.
 - [Klue](https://klue.com/) - A platform that automates the collection of competitive and market intelligence, streamlines your analysis, and makes it easier to distribute insights and messaging to every team in your organization.
 - [Similarweb](https://www.similarweb.com/) - All in one Website analytics competitive traffic intelligence platform. Often used to compare website traffic and performance, analyze strategies & market share acquisition.
+- [Vaneform](https://vaneform.com/) - Free website traffic checker: look up monthly visitors, traffic trends and visitor sources for any domain.
 
 ### Competitive Intelligence Resources
 - [10 Essential Examples of Competitive Intelligence](https://www.crayon.co/blog/top-10-types-competitive-intelligence)
