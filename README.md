@@ -333,7 +333,7 @@ The digital marketing landscape changes quickly which is why it's important to c
 - [How to Use Hashtags in 2023: A Guide for Every Network](https://blog.hootsuite.com/how-to-use-hashtags/) - Do you know how to use hashtags? How about how not to use hashtags? Read on for all the DOs and DON'Ts before you get started.
 
 ### Social Listening
-- [Arcmira: YouTube Transcript Search](https://arcmira.com) - Find timestamped mentions, sponsors and recommendations in indexed YouTube and podcast transcripts. [API docs](https://arcmira.com/docs).
+- [Arcmira: YouTube Transcript Search](https://arcmira.com) - YouTube transcript search and monitoring for your AI: exact quotes, full transcripts and speakers. [API docs](https://arcmira.com/docs).
 - [Google Alerts](https://www.google.com/alerts) - Monitor the web for interesting new content.
 - [SparkToro](https://sparktoro.com/) - Crawls public profiles on social media so you can quickly learn where your audience is and how to reach them.
 
