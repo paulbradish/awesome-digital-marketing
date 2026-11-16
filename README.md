@@ -164,6 +164,7 @@ __Competitive Intelligence__ is all about learning about what your competitors a
 ## Email Marketing
 
 ### Email Marketing Services
+- [FairValid](https://fairvalid.com/) - Verify email addresses or CSV lists and find verified work emails with FairMatch. Original list rows and columns remain attached to verification exports.
 - [Constant Contact](https://www.constantcontact.com/) - Deliver stunning emails and a whole lot more. Attract new customers and boost sales with their complete, easy-to-use digital marketing suite.
 - [Mailchimp](https://mailchimp.com/) - Grow your business on your terms with Mailchimp's All-In-One marketing, automation & email marketing platform.
 
