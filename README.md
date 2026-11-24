@@ -119,6 +119,7 @@ __Artificial Intelligence__ enables digital marketers to work smarter, faster, a
 __Competitive Intelligence__ is all about learning about what your competitors are doing and using that information to help you make good decisions for your own business.
 ### Competitive Intelligence Tools
 - [Crunchbase](https://www.crunchbase.com/) - One of the more acurate prospecting services I've found. Great for intel and market research.
+- [Google Ads Transparency (Public Records)](https://apify.com/publicrecords/google-ads-transparency-scraper) - Competitor Google ads from the Ads Transparency Center, with first and last shown dates.
 - [Klue](https://klue.com/) - A platform that automates the collection of competitive and market intelligence, streamlines your analysis, and makes it easier to distribute insights and messaging to every team in your organization.
 - [Similarweb](https://www.similarweb.com/) - All in one Website analytics competitive traffic intelligence platform. Often used to compare website traffic and performance, analyze strategies & market share acquisition.
 
@@ -333,6 +334,7 @@ The digital marketing landscape changes quickly which is why it's important to c
 - [How to Use Hashtags in 2023: A Guide for Every Network](https://blog.hootsuite.com/how-to-use-hashtags/) - Do you know how to use hashtags? How about how not to use hashtags? Read on for all the DOs and DON'Ts before you get started.
 
 ### Social Listening
+- [Company Social Links (Public Records)](https://apify.com/publicrecords/company-social-profile-finder) - Company domain or name to LinkedIn, X, YouTube, Instagram and Facebook links with evidence.
 - [Google Alerts](https://www.google.com/alerts) - Monitor the web for interesting new content.
 - [SparkToro](https://sparktoro.com/) - Crawls public profiles on social media so you can quickly learn where your audience is and how to reach them.
 
